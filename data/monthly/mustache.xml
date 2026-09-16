@@ -3,40 +3,7 @@
     <title>GitHub Mustache Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Mustache Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
-    <item>
-      <title>argoproj/argo-helm</title>
-      <link>https://github.com/argoproj/argo-helm</link>
-      <description>ArgoProj Helm Charts</description>
-      <guid>https://github.com/argoproj/argo-helm</guid>
-      <language>Mustache</language>
-      <languageColor>#724b3b</languageColor>
-      <stars>2,357</stars>
-      <forks>2,106</forks>
-      <addStars>25</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7290987?s=40&amp;v=4</avatar>
-          <name>mkilchhofer</name>
-          <url>https://github.com/mkilchhofer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30188755?s=40&amp;v=4</avatar>
-          <name>yu-croco</name>
-          <url>https://github.com/yu-croco</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21042968?s=40&amp;v=4</avatar>
-          <name>mbevc1</name>
-          <url>https://github.com/mbevc1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19188617?s=40&amp;v=4</avatar>
-          <name>pdrastil</name>
-          <url>https://github.com/pdrastil</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>prometheus-community/helm-charts</title>
       <link>https://github.com/prometheus-community/helm-charts</link>
@@ -44,9 +11,9 @@
       <guid>https://github.com/prometheus-community/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>6,179</stars>
-      <forks>5,384</forks>
-      <addStars>23</addStars>
+      <stars>6,187</stars>
+      <forks>5,385</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1069919?s=40&amp;v=4</avatar>
@@ -66,14 +33,113 @@
       </contributors>
     </item>
     <item>
+      <title>argoproj/argo-helm</title>
+      <link>https://github.com/argoproj/argo-helm</link>
+      <description>ArgoProj Helm Charts</description>
+      <guid>https://github.com/argoproj/argo-helm</guid>
+      <language>Mustache</language>
+      <languageColor>#724b3b</languageColor>
+      <stars>2,366</stars>
+      <forks>2,114</forks>
+      <addStars>21</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7290987?s=40&amp;v=4</avatar>
+          <name>mkilchhofer</name>
+          <url>https://github.com/mkilchhofer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30188755?s=40&amp;v=4</avatar>
+          <name>yu-croco</name>
+          <url>https://github.com/yu-croco</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21042968?s=40&amp;v=4</avatar>
+          <name>mbevc1</name>
+          <url>https://github.com/mbevc1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35014?s=40&amp;v=4</avatar>
+          <name>jmeridth</name>
+          <url>https://github.com/jmeridth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>netbox-community/netbox-chart</title>
+      <link>https://github.com/netbox-community/netbox-chart</link>
+      <description>A Helm chart for NetBox</description>
+      <guid>https://github.com/netbox-community/netbox-chart</guid>
+      <language>Mustache</language>
+      <languageColor>#724b3b</languageColor>
+      <stars>357</stars>
+      <forks>186</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/846943?s=40&amp;v=4</avatar>
+          <name>LeoColomb</name>
+          <url>https://github.com/LeoColomb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89252?s=40&amp;v=4</avatar>
+          <name>RangerRick</name>
+          <url>https://github.com/RangerRick</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/796037?s=40&amp;v=4</avatar>
+          <name>bootc</name>
+          <url>https://github.com/bootc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>amzn/selling-partner-api-models</title>
+      <link>https://github.com/amzn/selling-partner-api-models</link>
+      <description>This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</description>
+      <guid>https://github.com/amzn/selling-partner-api-models</guid>
+      <language>Mustache</language>
+      <languageColor>#724b3b</languageColor>
+      <stars>909</stars>
+      <forks>794</forks>
+      <addStars>20</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91628200?s=40&amp;v=4</avatar>
+          <name>jevoniuk</name>
+          <url>https://github.com/jevoniuk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105888268?s=40&amp;v=4</avatar>
+          <name>waldrogi</name>
+          <url>https://github.com/waldrogi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54422434?s=40&amp;v=4</avatar>
+          <name>salric</name>
+          <url>https://github.com/salric</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/183431740?s=40&amp;v=4</avatar>
+          <name>sriishtyb</name>
+          <url>https://github.com/sriishtyb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89214940?s=40&amp;v=4</avatar>
+          <name>mentiaa</name>
+          <url>https://github.com/mentiaa</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>swagger-api/swagger-codegen</title>
       <link>https://github.com/swagger-api/swagger-codegen</link>
       <description>swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.</description>
       <guid>https://github.com/swagger-api/swagger-codegen</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>17,780</stars>
-      <forks>5,966</forks>
+      <stars>17,787</stars>
+      <forks>5,959</forks>
       <addStars>17</addStars>
       <contributors>
         <contributor>
@@ -104,106 +170,30 @@
       </contributors>
     </item>
     <item>
-      <title>amzn/selling-partner-api-models</title>
-      <link>https://github.com/amzn/selling-partner-api-models</link>
-      <description>This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.</description>
-      <guid>https://github.com/amzn/selling-partner-api-models</guid>
+      <title>renovatebot/helm-charts</title>
+      <link>https://github.com/renovatebot/helm-charts</link>
+      <description/>
+      <guid>https://github.com/renovatebot/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>900</stars>
-      <forks>792</forks>
-      <addStars>25</addStars>
+      <stars>139</stars>
+      <forks>82</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91628200?s=40&amp;v=4</avatar>
-          <name>jevoniuk</name>
-          <url>https://github.com/jevoniuk</url>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/105888268?s=40&amp;v=4</avatar>
-          <name>waldrogi</name>
-          <url>https://github.com/waldrogi</url>
+          <avatar>https://avatars.githubusercontent.com/u/1798109?s=40&amp;v=4</avatar>
+          <name>viceice</name>
+          <url>https://github.com/viceice</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54422434?s=40&amp;v=4</avatar>
-          <name>salric</name>
-          <url>https://github.com/salric</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/183431740?s=40&amp;v=4</avatar>
-          <name>sriishtyb</name>
-          <url>https://github.com/sriishtyb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89214940?s=40&amp;v=4</avatar>
-          <name>mentiaa</name>
-          <url>https://github.com/mentiaa</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>netbox-community/netbox-chart</title>
-      <link>https://github.com/netbox-community/netbox-chart</link>
-      <description>A Helm chart for NetBox</description>
-      <guid>https://github.com/netbox-community/netbox-chart</guid>
-      <language>Mustache</language>
-      <languageColor>#724b3b</languageColor>
-      <stars>354</stars>
-      <forks>185</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/846943?s=40&amp;v=4</avatar>
-          <name>LeoColomb</name>
-          <url>https://github.com/LeoColomb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89252?s=40&amp;v=4</avatar>
-          <name>RangerRick</name>
-          <url>https://github.com/RangerRick</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/796037?s=40&amp;v=4</avatar>
-          <name>bootc</name>
-          <url>https://github.com/bootc</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>aws/eks-charts</title>
-      <link>https://github.com/aws/eks-charts</link>
-      <description>Amazon EKS Helm chart repository</description>
-      <guid>https://github.com/aws/eks-charts</guid>
-      <language>Mustache</language>
-      <languageColor>#724b3b</languageColor>
-      <stars>1,302</stars>
-      <forks>1,084</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56046769?s=40&amp;v=4</avatar>
-          <name>eks-bot</name>
-          <url>https://github.com/eks-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3797675?s=40&amp;v=4</avatar>
-          <name>stefanprodan</name>
-          <url>https://github.com/stefanprodan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/265023?s=40&amp;v=4</avatar>
-          <name>jaypipes</name>
-          <url>https://github.com/jaypipes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13045017?s=40&amp;v=4</avatar>
-          <name>kishorj</name>
-          <url>https://github.com/kishorj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3503707?s=40&amp;v=4</avatar>
-          <name>bwagner5</name>
-          <url>https://github.com/bwagner5</url>
+          <avatar>https://avatars.githubusercontent.com/u/1358764?s=40&amp;v=4</avatar>
+          <name>JamieMagee</name>
+          <url>https://github.com/JamieMagee</url>
         </contributor>
       </contributors>
     </item>
@@ -214,9 +204,9 @@
       <guid>https://github.com/goharbor/harbor-helm</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>1,512</stars>
-      <forks>862</forks>
-      <addStars>6</addStars>
+      <stars>1,519</stars>
+      <forks>863</forks>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5835782?s=40&amp;v=4</avatar>
@@ -252,9 +242,9 @@
       <guid>https://github.com/temporalio/helm-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>555</stars>
-      <forks>448</forks>
-      <addStars>1</addStars>
+      <stars>560</stars>
+      <forks>449</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71099796?s=40&amp;v=4</avatar>
@@ -284,63 +274,40 @@
       </contributors>
     </item>
     <item>
-      <title>thmsgbrt/thmsgbrt</title>
-      <link>https://github.com/thmsgbrt/thmsgbrt</link>
-      <description>My awesome README.md</description>
-      <guid>https://github.com/thmsgbrt/thmsgbrt</guid>
+      <title>aws/eks-charts</title>
+      <link>https://github.com/aws/eks-charts</link>
+      <description>Amazon EKS Helm chart repository</description>
+      <guid>https://github.com/aws/eks-charts</guid>
       <language>Mustache</language>
       <languageColor>#724b3b</languageColor>
-      <stars>538</stars>
-      <forks>1,384</forks>
-      <addStars>6</addStars>
+      <stars>1,307</stars>
+      <forks>1,082</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16786906?s=40&amp;v=4</avatar>
-          <name>thmsgbrt</name>
-          <url>https://github.com/thmsgbrt</url>
+          <avatar>https://avatars.githubusercontent.com/u/56046769?s=40&amp;v=4</avatar>
+          <name>eks-bot</name>
+          <url>https://github.com/eks-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60965358?s=40&amp;v=4</avatar>
-          <name>Devesh225</name>
-          <url>https://github.com/Devesh225</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>codefresh-contrib/gitops-certification-examples</title>
-      <link>https://github.com/codefresh-contrib/gitops-certification-examples</link>
-      <description>GitOps Certification Level 1 examples</description>
-      <guid>https://github.com/codefresh-contrib/gitops-certification-examples</guid>
-      <language>Mustache</language>
-      <languageColor>#724b3b</languageColor>
-      <stars>301</stars>
-      <forks>5,951</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39800303?s=40&amp;v=4</avatar>
-          <name>kostis-codefresh</name>
-          <url>https://github.com/kostis-codefresh</url>
+          <avatar>https://avatars.githubusercontent.com/u/3797675?s=40&amp;v=4</avatar>
+          <name>stefanprodan</name>
+          <url>https://github.com/stefanprodan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84354430?s=40&amp;v=4</avatar>
-          <name>hseligson1</name>
-          <url>https://github.com/hseligson1</url>
+          <avatar>https://avatars.githubusercontent.com/u/265023?s=40&amp;v=4</avatar>
+          <name>jaypipes</name>
+          <url>https://github.com/jaypipes</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7886068?s=40&amp;v=4</avatar>
-          <name>amazingandyyy</name>
-          <url>https://github.com/amazingandyyy</url>
+          <avatar>https://avatars.githubusercontent.com/u/13045017?s=40&amp;v=4</avatar>
+          <name>kishorj</name>
+          <url>https://github.com/kishorj</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16040521?s=40&amp;v=4</avatar>
-          <name>aspanner</name>
-          <url>https://github.com/aspanner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27641366?s=40&amp;v=4</avatar>
-          <name>kamuridesu</name>
-          <url>https://github.com/kamuridesu</url>
+          <avatar>https://avatars.githubusercontent.com/u/3503707?s=40&amp;v=4</avatar>
+          <name>bwagner5</name>
+          <url>https://github.com/bwagner5</url>
         </contributor>
       </contributors>
     </item>

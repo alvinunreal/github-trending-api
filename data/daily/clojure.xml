@@ -3,80 +3,37 @@
     <title>GitHub Clojure Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Clojure Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
-      <title>metabase/metabase</title>
-      <link>https://github.com/metabase/metabase</link>
-      <description>The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊</description>
-      <guid>https://github.com/metabase/metabase</guid>
+      <title>unclebob/swarm-forge</title>
+      <link>https://github.com/unclebob/swarm-forge</link>
+      <description>A simple tool for coordinating several AI agents.</description>
+      <guid>https://github.com/unclebob/swarm-forge</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>48,944</stars>
-      <forks>6,774</forks>
-      <addStars>23</addStars>
+      <stars>3,894</stars>
+      <forks>384</forks>
+      <addStars>46</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1455846?s=40&amp;v=4</avatar>
-          <name>camsaul</name>
-          <url>https://github.com/camsaul</url>
+          <avatar>https://avatars.githubusercontent.com/u/36901?s=40&amp;v=4</avatar>
+          <name>unclebob</name>
+          <url>https://github.com/unclebob</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18193?s=40&amp;v=4</avatar>
-          <name>tlrobinson</name>
-          <url>https://github.com/tlrobinson</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1987787?s=40&amp;v=4</avatar>
-          <name>agilliland</name>
-          <url>https://github.com/agilliland</url>
+          <avatar>https://avatars.githubusercontent.com/u/36439?s=40&amp;v=4</avatar>
+          <name>LupusDei</name>
+          <url>https://github.com/LupusDei</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31325167?s=40&amp;v=4</avatar>
-          <name>nemanjaglumac</name>
-          <url>https://github.com/nemanjaglumac</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5248953?s=40&amp;v=4</avatar>
-          <name>kdoh</name>
-          <url>https://github.com/kdoh</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>penpot/penpot</title>
-      <link>https://github.com/penpot/penpot</link>
-      <description>Penpot: The open-source design platform for Product teams that need scalable collaboration.</description>
-      <guid>https://github.com/penpot/penpot</guid>
-      <language>Clojure</language>
-      <languageColor>#db5855</languageColor>
-      <stars>59,201</stars>
-      <forks>4,000</forks>
-      <addStars>57</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4</avatar>
-          <name>niwinz</name>
-          <url>https://github.com/niwinz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4</avatar>
-          <name>Alotor</name>
-          <url>https://github.com/Alotor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4</avatar>
-          <name>superalex</name>
-          <url>https://github.com/superalex</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4</avatar>
-          <name>hirunatan</name>
-          <url>https://github.com/hirunatan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4</avatar>
-          <name>EvaMarco</name>
-          <url>https://github.com/EvaMarco</url>
+          <avatar>https://avatars.githubusercontent.com/u/26876570?s=40&amp;v=4</avatar>
+          <name>janschill</name>
+          <url>https://github.com/janschill</url>
         </contributor>
       </contributors>
     </item>
@@ -87,9 +44,9 @@
       <guid>https://github.com/logseq/logseq</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>44,642</stars>
-      <forks>2,790</forks>
-      <addStars>26</addStars>
+      <stars>44,934</stars>
+      <forks>2,812</forks>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/479169?s=40&amp;v=4</avatar>
@@ -119,35 +76,78 @@
       </contributors>
     </item>
     <item>
-      <title>unclebob/swarm-forge</title>
-      <link>https://github.com/unclebob/swarm-forge</link>
-      <description>A simple tool for coordinating several AI agents.</description>
-      <guid>https://github.com/unclebob/swarm-forge</guid>
+      <title>status-im/status-legacy</title>
+      <link>https://github.com/status-im/status-legacy</link>
+      <description>a free (libre) open source, mobile OS for Ethereum</description>
+      <guid>https://github.com/status-im/status-legacy</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>2,871</stars>
-      <forks>294</forks>
-      <addStars>55</addStars>
+      <stars>4,021</stars>
+      <forks>988</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36901?s=40&amp;v=4</avatar>
-          <name>unclebob</name>
-          <url>https://github.com/unclebob</url>
+          <avatar>https://avatars.githubusercontent.com/u/2364994?s=40&amp;v=4</avatar>
+          <name>rasom</name>
+          <url>https://github.com/rasom</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/11790366?s=40&amp;v=4</avatar>
+          <name>flexsurfer</name>
+          <url>https://github.com/flexsurfer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36439?s=40&amp;v=4</avatar>
-          <name>LupusDei</name>
-          <url>https://github.com/LupusDei</url>
+          <avatar>https://avatars.githubusercontent.com/u/2212681?s=40&amp;v=4</avatar>
+          <name>jakubgs</name>
+          <url>https://github.com/jakubgs</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26876570?s=40&amp;v=4</avatar>
-          <name>janschill</name>
-          <url>https://github.com/janschill</url>
+          <avatar>https://avatars.githubusercontent.com/u/1017008?s=40&amp;v=4</avatar>
+          <name>cammellos</name>
+          <url>https://github.com/cammellos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4557972?s=40&amp;v=4</avatar>
+          <name>churik</name>
+          <url>https://github.com/churik</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>metabase/metabase</title>
+      <link>https://github.com/metabase/metabase</link>
+      <description>The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊</description>
+      <guid>https://github.com/metabase/metabase</guid>
+      <language>Clojure</language>
+      <languageColor>#db5855</languageColor>
+      <stars>49,285</stars>
+      <forks>6,822</forks>
+      <addStars>29</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1455846?s=40&amp;v=4</avatar>
+          <name>camsaul</name>
+          <url>https://github.com/camsaul</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18193?s=40&amp;v=4</avatar>
+          <name>tlrobinson</name>
+          <url>https://github.com/tlrobinson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1987787?s=40&amp;v=4</avatar>
+          <name>agilliland</name>
+          <url>https://github.com/agilliland</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31325167?s=40&amp;v=4</avatar>
+          <name>nemanjaglumac</name>
+          <url>https://github.com/nemanjaglumac</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8542534?s=40&amp;v=4</avatar>
+          <name>ranquild</name>
+          <url>https://github.com/ranquild</url>
         </contributor>
       </contributors>
     </item>
@@ -158,9 +158,9 @@
       <guid>https://github.com/logseq/og</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>262</stars>
-      <forks>40</forks>
-      <addStars>4</addStars>
+      <stars>291</stars>
+      <forks>51</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/479169?s=40&amp;v=4</avatar>
@@ -190,40 +190,78 @@
       </contributors>
     </item>
     <item>
-      <title>tonsky/FiraCode</title>
-      <link>https://github.com/tonsky/FiraCode</link>
-      <description>Free monospaced font with programming ligatures</description>
-      <guid>https://github.com/tonsky/FiraCode</guid>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>Penpot: The open-source design platform for Product teams that need scalable collaboration.</description>
+      <guid>https://github.com/penpot/penpot</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>81,950</stars>
-      <forks>3,189</forks>
-      <addStars>3</addStars>
+      <stars>60,044</stars>
+      <forks>4,102</forks>
+      <addStars>36</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/285292?s=40&amp;v=4</avatar>
-          <name>tonsky</name>
-          <url>https://github.com/tonsky</url>
+          <avatar>https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4</avatar>
+          <name>niwinz</name>
+          <url>https://github.com/niwinz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7355414?s=40&amp;v=4</avatar>
-          <name>thundernixon</name>
-          <url>https://github.com/thundernixon</url>
+          <avatar>https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4</avatar>
+          <name>Alotor</name>
+          <url>https://github.com/Alotor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2119212?s=40&amp;v=4</avatar>
-          <name>jsoref</name>
-          <url>https://github.com/jsoref</url>
+          <avatar>https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4</avatar>
+          <name>superalex</name>
+          <url>https://github.com/superalex</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/381361?s=40&amp;v=4</avatar>
-          <name>joshka</name>
-          <url>https://github.com/joshka</url>
+          <avatar>https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4</avatar>
+          <name>hirunatan</name>
+          <url>https://github.com/hirunatan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/261579?s=40&amp;v=4</avatar>
-          <name>davelab6</name>
-          <url>https://github.com/davelab6</url>
+          <avatar>https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4</avatar>
+          <name>EvaMarco</name>
+          <url>https://github.com/EvaMarco</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>functional-koans/clojure-koans</title>
+      <link>https://github.com/functional-koans/clojure-koans</link>
+      <description>A set of exercises for learning Clojure</description>
+      <guid>https://github.com/functional-koans/clojure-koans</guid>
+      <language>Clojure</language>
+      <languageColor>#db5855</languageColor>
+      <stars>3,803</stars>
+      <forks>2,131</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15069?s=40&amp;v=4</avatar>
+          <name>trptcolin</name>
+          <url>https://github.com/trptcolin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2090?s=40&amp;v=4</avatar>
+          <name>abedra</name>
+          <url>https://github.com/abedra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107828?s=40&amp;v=4</avatar>
+          <name>tmarble</name>
+          <url>https://github.com/tmarble</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5892049?s=40&amp;v=4</avatar>
+          <name>FayeAlephNil</name>
+          <url>https://github.com/FayeAlephNil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/595169?s=40&amp;v=4</avatar>
+          <name>elenam</name>
+          <url>https://github.com/elenam</url>
         </contributor>
       </contributors>
     </item>

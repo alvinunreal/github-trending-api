@@ -2,190 +2,79 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
-      "title": "E3SM-Project/E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "title": "ElmerCSC/elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "438",
-      "forks": "479",
-      "addStars": "0",
+      "stars": "1,706",
+      "forks": "396",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7292036?s=40&v=4",
-          "name": "jgfouca",
-          "url": "https://github.com/jgfouca"
+          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
+          "name": "raback",
+          "url": "https://github.com/raback"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3226046?s=40&v=4",
-          "name": "bartgol",
-          "url": "https://github.com/bartgol"
+          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
+          "name": "mmalinen",
+          "url": "https://github.com/mmalinen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8136848?s=40&v=4",
-          "name": "singhbalwinder",
-          "url": "https://github.com/singhbalwinder"
+          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
+          "name": "juharu",
+          "url": "https://github.com/juharu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13684848?s=40&v=4",
-          "name": "jonbob",
-          "url": "https://github.com/jonbob"
+          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
+          "name": "ettaka",
+          "url": "https://github.com/ettaka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/947068?s=40&v=4",
-          "name": "rljacob",
-          "url": "https://github.com/rljacob"
+          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
+          "name": "juhanikataja",
+          "url": "https://github.com/juhanikataja"
         }
       ]
     },
     {
-      "title": "MetOffice/jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
+      "title": "firemodels/fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "21",
-      "forks": "30",
-      "addStars": "0",
+      "stars": "875",
+      "forks": "689",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
-          "name": "james-bruten-mo",
-          "url": "https://github.com/james-bruten-mo"
+          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
+          "name": "gforney",
+          "url": "https://github.com/gforney"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2984440?s=40&v=4",
-          "name": "yaswant",
-          "url": "https://github.com/yaswant"
+          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
+          "name": "mcgratta",
+          "url": "https://github.com/mcgratta"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43399998?s=40&v=4",
-          "name": "Pierre-siddall",
-          "url": "https://github.com/Pierre-siddall"
+          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
+          "name": "rmcdermo",
+          "url": "https://github.com/rmcdermo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61183013?s=40&v=4",
-          "name": "jennyhickson",
-          "url": "https://github.com/jennyhickson"
+          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
+          "name": "drjfloyd",
+          "url": "https://github.com/drjfloyd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/145924708?s=40&v=4",
-          "name": "maggiehendry",
-          "url": "https://github.com/maggiehendry"
-        }
-      ]
-    },
-    {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,740",
-      "forks": "875",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
-        }
-      ]
-    },
-    {
-      "title": "fabm-model/fabm",
-      "url": "https://github.com/fabm-model/fabm",
-      "description": "The Framework for Aquatic Biogeochemical Models (FABM): a Fortran 2003 programming framework for biogeochemical models of marine and freshwater systems.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "94",
-      "forks": "52",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2621530?s=40&v=4",
-          "name": "jornbr",
-          "url": "https://github.com/jornbr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11144809?s=40&v=4",
-          "name": "bolding",
-          "url": "https://github.com/bolding"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8653728?s=40&v=4",
-          "name": "kbolding",
-          "url": "https://github.com/kbolding"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11868922?s=40&v=4",
-          "name": "knutaros",
-          "url": "https://github.com/knutaros"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7668749?s=40&v=4",
-          "name": "matthipsey",
-          "url": "https://github.com/matthipsey"
-        }
-      ]
-    },
-    {
-      "title": "MetOffice/lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "26",
-      "forks": "71",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24609575?s=40&v=4",
-          "name": "andrewcoughtrie",
-          "url": "https://github.com/andrewcoughtrie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26217166?s=40&v=4",
-          "name": "MatthewHambley",
-          "url": "https://github.com/MatthewHambley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26921912?s=40&v=4",
-          "name": "mike-hobson",
-          "url": "https://github.com/mike-hobson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
-          "name": "james-bruten-mo",
-          "url": "https://github.com/james-bruten-mo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26165365?s=40&v=4",
-          "name": "stevemullerworth",
-          "url": "https://github.com/stevemullerworth"
+          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
+          "name": "marcosvanella",
+          "url": "https://github.com/marcosvanella"
         }
       ]
     },
@@ -195,8 +84,8 @@
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "956",
-      "forks": "536",
+      "stars": "969",
+      "forks": "539",
       "addStars": "1",
       "contributors": [
         {
@@ -232,9 +121,9 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,195",
-      "forks": "493",
-      "addStars": "3",
+      "stars": "1,207",
+      "forks": "500",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
@@ -264,76 +153,150 @@
       ]
     },
     {
-      "title": "ecmwf/fckit",
-      "url": "https://github.com/ecmwf/fckit",
-      "description": "A Fortran toolkit for interoperating Fortran with C/C++",
+      "title": "E3SM-Project/E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "48",
-      "forks": "21",
+      "stars": "440",
+      "forks": "481",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/222951?s=40&v=4",
-          "name": "wdeconinck",
-          "url": "https://github.com/wdeconinck"
+          "avatar": "https://avatars.githubusercontent.com/u/7292036?s=40&v=4",
+          "name": "jgfouca",
+          "url": "https://github.com/jgfouca"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/113430901?s=40&v=4",
-          "name": "awnawab",
-          "url": "https://github.com/awnawab"
+          "avatar": "https://avatars.githubusercontent.com/u/3226046?s=40&v=4",
+          "name": "bartgol",
+          "url": "https://github.com/bartgol"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/346079?s=40&v=4",
-          "name": "kynan",
-          "url": "https://github.com/kynan"
+          "avatar": "https://avatars.githubusercontent.com/u/8136848?s=40&v=4",
+          "name": "singhbalwinder",
+          "url": "https://github.com/singhbalwinder"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/965734?s=40&v=4",
-          "name": "tlmquintino",
-          "url": "https://github.com/tlmquintino"
+          "avatar": "https://avatars.githubusercontent.com/u/13684848?s=40&v=4",
+          "name": "jonbob",
+          "url": "https://github.com/jonbob"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147159?s=40&v=4",
-          "name": "tmi",
-          "url": "https://github.com/tmi"
+          "avatar": "https://avatars.githubusercontent.com/u/9679059?s=40&v=4",
+          "name": "whannah1",
+          "url": "https://github.com/whannah1"
         }
       ]
     },
     {
-      "title": "MCSclimate/MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "54",
-      "forks": "19",
+      "stars": "1,761",
+      "forks": "882",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
+      "title": "MetOffice/jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "23",
+      "forks": "35",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
+          "name": "james-bruten-mo",
+          "url": "https://github.com/james-bruten-mo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43399998?s=40&v=4",
+          "name": "Pierre-siddall",
+          "url": "https://github.com/Pierre-siddall"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145924708?s=40&v=4",
+          "name": "maggiehendry",
+          "url": "https://github.com/maggiehendry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2984440?s=40&v=4",
+          "name": "yaswant",
+          "url": "https://github.com/yaswant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61183013?s=40&v=4",
+          "name": "jennyhickson",
+          "url": "https://github.com/jennyhickson"
+        }
+      ]
+    },
+    {
+      "title": "MetOffice/lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "26",
+      "forks": "73",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/947068?s=40&v=4",
-          "name": "rljacob",
-          "url": "https://github.com/rljacob"
+          "avatar": "https://avatars.githubusercontent.com/u/24609575?s=40&v=4",
+          "name": "andrewcoughtrie",
+          "url": "https://github.com/andrewcoughtrie"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1740206?s=40&v=4",
-          "name": "quantheory",
-          "url": "https://github.com/quantheory"
+          "avatar": "https://avatars.githubusercontent.com/u/26217166?s=40&v=4",
+          "name": "MatthewHambley",
+          "url": "https://github.com/MatthewHambley"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6126104?s=40&v=4",
-          "name": "jedwards4b",
-          "url": "https://github.com/jedwards4b"
+          "avatar": "https://avatars.githubusercontent.com/u/26921912?s=40&v=4",
+          "name": "mike-hobson",
+          "url": "https://github.com/mike-hobson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5412?s=40&v=4",
-          "name": "steder",
-          "url": "https://github.com/steder"
+          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
+          "name": "james-bruten-mo",
+          "url": "https://github.com/james-bruten-mo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13952101?s=40&v=4",
-          "name": "Katetc",
-          "url": "https://github.com/Katetc"
+          "avatar": "https://avatars.githubusercontent.com/u/26165365?s=40&v=4",
+          "name": "stevemullerworth",
+          "url": "https://github.com/stevemullerworth"
         }
       ]
     },
@@ -371,80 +334,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/8231111?s=40&v=4",
           "name": "xuchongang",
           "url": "https://github.com/xuchongang"
-        }
-      ]
-    },
-    {
-      "title": "MetOffice/lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "31",
-      "forks": "114",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
-          "name": "james-bruten-mo",
-          "url": "https://github.com/james-bruten-mo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136574563?s=40&v=4",
-          "name": "MetBenjaminWent",
-          "url": "https://github.com/MetBenjaminWent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87382490?s=40&v=4",
-          "name": "mo-marqh",
-          "url": "https://github.com/mo-marqh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14180399?s=40&v=4",
-          "name": "tommbendall",
-          "url": "https://github.com/tommbendall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130391369?s=40&v=4",
-          "name": "oakleybrunt",
-          "url": "https://github.com/oakleybrunt"
-        }
-      ]
-    },
-    {
-      "title": "firemodels/fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "865",
-      "forks": "686",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
-          "name": "gforney",
-          "url": "https://github.com/gforney"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
-          "name": "mcgratta",
-          "url": "https://github.com/mcgratta"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
-          "name": "rmcdermo",
-          "url": "https://github.com/rmcdermo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
-          "name": "drjfloyd",
-          "url": "https://github.com/drjfloyd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
-          "name": "marcosvanella",
-          "url": "https://github.com/marcosvanella"
         }
       ]
     }

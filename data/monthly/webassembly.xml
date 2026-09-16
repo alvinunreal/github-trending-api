@@ -3,7 +3,7 @@
     <title>GitHub Webassembly Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Webassembly Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>WebAssembly/binaryen</title>
       <link>https://github.com/WebAssembly/binaryen</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/WebAssembly/binaryen</guid>
       <language>WebAssembly</language>
       <languageColor>#04133b</languageColor>
-      <stars>8,611</stars>
-      <forks>881</forks>
-      <addStars>42</addStars>
+      <stars>8,626</stars>
+      <forks>885</forks>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/173661?s=40&amp;v=4</avatar>
@@ -43,38 +43,15 @@
       </contributors>
     </item>
     <item>
-      <title>iRath96/webNBT</title>
-      <link>https://github.com/iRath96/webNBT</link>
-      <description>An HTML5 NBT-editor based on emscripten</description>
-      <guid>https://github.com/iRath96/webNBT</guid>
-      <language>WebAssembly</language>
-      <languageColor>#04133b</languageColor>
-      <stars>280</stars>
-      <forks>52</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/424490?s=40&amp;v=4</avatar>
-          <name>iRath96</name>
-          <url>https://github.com/iRath96</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64912682?s=40&amp;v=4</avatar>
-          <name>ROBGUI09</name>
-          <url>https://github.com/ROBGUI09</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>AssemblyScript/assemblyscript</title>
       <link>https://github.com/AssemblyScript/assemblyscript</link>
       <description>A TypeScript-like language for WebAssembly.</description>
       <guid>https://github.com/AssemblyScript/assemblyscript</guid>
       <language>WebAssembly</language>
       <languageColor>#04133b</languageColor>
-      <stars>17,993</stars>
-      <forks>693</forks>
-      <addStars>50</addStars>
+      <stars>18,016</stars>
+      <forks>691</forks>
+      <addStars>44</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1136893?s=40&amp;v=4</avatar>
@@ -104,40 +81,25 @@
       </contributors>
     </item>
     <item>
-      <title>WebAssembly/component-model</title>
-      <link>https://github.com/WebAssembly/component-model</link>
-      <description>Repository for design and specification of the Component Model</description>
-      <guid>https://github.com/WebAssembly/component-model</guid>
+      <title>iRath96/webNBT</title>
+      <link>https://github.com/iRath96/webNBT</link>
+      <description>An HTML5 NBT-editor based on emscripten</description>
+      <guid>https://github.com/iRath96/webNBT</guid>
       <language>WebAssembly</language>
       <languageColor>#04133b</languageColor>
-      <stars>1,358</stars>
-      <forks>129</forks>
-      <addStars>23</addStars>
+      <stars>281</stars>
+      <forks>53</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9660325?s=40&amp;v=4</avatar>
-          <name>lukewagner</name>
-          <url>https://github.com/lukewagner</url>
+          <avatar>https://avatars.githubusercontent.com/u/424490?s=40&amp;v=4</avatar>
+          <name>iRath96</name>
+          <url>https://github.com/iRath96</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64996?s=40&amp;v=4</avatar>
-          <name>alexcrichton</name>
-          <url>https://github.com/alexcrichton</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4503403?s=40&amp;v=4</avatar>
-          <name>sunfishcode</name>
-          <url>https://github.com/sunfishcode</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/541880?s=40&amp;v=4</avatar>
-          <name>abrown</name>
-          <url>https://github.com/abrown</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12877905?s=40&amp;v=4</avatar>
-          <name>rvolosatovs</name>
-          <url>https://github.com/rvolosatovs</url>
+          <avatar>https://avatars.githubusercontent.com/u/64912682?s=40&amp;v=4</avatar>
+          <name>ROBGUI09</name>
+          <url>https://github.com/ROBGUI09</url>
         </contributor>
       </contributors>
     </item>

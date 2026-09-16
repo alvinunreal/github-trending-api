@@ -3,7 +3,7 @@
     <title>GitHub Llvm Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Llvm Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>llvm/llvm-project</title>
       <link>https://github.com/llvm/llvm-project</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/llvm/llvm-project</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>39,948</stars>
-      <forks>18,364</forks>
-      <addStars>622</addStars>
+      <stars>40,491</stars>
+      <forks>18,672</forks>
+      <addStars>816</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15152540?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/intel/llvm</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>1,517</stars>
-      <forks>850</forks>
-      <addStars>11</addStars>
+      <stars>1,523</stars>
+      <forks>854</forks>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2175834?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/KhronosGroup/SPIRV-LLVM-Translator</guid>
       <language>LLVM</language>
       <languageColor>#185619</languageColor>
-      <stars>622</stars>
-      <forks>273</forks>
-      <addStars>5</addStars>
+      <stars>625</stars>
+      <forks>278</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1358906?s=40&amp;v=4</avatar>
@@ -115,44 +115,6 @@
           <avatar>https://avatars.githubusercontent.com/u/6417047?s=40&amp;v=4</avatar>
           <name>AlexeySachkov</name>
           <url>https://github.com/AlexeySachkov</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>arm/arm-toolchain</title>
-      <link>https://github.com/arm/arm-toolchain</link>
-      <description>A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.</description>
-      <guid>https://github.com/arm/arm-toolchain</guid>
-      <language>LLVM</language>
-      <languageColor>#185619</languageColor>
-      <stars>240</stars>
-      <forks>51</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57370056?s=40&amp;v=4</avatar>
-          <name>kazutakahirata</name>
-          <url>https://github.com/kazutakahirata</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/138339?s=40&amp;v=4</avatar>
-          <name>arsenm</name>
-          <url>https://github.com/arsenm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/450489?s=40&amp;v=4</avatar>
-          <name>fhahn</name>
-          <url>https://github.com/fhahn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35342157?s=40&amp;v=4</avatar>
-          <name>jhuber6</name>
-          <url>https://github.com/jhuber6</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22566570?s=40&amp;v=4</avatar>
-          <name>topperc</name>
-          <url>https://github.com/topperc</url>
         </contributor>
       </contributors>
     </item>

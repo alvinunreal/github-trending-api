@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "triton-lang/triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "20,013",
-      "forks": "3,141",
-      "addStars": "9",
+      "stars": "20,173",
+      "forks": "3,190",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/614788?s=40&v=4",
@@ -47,19 +47,19 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "146",
-      "forks": "196",
-      "addStars": "3",
+      "stars": "166",
+      "forks": "224",
+      "addStars": "1",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2306281?s=40&v=4",
-          "name": "Jokeren",
-          "url": "https://github.com/Jokeren"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/27532842?s=40&v=4",
           "name": "hongziqi",
           "url": "https://github.com/hongziqi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2306281?s=40&v=4",
+          "name": "Jokeren",
+          "url": "https://github.com/Jokeren"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/24322263?s=40&v=4",

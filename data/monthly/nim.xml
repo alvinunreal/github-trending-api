@@ -3,7 +3,7 @@
     <title>GitHub Nim Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nim Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>zedeus/nitter</title>
       <link>https://github.com/zedeus/nitter</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/zedeus/nitter</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>13,570</stars>
-      <forks>982</forks>
-      <addStars>220</addStars>
+      <stars>14,471</stars>
+      <forks>1,353</forks>
+      <addStars>1,078</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9434921?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/nim-lang/Nim</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>18,189</stars>
-      <forks>1,545</forks>
-      <addStars>80</addStars>
+      <stars>18,236</stars>
+      <forks>1,553</forks>
+      <addStars>90</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/287816?s=40&amp;v=4</avatar>
@@ -76,6 +76,44 @@
       </contributors>
     </item>
     <item>
+      <title>logos-messaging/logos-delivery</title>
+      <link>https://github.com/logos-messaging/logos-delivery</link>
+      <description>Logos Messaging protocols implemented in Nim</description>
+      <guid>https://github.com/logos-messaging/logos-delivery</guid>
+      <language>Nim</language>
+      <languageColor>#ffc200</languageColor>
+      <stars>248</stars>
+      <forks>88</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68783915?s=40&amp;v=4</avatar>
+          <name>jm-clius</name>
+          <url>https://github.com/jm-clius</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/128452529?s=40&amp;v=4</avatar>
+          <name>Ivansete-status</name>
+          <url>https://github.com/Ivansete-status</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3949095?s=40&amp;v=4</avatar>
+          <name>LNSD</name>
+          <url>https://github.com/LNSD</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101006718?s=40&amp;v=4</avatar>
+          <name>gabrielmer</name>
+          <url>https://github.com/gabrielmer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43716372?s=40&amp;v=4</avatar>
+          <name>rymnc</name>
+          <url>https://github.com/rymnc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>status-im/nimbus-eth2</title>
       <link>https://github.com/status-im/nimbus-eth2</link>
       <description>Nim implementation of the Ethereum Beacon Chain</description>
@@ -83,8 +121,8 @@
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
       <stars>662</stars>
-      <forks>332</forks>
-      <addStars>5</addStars>
+      <forks>335</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11422416?s=40&amp;v=4</avatar>
@@ -114,15 +152,53 @@
       </contributors>
     </item>
     <item>
+      <title>status-im/nimbus-eth1</title>
+      <link>https://github.com/status-im/nimbus-eth1</link>
+      <description>Nimbus: an Ethereum Execution Client for Resource-Restricted Devices</description>
+      <guid>https://github.com/status-im/nimbus-eth1</guid>
+      <language>Nim</language>
+      <languageColor>#ffc200</languageColor>
+      <stars>631</stars>
+      <forks>163</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2784755?s=40&amp;v=4</avatar>
+          <name>jangko</name>
+          <url>https://github.com/jangko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7857583?s=40&amp;v=4</avatar>
+          <name>kdeme</name>
+          <url>https://github.com/kdeme</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3624993?s=40&amp;v=4</avatar>
+          <name>mjfh</name>
+          <url>https://github.com/mjfh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/495550?s=40&amp;v=4</avatar>
+          <name>stefantalpalaru</name>
+          <url>https://github.com/stefantalpalaru</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1382986?s=40&amp;v=4</avatar>
+          <name>arnetheduck</name>
+          <url>https://github.com/arnetheduck</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>nim-lang/packages</title>
       <link>https://github.com/nim-lang/packages</link>
       <description>List of packages for Nimble</description>
       <guid>https://github.com/nim-lang/packages</guid>
       <language>Nim</language>
       <languageColor>#ffc200</languageColor>
-      <stars>501</stars>
-      <forks>785</forks>
-      <addStars>3</addStars>
+      <stars>500</stars>
+      <forks>791</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/246651?s=40&amp;v=4</avatar>
@@ -130,14 +206,14 @@
           <url>https://github.com/dom96</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43030857?s=40&amp;v=4</avatar>
-          <name>ringabout</name>
-          <url>https://github.com/ringabout</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1230420?s=40&amp;v=4</avatar>
           <name>georgelemon</name>
           <url>https://github.com/georgelemon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43030857?s=40&amp;v=4</avatar>
+          <name>ringabout</name>
+          <url>https://github.com/ringabout</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1189414?s=40&amp;v=4</avatar>

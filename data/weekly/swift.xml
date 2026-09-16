@@ -3,65 +3,70 @@
     <title>GitHub Swift Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Swift Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
-      <title>apple/coreai-models</title>
-      <link>https://github.com/apple/coreai-models</link>
-      <description>Model export recipes, Python primitives, and Swift runtime utilities for on-device AI</description>
-      <guid>https://github.com/apple/coreai-models</guid>
+      <title>abue-ammar/tinycast</title>
+      <link>https://github.com/abue-ammar/tinycast</link>
+      <description>Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.</description>
+      <guid>https://github.com/abue-ammar/tinycast</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>1,996</stars>
-      <forks>183</forks>
-      <addStars>382</addStars>
+      <stars>5,126</stars>
+      <forks>240</forks>
+      <addStars>1,986</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1967328?s=40&amp;v=4</avatar>
-          <name>stikves</name>
-          <url>https://github.com/stikves</url>
+          <avatar>https://avatars.githubusercontent.com/u/14371506?s=40&amp;v=4</avatar>
+          <name>abue-ammar</name>
+          <url>https://github.com/abue-ammar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59463423?s=40&amp;v=4</avatar>
-          <name>kevchengcodes</name>
-          <url>https://github.com/kevchengcodes</url>
+          <avatar>https://avatars.githubusercontent.com/u/81174108?s=40&amp;v=4</avatar>
+          <name>list-jonas</name>
+          <url>https://github.com/list-jonas</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60484318?s=40&amp;v=4</avatar>
-          <name>carinapeng</name>
-          <url>https://github.com/carinapeng</url>
+          <avatar>https://avatars.githubusercontent.com/u/39670015?s=40&amp;v=4</avatar>
+          <name>mathieusouflis</name>
+          <url>https://github.com/mathieusouflis</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35608981?s=40&amp;v=4</avatar>
-          <name>tjia1818</name>
-          <url>https://github.com/tjia1818</url>
+          <avatar>https://avatars.githubusercontent.com/u/75532968?s=40&amp;v=4</avatar>
+          <name>mickyyy68</name>
+          <url>https://github.com/mickyyy68</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34315738?s=40&amp;v=4</avatar>
-          <name>Lewis300</name>
-          <url>https://github.com/Lewis300</url>
+          <avatar>https://avatars.githubusercontent.com/u/319949436?s=40&amp;v=4</avatar>
+          <name>notsoshu</name>
+          <url>https://github.com/notsoshu</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>Lakr233/vphone-cli</title>
-      <link>https://github.com/Lakr233/vphone-cli</link>
-      <description/>
-      <guid>https://github.com/Lakr233/vphone-cli</guid>
+      <title>steipete/CodexBar</title>
+      <link>https://github.com/steipete/CodexBar</link>
+      <description>Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
+      <guid>https://github.com/steipete/CodexBar</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,068</stars>
-      <forks>1,163</forks>
-      <addStars>378</addStars>
+      <stars>21,489</stars>
+      <forks>1,940</forks>
+      <addStars>377</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25259084?s=40&amp;v=4</avatar>
-          <name>Lakr233</name>
-          <url>https://github.com/Lakr233</url>
+          <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
+          <name>steipete</name>
+          <url>https://github.com/steipete</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19415570?s=40&amp;v=4</avatar>
-          <name>zqxwce</name>
-          <url>https://github.com/zqxwce</url>
+          <avatar>https://avatars.githubusercontent.com/u/105903728?s=40&amp;v=4</avatar>
+          <name>ratulsarna</name>
+          <url>https://github.com/ratulsarna</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104957188?s=40&amp;v=4</avatar>
+          <name>Yuxin-Qiao</name>
+          <url>https://github.com/Yuxin-Qiao</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -69,32 +74,27 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/76083688?s=40&amp;v=4</avatar>
-          <name>TastyHeadphones</name>
-          <url>https://github.com/TastyHeadphones</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22845248?s=40&amp;v=4</avatar>
-          <name>mpass99</name>
-          <url>https://github.com/mpass99</url>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>chattymin/PokeTokenBar</title>
-      <link>https://github.com/chattymin/PokeTokenBar</link>
-      <description>Use your tokens to raise, evolve, and collect Pokémon! 🥚</description>
-      <guid>https://github.com/chattymin/PokeTokenBar</guid>
+      <title>peetzweg/opendisplay</title>
+      <link>https://github.com/peetzweg/opendisplay</link>
+      <description>Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.</description>
+      <guid>https://github.com/peetzweg/opendisplay</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>310</stars>
-      <forks>79</forks>
-      <addStars>143</addStars>
+      <stars>4,288</stars>
+      <forks>287</forks>
+      <addStars>1,159</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52882799?s=40&amp;v=4</avatar>
-          <name>chattymin</name>
-          <url>https://github.com/chattymin</url>
+          <avatar>https://avatars.githubusercontent.com/u/839848?s=40&amp;v=4</avatar>
+          <name>peetzweg</name>
+          <url>https://github.com/peetzweg</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -102,108 +102,131 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/148207123?s=40&amp;v=4</avatar>
-          <name>Borisserz</name>
-          <url>https://github.com/Borisserz</url>
+          <avatar>https://avatars.githubusercontent.com/u/150329?s=40&amp;v=4</avatar>
+          <name>jlfwong</name>
+          <url>https://github.com/jlfwong</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44011462?s=40&amp;v=4</avatar>
-          <name>justinjeong5</name>
-          <url>https://github.com/justinjeong5</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53262430?s=40&amp;v=4</avatar>
-          <name>SWARVY</name>
-          <url>https://github.com/SWARVY</url>
+          <avatar>https://avatars.githubusercontent.com/u/20184673?s=40&amp;v=4</avatar>
+          <name>kdbhalala</name>
+          <url>https://github.com/kdbhalala</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>LiveContainer/LiveContainer</title>
-      <link>https://github.com/LiveContainer/LiveContainer</link>
-      <description>Run iOS apps without actually installing them!</description>
-      <guid>https://github.com/LiveContainer/LiveContainer</guid>
+      <title>FrizzleM/SideInstaller</title>
+      <link>https://github.com/FrizzleM/SideInstaller</link>
+      <description>An an app that installs Sidestore on iOS 27, fully on-device</description>
+      <guid>https://github.com/FrizzleM/SideInstaller</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>11,301</stars>
-      <forks>897</forks>
-      <addStars>420</addStars>
+      <stars>732</stars>
+      <forks>63</forks>
+      <addStars>91</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60165378?s=40&amp;v=4</avatar>
-          <name>hugeBlack</name>
-          <url>https://github.com/hugeBlack</url>
+          <avatar>https://avatars.githubusercontent.com/u/182496942?s=40&amp;v=4</avatar>
+          <name>FrizzleM</name>
+          <url>https://github.com/FrizzleM</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40482367?s=40&amp;v=4</avatar>
-          <name>khanhduytran0</name>
-          <url>https://github.com/khanhduytran0</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28908603?s=40&amp;v=4</avatar>
-          <name>Staubgeborener</name>
-          <url>https://github.com/Staubgeborener</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98632439?s=40&amp;v=4</avatar>
-          <name>AppInstalleriOSGH</name>
-          <url>https://github.com/AppInstalleriOSGH</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92153597?s=40&amp;v=4</avatar>
-          <name>fkunn1326</name>
-          <url>https://github.com/fkunn1326</url>
+          <avatar>https://avatars.githubusercontent.com/u/235445911?s=40&amp;v=4</avatar>
+          <name>so-5699</name>
+          <url>https://github.com/so-5699</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>exelban/stats</title>
-      <link>https://github.com/exelban/stats</link>
-      <description>macOS system monitor in your menu bar</description>
-      <guid>https://github.com/exelban/stats</guid>
+      <title>altstoreio/AltStore</title>
+      <link>https://github.com/altstoreio/AltStore</link>
+      <description>AltStore is an alternative app store for non-jailbroken iOS devices.</description>
+      <guid>https://github.com/altstoreio/AltStore</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>41,448</stars>
-      <forks>1,498</forks>
-      <addStars>182</addStars>
+      <stars>14,383</stars>
+      <forks>1,504</forks>
+      <addStars>66</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13332412?s=40&amp;v=4</avatar>
-          <name>exelban</name>
-          <url>https://github.com/exelban</url>
+          <avatar>https://avatars.githubusercontent.com/u/705880?s=40&amp;v=4</avatar>
+          <name>rileytestut</name>
+          <url>https://github.com/rileytestut</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32911758?s=40&amp;v=4</avatar>
-          <name>jrthsr700tmax</name>
-          <url>https://github.com/jrthsr700tmax</url>
+          <avatar>https://avatars.githubusercontent.com/u/15572604?s=40&amp;v=4</avatar>
+          <name>caroline-moore</name>
+          <url>https://github.com/caroline-moore</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89069957?s=40&amp;v=4</avatar>
-          <name>Jerry23011</name>
-          <url>https://github.com/Jerry23011</url>
+          <avatar>https://avatars.githubusercontent.com/u/99302292?s=40&amp;v=4</avatar>
+          <name>shanegillio</name>
+          <url>https://github.com/shanegillio</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2065714?s=40&amp;v=4</avatar>
-          <name>Fighter456</name>
-          <url>https://github.com/Fighter456</url>
+          <avatar>https://avatars.githubusercontent.com/u/5678977?s=40&amp;v=4</avatar>
+          <name>tbodt</name>
+          <url>https://github.com/tbodt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21986946?s=40&amp;v=4</avatar>
-          <name>Tai-Zhou</name>
-          <url>https://github.com/Tai-Zhou</url>
+          <avatar>https://avatars.githubusercontent.com/u/26331126?s=40&amp;v=4</avatar>
+          <name>noah978</name>
+          <url>https://github.com/noah978</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>iFurySt/open-codex-computer-use</title>
+      <link>https://github.com/iFurySt/open-codex-computer-use</link>
+      <description>👾 Open Computer Use – Open-Source Alternative to Codex Computer Use</description>
+      <guid>https://github.com/iFurySt/open-codex-computer-use</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>2,099</stars>
+      <forks>186</forks>
+      <addStars>140</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16201837?s=40&amp;v=4</avatar>
+          <name>iFurySt</name>
+          <url>https://github.com/iFurySt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56818734?s=40&amp;v=4</avatar>
+          <name>usoonees</name>
+          <url>https://github.com/usoonees</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25194972?s=40&amp;v=4</avatar>
+          <name>tisfeng</name>
+          <url>https://github.com/tisfeng</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46434871?s=40&amp;v=4</avatar>
+          <name>kogekiplay</name>
+          <url>https://github.com/kogekiplay</url>
         </contributor>
       </contributors>
     </item>
     <item>
       <title>BarutSRB/OmniWM</title>
       <link>https://github.com/BarutSRB/OmniWM</link>
-      <description>MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.</description>
+      <description>Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.</description>
       <guid>https://github.com/BarutSRB/OmniWM</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>2,600</stars>
-      <forks>107</forks>
-      <addStars>100</addStars>
+      <stars>2,930</stars>
+      <forks>120</forks>
+      <addStars>131</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20517828?s=40&amp;v=4</avatar>
@@ -233,86 +256,342 @@
       </contributors>
     </item>
     <item>
-      <title>apple/swift-nio</title>
-      <link>https://github.com/apple/swift-nio</link>
-      <description>Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</description>
-      <guid>https://github.com/apple/swift-nio</guid>
+      <title>TheBoredTeam/boring.notch</title>
+      <link>https://github.com/TheBoredTeam/boring.notch</link>
+      <description>TheBoringNotch: Not so boring notch That Rocks 🎸🎶</description>
+      <guid>https://github.com/TheBoredTeam/boring.notch</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,510</stars>
-      <forks>789</forks>
-      <addStars>1</addStars>
+      <stars>10,748</stars>
+      <forks>1,014</forks>
+      <addStars>89</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/624238?s=40&amp;v=4</avatar>
-          <name>weissi</name>
-          <url>https://github.com/weissi</url>
+          <avatar>https://avatars.githubusercontent.com/u/33609792?s=40&amp;v=4</avatar>
+          <name>Alexander5015</name>
+          <url>https://github.com/Alexander5015</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1382556?s=40&amp;v=4</avatar>
-          <name>Lukasa</name>
-          <url>https://github.com/Lukasa</url>
+          <avatar>https://avatars.githubusercontent.com/u/46974223?s=40&amp;v=4</avatar>
+          <name>theboringhumane</name>
+          <url>https://github.com/theboringhumane</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/439362?s=40&amp;v=4</avatar>
-          <name>normanmaurer</name>
-          <url>https://github.com/normanmaurer</url>
+          <avatar>https://avatars.githubusercontent.com/u/58087998?s=40&amp;v=4</avatar>
+          <name>richardkunkli</name>
+          <url>https://github.com/richardkunkli</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5047671?s=40&amp;v=4</avatar>
-          <name>glbrntt</name>
-          <url>https://github.com/glbrntt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3491887?s=40&amp;v=4</avatar>
-          <name>FranzBusch</name>
-          <url>https://github.com/FranzBusch</url>
+          <avatar>https://avatars.githubusercontent.com/u/96822675?s=40&amp;v=4</avatar>
+          <name>OmChachad</name>
+          <url>https://github.com/OmChachad</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>ronitsingh10/FineTune</title>
-      <link>https://github.com/ronitsingh10/FineTune</link>
-      <description>FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.</description>
-      <guid>https://github.com/ronitsingh10/FineTune</guid>
+      <title>dwarvesf/hidden</title>
+      <link>https://github.com/dwarvesf/hidden</link>
+      <description>An ultra-light MacOS utility that helps hide menu bar icons</description>
+      <guid>https://github.com/dwarvesf/hidden</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>8,914</stars>
-      <forks>323</forks>
-      <addStars>174</addStars>
+      <stars>14,779</stars>
+      <forks>486</forks>
+      <addStars>87</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70445944?s=40&amp;v=4</avatar>
-          <name>ronitsingh10</name>
-          <url>https://github.com/ronitsingh10</url>
+          <avatar>https://avatars.githubusercontent.com/u/14150687?s=40&amp;v=4</avatar>
+          <name>phucledien</name>
+          <url>https://github.com/phucledien</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57198384?s=40&amp;v=4</avatar>
-          <name>Nyxnix</name>
-          <url>https://github.com/Nyxnix</url>
+          <avatar>https://avatars.githubusercontent.com/u/1749624?s=40&amp;v=4</avatar>
+          <name>tieubao</name>
+          <url>https://github.com/tieubao</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15317565?s=40&amp;v=4</avatar>
-          <name>whtis</name>
-          <url>https://github.com/whtis</url>
+          <avatar>https://avatars.githubusercontent.com/u/37923396?s=40&amp;v=4</avatar>
+          <name>siliconprime-thanhduc</name>
+          <url>https://github.com/siliconprime-thanhduc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43695246?s=40&amp;v=4</avatar>
-          <name>XiCheng148</name>
-          <url>https://github.com/XiCheng148</url>
+          <avatar>https://avatars.githubusercontent.com/u/35858359?s=40&amp;v=4</avatar>
+          <name>viettrungphan</name>
+          <url>https://github.com/viettrungphan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43706386?s=40&amp;v=4</avatar>
+          <name>p-z-l</name>
+          <url>https://github.com/p-z-l</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>BasedHardware/omi</title>
-      <link>https://github.com/BasedHardware/omi</link>
-      <description>AI that sees your screen, listens to your conversations and tells you what to do</description>
-      <guid>https://github.com/BasedHardware/omi</guid>
+      <title>osaurus-ai/osaurus</title>
+      <link>https://github.com/osaurus-ai/osaurus</link>
+      <description>Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.</description>
+      <guid>https://github.com/osaurus-ai/osaurus</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>13,263</stars>
-      <forks>2,205</forks>
-      <addStars>70</addStars>
+      <stars>7,921</stars>
+      <forks>467</forks>
+      <addStars>118</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/189663?s=40&amp;v=4</avatar>
+          <name>tpae</name>
+          <url>https://github.com/tpae</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/138501656?s=40&amp;v=4</avatar>
+          <name>jjang-ai</name>
+          <url>https://github.com/jjang-ai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61781996?s=40&amp;v=4</avatar>
+          <name>RaajeevChandran</name>
+          <url>https://github.com/RaajeevChandran</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/264272563?s=40&amp;v=4</avatar>
+          <name>mimeding</name>
+          <url>https://github.com/mimeding</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>LiveContainer/LiveContainer</title>
+      <link>https://github.com/LiveContainer/LiveContainer</link>
+      <description>Run iOS apps without actually installing them!</description>
+      <guid>https://github.com/LiveContainer/LiveContainer</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>12,186</stars>
+      <forks>1,009</forks>
+      <addStars>179</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60165378?s=40&amp;v=4</avatar>
+          <name>hugeBlack</name>
+          <url>https://github.com/hugeBlack</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40482367?s=40&amp;v=4</avatar>
+          <name>khanhduytran0</name>
+          <url>https://github.com/khanhduytran0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28908603?s=40&amp;v=4</avatar>
+          <name>Staubgeborener</name>
+          <url>https://github.com/Staubgeborener</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/98632439?s=40&amp;v=4</avatar>
+          <name>AppInstalleriOSGH</name>
+          <url>https://github.com/AppInstalleriOSGH</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/92153597?s=40&amp;v=4</avatar>
+          <name>fkunn1326</name>
+          <url>https://github.com/fkunn1326</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vorssaint/vorssaint-utils</title>
+      <link>https://github.com/vorssaint/vorssaint-utils</link>
+      <description>Free and open-source macOS menu bar toolkit.</description>
+      <guid>https://github.com/vorssaint/vorssaint-utils</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>19,352</stars>
+      <forks>696</forks>
+      <addStars>2,168</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/259901989?s=40&amp;v=4</avatar>
+          <name>vorssaint</name>
+          <url>https://github.com/vorssaint</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42336971?s=40&amp;v=4</avatar>
+          <name>PathGao</name>
+          <url>https://github.com/PathGao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45411502?s=40&amp;v=4</avatar>
+          <name>iltonandrew</name>
+          <url>https://github.com/iltonandrew</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1708189?s=40&amp;v=4</avatar>
+          <name>ruvelro</name>
+          <url>https://github.com/ruvelro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/73610855?s=40&amp;v=4</avatar>
+          <name>tenbux</name>
+          <url>https://github.com/tenbux</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jordanbaird/Ice</title>
+      <link>https://github.com/jordanbaird/Ice</link>
+      <description>Powerful menu bar manager for macOS</description>
+      <guid>https://github.com/jordanbaird/Ice</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>29,647</stars>
+      <forks>917</forks>
+      <addStars>114</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/90936861?s=40&amp;v=4</avatar>
+          <name>jordanbaird</name>
+          <url>https://github.com/jordanbaird</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2091312?s=40&amp;v=4</avatar>
+          <name>stonerl</name>
+          <url>https://github.com/stonerl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1892194?s=40&amp;v=4</avatar>
+          <name>Olshansk</name>
+          <url>https://github.com/Olshansk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4800403?s=40&amp;v=4</avatar>
+          <name>michyprima</name>
+          <url>https://github.com/michyprima</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22471214?s=40&amp;v=4</avatar>
+          <name>dhruvikn</name>
+          <url>https://github.com/dhruvikn</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>manaflow-ai/cmux</title>
+      <link>https://github.com/manaflow-ai/cmux</link>
+      <description>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</description>
+      <guid>https://github.com/manaflow-ai/cmux</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>27,146</stars>
+      <forks>2,359</forks>
+      <addStars>255</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54008264?s=40&amp;v=4</avatar>
+          <name>lawrencecchen</name>
+          <url>https://github.com/lawrencecchen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38676809?s=40&amp;v=4</avatar>
+          <name>austinywang</name>
+          <url>https://github.com/austinywang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67667005?s=40&amp;v=4</avatar>
+          <name>azooz2003-bit</name>
+          <url>https://github.com/azooz2003-bit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1694850?s=40&amp;v=4</avatar>
+          <name>ejc3</name>
+          <url>https://github.com/ejc3</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Lakr233/vphone-cli</title>
+      <link>https://github.com/Lakr233/vphone-cli</link>
+      <description/>
+      <guid>https://github.com/Lakr233/vphone-cli</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>13,107</stars>
+      <forks>1,570</forks>
+      <addStars>1,656</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25259084?s=40&amp;v=4</avatar>
+          <name>Lakr233</name>
+          <url>https://github.com/Lakr233</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19415570?s=40&amp;v=4</avatar>
+          <name>zqxwce</name>
+          <url>https://github.com/zqxwce</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76083688?s=40&amp;v=4</avatar>
+          <name>TastyHeadphones</name>
+          <url>https://github.com/TastyHeadphones</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22845248?s=40&amp;v=4</avatar>
+          <name>mpass99</name>
+          <url>https://github.com/mpass99</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Alamofire/Alamofire</title>
+      <link>https://github.com/Alamofire/Alamofire</link>
+      <description>Elegant HTTP Networking in Swift</description>
+      <guid>https://github.com/Alamofire/Alamofire</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>42,419</stars>
+      <forks>7,658</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/169110?s=40&amp;v=4</avatar>
+          <name>cnoon</name>
+          <url>https://github.com/cnoon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51020?s=40&amp;v=4</avatar>
+          <name>jshier</name>
+          <url>https://github.com/jshier</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7659?s=40&amp;v=4</avatar>
+          <name>mattt</name>
+          <url>https://github.com/mattt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44164?s=40&amp;v=4</avatar>
+          <name>kylef</name>
+          <url>https://github.com/kylef</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>farzaa/clicky</title>
+      <link>https://github.com/farzaa/clicky</link>
+      <description/>
+      <guid>https://github.com/farzaa/clicky</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>7,563</stars>
+      <forks>1,488</forks>
+      <addStars>60</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -320,275 +599,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4256921?s=40&amp;v=4</avatar>
-          <name>beastoin</name>
-          <url>https://github.com/beastoin</url>
+          <avatar>https://avatars.githubusercontent.com/u/15614124?s=40&amp;v=4</avatar>
+          <name>farzaa</name>
+          <url>https://github.com/farzaa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9387252?s=40&amp;v=4</avatar>
-          <name>Git-on-my-level</name>
-          <url>https://github.com/Git-on-my-level</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59914433?s=40&amp;v=4</avatar>
-          <name>mdmohsin7</name>
-          <url>https://github.com/mdmohsin7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43514161?s=40&amp;v=4</avatar>
-          <name>kodjima33</name>
-          <url>https://github.com/kodjima33</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tisfeng/Easydict</title>
-      <link>https://github.com/tisfeng/Easydict</link>
-      <description>一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.</description>
-      <guid>https://github.com/tisfeng/Easydict</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>14,368</stars>
-      <forks>730</forks>
-      <addStars>113</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25194972?s=40&amp;v=4</avatar>
-          <name>tisfeng</name>
-          <url>https://github.com/tisfeng</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/146511017?s=40&amp;v=4</avatar>
-          <name>KurodaKayn</name>
-          <url>https://github.com/KurodaKayn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12951859?s=40&amp;v=4</avatar>
-          <name>choykarl</name>
-          <url>https://github.com/choykarl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89069957?s=40&amp;v=4</avatar>
-          <name>Jerry23011</name>
-          <url>https://github.com/Jerry23011</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103433299?s=40&amp;v=4</avatar>
-          <name>phlpsong</name>
-          <url>https://github.com/phlpsong</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>groue/GRDB.swift</title>
-      <link>https://github.com/groue/GRDB.swift</link>
-      <description>A toolkit for SQLite databases, with a focus on application development</description>
-      <guid>https://github.com/groue/GRDB.swift</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>8,621</stars>
-      <forks>1,035</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54219?s=40&amp;v=4</avatar>
-          <name>groue</name>
-          <url>https://github.com/groue</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27460?s=40&amp;v=4</avatar>
-          <name>pakko972</name>
-          <url>https://github.com/pakko972</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18540905?s=40&amp;v=4</avatar>
-          <name>swiftlyfalling</name>
-          <url>https://github.com/swiftlyfalling</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1203835?s=40&amp;v=4</avatar>
-          <name>sobri909</name>
-          <url>https://github.com/sobri909</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/833693?s=40&amp;v=4</avatar>
-          <name>mallman</name>
-          <url>https://github.com/mallman</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>f/textream</title>
-      <link>https://github.com/f/textream</link>
-      <description>Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.</description>
-      <guid>https://github.com/f/textream</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>3,683</stars>
-      <forks>256</forks>
-      <addStars>69</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/196477?s=40&amp;v=4</avatar>
-          <name>f</name>
-          <url>https://github.com/f</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27097168?s=40&amp;v=4</avatar>
-          <name>iamcanturk</name>
-          <url>https://github.com/iamcanturk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/271912?s=40&amp;v=4</avatar>
-          <name>needim</name>
-          <url>https://github.com/needim</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>umputun/agterm</title>
-      <link>https://github.com/umputun/agterm</link>
-      <description>A genuinely good terminal</description>
-      <guid>https://github.com/umputun/agterm</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>511</stars>
-      <forks>66</forks>
-      <addStars>29</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/535880?s=40&amp;v=4</avatar>
-          <name>umputun</name>
-          <url>https://github.com/umputun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/222100?s=40&amp;v=4</avatar>
-          <name>melonamin</name>
-          <url>https://github.com/melonamin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/131364915?s=40&amp;v=4</avatar>
-          <name>x9x9x9x9x9x91</name>
-          <url>https://github.com/x9x9x9x9x9x91</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54346?s=40&amp;v=4</avatar>
-          <name>vnazarenko</name>
-          <url>https://github.com/vnazarenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nikitabobko/AeroSpace</title>
-      <link>https://github.com/nikitabobko/AeroSpace</link>
-      <description>AeroSpace is an i3-like tiling window manager for macOS</description>
-      <guid>https://github.com/nikitabobko/AeroSpace</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>22,674</stars>
-      <forks>644</forks>
-      <addStars>189</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20517828?s=40&amp;v=4</avatar>
-          <name>nikitabobko</name>
-          <url>https://github.com/nikitabobko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/758096?s=40&amp;v=4</avatar>
-          <name>mobile-ar</name>
-          <url>https://github.com/mobile-ar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/616784?s=40&amp;v=4</avatar>
-          <name>rickyz</name>
-          <url>https://github.com/rickyz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9119973?s=40&amp;v=4</avatar>
-          <name>jakenvac</name>
-          <url>https://github.com/jakenvac</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4019880?s=40&amp;v=4</avatar>
-          <name>Henkru</name>
-          <url>https://github.com/Henkru</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>open-meteo/open-meteo</title>
-      <link>https://github.com/open-meteo/open-meteo</link>
-      <description>Free Weather Forecast API for non-commercial use</description>
-      <guid>https://github.com/open-meteo/open-meteo</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>6,090</stars>
-      <forks>413</forks>
-      <addStars>52</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11670456?s=40&amp;v=4</avatar>
-          <name>patrick-zippenfenig</name>
-          <url>https://github.com/patrick-zippenfenig</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/172085167?s=40&amp;v=4</avatar>
-          <name>terraputix</name>
-          <url>https://github.com/terraputix</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/111272374?s=40&amp;v=4</avatar>
-          <name>vincentvdwal</name>
-          <url>https://github.com/vincentvdwal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1939575?s=40&amp;v=4</avatar>
-          <name>kikocorreoso</name>
-          <url>https://github.com/kikocorreoso</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>sw33tLie/macshot</title>
-      <link>https://github.com/sw33tLie/macshot</link>
-      <description>Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.</description>
-      <guid>https://github.com/sw33tLie/macshot</guid>
-      <language>Swift</language>
-      <languageColor>#F05138</languageColor>
-      <stars>3,118</stars>
-      <forks>186</forks>
-      <addStars>131</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47645560?s=40&amp;v=4</avatar>
-          <name>sw33tLie</name>
-          <url>https://github.com/sw33tLie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4518860?s=40&amp;v=4</avatar>
-          <name>bytepl</name>
-          <url>https://github.com/bytepl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19365375?s=40&amp;v=4</avatar>
-          <name>YuriNachos</name>
-          <url>https://github.com/YuriNachos</url>
+          <avatar>https://avatars.githubusercontent.com/u/260729474?s=40&amp;v=4</avatar>
+          <name>oz-agent</name>
+          <url>https://github.com/oz-agent</url>
         </contributor>
       </contributors>
     </item>

@@ -3,7 +3,7 @@
     <title>GitHub Gdscript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Gdscript Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>godotengine/godot-demo-projects</title>
       <link>https://github.com/godotengine/godot-demo-projects</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/godotengine/godot-demo-projects</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>9,408</stars>
-      <forks>2,217</forks>
-      <addStars>8</addStars>
+      <stars>9,532</stars>
+      <forks>2,235</forks>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1646875?s=40&amp;v=4</avatar>
@@ -43,90 +43,14 @@
       </contributors>
     </item>
     <item>
-      <title>yurineko73/Godot-MCP-Native</title>
-      <link>https://github.com/yurineko73/Godot-MCP-Native</link>
-      <description>一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.</description>
-      <guid>https://github.com/yurineko73/Godot-MCP-Native</guid>
-      <language>GDScript</language>
-      <languageColor>#355570</languageColor>
-      <stars>728</stars>
-      <forks>67</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48822620?s=40&amp;v=4</avatar>
-          <name>yurineko73</name>
-          <url>https://github.com/yurineko73</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7535532?s=40&amp;v=4</avatar>
-          <name>millionart</name>
-          <url>https://github.com/millionart</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107033608?s=40&amp;v=4</avatar>
-          <name>AkazaAkali</name>
-          <url>https://github.com/AkazaAkali</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37502927?s=40&amp;v=4</avatar>
-          <name>9bingyin</name>
-          <url>https://github.com/9bingyin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>dee-dee-catorce/desksaw</title>
-      <link>https://github.com/dee-dee-catorce/desksaw</link>
-      <description>An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.</description>
-      <guid>https://github.com/dee-dee-catorce/desksaw</guid>
-      <language>GDScript</language>
-      <languageColor>#355570</languageColor>
-      <stars>167</stars>
-      <forks>22</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/228148310?s=40&amp;v=4</avatar>
-          <name>dee-dee-catorce</name>
-          <url>https://github.com/dee-dee-catorce</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/292445453?s=40&amp;v=4</avatar>
-          <name>hamster-042</name>
-          <url>https://github.com/hamster-042</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/201308247?s=40&amp;v=4</avatar>
-          <name>temp4ture</name>
-          <url>https://github.com/temp4ture</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17518895?s=40&amp;v=4</avatar>
-          <name>VileBeggar</name>
-          <url>https://github.com/VileBeggar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96623162?s=40&amp;v=4</avatar>
-          <name>Bill3621</name>
-          <url>https://github.com/Bill3621</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Orama-Interactive/Pixelorama</title>
       <link>https://github.com/Orama-Interactive/Pixelorama</link>
       <description>Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!</description>
       <guid>https://github.com/Orama-Interactive/Pixelorama</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>10,194</stars>
-      <forks>538</forks>
+      <stars>10,319</stars>
+      <forks>551</forks>
       <addStars>10</addStars>
       <contributors>
         <contributor>
@@ -157,91 +81,15 @@
       </contributors>
     </item>
     <item>
-      <title>git-learning-game/oh-my-git</title>
-      <link>https://github.com/git-learning-game/oh-my-git</link>
-      <description>An interactive Git learning game!</description>
-      <guid>https://github.com/git-learning-game/oh-my-git</guid>
-      <language>GDScript</language>
-      <languageColor>#355570</languageColor>
-      <stars>2,878</stars>
-      <forks>216</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81277?s=40&amp;v=4</avatar>
-          <name>blinry</name>
-          <url>https://github.com/blinry</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5028973?s=40&amp;v=4</avatar>
-          <name>bleeptrack</name>
-          <url>https://github.com/bleeptrack</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/169057?s=40&amp;v=4</avatar>
-          <name>xim</name>
-          <url>https://github.com/xim</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1395806?s=40&amp;v=4</avatar>
-          <name>mundifex</name>
-          <url>https://github.com/mundifex</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/480915?s=40&amp;v=4</avatar>
-          <name>jspricke</name>
-          <url>https://github.com/jspricke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RodZill4/material-maker</title>
-      <link>https://github.com/RodZill4/material-maker</link>
-      <description>A procedural textures authoring and 3D model painting tool based on the Godot game engine</description>
-      <guid>https://github.com/RodZill4/material-maker</guid>
-      <language>GDScript</language>
-      <languageColor>#355570</languageColor>
-      <stars>5,856</stars>
-      <forks>365</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6957908?s=40&amp;v=4</avatar>
-          <name>RodZill4</name>
-          <url>https://github.com/RodZill4</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/830253?s=40&amp;v=4</avatar>
-          <name>williamchange</name>
-          <url>https://github.com/williamchange</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42868150?s=40&amp;v=4</avatar>
-          <name>Jowan-Spooner</name>
-          <url>https://github.com/Jowan-Spooner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4955051?s=40&amp;v=4</avatar>
-          <name>Arnklit</name>
-          <url>https://github.com/Arnklit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/180032?s=40&amp;v=4</avatar>
-          <name>Calinou</name>
-          <url>https://github.com/Calinou</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>dialogic-godot/dialogic</title>
       <link>https://github.com/dialogic-godot/dialogic</link>
       <description>💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</description>
       <guid>https://github.com/dialogic-godot/dialogic</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>5,940</stars>
-      <forks>346</forks>
-      <addStars>1</addStars>
+      <stars>6,002</stars>
+      <forks>349</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2206700?s=40&amp;v=4</avatar>
@@ -271,78 +119,78 @@
       </contributors>
     </item>
     <item>
-      <title>Alexofp/BDCC</title>
-      <link>https://github.com/Alexofp/BDCC</link>
-      <description>Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</description>
-      <guid>https://github.com/Alexofp/BDCC</guid>
+      <title>dee-dee-catorce/desksaw</title>
+      <link>https://github.com/dee-dee-catorce/desksaw</link>
+      <description>An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.</description>
+      <guid>https://github.com/dee-dee-catorce/desksaw</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>341</stars>
-      <forks>124</forks>
-      <addStars>0</addStars>
+      <stars>194</stars>
+      <forks>25</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14040378?s=40&amp;v=4</avatar>
-          <name>Alexofp</name>
-          <url>https://github.com/Alexofp</url>
+          <avatar>https://avatars.githubusercontent.com/u/228148310?s=40&amp;v=4</avatar>
+          <name>dee-dee-catorce</name>
+          <url>https://github.com/dee-dee-catorce</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29272208?s=40&amp;v=4</avatar>
-          <name>keerifox</name>
-          <url>https://github.com/keerifox</url>
+          <avatar>https://avatars.githubusercontent.com/u/292445453?s=40&amp;v=4</avatar>
+          <name>hamster-042</name>
+          <url>https://github.com/hamster-042</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/174571210?s=40&amp;v=4</avatar>
-          <name>AverageAcee</name>
-          <url>https://github.com/AverageAcee</url>
+          <avatar>https://avatars.githubusercontent.com/u/201308247?s=40&amp;v=4</avatar>
+          <name>temp4ture</name>
+          <url>https://github.com/temp4ture</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/155451800?s=40&amp;v=4</avatar>
-          <name>Selinoccino</name>
-          <url>https://github.com/Selinoccino</url>
+          <avatar>https://avatars.githubusercontent.com/u/17518895?s=40&amp;v=4</avatar>
+          <name>VileBeggar</name>
+          <url>https://github.com/VileBeggar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26345275?s=40&amp;v=4</avatar>
-          <name>CKRainbow</name>
-          <url>https://github.com/CKRainbow</url>
+          <avatar>https://avatars.githubusercontent.com/u/180658163?s=40&amp;v=4</avatar>
+          <name>ImPetrM</name>
+          <url>https://github.com/ImPetrM</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>gdquest-demos/godot-open-rpg</title>
-      <link>https://github.com/gdquest-demos/godot-open-rpg</link>
-      <description>Learn to create turn-based combat with this Open Source RPG demo ⚔</description>
-      <guid>https://github.com/gdquest-demos/godot-open-rpg</guid>
+      <title>endlessm/threadbare</title>
+      <link>https://github.com/endlessm/threadbare</link>
+      <description>Rebuild an unraveling world</description>
+      <guid>https://github.com/endlessm/threadbare</guid>
       <language>GDScript</language>
       <languageColor>#355570</languageColor>
-      <stars>2,946</stars>
-      <forks>359</forks>
-      <addStars>1</addStars>
+      <stars>127</stars>
+      <forks>486</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12694995?s=40&amp;v=4</avatar>
-          <name>NathanLovato</name>
-          <url>https://github.com/NathanLovato</url>
+          <avatar>https://avatars.githubusercontent.com/u/86760?s=40&amp;v=4</avatar>
+          <name>wjt</name>
+          <url>https://github.com/wjt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/112480409?s=40&amp;v=4</avatar>
-          <name>food-please</name>
-          <url>https://github.com/food-please</url>
+          <avatar>https://avatars.githubusercontent.com/u/83944?s=40&amp;v=4</avatar>
+          <name>manuq</name>
+          <url>https://github.com/manuq</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20494771?s=40&amp;v=4</avatar>
-          <name>guilhermehto</name>
-          <url>https://github.com/guilhermehto</url>
+          <avatar>https://avatars.githubusercontent.com/u/11432672?s=40&amp;v=4</avatar>
+          <name>JuanFdS</name>
+          <url>https://github.com/JuanFdS</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/316728?s=40&amp;v=4</avatar>
-          <name>erodozer</name>
-          <url>https://github.com/erodozer</url>
+          <avatar>https://avatars.githubusercontent.com/u/2048532?s=40&amp;v=4</avatar>
+          <name>pablitar</name>
+          <url>https://github.com/pablitar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/338843?s=40&amp;v=4</avatar>
-          <name>godofgrunts</name>
-          <url>https://github.com/godofgrunts</url>
+          <avatar>https://avatars.githubusercontent.com/u/164198892?s=40&amp;v=4</avatar>
+          <name>jgbourque</name>
+          <url>https://github.com/jgbourque</url>
         </contributor>
       </contributors>
     </item>

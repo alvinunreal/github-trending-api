@@ -2,409 +2,17 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
-    {
-      "title": "vbenjs/vue-vben-admin",
-      "url": "https://github.com/vbenjs/vue-vben-admin",
-      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "33,239",
-      "forks": "8,940",
-      "addStars": "82",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28132598?s=40&v=4",
-          "name": "anncwb",
-          "url": "https://github.com/anncwb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17241274?s=40&v=4",
-          "name": "mynetfan",
-          "url": "https://github.com/mynetfan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/233703391?s=40&v=4",
-          "name": "xingyu4j",
-          "url": "https://github.com/xingyu4j"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50581550?s=40&v=4",
-          "name": "jinmao88",
-          "url": "https://github.com/jinmao88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90845831?s=40&v=4",
-          "name": "likui628",
-          "url": "https://github.com/likui628"
-        }
-      ]
-    },
-    {
-      "title": "hefengxian/my-ielts",
-      "url": "https://github.com/hefengxian/my-ielts",
-      "description": "雅思词汇真经、雅思语法、听力 179、阅读 538 同义替换等。Everything during preparing for my IELTS exam.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "3,033",
-      "forks": "382",
-      "addStars": "140",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4338497?s=40&v=4",
-          "name": "hefengxian",
-          "url": "https://github.com/hefengxian"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38037704?s=40&v=4",
-          "name": "catbro666",
-          "url": "https://github.com/catbro666"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128350428?s=40&v=4",
-          "name": "jack4world",
-          "url": "https://github.com/jack4world"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20886982?s=40&v=4",
-          "name": "capxax",
-          "url": "https://github.com/capxax"
-        }
-      ]
-    },
-    {
-      "title": "HuLaSpark/HuLa",
-      "url": "https://github.com/HuLaSpark/HuLa",
-      "description": "🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "7,689",
-      "forks": "1,040",
-      "addStars": "122",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87641407?s=40&v=4",
-          "name": "nongyehong",
-          "url": "https://github.com/nongyehong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75788227?s=40&v=4",
-          "name": "wanwanruwoxin",
-          "url": "https://github.com/wanwanruwoxin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72072123?s=40&v=4",
-          "name": "rtx750ti",
-          "url": "https://github.com/rtx750ti"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44133469?s=40&v=4",
-          "name": "ZOL4789",
-          "url": "https://github.com/ZOL4789"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50982977?s=40&v=4",
-          "name": "clovu",
-          "url": "https://github.com/clovu"
-        }
-      ]
-    },
-    {
-      "title": "unovue/reka-ui",
-      "url": "https://github.com/unovue/reka-ui",
-      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "6,743",
-      "forks": "549",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59365435?s=40&v=4",
-          "name": "zernonia",
-          "url": "https://github.com/zernonia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101852870?s=40&v=4",
-          "name": "k11q",
-          "url": "https://github.com/k11q"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17836403?s=40&v=4",
-          "name": "epr3",
-          "url": "https://github.com/epr3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32707098?s=40&v=4",
-          "name": "kricsleo",
-          "url": "https://github.com/kricsleo"
-        }
-      ]
-    },
-    {
-      "title": "RikkaApps/websites",
-      "url": "https://github.com/RikkaApps/websites",
-      "description": "Websites for Rikka apps.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "433",
-      "forks": "60,439",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
-          "name": "RikkaW",
-          "url": "https://github.com/RikkaW"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13175615?s=40&v=4",
-          "name": "wqk317",
-          "url": "https://github.com/wqk317"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7046617?s=40&v=4",
-          "name": "david082321",
-          "url": "https://github.com/david082321"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
-          "name": "haruue",
-          "url": "https://github.com/haruue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6576096?s=40&v=4",
-          "name": "ghostbear",
-          "url": "https://github.com/ghostbear"
-        }
-      ]
-    },
-    {
-      "title": "Daymychen/art-design-pro",
-      "url": "https://github.com/Daymychen/art-design-pro",
-      "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "5,803",
-      "forks": "1,101",
-      "addStars": "52",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29684587?s=40&v=4",
-          "name": "Daymychen",
-          "url": "https://github.com/Daymychen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52770276?s=40&v=4",
-          "name": "ccs-song",
-          "url": "https://github.com/ccs-song"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66454152?s=40&v=4",
-          "name": "bryqiu",
-          "url": "https://github.com/bryqiu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81922999?s=40&v=4",
-          "name": "Barry-Flynn",
-          "url": "https://github.com/Barry-Flynn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "imsyy/yt-dlp-gui",
-      "url": "https://github.com/imsyy/yt-dlp-gui",
-      "description": "A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "254",
-      "forks": "29",
-      "addStars": "32",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42232682?s=40&v=4",
-          "name": "imsyy",
-          "url": "https://github.com/imsyy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/281749077?s=40&v=4",
-          "name": "RX-0071",
-          "url": "https://github.com/RX-0071"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15932372?s=40&v=4",
-          "name": "smileyhead",
-          "url": "https://github.com/smileyhead"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64307394?s=40&v=4",
-          "name": "MoYingJi",
-          "url": "https://github.com/MoYingJi"
-        }
-      ]
-    },
-    {
-      "title": "advplyr/audiobookshelf-app",
-      "url": "https://github.com/advplyr/audiobookshelf-app",
-      "description": "Mobile application for Audiobookshelf",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "2,667",
-      "forks": "423",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67830747?s=40&v=4",
-          "name": "advplyr",
-          "url": "https://github.com/advplyr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1143112?s=40&v=4",
-          "name": "ronaldheft",
-          "url": "https://github.com/ronaldheft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5686638?s=40&v=4",
-          "name": "nichwall",
-          "url": "https://github.com/nichwall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/176467594?s=40&v=4",
-          "name": "Cotignac",
-          "url": "https://github.com/Cotignac"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49640416?s=40&v=4",
-          "name": "rasmuslos",
-          "url": "https://github.com/rasmuslos"
-        }
-      ]
-    },
-    {
-      "title": "qier222/YesPlayMusic",
-      "url": "https://github.com/qier222/YesPlayMusic",
-      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "33,204",
-      "forks": "4,675",
-      "addStars": "58",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4",
-          "name": "qier222",
-          "url": "https://github.com/qier222"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11072796?s=40&v=4",
-          "name": "hawtim",
-          "url": "https://github.com/hawtim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28441561?s=40&v=4",
-          "name": "pan93412",
-          "url": "https://github.com/pan93412"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34763046?s=40&v=4",
-          "name": "memorydream",
-          "url": "https://github.com/memorydream"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16725418?s=40&v=4",
-          "name": "VidocqH",
-          "url": "https://github.com/VidocqH"
-        }
-      ]
-    },
-    {
-      "title": "FreeTubeApp/FreeTube",
-      "url": "https://github.com/FreeTubeApp/FreeTube",
-      "description": "An Open Source YouTube app for privacy",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "21,759",
-      "forks": "1,490",
-      "addStars": "73",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48293849?s=40&v=4",
-          "name": "absidue",
-          "url": "https://github.com/absidue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9736046?s=40&v=4",
-          "name": "PrestonN",
-          "url": "https://github.com/PrestonN"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73130443?s=40&v=4",
-          "name": "efb4f5ff-1298-471a-8973-3d47447115dc",
-          "url": "https://github.com/efb4f5ff-1298-471a-8973-3d47447115dc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1018543?s=40&v=4",
-          "name": "PikachuEXE",
-          "url": "https://github.com/PikachuEXE"
-        }
-      ]
-    },
-    {
-      "title": "keleus/BewlyCat",
-      "url": "https://github.com/keleus/BewlyCat",
-      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": "4,074",
-      "forks": "122",
-      "addStars": "80",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33394391?s=40&v=4",
-          "name": "hakadao",
-          "url": "https://github.com/hakadao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38204020?s=40&v=4",
-          "name": "keleus",
-          "url": "https://github.com/keleus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64941905?s=40&v=4",
-          "name": "starknt",
-          "url": "https://github.com/starknt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/141227996?s=40&v=4",
-          "name": "ChuwuYo",
-          "url": "https://github.com/ChuwuYo"
-        }
-      ]
-    },
     {
       "title": "requarks/wiki",
       "url": "https://github.com/requarks/wiki",
-      "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+      "description": "Wiki.js | Next Generation Open Source Wiki",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "28,799",
-      "forks": "3,296",
-      "addStars": "35",
+      "stars": "28,932",
+      "forks": "3,316",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15522395?s=40&v=4",
@@ -434,14 +42,115 @@
       ]
     },
     {
+      "title": "RikkaApps/websites",
+      "url": "https://github.com/RikkaApps/websites",
+      "description": "Websites for Rikka apps.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "441",
+      "forks": "64,603",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
+          "name": "RikkaW",
+          "url": "https://github.com/RikkaW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13175615?s=40&v=4",
+          "name": "wqk317",
+          "url": "https://github.com/wqk317"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7046617?s=40&v=4",
+          "name": "david082321",
+          "url": "https://github.com/david082321"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
+          "name": "haruue",
+          "url": "https://github.com/haruue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6576096?s=40&v=4",
+          "name": "ghostbear",
+          "url": "https://github.com/ghostbear"
+        }
+      ]
+    },
+    {
+      "title": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "10,047",
+      "forks": "1,202",
+      "addStars": "298",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19986642?s=40&v=4",
+          "name": "zyronon",
+          "url": "https://github.com/zyronon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152023695?s=40&v=4",
+          "name": "wysha-object",
+          "url": "https://github.com/wysha-object"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72185434?s=40&v=4",
+          "name": "SMGoro",
+          "url": "https://github.com/SMGoro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/189698611?s=40&v=4",
+          "name": "Muxy1108",
+          "url": "https://github.com/Muxy1108"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22068064?s=40&v=4",
+          "name": "hamburgerV",
+          "url": "https://github.com/hamburgerV"
+        }
+      ]
+    },
+    {
+      "title": "Jelosus2/BD2-L2D-Viewer",
+      "url": "https://github.com/Jelosus2/BD2-L2D-Viewer",
+      "description": "Web-based interactive Live2D and Spine animation viewer for the Brown Dust 2 game.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "493",
+      "forks": "86",
+      "addStars": "95",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75176441?s=40&v=4",
+          "name": "Jelosus2",
+          "url": "https://github.com/Jelosus2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11411771?s=40&v=4",
+          "name": "omarcande",
+          "url": "https://github.com/omarcande"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52101866?s=40&v=4",
+          "name": "qustrolabe",
+          "url": "https://github.com/qustrolabe"
+        }
+      ]
+    },
+    {
       "title": "lissy93/dashy",
       "url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "26,296",
-      "forks": "1,933",
-      "addStars": "88",
+      "stars": "26,486",
+      "forks": "1,934",
+      "addStars": "87",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1862727?s=40&v=4",
@@ -466,66 +175,495 @@
       ]
     },
     {
-      "title": "fastapiadmin/FastapiAdmin",
-      "url": "https://github.com/fastapiadmin/FastapiAdmin",
-      "description": "FastapiAdmin 是一套完全开源的快速开发平台，提供免费使用。它结合了现代、高性能的技术栈，后端采用Fastapi + SQLAlchemy，前端采用基于 vue3 + typescript + vite + pinia + Element-Plus。旨在帮助开发者快速搭建高质量的中后台系统。",
+      "title": "advplyr/audiobookshelf-app",
+      "url": "https://github.com/advplyr/audiobookshelf-app",
+      "description": "Mobile application for Audiobookshelf",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "1,058",
-      "forks": "286",
-      "addStars": "23",
+      "stars": "2,706",
+      "forks": "440",
+      "addStars": "24",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73034508?s=40&v=4",
-          "name": "fastapiadmin",
-          "url": "https://github.com/fastapiadmin"
+          "avatar": "https://avatars.githubusercontent.com/u/67830747?s=40&v=4",
+          "name": "advplyr",
+          "url": "https://github.com/advplyr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/123876944?s=40&v=4",
-          "name": "zxkx0909",
-          "url": "https://github.com/zxkx0909"
+          "avatar": "https://avatars.githubusercontent.com/u/1143112?s=40&v=4",
+          "name": "ronaldheft",
+          "url": "https://github.com/ronaldheft"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63537095?s=40&v=4",
-          "name": "sanyuan0v0",
-          "url": "https://github.com/sanyuan0v0"
+          "avatar": "https://avatars.githubusercontent.com/u/5686638?s=40&v=4",
+          "name": "nichwall",
+          "url": "https://github.com/nichwall"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29689596?s=40&v=4",
-          "name": "SpadekHWT",
-          "url": "https://github.com/SpadekHWT"
+          "avatar": "https://avatars.githubusercontent.com/u/176467594?s=40&v=4",
+          "name": "Cotignac",
+          "url": "https://github.com/Cotignac"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91509455?s=40&v=4",
-          "name": "CorePig",
-          "url": "https://github.com/CorePig"
+          "avatar": "https://avatars.githubusercontent.com/u/49640416?s=40&v=4",
+          "name": "rasmuslos",
+          "url": "https://github.com/rasmuslos"
         }
       ]
     },
     {
-      "title": "Kong/kongponents",
-      "url": "https://github.com/Kong/kongponents",
-      "description": "🦍 Kong Vue Component Library",
+      "title": "pipipi-pikachu/PPTist",
+      "url": "https://github.com/pipipi-pikachu/PPTist",
+      "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "164",
-      "forks": "28",
-      "addStars": "1",
+      "stars": "9,337",
+      "forks": "1,770",
+      "addStars": "27",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
-          "name": "semantic-release-bot",
-          "url": "https://github.com/semantic-release-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/22936489?s=40&v=4",
+          "name": "pipipi-pikachu",
+          "url": "https://github.com/pipipi-pikachu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2229946?s=40&v=4",
-          "name": "adamdehaven",
-          "url": "https://github.com/adamdehaven"
+          "avatar": "https://avatars.githubusercontent.com/u/22993665?s=40&v=4",
+          "name": "hy16657",
+          "url": "https://github.com/hy16657"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36751160?s=40&v=4",
-          "name": "portikM",
-          "url": "https://github.com/portikM"
+          "avatar": "https://avatars.githubusercontent.com/u/45580233?s=40&v=4",
+          "name": "lhyUnited",
+          "url": "https://github.com/lhyUnited"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38873815?s=40&v=4",
+          "name": "missile-xuan",
+          "url": "https://github.com/missile-xuan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28940870?s=40&v=4",
+          "name": "chaoXxxxx",
+          "url": "https://github.com/chaoXxxxx"
+        }
+      ]
+    },
+    {
+      "title": "vbenjs/vue-vben-admin",
+      "url": "https://github.com/vbenjs/vue-vben-admin",
+      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "33,463",
+      "forks": "8,961",
+      "addStars": "74",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28132598?s=40&v=4",
+          "name": "anncwb",
+          "url": "https://github.com/anncwb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17241274?s=40&v=4",
+          "name": "mynetfan",
+          "url": "https://github.com/mynetfan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/233703391?s=40&v=4",
+          "name": "xingyu4j",
+          "url": "https://github.com/xingyu4j"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50581550?s=40&v=4",
+          "name": "jinmao88",
+          "url": "https://github.com/jinmao88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90845831?s=40&v=4",
+          "name": "likui628",
+          "url": "https://github.com/likui628"
+        }
+      ]
+    },
+    {
+      "title": "unovue/reka-ui",
+      "url": "https://github.com/unovue/reka-ui",
+      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "6,807",
+      "forks": "551",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59365435?s=40&v=4",
+          "name": "zernonia",
+          "url": "https://github.com/zernonia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101852870?s=40&v=4",
+          "name": "k11q",
+          "url": "https://github.com/k11q"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17836403?s=40&v=4",
+          "name": "epr3",
+          "url": "https://github.com/epr3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32707098?s=40&v=4",
+          "name": "kricsleo",
+          "url": "https://github.com/kricsleo"
+        }
+      ]
+    },
+    {
+      "title": "imsyy/yt-dlp-gui",
+      "url": "https://github.com/imsyy/yt-dlp-gui",
+      "description": "A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "361",
+      "forks": "43",
+      "addStars": "42",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42232682?s=40&v=4",
+          "name": "imsyy",
+          "url": "https://github.com/imsyy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100322058?s=40&v=4",
+          "name": "padi-sk",
+          "url": "https://github.com/padi-sk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/281749077?s=40&v=4",
+          "name": "RX-0071",
+          "url": "https://github.com/RX-0071"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15932372?s=40&v=4",
+          "name": "smileyhead",
+          "url": "https://github.com/smileyhead"
+        }
+      ]
+    },
+    {
+      "title": "ayangweb/BongoCat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "description": "🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "23,241",
+      "forks": "1,131",
+      "addStars": "207",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/182907634?s=40&v=4",
+          "name": "vladelaina",
+          "url": "https://github.com/vladelaina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75017711?s=40&v=4",
+          "name": "ayangweb",
+          "url": "https://github.com/ayangweb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132551120?s=40&v=4",
+          "name": "YiMo1",
+          "url": "https://github.com/YiMo1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52661134?s=40&v=4",
+          "name": "yyz-git",
+          "url": "https://github.com/yyz-git"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110759450?s=40&v=4",
+          "name": "Michaelwucoc",
+          "url": "https://github.com/Michaelwucoc"
+        }
+      ]
+    },
+    {
+      "title": "julyx10/lap",
+      "url": "https://github.com/julyx10/lap",
+      "description": "An offline-first photo manager for large local libraries",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "2,421",
+      "forks": "149",
+      "addStars": "183",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36072047?s=40&v=4",
+          "name": "julyx10",
+          "url": "https://github.com/julyx10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80398645?s=40&v=4",
+          "name": "baksohyeon",
+          "url": "https://github.com/baksohyeon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2554644?s=40&v=4",
+          "name": "talynone",
+          "url": "https://github.com/talynone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30594056?s=40&v=4",
+          "name": "Florlet",
+          "url": "https://github.com/Florlet"
+        }
+      ]
+    },
+    {
+      "title": "wrapper-offline/wrapper-offline",
+      "url": "https://github.com/wrapper-offline/wrapper-offline",
+      "description": "A project with the purpose of providing a way to use the Legacy Video Maker from GoAnimate / Vyond.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "299",
+      "forks": "360",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/94416681?s=40&v=4",
+          "name": "octanuary",
+          "url": "https://github.com/octanuary"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60558304?s=40&v=4",
+          "name": "GoTest334",
+          "url": "https://github.com/GoTest334"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28193089?s=40&v=4",
+          "name": "2Epik4u",
+          "url": "https://github.com/2Epik4u"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59941517?s=40&v=4",
+          "name": "Crawlerop",
+          "url": "https://github.com/Crawlerop"
+        }
+      ]
+    },
+    {
+      "title": "CorentinTh/it-tools",
+      "url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "40,613",
+      "forks": "5,420",
+      "addStars": "97",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25065347?s=40&v=4",
+          "name": "CorentinTh",
+          "url": "https://github.com/CorentinTh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8972203?s=40&v=4",
+          "name": "cgoIT",
+          "url": "https://github.com/cgoIT"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29117330?s=40&v=4",
+          "name": "sharevb",
+          "url": "https://github.com/sharevb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33938500?s=40&v=4",
+          "name": "marvin-j97",
+          "url": "https://github.com/marvin-j97"
+        }
+      ]
+    },
+    {
+      "title": "algerkong/AlgerMusicPlayer",
+      "url": "https://github.com/algerkong/AlgerMusicPlayer",
+      "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "16,737",
+      "forks": "1,358",
+      "addStars": "94",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45055748?s=40&v=4",
+          "name": "algerkong",
+          "url": "https://github.com/algerkong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34536334?s=40&v=4",
+          "name": "chengww5217",
+          "url": "https://github.com/chengww5217"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118003925?s=40&v=4",
+          "name": "Hellodwadawd12312312",
+          "url": "https://github.com/Hellodwadawd12312312"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20151124?s=40&v=4",
+          "name": "lekoOwO",
+          "url": "https://github.com/lekoOwO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7991984?s=40&v=4",
+          "name": "hecai84",
+          "url": "https://github.com/hecai84"
+        }
+      ]
+    },
+    {
+      "title": "miantiao-me/Sink",
+      "url": "https://github.com/miantiao-me/Sink",
+      "description": "⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "7,126",
+      "forks": "5,236",
+      "addStars": "28",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2959393?s=40&v=4",
+          "name": "miantiao-me",
+          "url": "https://github.com/miantiao-me"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66887063?s=40&v=4",
+          "name": "MineraleYT",
+          "url": "https://github.com/MineraleYT"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40444637?s=40&v=4",
+          "name": "ZL-Asica",
+          "url": "https://github.com/ZL-Asica"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5876799?s=40&v=4",
+          "name": "andesco",
+          "url": "https://github.com/andesco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21162238?s=40&v=4",
+          "name": "QuentinHsu",
+          "url": "https://github.com/QuentinHsu"
+        }
+      ]
+    },
+    {
+      "title": "qier222/YesPlayMusic",
+      "url": "https://github.com/qier222/YesPlayMusic",
+      "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "33,294",
+      "forks": "4,672",
+      "addStars": "50",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4",
+          "name": "qier222",
+          "url": "https://github.com/qier222"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11072796?s=40&v=4",
+          "name": "hawtim",
+          "url": "https://github.com/hawtim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28441561?s=40&v=4",
+          "name": "pan93412",
+          "url": "https://github.com/pan93412"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34763046?s=40&v=4",
+          "name": "memorydream",
+          "url": "https://github.com/memorydream"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16725418?s=40&v=4",
+          "name": "VidocqH",
+          "url": "https://github.com/VidocqH"
+        }
+      ]
+    },
+    {
+      "title": "Gzh0821/pvzg_site",
+      "url": "https://github.com/Gzh0821/pvzg_site",
+      "description": "PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "1,617",
+      "forks": "129",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87368454?s=40&v=4",
+          "name": "Gzh0821",
+          "url": "https://github.com/Gzh0821"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67441866?s=40&v=4",
+          "name": "IceandFire04",
+          "url": "https://github.com/IceandFire04"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/175555883?s=40&v=4",
+          "name": "ItsRomeostar",
+          "url": "https://github.com/ItsRomeostar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/212877535?s=40&v=4",
+          "name": "OctoBored",
+          "url": "https://github.com/OctoBored"
+        }
+      ]
+    },
+    {
+      "title": "yuhonas/free-exercise-db",
+      "url": "https://github.com/yuhonas/free-exercise-db",
+      "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "1,885",
+      "forks": "492",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4928?s=40&v=4",
+          "name": "yuhonas",
+          "url": "https://github.com/yuhonas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/841681?s=40&v=4",
+          "name": "thebino",
+          "url": "https://github.com/thebino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18653821?s=40&v=4",
+          "name": "ZerGo0",
+          "url": "https://github.com/ZerGo0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68772421?s=40&v=4",
+          "name": "jtucker2",
+          "url": "https://github.com/jtucker2"
         }
       ]
     }

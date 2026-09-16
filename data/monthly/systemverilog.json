@@ -2,54 +2,17 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
-    {
-      "title": "verilator/verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "3,875",
-      "forks": "887",
-      "addStars": "108",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
-          "name": "wsnyder",
-          "url": "https://github.com/wsnyder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
-          "name": "gezalore",
-          "url": "https://github.com/gezalore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
-          "name": "RRozak",
-          "url": "https://github.com/RRozak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
-          "name": "YilouWang",
-          "url": "https://github.com/YilouWang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
-          "name": "toddstrader",
-          "url": "https://github.com/toddstrader"
-        }
-      ]
-    },
     {
       "title": "lowRISC/opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "3,607",
-      "forks": "1,096",
-      "addStars": "50",
+      "stars": "3,645",
+      "forks": "1,113",
+      "addStars": "52",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104845?s=40&v=4",
@@ -79,83 +42,14 @@
       ]
     },
     {
-      "title": "adam-maj/tiny-gpu",
-      "url": "https://github.com/adam-maj/tiny-gpu",
-      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "12,866",
-      "forks": "1,241",
-      "addStars": "109",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
-          "name": "adam-maj",
-          "url": "https://github.com/adam-maj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
-          "name": "ashaltu",
-          "url": "https://github.com/ashaltu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
-          "name": "xianbaoqian",
-          "url": "https://github.com/xianbaoqian"
-        }
-      ]
-    },
-    {
-      "title": "chipsalliance/caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "48",
-      "forks": "58",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
-          "name": "calebofearth",
-          "url": "https://github.com/calebofearth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
-          "name": "ekarabu",
-          "url": "https://github.com/ekarabu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
-          "name": "clayton8",
-          "url": "https://github.com/clayton8"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
-          "name": "nileshbpat",
-          "url": "https://github.com/nileshbpat"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/178779597?s=40&v=4",
-          "name": "andrea-caforio",
-          "url": "https://github.com/andrea-caforio"
-        }
-      ]
-    },
-    {
       "title": "lowRISC/ibex",
       "url": "https://github.com/lowRISC/ibex",
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,026",
-      "forks": "793",
-      "addStars": "41",
+      "stars": "2,058",
+      "forks": "808",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/471032?s=40&v=4",
@@ -185,39 +79,150 @@
       ]
     },
     {
-      "title": "chipsalliance/i3c-core",
-      "url": "https://github.com/chipsalliance/i3c-core",
-      "description": "",
+      "title": "verilator/verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "56",
-      "forks": "35",
-      "addStars": "1",
+      "stars": "3,931",
+      "forks": "903",
+      "addStars": "88",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3785621?s=40&v=4",
-          "name": "kgugala",
-          "url": "https://github.com/kgugala"
+          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
+          "name": "wsnyder",
+          "url": "https://github.com/wsnyder"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39563896?s=40&v=4",
-          "name": "robertszczepanski",
-          "url": "https://github.com/robertszczepanski"
+          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
+          "name": "gezalore",
+          "url": "https://github.com/gezalore"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47315577?s=40&v=4",
-          "name": "mkurc-ant",
-          "url": "https://github.com/mkurc-ant"
+          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
+          "name": "RRozak",
+          "url": "https://github.com/RRozak"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58303687?s=40&v=4",
-          "name": "wkkuna",
-          "url": "https://github.com/wkkuna"
+          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
+          "name": "YilouWang",
+          "url": "https://github.com/YilouWang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/120088471?s=40&v=4",
-          "name": "mczyz-antmicro",
-          "url": "https://github.com/mczyz-antmicro"
+          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
+          "name": "toddstrader",
+          "url": "https://github.com/toddstrader"
+        }
+      ]
+    },
+    {
+      "title": "chipsalliance/adams-bridge",
+      "url": "https://github.com/chipsalliance/adams-bridge",
+      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "63",
+      "forks": "17",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
+          "name": "Nitsirks",
+          "url": "https://github.com/Nitsirks"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102058313?s=40&v=4",
+          "name": "mojtaba-bisheh",
+          "url": "https://github.com/mojtaba-bisheh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
+          "name": "ekarabu",
+          "url": "https://github.com/ekarabu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125604693?s=40&v=4",
+          "name": "upadhyayulakiran",
+          "url": "https://github.com/upadhyayulakiran"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
+          "name": "calebofearth",
+          "url": "https://github.com/calebofearth"
+        }
+      ]
+    },
+    {
+      "title": "chipsalliance/caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "52",
+      "forks": "61",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
+          "name": "calebofearth",
+          "url": "https://github.com/calebofearth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
+          "name": "ekarabu",
+          "url": "https://github.com/ekarabu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7507042?s=40&v=4",
+          "name": "clayton8",
+          "url": "https://github.com/clayton8"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/142342517?s=40&v=4",
+          "name": "nileshbpat",
+          "url": "https://github.com/nileshbpat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/178779597?s=40&v=4",
+          "name": "andrea-caforio",
+          "url": "https://github.com/andrea-caforio"
+        }
+      ]
+    },
+    {
+      "title": "openhwgroup/cvw",
+      "url": "https://github.com/openhwgroup/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "627",
+      "forks": "569",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
+          "name": "davidharrishmc",
+          "url": "https://github.com/davidharrishmc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/568353?s=40&v=4",
+          "name": "rosethompson",
+          "url": "https://github.com/rosethompson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
+          "name": "jordancarlin",
+          "url": "https://github.com/jordancarlin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51968757?s=40&v=4",
+          "name": "BBracker",
+          "url": "https://github.com/BBracker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24443400?s=40&v=4",
+          "name": "JacobPease",
+          "url": "https://github.com/JacobPease"
         }
       ]
     },
@@ -227,9 +232,9 @@
       "description": "HW Design Collateral for Caliptra RoT IP",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "150",
-      "forks": "105",
-      "addStars": "2",
+      "stars": "155",
+      "forks": "107",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
@@ -259,39 +264,71 @@
       ]
     },
     {
-      "title": "chipsalliance/adams-bridge",
-      "url": "https://github.com/chipsalliance/adams-bridge",
-      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
+      "title": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "60",
-      "forks": "17",
-      "addStars": "2",
+      "stars": "12,973",
+      "forks": "1,247",
+      "addStars": "142",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
-          "name": "Nitsirks",
-          "url": "https://github.com/Nitsirks"
+          "avatar": "https://avatars.githubusercontent.com/u/64697628?s=40&v=4",
+          "name": "adam-maj",
+          "url": "https://github.com/adam-maj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/102058313?s=40&v=4",
-          "name": "mojtaba-bisheh",
-          "url": "https://github.com/mojtaba-bisheh"
+          "avatar": "https://avatars.githubusercontent.com/u/10238372?s=40&v=4",
+          "name": "ashaltu",
+          "url": "https://github.com/ashaltu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63821295?s=40&v=4",
-          "name": "ekarabu",
-          "url": "https://github.com/ekarabu"
+          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
+          "name": "eltociear",
+          "url": "https://github.com/eltociear"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125604693?s=40&v=4",
-          "name": "upadhyayulakiran",
-          "url": "https://github.com/upadhyayulakiran"
+          "avatar": "https://avatars.githubusercontent.com/u/38108242?s=40&v=4",
+          "name": "xianbaoqian",
+          "url": "https://github.com/xianbaoqian"
+        }
+      ]
+    },
+    {
+      "title": "pulp-platform/riscv-dbg",
+      "url": "https://github.com/pulp-platform/riscv-dbg",
+      "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "328",
+      "forks": "102",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13798471?s=40&v=4",
+          "name": "bluewww",
+          "url": "https://github.com/bluewww"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11879229?s=40&v=4",
-          "name": "calebofearth",
-          "url": "https://github.com/calebofearth"
+          "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
+          "name": "zarubaf",
+          "url": "https://github.com/zarubaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41358501?s=40&v=4",
+          "name": "msfschaffner",
+          "url": "https://github.com/msfschaffner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109749469?s=40&v=4",
+          "name": "phsauter",
+          "url": "https://github.com/phsauter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3583291?s=40&v=4",
+          "name": "andreaskurth",
+          "url": "https://github.com/andreaskurth"
         }
       ]
     }

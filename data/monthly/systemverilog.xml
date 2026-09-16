@@ -3,45 +3,7 @@
     <title>GitHub Systemverilog Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
-    <item>
-      <title>verilator/verilator</title>
-      <link>https://github.com/verilator/verilator</link>
-      <description>Verilator open-source SystemVerilog simulator and lint system</description>
-      <guid>https://github.com/verilator/verilator</guid>
-      <language>SystemVerilog</language>
-      <languageColor>#DAE1C2</languageColor>
-      <stars>3,875</stars>
-      <forks>887</forks>
-      <addStars>108</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1180685?s=40&amp;v=4</avatar>
-          <name>wsnyder</name>
-          <url>https://github.com/wsnyder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16000351?s=40&amp;v=4</avatar>
-          <name>gezalore</name>
-          <url>https://github.com/gezalore</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26442738?s=40&amp;v=4</avatar>
-          <name>RRozak</name>
-          <url>https://github.com/RRozak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/140522618?s=40&amp;v=4</avatar>
-          <name>YilouWang</name>
-          <url>https://github.com/YilouWang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6840496?s=40&amp;v=4</avatar>
-          <name>toddstrader</name>
-          <url>https://github.com/toddstrader</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>lowRISC/opentitan</title>
       <link>https://github.com/lowRISC/opentitan</link>
@@ -49,9 +11,9 @@
       <guid>https://github.com/lowRISC/opentitan</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>3,607</stars>
-      <forks>1,096</forks>
-      <addStars>50</addStars>
+      <stars>3,645</stars>
+      <forks>1,113</forks>
+      <addStars>52</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/104845?s=40&amp;v=4</avatar>
@@ -81,86 +43,15 @@
       </contributors>
     </item>
     <item>
-      <title>adam-maj/tiny-gpu</title>
-      <link>https://github.com/adam-maj/tiny-gpu</link>
-      <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
-      <guid>https://github.com/adam-maj/tiny-gpu</guid>
-      <language>SystemVerilog</language>
-      <languageColor>#DAE1C2</languageColor>
-      <stars>12,866</stars>
-      <forks>1,241</forks>
-      <addStars>109</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64697628?s=40&amp;v=4</avatar>
-          <name>adam-maj</name>
-          <url>https://github.com/adam-maj</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10238372?s=40&amp;v=4</avatar>
-          <name>ashaltu</name>
-          <url>https://github.com/ashaltu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4</avatar>
-          <name>eltociear</name>
-          <url>https://github.com/eltociear</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38108242?s=40&amp;v=4</avatar>
-          <name>xianbaoqian</name>
-          <url>https://github.com/xianbaoqian</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>chipsalliance/caliptra-ss</title>
-      <link>https://github.com/chipsalliance/caliptra-ss</link>
-      <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
-      <guid>https://github.com/chipsalliance/caliptra-ss</guid>
-      <language>SystemVerilog</language>
-      <languageColor>#DAE1C2</languageColor>
-      <stars>48</stars>
-      <forks>58</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11879229?s=40&amp;v=4</avatar>
-          <name>calebofearth</name>
-          <url>https://github.com/calebofearth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63821295?s=40&amp;v=4</avatar>
-          <name>ekarabu</name>
-          <url>https://github.com/ekarabu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7507042?s=40&amp;v=4</avatar>
-          <name>clayton8</name>
-          <url>https://github.com/clayton8</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142342517?s=40&amp;v=4</avatar>
-          <name>nileshbpat</name>
-          <url>https://github.com/nileshbpat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/178779597?s=40&amp;v=4</avatar>
-          <name>andrea-caforio</name>
-          <url>https://github.com/andrea-caforio</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>lowRISC/ibex</title>
       <link>https://github.com/lowRISC/ibex</link>
       <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
       <guid>https://github.com/lowRISC/ibex</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>2,026</stars>
-      <forks>793</forks>
-      <addStars>41</addStars>
+      <stars>2,058</stars>
+      <forks>808</forks>
+      <addStars>44</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/471032?s=40&amp;v=4</avatar>
@@ -190,40 +81,154 @@
       </contributors>
     </item>
     <item>
-      <title>chipsalliance/i3c-core</title>
-      <link>https://github.com/chipsalliance/i3c-core</link>
-      <description/>
-      <guid>https://github.com/chipsalliance/i3c-core</guid>
+      <title>verilator/verilator</title>
+      <link>https://github.com/verilator/verilator</link>
+      <description>Verilator open-source SystemVerilog simulator and lint system</description>
+      <guid>https://github.com/verilator/verilator</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>56</stars>
-      <forks>35</forks>
-      <addStars>1</addStars>
+      <stars>3,931</stars>
+      <forks>903</forks>
+      <addStars>88</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3785621?s=40&amp;v=4</avatar>
-          <name>kgugala</name>
-          <url>https://github.com/kgugala</url>
+          <avatar>https://avatars.githubusercontent.com/u/1180685?s=40&amp;v=4</avatar>
+          <name>wsnyder</name>
+          <url>https://github.com/wsnyder</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39563896?s=40&amp;v=4</avatar>
-          <name>robertszczepanski</name>
-          <url>https://github.com/robertszczepanski</url>
+          <avatar>https://avatars.githubusercontent.com/u/16000351?s=40&amp;v=4</avatar>
+          <name>gezalore</name>
+          <url>https://github.com/gezalore</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47315577?s=40&amp;v=4</avatar>
-          <name>mkurc-ant</name>
-          <url>https://github.com/mkurc-ant</url>
+          <avatar>https://avatars.githubusercontent.com/u/26442738?s=40&amp;v=4</avatar>
+          <name>RRozak</name>
+          <url>https://github.com/RRozak</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58303687?s=40&amp;v=4</avatar>
-          <name>wkkuna</name>
-          <url>https://github.com/wkkuna</url>
+          <avatar>https://avatars.githubusercontent.com/u/140522618?s=40&amp;v=4</avatar>
+          <name>YilouWang</name>
+          <url>https://github.com/YilouWang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/120088471?s=40&amp;v=4</avatar>
-          <name>mczyz-antmicro</name>
-          <url>https://github.com/mczyz-antmicro</url>
+          <avatar>https://avatars.githubusercontent.com/u/6840496?s=40&amp;v=4</avatar>
+          <name>toddstrader</name>
+          <url>https://github.com/toddstrader</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>chipsalliance/adams-bridge</title>
+      <link>https://github.com/chipsalliance/adams-bridge</link>
+      <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
+      <guid>https://github.com/chipsalliance/adams-bridge</guid>
+      <language>SystemVerilog</language>
+      <languageColor>#DAE1C2</languageColor>
+      <stars>63</stars>
+      <forks>17</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/108370498?s=40&amp;v=4</avatar>
+          <name>Nitsirks</name>
+          <url>https://github.com/Nitsirks</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102058313?s=40&amp;v=4</avatar>
+          <name>mojtaba-bisheh</name>
+          <url>https://github.com/mojtaba-bisheh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63821295?s=40&amp;v=4</avatar>
+          <name>ekarabu</name>
+          <url>https://github.com/ekarabu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/125604693?s=40&amp;v=4</avatar>
+          <name>upadhyayulakiran</name>
+          <url>https://github.com/upadhyayulakiran</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11879229?s=40&amp;v=4</avatar>
+          <name>calebofearth</name>
+          <url>https://github.com/calebofearth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>chipsalliance/caliptra-ss</title>
+      <link>https://github.com/chipsalliance/caliptra-ss</link>
+      <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
+      <guid>https://github.com/chipsalliance/caliptra-ss</guid>
+      <language>SystemVerilog</language>
+      <languageColor>#DAE1C2</languageColor>
+      <stars>52</stars>
+      <forks>61</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11879229?s=40&amp;v=4</avatar>
+          <name>calebofearth</name>
+          <url>https://github.com/calebofearth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63821295?s=40&amp;v=4</avatar>
+          <name>ekarabu</name>
+          <url>https://github.com/ekarabu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7507042?s=40&amp;v=4</avatar>
+          <name>clayton8</name>
+          <url>https://github.com/clayton8</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/142342517?s=40&amp;v=4</avatar>
+          <name>nileshbpat</name>
+          <url>https://github.com/nileshbpat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/178779597?s=40&amp;v=4</avatar>
+          <name>andrea-caforio</name>
+          <url>https://github.com/andrea-caforio</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>openhwgroup/cvw</title>
+      <link>https://github.com/openhwgroup/cvw</link>
+      <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
+      <guid>https://github.com/openhwgroup/cvw</guid>
+      <language>SystemVerilog</language>
+      <languageColor>#DAE1C2</languageColor>
+      <stars>627</stars>
+      <forks>569</forks>
+      <addStars>25</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/74973295?s=40&amp;v=4</avatar>
+          <name>davidharrishmc</name>
+          <url>https://github.com/davidharrishmc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/568353?s=40&amp;v=4</avatar>
+          <name>rosethompson</name>
+          <url>https://github.com/rosethompson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25440394?s=40&amp;v=4</avatar>
+          <name>jordancarlin</name>
+          <url>https://github.com/jordancarlin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51968757?s=40&amp;v=4</avatar>
+          <name>BBracker</name>
+          <url>https://github.com/BBracker</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24443400?s=40&amp;v=4</avatar>
+          <name>JacobPease</name>
+          <url>https://github.com/JacobPease</url>
         </contributor>
       </contributors>
     </item>
@@ -234,9 +239,9 @@
       <guid>https://github.com/chipsalliance/caliptra-rtl</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>150</stars>
-      <forks>105</forks>
-      <addStars>2</addStars>
+      <stars>155</stars>
+      <forks>107</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11879229?s=40&amp;v=4</avatar>
@@ -266,40 +271,73 @@
       </contributors>
     </item>
     <item>
-      <title>chipsalliance/adams-bridge</title>
-      <link>https://github.com/chipsalliance/adams-bridge</link>
-      <description>Post-Quantum Cryptography IP Core (Crystals-Dilithium)</description>
-      <guid>https://github.com/chipsalliance/adams-bridge</guid>
+      <title>adam-maj/tiny-gpu</title>
+      <link>https://github.com/adam-maj/tiny-gpu</link>
+      <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
+      <guid>https://github.com/adam-maj/tiny-gpu</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>60</stars>
-      <forks>17</forks>
-      <addStars>2</addStars>
+      <stars>12,973</stars>
+      <forks>1,247</forks>
+      <addStars>142</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108370498?s=40&amp;v=4</avatar>
-          <name>Nitsirks</name>
-          <url>https://github.com/Nitsirks</url>
+          <avatar>https://avatars.githubusercontent.com/u/64697628?s=40&amp;v=4</avatar>
+          <name>adam-maj</name>
+          <url>https://github.com/adam-maj</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102058313?s=40&amp;v=4</avatar>
-          <name>mojtaba-bisheh</name>
-          <url>https://github.com/mojtaba-bisheh</url>
+          <avatar>https://avatars.githubusercontent.com/u/10238372?s=40&amp;v=4</avatar>
+          <name>ashaltu</name>
+          <url>https://github.com/ashaltu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63821295?s=40&amp;v=4</avatar>
-          <name>ekarabu</name>
-          <url>https://github.com/ekarabu</url>
+          <avatar>https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4</avatar>
+          <name>eltociear</name>
+          <url>https://github.com/eltociear</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/125604693?s=40&amp;v=4</avatar>
-          <name>upadhyayulakiran</name>
-          <url>https://github.com/upadhyayulakiran</url>
+          <avatar>https://avatars.githubusercontent.com/u/38108242?s=40&amp;v=4</avatar>
+          <name>xianbaoqian</name>
+          <url>https://github.com/xianbaoqian</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pulp-platform/riscv-dbg</title>
+      <link>https://github.com/pulp-platform/riscv-dbg</link>
+      <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
+      <guid>https://github.com/pulp-platform/riscv-dbg</guid>
+      <language>SystemVerilog</language>
+      <languageColor>#DAE1C2</languageColor>
+      <stars>328</stars>
+      <forks>102</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13798471?s=40&amp;v=4</avatar>
+          <name>bluewww</name>
+          <url>https://github.com/bluewww</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11879229?s=40&amp;v=4</avatar>
-          <name>calebofearth</name>
-          <url>https://github.com/calebofearth</url>
+          <avatar>https://avatars.githubusercontent.com/u/199415?s=40&amp;v=4</avatar>
+          <name>zarubaf</name>
+          <url>https://github.com/zarubaf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41358501?s=40&amp;v=4</avatar>
+          <name>msfschaffner</name>
+          <url>https://github.com/msfschaffner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109749469?s=40&amp;v=4</avatar>
+          <name>phsauter</name>
+          <url>https://github.com/phsauter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3583291?s=40&amp;v=4</avatar>
+          <name>andreaskurth</name>
+          <url>https://github.com/andreaskurth</url>
         </contributor>
       </contributors>
     </item>

@@ -2,7 +2,7 @@
   "title": "GitHub Odin Languages Monthly Trending",
   "description": "Monthly Trending of Odin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "odin-lang/Odin",
@@ -10,9 +10,9 @@
       "description": "Odin Programming Language",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": "11,788",
-      "forks": "1,074",
-      "addStars": "334",
+      "stars": "11,944",
+      "forks": "1,098",
+      "addStars": "286",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3338141?s=40&v=4",
@@ -42,51 +42,14 @@
       ]
     },
     {
-      "title": "leotmp/no_gfx_api",
-      "url": "https://github.com/leotmp/no_gfx_api",
-      "description": "",
-      "language": "Odin",
-      "languageColor": "#60AFFE",
-      "stars": "286",
-      "forks": "18",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13568940?s=40&v=4",
-          "name": "leotmp",
-          "url": "https://github.com/leotmp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2418383?s=40&v=4",
-          "name": "jkelin",
-          "url": "https://github.com/jkelin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22982090?s=40&v=4",
-          "name": "Dudejoe870",
-          "url": "https://github.com/Dudejoe870"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60555816?s=40&v=4",
-          "name": "mp768",
-          "url": "https://github.com/mp768"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33829989?s=40&v=4",
-          "name": "ibotha",
-          "url": "https://github.com/ibotha"
-        }
-      ]
-    },
-    {
       "title": "DanielGavin/ols",
       "url": "https://github.com/DanielGavin/ols",
       "description": "Language server for Odin",
       "language": "Odin",
       "languageColor": "#60AFFE",
-      "stars": "1,162",
-      "forks": "182",
-      "addStars": "58",
+      "stars": "1,181",
+      "forks": "189",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5999133?s=40&v=4",

@@ -3,154 +3,7 @@
     <title>GitHub Dart Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Dart Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
-    <item>
-      <title>flutter/packages</title>
-      <link>https://github.com/flutter/packages</link>
-      <description>A collection of useful packages maintained by the Flutter team</description>
-      <guid>https://github.com/flutter/packages</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>5,294</stars>
-      <forks>3,871</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4</avatar>
-          <name>engine-flutter-autoroll</name>
-          <url>https://github.com/engine-flutter-autoroll</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122189?s=40&amp;v=4</avatar>
-          <name>stuartmorgan-g</name>
-          <url>https://github.com/stuartmorgan-g</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8620741?s=40&amp;v=4</avatar>
-          <name>dnfield</name>
-          <url>https://github.com/dnfield</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10687576?s=40&amp;v=4</avatar>
-          <name>bparrishMines</name>
-          <url>https://github.com/bparrishMines</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>flutter/flutter</title>
-      <link>https://github.com/flutter/flutter</link>
-      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
-      <guid>https://github.com/flutter/flutter</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>178,660</stars>
-      <forks>31,004</forks>
-      <addStars>22</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4</avatar>
-          <name>skia-flutter-autoroll</name>
-          <url>https://github.com/skia-flutter-autoroll</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4</avatar>
-          <name>engine-flutter-autoroll</name>
-          <url>https://github.com/engine-flutter-autoroll</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4</avatar>
-          <name>abarth</name>
-          <url>https://github.com/abarth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4</avatar>
-          <name>Hixie</name>
-          <url>https://github.com/Hixie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14226037?s=40&amp;v=4</avatar>
-          <name>jason-simmons</name>
-          <url>https://github.com/jason-simmons</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>TNT-Likely/BeeCount</title>
-      <link>https://github.com/TNT-Likely/BeeCount</link>
-      <description>Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP</description>
-      <guid>https://github.com/TNT-Likely/BeeCount</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>2,187</stars>
-      <forks>307</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9278923?s=40&amp;v=4</avatar>
-          <name>TNT-Likely</name>
-          <url>https://github.com/TNT-Likely</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49607027?s=40&amp;v=4</avatar>
-          <name>pan071</name>
-          <url>https://github.com/pan071</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63497646?s=40&amp;v=4</avatar>
-          <name>e74yp8</name>
-          <url>https://github.com/e74yp8</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6771308?s=40&amp;v=4</avatar>
-          <name>tedzhouhk</name>
-          <url>https://github.com/tedzhouhk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>simonoppowa/OpenNutriTracker</title>
-      <link>https://github.com/simonoppowa/OpenNutriTracker</link>
-      <description>🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.</description>
-      <guid>https://github.com/simonoppowa/OpenNutriTracker</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>2,405</stars>
-      <forks>333</forks>
-      <addStars>15</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24407484?s=40&amp;v=4</avatar>
-          <name>simonoppowa</name>
-          <url>https://github.com/simonoppowa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42590474?s=40&amp;v=4</avatar>
-          <name>jordan-lee-code</name>
-          <url>https://github.com/jordan-lee-code</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18120083?s=40&amp;v=4</avatar>
-          <name>doktormerlin</name>
-          <url>https://github.com/doktormerlin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/427849?s=40&amp;v=4</avatar>
-          <name>pektinasen</name>
-          <url>https://github.com/pektinasen</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>localsend/localsend</title>
       <link>https://github.com/localsend/localsend</link>
@@ -158,9 +11,9 @@
       <guid>https://github.com/localsend/localsend</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>89,420</stars>
-      <forks>4,974</forks>
-      <addStars>112</addStars>
+      <stars>91,756</stars>
+      <forks>5,120</forks>
+      <addStars>489</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38380847?s=40&amp;v=4</avatar>
@@ -190,365 +43,423 @@
       </contributors>
     </item>
     <item>
-      <title>firebase/flutterfire</title>
-      <link>https://github.com/firebase/flutterfire</link>
-      <description>🔥 A collection of Firebase plugins for Flutter apps.</description>
-      <guid>https://github.com/firebase/flutterfire</guid>
+      <title>chen08209/FlClash</title>
+      <link>https://github.com/chen08209/FlClash</link>
+      <description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
+      <guid>https://github.com/chen08209/FlClash</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>9,251</stars>
-      <forks>4,108</forks>
-      <addStars>0</addStars>
+      <stars>52,352</stars>
+      <forks>3,293</forks>
+      <addStars>144</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16018629?s=40&amp;v=4</avatar>
-          <name>russellwheatley</name>
-          <url>https://github.com/russellwheatley</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5347038?s=40&amp;v=4</avatar>
-          <name>Salakar</name>
-          <url>https://github.com/Salakar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3680002?s=40&amp;v=4</avatar>
-          <name>Lyokone</name>
-          <url>https://github.com/Lyokone</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/394889?s=40&amp;v=4</avatar>
-          <name>collinjackson</name>
-          <url>https://github.com/collinjackson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64037520?s=40&amp;v=4</avatar>
-          <name>SelaseKay</name>
-          <url>https://github.com/SelaseKay</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OneXray/OneXray</title>
-      <link>https://github.com/OneXray/OneXray</link>
-      <description>Cross Platform Xray-core Client</description>
-      <guid>https://github.com/OneXray/OneXray</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>507</stars>
-      <forks>67</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/147401898?s=40&amp;v=4</avatar>
-          <name>yiguodev</name>
-          <url>https://github.com/yiguodev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61908517?s=40&amp;v=4</avatar>
-          <name>samssh</name>
-          <url>https://github.com/samssh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3348532?s=40&amp;v=4</avatar>
-          <name>ts0307</name>
-          <url>https://github.com/ts0307</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>xiaoyaocz/dart_simple_live</title>
-      <link>https://github.com/xiaoyaocz/dart_simple_live</link>
-      <description>简简单单的看直播</description>
-      <guid>https://github.com/xiaoyaocz/dart_simple_live</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>15,955</stars>
-      <forks>3,067</forks>
-      <addStars>14</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16559082?s=40&amp;v=4</avatar>
-          <name>xiaoyaocz</name>
-          <url>https://github.com/xiaoyaocz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25811859?s=40&amp;v=4</avatar>
-          <name>bgylde</name>
-          <url>https://github.com/bgylde</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20356305?s=40&amp;v=4</avatar>
-          <name>SlotSun</name>
-          <url>https://github.com/SlotSun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53986661?s=40&amp;v=4</avatar>
-          <name>AprDeci</name>
-          <url>https://github.com/AprDeci</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35188529?s=40&amp;v=4</avatar>
-          <name>ybhgl</name>
-          <url>https://github.com/ybhgl</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ente/ente</title>
-      <link>https://github.com/ente/ente</link>
-      <description>💚 End-to-end encrypted cloud for everything.</description>
-      <guid>https://github.com/ente/ente</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>28,507</stars>
-      <forks>1,782</forks>
-      <addStars>14</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24503581?s=40&amp;v=4</avatar>
-          <name>mnvr</name>
-          <url>https://github.com/mnvr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/254676?s=40&amp;v=4</avatar>
-          <name>ua741</name>
-          <url>https://github.com/ua741</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46242073?s=40&amp;v=4</avatar>
-          <name>abhinavkgrd</name>
-          <url>https://github.com/abhinavkgrd</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77285023?s=40&amp;v=4</avatar>
-          <name>ashilkn</name>
-          <url>https://github.com/ashilkn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1161789?s=40&amp;v=4</avatar>
-          <name>vishnukvmd</name>
-          <url>https://github.com/vishnukvmd</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>pa-jesusf/KikoFlu</title>
-      <link>https://github.com/pa-jesusf/KikoFlu</link>
-      <description>Kikoeru Flutter ASMR player app, 跨平台同人音声客户端</description>
-      <guid>https://github.com/pa-jesusf/KikoFlu</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>560</stars>
-      <forks>21</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24589615?s=40&amp;v=4</avatar>
-          <name>syan2018</name>
-          <url>https://github.com/syan2018</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/203992009?s=40&amp;v=4</avatar>
-          <name>pa-jesusf</name>
-          <url>https://github.com/pa-jesusf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68476244?s=40&amp;v=4</avatar>
-          <name>czrae</name>
-          <url>https://github.com/czrae</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jameskokoska/Cashew</title>
-      <link>https://github.com/jameskokoska/Cashew</link>
-      <description>💸 An app created to help users manage a budget and purchases</description>
-      <guid>https://github.com/jameskokoska/Cashew</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>4,571</stars>
-      <forks>766</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50821962?s=40&amp;v=4</avatar>
-          <name>jameskokoska</name>
-          <url>https://github.com/jameskokoska</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20618460?s=40&amp;v=4</avatar>
-          <name>YuYing-Liang</name>
-          <url>https://github.com/YuYing-Liang</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bdero/flutter_scene</title>
-      <link>https://github.com/bdero/flutter_scene</link>
-      <description>A realtime 3D engine for Flutter.</description>
-      <guid>https://github.com/bdero/flutter_scene</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>734</stars>
-      <forks>77</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/919017?s=40&amp;v=4</avatar>
-          <name>bdero</name>
-          <url>https://github.com/bdero</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/135011905?s=40&amp;v=4</avatar>
-          <name>Ram-Dawson</name>
-          <url>https://github.com/Ram-Dawson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30503?s=40&amp;v=4</avatar>
-          <name>domesticmouse</name>
-          <url>https://github.com/domesticmouse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9603168?s=40&amp;v=4</avatar>
-          <name>kwill39</name>
-          <url>https://github.com/kwill39</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>kodjodevf/mangayomi</title>
-      <link>https://github.com/kodjodevf/mangayomi</link>
-      <description>Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows</description>
-      <guid>https://github.com/kodjodevf/mangayomi</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>3,725</stars>
-      <forks>122</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107993382?s=40&amp;v=4</avatar>
-          <name>kodjodevf</name>
-          <url>https://github.com/kodjodevf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78034913?s=40&amp;v=4</avatar>
-          <name>NBA2K1</name>
-          <url>https://github.com/NBA2K1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36087291?s=40&amp;v=4</avatar>
-          <name>Schnitzel5</name>
-          <url>https://github.com/Schnitzel5</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/118588258?s=40&amp;v=4</avatar>
-          <name>mrandhawa14</name>
-          <url>https://github.com/mrandhawa14</url>
+          <avatar>https://avatars.githubusercontent.com/u/66918471?s=40&amp;v=4</avatar>
+          <name>chen08209</name>
+          <url>https://github.com/chen08209</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
           <name>actions-user</name>
           <url>https://github.com/actions-user</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41893946?s=40&amp;v=4</avatar>
+          <name>txyyh</name>
+          <url>https://github.com/txyyh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101031809?s=40&amp;v=4</avatar>
+          <name>BIGGASSS</name>
+          <url>https://github.com/BIGGASSS</url>
+        </contributor>
       </contributors>
     </item>
     <item>
-      <title>DataDog/dd-sdk-flutter</title>
-      <link>https://github.com/DataDog/dd-sdk-flutter</link>
-      <description>Flutter bindings and tools for utilizing Datadog Mobile SDKs</description>
-      <guid>https://github.com/DataDog/dd-sdk-flutter</guid>
+      <title>AppFlowy-IO/AppFlowy</title>
+      <link>https://github.com/AppFlowy-IO/AppFlowy</link>
+      <description>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</description>
+      <guid>https://github.com/AppFlowy-IO/AppFlowy</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>70</stars>
-      <forks>70</forks>
-      <addStars>0</addStars>
+      <stars>76,753</stars>
+      <forks>6,018</forks>
+      <addStars>68</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/249982?s=40&amp;v=4</avatar>
-          <name>fuzzybinary</name>
-          <url>https://github.com/fuzzybinary</url>
+          <avatar>https://avatars.githubusercontent.com/u/86001920?s=40&amp;v=4</avatar>
+          <name>appflowy</name>
+          <url>https://github.com/appflowy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57361?s=40&amp;v=4</avatar>
-          <name>leoromanovsky</name>
-          <url>https://github.com/leoromanovsky</url>
+          <avatar>https://avatars.githubusercontent.com/u/11863087?s=40&amp;v=4</avatar>
+          <name>LucasXu0</name>
+          <url>https://github.com/LucasXu0</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4046447?s=40&amp;v=4</avatar>
-          <name>0xnm</name>
-          <url>https://github.com/0xnm</url>
+          <avatar>https://avatars.githubusercontent.com/u/71320345?s=40&amp;v=4</avatar>
+          <name>richardshiue</name>
+          <url>https://github.com/richardshiue</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/267074360?s=40&amp;v=4</avatar>
-          <name>JuanNaranjoDD</name>
-          <url>https://github.com/JuanNaranjoDD</url>
+          <avatar>https://avatars.githubusercontent.com/u/42929161?s=40&amp;v=4</avatar>
+          <name>Xazin</name>
+          <url>https://github.com/Xazin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/76412946?s=40&amp;v=4</avatar>
-          <name>alai97</name>
-          <url>https://github.com/alai97</url>
+          <avatar>https://avatars.githubusercontent.com/u/2352832?s=40&amp;v=4</avatar>
+          <name>vincentdchan</name>
+          <url>https://github.com/vincentdchan</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>avdept/JellyBoxPlayer</title>
-      <link>https://github.com/avdept/JellyBoxPlayer</link>
-      <description>The best native desktop and mobile music player for Jellyfin</description>
-      <guid>https://github.com/avdept/JellyBoxPlayer</guid>
+      <title>dart-lang/sdk</title>
+      <link>https://github.com/dart-lang/sdk</link>
+      <description>The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.</description>
+      <guid>https://github.com/dart-lang/sdk</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>468</stars>
-      <forks>17</forks>
-      <addStars>10</addStars>
+      <stars>11,283</stars>
+      <forks>1,876</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1757017?s=40&amp;v=4</avatar>
-          <name>avdept</name>
-          <url>https://github.com/avdept</url>
+          <avatar>https://avatars.githubusercontent.com/u/384794?s=40&amp;v=4</avatar>
+          <name>scheglov</name>
+          <url>https://github.com/scheglov</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9702879?s=40&amp;v=4</avatar>
-          <name>Sv1atM</name>
-          <url>https://github.com/Sv1atM</url>
+          <avatar>https://avatars.githubusercontent.com/u/306375?s=40&amp;v=4</avatar>
+          <name>stereotype441</name>
+          <url>https://github.com/stereotype441</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12426277?s=40&amp;v=4</avatar>
+          <name>johnniwinther</name>
+          <url>https://github.com/johnniwinther</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5840555?s=40&amp;v=4</avatar>
+          <name>bwilkerson</name>
+          <url>https://github.com/bwilkerson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8495071?s=40&amp;v=4</avatar>
+          <name>rmacnak-google</name>
+          <url>https://github.com/rmacnak-google</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>OpenStrap/edge</title>
-      <link>https://github.com/OpenStrap/edge</link>
-      <description>An app that makes a WHOOP 4.0 useful without a WHOOP subscription — pairs over Bluetooth, computes everything on your phone, no cloud required.</description>
-      <guid>https://github.com/OpenStrap/edge</guid>
+      <title>getlantern/lantern</title>
+      <link>https://github.com/getlantern/lantern</link>
+      <description>Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.</description>
+      <guid>https://github.com/getlantern/lantern</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>491</stars>
-      <forks>83</forks>
+      <stars>15,975</stars>
+      <forks>11,041</forks>
+      <addStars>9</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6346213?s=40&amp;v=4</avatar>
+          <name>atavism</name>
+          <url>https://github.com/atavism</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/132374182?s=40&amp;v=4</avatar>
+          <name>jigar-f</name>
+          <url>https://github.com/jigar-f</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1143966?s=40&amp;v=4</avatar>
+          <name>myleshorton</name>
+          <url>https://github.com/myleshorton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104022054?s=40&amp;v=4</avatar>
+          <name>garmr-ulfr</name>
+          <url>https://github.com/garmr-ulfr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>lichess-org/mobile</title>
+      <link>https://github.com/lichess-org/mobile</link>
+      <description>Lichess mobile app</description>
+      <guid>https://github.com/lichess-org/mobile</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>2,543</stars>
+      <forks>493</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/127765312?s=40&amp;v=4</avatar>
-          <name>abdulsaheel</name>
-          <url>https://github.com/abdulsaheel</url>
+          <avatar>https://avatars.githubusercontent.com/u/423393?s=40&amp;v=4</avatar>
+          <name>veloce</name>
+          <url>https://github.com/veloce</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/179630?s=40&amp;v=4</avatar>
-          <name>dannymcc</name>
-          <url>https://github.com/dannymcc</url>
+          <avatar>https://avatars.githubusercontent.com/u/120588494?s=40&amp;v=4</avatar>
+          <name>julien4215</name>
+          <url>https://github.com/julien4215</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142034221?s=40&amp;v=4</avatar>
-          <name>FlixiDoe</name>
-          <url>https://github.com/FlixiDoe</url>
+          <avatar>https://avatars.githubusercontent.com/u/13141438?s=40&amp;v=4</avatar>
+          <name>tom-anders</name>
+          <url>https://github.com/tom-anders</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60280126?s=40&amp;v=4</avatar>
-          <name>Brackyt</name>
-          <url>https://github.com/Brackyt</url>
+          <avatar>https://avatars.githubusercontent.com/u/54973703?s=40&amp;v=4</avatar>
+          <name>nav-28</name>
+          <url>https://github.com/nav-28</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99352677?s=40&amp;v=4</avatar>
-          <name>DropTabl</name>
-          <url>https://github.com/DropTabl</url>
+          <avatar>https://avatars.githubusercontent.com/u/78898963?s=40&amp;v=4</avatar>
+          <name>HaonRekcef</name>
+          <url>https://github.com/HaonRekcef</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>orailnoor/private-agent</title>
+      <link>https://github.com/orailnoor/private-agent</link>
+      <description>PrivateAgent is an open-source Android automation agent built with Flutter. It utilizes the DeepSeek API and native Android Accessibility Services to interpret screen layouts and execute multi-step tasks across any installed application via natural language commands.</description>
+      <guid>https://github.com/orailnoor/private-agent</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>324</stars>
+      <forks>142</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34442749?s=40&amp;v=4</avatar>
+          <name>orailnoor</name>
+          <url>https://github.com/orailnoor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54399984?s=40&amp;v=4</avatar>
+          <name>techjarves</name>
+          <url>https://github.com/techjarves</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>flutter/flutter</title>
+      <link>https://github.com/flutter/flutter</link>
+      <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
+      <guid>https://github.com/flutter/flutter</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>178,962</stars>
+      <forks>31,269</forks>
+      <addStars>18</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37626415?s=40&amp;v=4</avatar>
+          <name>skia-flutter-autoroll</name>
+          <url>https://github.com/skia-flutter-autoroll</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42042535?s=40&amp;v=4</avatar>
+          <name>engine-flutter-autoroll</name>
+          <url>https://github.com/engine-flutter-autoroll</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/112007?s=40&amp;v=4</avatar>
+          <name>abarth</name>
+          <url>https://github.com/abarth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/551196?s=40&amp;v=4</avatar>
+          <name>Hixie</name>
+          <url>https://github.com/Hixie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14226037?s=40&amp;v=4</avatar>
+          <name>jason-simmons</name>
+          <url>https://github.com/jason-simmons</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bggRGjQaUbCoE/PiliPlus</title>
+      <link>https://github.com/bggRGjQaUbCoE/PiliPlus</link>
+      <description>PiliPlus</description>
+      <guid>https://github.com/bggRGjQaUbCoE/PiliPlus</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>18,414</stars>
+      <forks>1,323</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/114972867?s=40&amp;v=4</avatar>
+          <name>bggRGjQaUbCoE</name>
+          <url>https://github.com/bggRGjQaUbCoE</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25545225?s=40&amp;v=4</avatar>
+          <name>guozhigq</name>
+          <url>https://github.com/guozhigq</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17450420?s=40&amp;v=4</avatar>
+          <name>orz12</name>
+          <url>https://github.com/orz12</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107370289?s=40&amp;v=4</avatar>
+          <name>My-Responsitories</name>
+          <url>https://github.com/My-Responsitories</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/89803422?s=40&amp;v=4</avatar>
+          <name>VillagerTom</name>
+          <url>https://github.com/VillagerTom</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rrousselGit/riverpod</title>
+      <link>https://github.com/rrousselGit/riverpod</link>
+      <description>A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.</description>
+      <guid>https://github.com/rrousselGit/riverpod</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>7,386</stars>
+      <forks>1,109</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20165741?s=40&amp;v=4</avatar>
+          <name>rrousselGit</name>
+          <url>https://github.com/rrousselGit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43258118?s=40&amp;v=4</avatar>
+          <name>kazukidddd</name>
+          <url>https://github.com/kazukidddd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15617545?s=40&amp;v=4</avatar>
+          <name>TimWhiting</name>
+          <url>https://github.com/TimWhiting</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32538273?s=40&amp;v=4</avatar>
+          <name>ValentinVignal</name>
+          <url>https://github.com/ValentinVignal</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>krille-chan/fluffychat</title>
+      <link>https://github.com/krille-chan/fluffychat</link>
+      <description>The cutest instant messenger in the [matrix]</description>
+      <guid>https://github.com/krille-chan/fluffychat</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>3,129</stars>
+      <forks>635</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24619905?s=40&amp;v=4</avatar>
+          <name>krille-chan</name>
+          <url>https://github.com/krille-chan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2433620?s=40&amp;v=4</avatar>
+          <name>Sorunome</name>
+          <url>https://github.com/Sorunome</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7106279?s=40&amp;v=4</avatar>
+          <name>jelv</name>
+          <url>https://github.com/jelv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34414563?s=40&amp;v=4</avatar>
+          <name>IhorHordiichuk</name>
+          <url>https://github.com/IhorHordiichuk</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>saber-notes/saber</title>
+      <link>https://github.com/saber-notes/saber</link>
+      <description>The cross-platform open-source app built for handwriting</description>
+      <guid>https://github.com/saber-notes/saber</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>4,806</stars>
+      <forks>371</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21128619?s=40&amp;v=4</avatar>
+          <name>adil192</name>
+          <url>https://github.com/adil192</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34811668?s=40&amp;v=4</avatar>
+          <name>albanobattistella</name>
+          <url>https://github.com/albanobattistella</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48548230?s=40&amp;v=4</avatar>
+          <name>ceskyDJ</name>
+          <url>https://github.com/ceskyDJ</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4339059?s=40&amp;v=4</avatar>
+          <name>ShevT</name>
+          <url>https://github.com/ShevT</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cogwheel0/conduit</title>
+      <link>https://github.com/cogwheel0/conduit</link>
+      <description>Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents.</description>
+      <guid>https://github.com/cogwheel0/conduit</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>2,140</stars>
+      <forks>217</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172976095?s=40&amp;v=4</avatar>
+          <name>cogwheel0</name>
+          <url>https://github.com/cogwheel0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/295140484?s=40&amp;v=4</avatar>
+          <name>Qyzom</name>
+          <url>https://github.com/Qyzom</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61460660?s=40&amp;v=4</avatar>
+          <name>larsb24</name>
+          <url>https://github.com/larsb24</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82151?s=40&amp;v=4</avatar>
+          <name>andrewchen</name>
+          <url>https://github.com/andrewchen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1883384?s=40&amp;v=4</avatar>
+          <name>culstrup</name>
+          <url>https://github.com/culstrup</url>
         </contributor>
       </contributors>
     </item>

@@ -3,7 +3,7 @@
     <title>GitHub Clojure Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Clojure Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>unclebob/swarm-forge</title>
       <link>https://github.com/unclebob/swarm-forge</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/unclebob/swarm-forge</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>2,871</stars>
-      <forks>294</forks>
-      <addStars>1,589</addStars>
+      <stars>3,894</stars>
+      <forks>384</forks>
+      <addStars>1,462</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/36901?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/metabase/metabase</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>48,944</stars>
-      <forks>6,774</forks>
-      <addStars>633</addStars>
+      <stars>49,285</stars>
+      <forks>6,822</forks>
+      <addStars>553</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1455846?s=40&amp;v=4</avatar>
@@ -69,9 +69,9 @@
           <url>https://github.com/nemanjaglumac</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5248953?s=40&amp;v=4</avatar>
-          <name>kdoh</name>
-          <url>https://github.com/kdoh</url>
+          <avatar>https://avatars.githubusercontent.com/u/8542534?s=40&amp;v=4</avatar>
+          <name>ranquild</name>
+          <url>https://github.com/ranquild</url>
         </contributor>
       </contributors>
     </item>
@@ -82,9 +82,9 @@
       <guid>https://github.com/logseq/logseq</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>44,642</stars>
-      <forks>2,790</forks>
-      <addStars>644</addStars>
+      <stars>44,934</stars>
+      <forks>2,812</forks>
+      <addStars>557</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/479169?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/tonsky/FiraCode</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>81,950</stars>
-      <forks>3,189</forks>
-      <addStars>179</addStars>
+      <stars>82,019</stars>
+      <forks>3,186</forks>
+      <addStars>184</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/285292?s=40&amp;v=4</avatar>
@@ -152,15 +152,53 @@
       </contributors>
     </item>
     <item>
+      <title>penpot/penpot</title>
+      <link>https://github.com/penpot/penpot</link>
+      <description>Penpot: The open-source design platform for Product teams that need scalable collaboration.</description>
+      <guid>https://github.com/penpot/penpot</guid>
+      <language>Clojure</language>
+      <languageColor>#db5855</languageColor>
+      <stars>60,044</stars>
+      <forks>4,102</forks>
+      <addStars>1,488</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/843689?s=40&amp;v=4</avatar>
+          <name>niwinz</name>
+          <url>https://github.com/niwinz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3418223?s=40&amp;v=4</avatar>
+          <name>Alotor</name>
+          <url>https://github.com/Alotor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1579633?s=40&amp;v=4</avatar>
+          <name>superalex</name>
+          <url>https://github.com/superalex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1483050?s=40&amp;v=4</avatar>
+          <name>hirunatan</name>
+          <url>https://github.com/hirunatan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48989967?s=40&amp;v=4</avatar>
+          <name>EvaMarco</name>
+          <url>https://github.com/EvaMarco</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>logseq/og</title>
       <link>https://github.com/logseq/og</link>
       <description>Logseq og (file version)</description>
       <guid>https://github.com/logseq/og</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>262</stars>
-      <forks>40</forks>
-      <addStars>82</addStars>
+      <stars>291</stars>
+      <forks>51</forks>
+      <addStars>62</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/479169?s=40&amp;v=4</avatar>
@@ -190,40 +228,40 @@
       </contributors>
     </item>
     <item>
-      <title>cognitect-labs/test-runner</title>
-      <link>https://github.com/cognitect-labs/test-runner</link>
-      <description>A test runner for clojure.test</description>
-      <guid>https://github.com/cognitect-labs/test-runner</guid>
+      <title>status-im/status-legacy</title>
+      <link>https://github.com/status-im/status-legacy</link>
+      <description>a free (libre) open source, mobile OS for Ethereum</description>
+      <guid>https://github.com/status-im/status-legacy</guid>
       <language>Clojure</language>
       <languageColor>#db5855</languageColor>
-      <stars>308</stars>
-      <forks>36</forks>
-      <addStars>0</addStars>
+      <stars>4,021</stars>
+      <forks>988</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/171129?s=40&amp;v=4</avatar>
-          <name>puredanger</name>
-          <url>https://github.com/puredanger</url>
+          <avatar>https://avatars.githubusercontent.com/u/2364994?s=40&amp;v=4</avatar>
+          <name>rasom</name>
+          <url>https://github.com/rasom</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70788?s=40&amp;v=4</avatar>
-          <name>levand</name>
-          <url>https://github.com/levand</url>
+          <avatar>https://avatars.githubusercontent.com/u/11790366?s=40&amp;v=4</avatar>
+          <name>flexsurfer</name>
+          <url>https://github.com/flexsurfer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6774?s=40&amp;v=4</avatar>
-          <name>mainej</name>
-          <url>https://github.com/mainej</url>
+          <avatar>https://avatars.githubusercontent.com/u/2212681?s=40&amp;v=4</avatar>
+          <name>jakubgs</name>
+          <url>https://github.com/jakubgs</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/829803?s=40&amp;v=4</avatar>
-          <name>ghadishayban</name>
-          <url>https://github.com/ghadishayban</url>
+          <avatar>https://avatars.githubusercontent.com/u/1017008?s=40&amp;v=4</avatar>
+          <name>cammellos</name>
+          <url>https://github.com/cammellos</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/953000?s=40&amp;v=4</avatar>
-          <name>enaeher</name>
-          <url>https://github.com/enaeher</url>
+          <avatar>https://avatars.githubusercontent.com/u/4557972?s=40&amp;v=4</avatar>
+          <name>churik</name>
+          <url>https://github.com/churik</url>
         </contributor>
       </contributors>
     </item>

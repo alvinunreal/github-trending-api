@@ -2,54 +2,17 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
-    {
-      "title": "embabel/embabel-agent",
-      "url": "https://github.com/embabel/embabel-agent",
-      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "4,385",
-      "forks": "429",
-      "addStars": "590",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1916583?s=40&v=4",
-          "name": "johnsonr",
-          "url": "https://github.com/johnsonr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2858254?s=40&v=4",
-          "name": "alexheifetz",
-          "url": "https://github.com/alexheifetz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165492669?s=40&v=4",
-          "name": "igordayen",
-          "url": "https://github.com/igordayen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/430321?s=40&v=4",
-          "name": "jasperblues",
-          "url": "https://github.com/jasperblues"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
     {
       "title": "tiann/KernelSU",
       "url": "https://github.com/tiann/KernelSU",
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "18,009",
-      "forks": "3,919",
-      "addStars": "611",
+      "stars": "18,435",
+      "forks": "4,037",
+      "addStars": "676",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
@@ -74,214 +37,93 @@
       ]
     },
     {
-      "title": "2dust/v2rayNG",
-      "url": "https://github.com/2dust/v2rayNG",
-      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "title": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "61,636",
-      "forks": "8,005",
-      "addStars": "1,818",
+      "stars": "53,481",
+      "forks": "8,583",
+      "addStars": "3,320",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4",
-          "name": "2dust",
-          "url": "https://github.com/2dust"
+          "avatar": "https://avatars.githubusercontent.com/u/4361923?s=40&v=4",
+          "name": "bannedbook",
+          "url": "https://github.com/bannedbook"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4",
-          "name": "yuhan6665",
-          "url": "https://github.com/yuhan6665"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4",
-          "name": "codewithtamim",
-          "url": "https://github.com/codewithtamim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4",
-          "name": "solokot",
-          "url": "https://github.com/solokot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63148255?s=40&v=4",
-          "name": "hosseinabaspanah",
-          "url": "https://github.com/hosseinabaspanah"
+          "avatar": "https://avatars.githubusercontent.com/u/50905019?s=40&v=4",
+          "name": "crazyetiii",
+          "url": "https://github.com/crazyetiii"
         }
       ]
     },
     {
-      "title": "RikkaApps/Shizuku",
-      "url": "https://github.com/RikkaApps/Shizuku",
-      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "title": "jellyfin/jellyfin-androidtv",
+      "url": "https://github.com/jellyfin/jellyfin-androidtv",
+      "description": "Android TV Client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "29,356",
-      "forks": "2,944",
-      "addStars": "1,510",
+      "stars": "4,556",
+      "forks": "952",
+      "addStars": "110",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
-          "name": "RikkaW",
-          "url": "https://github.com/RikkaW"
+          "avatar": "https://avatars.githubusercontent.com/u/2305178?s=40&v=4",
+          "name": "nielsvanvelzen",
+          "url": "https://github.com/nielsvanvelzen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
-          "name": "vvb2060",
-          "url": "https://github.com/vvb2060"
+          "avatar": "https://avatars.githubusercontent.com/u/3450688?s=40&v=4",
+          "name": "thornbill",
+          "url": "https://github.com/thornbill"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
-          "name": "haruue",
-          "url": "https://github.com/haruue"
+          "avatar": "https://avatars.githubusercontent.com/u/2727561?s=40&v=4",
+          "name": "ebr11",
+          "url": "https://github.com/ebr11"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4",
-          "name": "ryuunoakaihitomi",
-          "url": "https://github.com/ryuunoakaihitomi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4",
-          "name": "tclement0922",
-          "url": "https://github.com/tclement0922"
+          "avatar": "https://avatars.githubusercontent.com/u/4700006?s=40&v=4",
+          "name": "WWWesten",
+          "url": "https://github.com/WWWesten"
         }
       ]
     },
     {
-      "title": "rukamori/ArchiveTune",
-      "url": "https://github.com/rukamori/ArchiveTune",
-      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+      "title": "thunderbird/thunderbird-android",
+      "url": "https://github.com/thunderbird/thunderbird-android",
+      "description": "Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,230",
-      "forks": "224",
-      "addStars": "1,383",
+      "stars": "13,999",
+      "forks": "2,808",
+      "addStars": "176",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107134739?s=40&v=4",
-          "name": "rukamori",
-          "url": "https://github.com/rukamori"
+          "avatar": "https://avatars.githubusercontent.com/u/218061?s=40&v=4",
+          "name": "cketti",
+          "url": "https://github.com/cketti"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/89002922?s=40&v=4",
-          "name": "mikooochi",
-          "url": "https://github.com/mikooochi"
+          "avatar": "https://avatars.githubusercontent.com/u/2285235?s=40&v=4",
+          "name": "wmontwe",
+          "url": "https://github.com/wmontwe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/93458424?s=40&v=4",
-          "name": "Windowstechtips",
-          "url": "https://github.com/Windowstechtips"
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+          "name": "obra",
+          "url": "https://github.com/obra"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/195509093?s=40&v=4",
-          "name": "shinonatsukii",
-          "url": "https://github.com/shinonatsukii"
-        }
-      ]
-    },
-    {
-      "title": "mihonapp/mihon",
-      "url": "https://github.com/mihonapp/mihon",
-      "description": "Free and open source manga reader for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "23,127",
-      "forks": "1,451",
-      "addStars": "939",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59261191?s=40&v=4",
-          "name": "AntsyLich",
-          "url": "https://github.com/AntsyLich"
+          "avatar": "https://avatars.githubusercontent.com/u/3229661?s=40&v=4",
+          "name": "rafaeltonholo",
+          "url": "https://github.com/rafaeltonholo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39014446?s=40&v=4",
-          "name": "MajorTanya",
-          "url": "https://github.com/MajorTanya"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10836780?s=40&v=4",
-          "name": "Soitora",
-          "url": "https://github.com/Soitora"
-        }
-      ]
-    },
-    {
-      "title": "AAswordman/Operit",
-      "url": "https://github.com/AAswordman/Operit",
-      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "7,285",
-      "forks": "582",
-      "addStars": "1,246",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66207760?s=40&v=4",
-          "name": "AAswordman",
-          "url": "https://github.com/AAswordman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75722052?s=40&v=4",
-          "name": "luojiaping",
-          "url": "https://github.com/luojiaping"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109326062?s=40&v=4",
-          "name": "CATMIAOZHI",
-          "url": "https://github.com/CATMIAOZHI"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/190493050?s=40&v=4",
-          "name": "yizhen47",
-          "url": "https://github.com/yizhen47"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22849152?s=40&v=4",
-          "name": "zhufengning",
-          "url": "https://github.com/zhufengning"
-        }
-      ]
-    },
-    {
-      "title": "maxrave-dev/SimpMusic",
-      "url": "https://github.com/maxrave-dev/SimpMusic",
-      "description": "A cross-platform music app using YouTube Music for backend",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "10,711",
-      "forks": "554",
-      "addStars": "696",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113747128?s=40&v=4",
-          "name": "maxrave-dev",
-          "url": "https://github.com/maxrave-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87689078?s=40&v=4",
-          "name": "RounakDadsena",
-          "url": "https://github.com/RounakDadsena"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102886591?s=40&v=4",
-          "name": "spiicez21",
-          "url": "https://github.com/spiicez21"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96661824?s=40&v=4",
-          "name": "CrazyWolf13",
-          "url": "https://github.com/CrazyWolf13"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62717259?s=40&v=4",
-          "name": "ilianoKokoro",
-          "url": "https://github.com/ilianoKokoro"
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
         }
       ]
     },
@@ -291,9 +133,9 @@
       "description": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,648",
-      "forks": "102",
-      "addStars": "248",
+      "stars": "2,686",
+      "forks": "118",
+      "addStars": "1,099",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/208284282?s=40&v=4",
@@ -323,209 +165,19 @@
       ]
     },
     {
-      "title": "keiyoushi/extensions-source",
-      "url": "https://github.com/keiyoushi/extensions-source",
-      "description": "Source code of extensions in https://github.com/keiyoushi/extensions",
+      "title": "rushiranpise/morphe-patches",
+      "url": "https://github.com/rushiranpise/morphe-patches",
+      "description": "New mask, same task. All patches answer to Doom.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,592",
-      "forks": "1,605",
-      "addStars": "197",
+      "stars": "684",
+      "forks": "44",
+      "addStars": "306",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48650614?s=40&v=4",
-          "name": "AwkwardPeak7",
-          "url": "https://github.com/AwkwardPeak7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13540478?s=40&v=4",
-          "name": "vetleledaal",
-          "url": "https://github.com/vetleledaal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/156493704?s=40&v=4",
-          "name": "choppeh",
-          "url": "https://github.com/choppeh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90949336?s=40&v=4",
-          "name": "bapeey",
-          "url": "https://github.com/bapeey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92439990?s=40&v=4",
-          "name": "beer-psi",
-          "url": "https://github.com/beer-psi"
-        }
-      ]
-    },
-    {
-      "title": "thejaustin/ShizukuPlus",
-      "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "772",
-      "forks": "45",
-      "addStars": "255",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
-          "name": "RikkaW",
-          "url": "https://github.com/RikkaW"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10579902?s=40&v=4",
-          "name": "thejaustin",
-          "url": "https://github.com/thejaustin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80229487?s=40&v=4",
-          "name": "thedjchi",
-          "url": "https://github.com/thedjchi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/224605497?s=40&v=4",
-          "name": "qwencoder",
-          "url": "https://github.com/qwencoder"
-        }
-      ]
-    },
-    {
-      "title": "jellyfin/jellyfin-androidtv",
-      "url": "https://github.com/jellyfin/jellyfin-androidtv",
-      "description": "Android TV Client for Jellyfin",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "4,488",
-      "forks": "928",
-      "addStars": "97",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2305178?s=40&v=4",
-          "name": "nielsvanvelzen",
-          "url": "https://github.com/nielsvanvelzen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3450688?s=40&v=4",
-          "name": "thornbill",
-          "url": "https://github.com/thornbill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2727561?s=40&v=4",
-          "name": "ebr11",
-          "url": "https://github.com/ebr11"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4700006?s=40&v=4",
-          "name": "WWWesten",
-          "url": "https://github.com/WWWesten"
-        }
-      ]
-    },
-    {
-      "title": "rikkahub/rikkahub",
-      "url": "https://github.com/rikkahub/rikkahub",
-      "description": "RikkaHub is an Android APP that supports for multiple LLM providers.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "7,188",
-      "forks": "605",
-      "addStars": "910",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21152113?s=40&v=4",
-          "name": "re-ovo",
-          "url": "https://github.com/re-ovo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/176464082?s=40&v=4",
-          "name": "jacob-sheng",
-          "url": "https://github.com/jacob-sheng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46769726?s=40&v=4",
-          "name": "Cyli00",
-          "url": "https://github.com/Cyli00"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/130730471?s=40&v=4",
-          "name": "EDWINCHENC",
-          "url": "https://github.com/EDWINCHENC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138278463?s=40&v=4",
-          "name": "jingkarqi",
-          "url": "https://github.com/jingkarqi"
-        }
-      ]
-    },
-    {
-      "title": "topjohnwu/Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": "The Magic Mask for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "62,444",
-      "forks": "18,403",
-      "addStars": "685",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7337301?s=40&v=4",
-          "name": "topjohnwu",
-          "url": "https://github.com/topjohnwu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5982859?s=40&v=4",
-          "name": "diareuse",
-          "url": "https://github.com/diareuse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
-          "name": "vvb2060",
-          "url": "https://github.com/vvb2060"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4",
-          "name": "yujincheng08",
-          "url": "https://github.com/yujincheng08"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31466456?s=40&v=4",
-          "name": "canyie",
-          "url": "https://github.com/canyie"
-        }
-      ]
-    },
-    {
-      "title": "ReVanced/revanced-manager",
-      "url": "https://github.com/ReVanced/revanced-manager",
-      "description": "💊 Application to use ReVanced on Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "29,225",
-      "forks": "1,138",
-      "addStars": "618",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/93124920?s=40&v=4",
-          "name": "validcube",
-          "url": "https://github.com/validcube"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28486288?s=40&v=4",
-          "name": "Axelen123",
-          "url": "https://github.com/Axelen123"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13122796?s=40&v=4",
-          "name": "oSumAtrIX",
-          "url": "https://github.com/oSumAtrIX"
+          "avatar": "https://avatars.githubusercontent.com/u/37355997?s=40&v=4",
+          "name": "rushiranpise",
+          "url": "https://github.com/rushiranpise"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/32174276?s=40&v=4",
@@ -533,9 +185,14 @@
           "url": "https://github.com/semantic-release-bot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4687488?s=40&v=4",
-          "name": "ponces",
-          "url": "https://github.com/ponces"
+          "avatar": "https://avatars.githubusercontent.com/u/118716522?s=40&v=4",
+          "name": "LisoUseInAIKyrios",
+          "url": "https://github.com/LisoUseInAIKyrios"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -545,9 +202,9 @@
       "description": "A Material 3 Music Player for Android with local file & YouTube Music support. Forked from InnerTune",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,364",
-      "forks": "358",
-      "addStars": "123",
+      "stars": "5,393",
+      "forks": "371",
+      "addStars": "127",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39427017?s=40&v=4",
@@ -577,66 +234,214 @@
       ]
     },
     {
-      "title": "recloudstream/cloudstream",
-      "url": "https://github.com/recloudstream/cloudstream",
-      "description": "Android app for streaming and downloading media.",
+      "title": "gkd-kit/gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,532",
-      "forks": "1,022",
-      "addStars": "319",
+      "stars": "41,931",
+      "forks": "1,984",
+      "addStars": "1,114",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11805592?s=40&v=4",
-          "name": "LagradOst",
-          "url": "https://github.com/LagradOst"
+          "avatar": "https://avatars.githubusercontent.com/u/38517192?s=40&v=4",
+          "name": "lisonge",
+          "url": "https://github.com/lisonge"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/142361265?s=40&v=4",
-          "name": "Luna712",
-          "url": "https://github.com/Luna712"
+          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
+          "name": "tiann",
+          "url": "https://github.com/tiann"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46196380?s=40&v=4",
-          "name": "Blatzar",
-          "url": "https://github.com/Blatzar"
+          "avatar": "https://avatars.githubusercontent.com/u/121001029?s=40&v=4",
+          "name": "cjy0812",
+          "url": "https://github.com/cjy0812"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/147925818?s=40&v=4",
-          "name": "fire-light42",
-          "url": "https://github.com/fire-light42"
+          "avatar": "https://avatars.githubusercontent.com/u/17351112?s=40&v=4",
+          "name": "fansangg",
+          "url": "https://github.com/fansangg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18114966?s=40&v=4",
-          "name": "C10udburst",
-          "url": "https://github.com/C10udburst"
+          "avatar": "https://avatars.githubusercontent.com/u/85251920?s=40&v=4",
+          "name": "Lin-arm",
+          "url": "https://github.com/Lin-arm"
         }
       ]
     },
     {
-      "title": "bitwarden/android",
-      "url": "https://github.com/bitwarden/android",
-      "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+      "title": "maxrave-dev/SimpMusic",
+      "url": "https://github.com/maxrave-dev/SimpMusic",
+      "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,269",
-      "forks": "1,042",
-      "addStars": "174",
+      "stars": "11,278",
+      "forks": "597",
+      "addStars": "865",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125928928?s=40&v=4",
-          "name": "david-livefront",
-          "url": "https://github.com/david-livefront"
+          "avatar": "https://avatars.githubusercontent.com/u/113747128?s=40&v=4",
+          "name": "maxrave-dev",
+          "url": "https://github.com/maxrave-dev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1883101?s=40&v=4",
-          "name": "SaintPatrck",
-          "url": "https://github.com/SaintPatrck"
+          "avatar": "https://avatars.githubusercontent.com/u/87689078?s=40&v=4",
+          "name": "RounakDadsena",
+          "url": "https://github.com/RounakDadsena"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/126027223?s=40&v=4",
-          "name": "brian-livefront",
-          "url": "https://github.com/brian-livefront"
+          "avatar": "https://avatars.githubusercontent.com/u/102886591?s=40&v=4",
+          "name": "spiicez21",
+          "url": "https://github.com/spiicez21"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96661824?s=40&v=4",
+          "name": "CrazyWolf13",
+          "url": "https://github.com/CrazyWolf13"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62717259?s=40&v=4",
+          "name": "ilianoKokoro",
+          "url": "https://github.com/ilianoKokoro"
+        }
+      ]
+    },
+    {
+      "title": "rukamori/ArchiveTune",
+      "url": "https://github.com/rukamori/ArchiveTune",
+      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "6,103",
+      "forks": "257",
+      "addStars": "1,590",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107134739?s=40&v=4",
+          "name": "rukamori",
+          "url": "https://github.com/rukamori"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89002922?s=40&v=4",
+          "name": "mikooochi",
+          "url": "https://github.com/mikooochi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93458424?s=40&v=4",
+          "name": "Windowstechtips",
+          "url": "https://github.com/Windowstechtips"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/195509093?s=40&v=4",
+          "name": "shinonatsukii",
+          "url": "https://github.com/shinonatsukii"
+        }
+      ]
+    },
+    {
+      "title": "RikkaApps/Shizuku",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "30,186",
+      "forks": "3,106",
+      "addStars": "1,399",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
+          "name": "RikkaW",
+          "url": "https://github.com/RikkaW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
+          "name": "vvb2060",
+          "url": "https://github.com/vvb2060"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
+          "name": "haruue",
+          "url": "https://github.com/haruue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4",
+          "name": "ryuunoakaihitomi",
+          "url": "https://github.com/ryuunoakaihitomi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50289872?s=40&v=4",
+          "name": "tclement0922",
+          "url": "https://github.com/tclement0922"
+        }
+      ]
+    },
+    {
+      "title": "LegadoTeam/legado",
+      "url": "https://github.com/LegadoTeam/legado",
+      "description": "Legado 3.0 Book Reader with powerful controls",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "1,177",
+      "forks": "285",
+      "addStars": "426",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8674809?s=40&v=4",
+          "name": "821938089",
+          "url": "https://github.com/821938089"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69211489?s=40&v=4",
+          "name": "mgz0227",
+          "url": "https://github.com/mgz0227"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82232510?s=40&v=4",
+          "name": "Xwite",
+          "url": "https://github.com/Xwite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59725261?s=40&v=4",
+          "name": "Luoyacheng",
+          "url": "https://github.com/Luoyacheng"
+        }
+      ]
+    },
+    {
+      "title": "JunkFood02/Seal",
+      "url": "https://github.com/JunkFood02/Seal",
+      "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "28,996",
+      "forks": "1,409",
+      "addStars": "877",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69683722?s=40&v=4",
+          "name": "JunkFood02",
+          "url": "https://github.com/JunkFood02"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41828058?s=40&v=4",
+          "name": "Marco-9456",
+          "url": "https://github.com/Marco-9456"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30853081?s=40&v=4",
+          "name": "chiyi4488",
+          "url": "https://github.com/chiyi4488"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47475676?s=40&v=4",
+          "name": "Linerly",
+          "url": "https://github.com/Linerly"
         }
       ]
     },
@@ -646,9 +451,9 @@
       "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,553",
-      "forks": "654",
-      "addStars": "257",
+      "stars": "12,705",
+      "forks": "665",
+      "addStars": "296",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/82752168?s=40&v=4",
@@ -669,6 +474,166 @@
           "avatar": "https://avatars.githubusercontent.com/u/106192957?s=40&v=4",
           "name": "Atraphone",
           "url": "https://github.com/Atraphone"
+        }
+      ]
+    },
+    {
+      "title": "zhanghai/MaterialFiles",
+      "url": "https://github.com/zhanghai/MaterialFiles",
+      "description": "Material Design file manager for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "8,925",
+      "forks": "734",
+      "addStars": "208",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4469895?s=40&v=4",
+          "name": "zhanghai",
+          "url": "https://github.com/zhanghai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7046617?s=40&v=4",
+          "name": "david082321",
+          "url": "https://github.com/david082321"
+        }
+      ]
+    },
+    {
+      "title": "2dust/v2rayNG",
+      "url": "https://github.com/2dust/v2rayNG",
+      "description": "A V2Ray client for Android, support Xray core and v2fly core",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "62,706",
+      "forks": "8,111",
+      "addStars": "1,781",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31833384?s=40&v=4",
+          "name": "2dust",
+          "url": "https://github.com/2dust"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1588741?s=40&v=4",
+          "name": "yuhan6665",
+          "url": "https://github.com/yuhan6665"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132823494?s=40&v=4",
+          "name": "codewithtamim",
+          "url": "https://github.com/codewithtamim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25316928?s=40&v=4",
+          "name": "solokot",
+          "url": "https://github.com/solokot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1861169?s=40&v=4",
+          "name": "eliotcougar",
+          "url": "https://github.com/eliotcougar"
+        }
+      ]
+    },
+    {
+      "title": "tharunbirla/LibreCuts",
+      "url": "https://github.com/tharunbirla/LibreCuts",
+      "description": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "788",
+      "forks": "88",
+      "addStars": "322",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/95176683?s=40&v=4",
+          "name": "tharunbirla",
+          "url": "https://github.com/tharunbirla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4369174?s=40&v=4",
+          "name": "Keyaku",
+          "url": "https://github.com/Keyaku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100322058?s=40&v=4",
+          "name": "padi-sk",
+          "url": "https://github.com/padi-sk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101011037?s=40&v=4",
+          "name": "CptEpicBox",
+          "url": "https://github.com/CptEpicBox"
+        }
+      ]
+    },
+    {
+      "title": "tailscale/tailscale-android",
+      "url": "https://github.com/tailscale/tailscale-android",
+      "description": "Tailscale Android Client",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "2,560",
+      "forks": "729",
+      "addStars": "149",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1140756?s=40&v=4",
+          "name": "DentonGentry",
+          "url": "https://github.com/DentonGentry"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135075563?s=40&v=4",
+          "name": "kari-ts",
+          "url": "https://github.com/kari-ts"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/524812?s=40&v=4",
+          "name": "eliasnaur",
+          "url": "https://github.com/eliasnaur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/779591?s=40&v=4",
+          "name": "barnstar",
+          "url": "https://github.com/barnstar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9057073?s=40&v=4",
+          "name": "agottardo",
+          "url": "https://github.com/agottardo"
+        }
+      ]
+    },
+    {
+      "title": "deniscerri/ytdlnis",
+      "url": "https://github.com/deniscerri/ytdlnis",
+      "description": "Full-featured audio/video downloader for Android using yt-dlp",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "10,119",
+      "forks": "456",
+      "addStars": "514",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64997243?s=40&v=4",
+          "name": "deniscerri",
+          "url": "https://github.com/deniscerri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75589932?s=40&v=4",
+          "name": "zaednasr",
+          "url": "https://github.com/zaednasr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103105829?s=40&v=4",
+          "name": "Kefir2105",
+          "url": "https://github.com/Kefir2105"
         }
       ]
     }

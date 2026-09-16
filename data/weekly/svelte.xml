@@ -3,7 +3,7 @@
     <title>GitHub Svelte Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Svelte Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>imputnet/cobalt</title>
       <link>https://github.com/imputnet/cobalt</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/imputnet/cobalt</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>42,268</stars>
-      <forks>3,659</forks>
-      <addStars>146</addStars>
+      <stars>43,264</stars>
+      <forks>3,787</forks>
+      <addStars>559</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71202418?s=40&amp;v=4</avatar>
@@ -43,25 +43,40 @@
       </contributors>
     </item>
     <item>
-      <title>open-webui/desktop</title>
-      <link>https://github.com/open-webui/desktop</link>
-      <description>Open WebUI Desktop 🌐</description>
-      <guid>https://github.com/open-webui/desktop</guid>
+      <title>VERT-sh/VERT</title>
+      <link>https://github.com/VERT-sh/VERT</link>
+      <description>The next-generation file converter. Open source, fully local* and free forever.</description>
+      <guid>https://github.com/VERT-sh/VERT</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>2,627</stars>
-      <forks>258</forks>
-      <addStars>60</addStars>
+      <stars>15,608</stars>
+      <forks>833</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25473318?s=40&amp;v=4</avatar>
-          <name>tjbck</name>
-          <url>https://github.com/tjbck</url>
+          <avatar>https://avatars.githubusercontent.com/u/45893380?s=40&amp;v=4</avatar>
+          <name>JovannMC</name>
+          <url>https://github.com/JovannMC</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20534082?s=40&amp;v=4</avatar>
-          <name>NN708</name>
-          <url>https://github.com/NN708</url>
+          <avatar>https://avatars.githubusercontent.com/u/62841684?s=40&amp;v=4</avatar>
+          <name>not-nullptr</name>
+          <url>https://github.com/not-nullptr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/163438634?s=40&amp;v=4</avatar>
+          <name>RealmyTheMan</name>
+          <url>https://github.com/RealmyTheMan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/178000437?s=40&amp;v=4</avatar>
+          <name>azurejelly</name>
+          <url>https://github.com/azurejelly</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47637144?s=40&amp;v=4</avatar>
+          <name>monikapurpl3</name>
+          <url>https://github.com/monikapurpl3</url>
         </contributor>
       </contributors>
     </item>
@@ -72,9 +87,9 @@
       <guid>https://github.com/seanmorley15/AdventureLog</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>3,615</stars>
-      <forks>243</forks>
-      <addStars>62</addStars>
+      <stars>3,720</stars>
+      <forks>254</forks>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98704938?s=40&amp;v=4</avatar>
@@ -99,25 +114,48 @@
       </contributors>
     </item>
     <item>
-      <title>rajnandan1/kener</title>
-      <link>https://github.com/rajnandan1/kener</link>
-      <description>Stunning status pages, batteries included!</description>
-      <guid>https://github.com/rajnandan1/kener</guid>
+      <title>open-webui/desktop</title>
+      <link>https://github.com/open-webui/desktop</link>
+      <description>Open WebUI Desktop 🌐</description>
+      <guid>https://github.com/open-webui/desktop</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>5,129</stars>
-      <forks>294</forks>
-      <addStars>19</addStars>
+      <stars>2,767</stars>
+      <forks>266</forks>
+      <addStars>48</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16224367?s=40&amp;v=4</avatar>
-          <name>rajnandan1</name>
-          <url>https://github.com/rajnandan1</url>
+          <avatar>https://avatars.githubusercontent.com/u/25473318?s=40&amp;v=4</avatar>
+          <name>tjbck</name>
+          <url>https://github.com/tjbck</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3674851?s=40&amp;v=4</avatar>
-          <name>kaffolder7</name>
-          <url>https://github.com/kaffolder7</url>
+          <avatar>https://avatars.githubusercontent.com/u/20534082?s=40&amp;v=4</avatar>
+          <name>NN708</name>
+          <url>https://github.com/NN708</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vaibhav-kakde-in/mdhero</title>
+      <link>https://github.com/vaibhav-kakde-in/mdhero</link>
+      <description>A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.</description>
+      <guid>https://github.com/vaibhav-kakde-in/mdhero</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>158</stars>
+      <forks>21</forks>
+      <addStars>15</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/192305282?s=40&amp;v=4</avatar>
+          <name>vaibhav-kakde-in</name>
+          <url>https://github.com/vaibhav-kakde-in</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/494230?s=40&amp;v=4</avatar>
+          <name>rxwen</name>
+          <url>https://github.com/rxwen</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -125,184 +163,47 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46644925?s=40&amp;v=4</avatar>
-          <name>ToxykAuBleu</name>
-          <url>https://github.com/ToxykAuBleu</url>
+          <avatar>https://avatars.githubusercontent.com/u/86353436?s=40&amp;v=4</avatar>
+          <name>hdo-projects</name>
+          <url>https://github.com/hdo-projects</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>nmelhado/league-page</title>
-      <link>https://github.com/nmelhado/league-page</link>
-      <description>Create a custom league page for your Sleeper fantasy football league!</description>
-      <guid>https://github.com/nmelhado/league-page</guid>
+      <title>Bittu5134/LOTM-Reader</title>
+      <link>https://github.com/Bittu5134/LOTM-Reader</link>
+      <description>A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.</description>
+      <guid>https://github.com/Bittu5134/LOTM-Reader</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>279</stars>
-      <forks>1,328</forks>
-      <addStars>3</addStars>
+      <stars>119</stars>
+      <forks>31</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39418000?s=40&amp;v=4</avatar>
-          <name>nmelhado</name>
-          <url>https://github.com/nmelhado</url>
+          <avatar>https://avatars.githubusercontent.com/u/89441005?s=40&amp;v=4</avatar>
+          <name>Bittu5134</name>
+          <url>https://github.com/Bittu5134</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91703566?s=40&amp;v=4</avatar>
-          <name>OldNewsBlues-2</name>
-          <url>https://github.com/OldNewsBlues-2</url>
+          <avatar>https://avatars.githubusercontent.com/u/295208219?s=40&amp;v=4</avatar>
+          <name>Deca-dex</name>
+          <url>https://github.com/Deca-dex</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88387529?s=40&amp;v=4</avatar>
-          <name>nmelhado2</name>
-          <url>https://github.com/nmelhado2</url>
+          <avatar>https://avatars.githubusercontent.com/u/122001692?s=40&amp;v=4</avatar>
+          <name>Scarlet-001</name>
+          <url>https://github.com/Scarlet-001</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53295790?s=40&amp;v=4</avatar>
-          <name>OldNewsBlues</name>
-          <url>https://github.com/OldNewsBlues</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ReVanced/revanced-website</title>
-      <link>https://github.com/ReVanced/revanced-website</link>
-      <description>🌐 Website for ReVanced</description>
-      <guid>https://github.com/ReVanced/revanced-website</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>473</stars>
-      <forks>60</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47723802?s=40&amp;v=4</avatar>
-          <name>xafn</name>
-          <url>https://github.com/xafn</url>
+          <avatar>https://avatars.githubusercontent.com/u/17727225?s=40&amp;v=4</avatar>
+          <name>xEnniX</name>
+          <url>https://github.com/xEnniX</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13122796?s=40&amp;v=4</avatar>
-          <name>oSumAtrIX</name>
-          <url>https://github.com/oSumAtrIX</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/79272171?s=40&amp;v=4</avatar>
-          <name>Ushie</name>
-          <url>https://github.com/Ushie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28486288?s=40&amp;v=4</avatar>
-          <name>Axelen123</name>
-          <url>https://github.com/Axelen123</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10727862?s=40&amp;v=4</avatar>
-          <name>KTibow</name>
-          <url>https://github.com/KTibow</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>aukspot/dles</title>
-      <link>https://github.com/aukspot/dles</link>
-      <description>A curated collection of over 700 daily web games.</description>
-      <guid>https://github.com/aukspot/dles</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>108</stars>
-      <forks>59</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142464628?s=40&amp;v=4</avatar>
-          <name>aukspot</name>
-          <url>https://github.com/aukspot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4217216?s=40&amp;v=4</avatar>
-          <name>monsdar</name>
-          <url>https://github.com/monsdar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71411720?s=40&amp;v=4</avatar>
-          <name>kadeem-lewis</name>
-          <url>https://github.com/kadeem-lewis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6892123?s=40&amp;v=4</avatar>
-          <name>tcrwt</name>
-          <url>https://github.com/tcrwt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7221345?s=40&amp;v=4</avatar>
-          <name>Ericgi231</name>
-          <url>https://github.com/Ericgi231</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>sveltejs/svelte.dev</title>
-      <link>https://github.com/sveltejs/svelte.dev</link>
-      <description>The Svelte omnisite</description>
-      <guid>https://github.com/sveltejs/svelte.dev</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>327</stars>
-      <forks>273</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1162160?s=40&amp;v=4</avatar>
-          <name>Rich-Harris</name>
-          <url>https://github.com/Rich-Harris</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5968653?s=40&amp;v=4</avatar>
-          <name>dummdidumm</name>
-          <url>https://github.com/dummdidumm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54401897?s=40&amp;v=4</avatar>
-          <name>teemingc</name>
-          <url>https://github.com/teemingc</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jikan-me/website</title>
-      <link>https://github.com/jikan-me/website</link>
-      <description>Website source for Jikan.moe</description>
-      <guid>https://github.com/jikan-me/website</guid>
-      <language>Svelte</language>
-      <languageColor>#ff3e00</languageColor>
-      <stars>53</stars>
-      <forks>378</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9166451?s=40&amp;v=4</avatar>
-          <name>irfan-dahir</name>
-          <url>https://github.com/irfan-dahir</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25761442?s=40&amp;v=4</avatar>
-          <name>Wamy-Dev</name>
-          <url>https://github.com/Wamy-Dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37444633?s=40&amp;v=4</avatar>
-          <name>AstralJohn</name>
-          <url>https://github.com/AstralJohn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12372481?s=40&amp;v=4</avatar>
-          <name>sinkaroid</name>
-          <url>https://github.com/sinkaroid</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/114238949?s=40&amp;v=4</avatar>
-          <name>ArtaHendraa</name>
-          <url>https://github.com/ArtaHendraa</url>
+          <avatar>https://avatars.githubusercontent.com/u/206375538?s=40&amp;v=4</avatar>
+          <name>Ghostie-gui</name>
+          <url>https://github.com/Ghostie-gui</url>
         </contributor>
       </contributors>
     </item>
@@ -313,9 +214,9 @@
       <guid>https://github.com/PuruVJ/macos-web</guid>
       <language>Svelte</language>
       <languageColor>#ff3e00</languageColor>
-      <stars>2,659</stars>
-      <forks>343</forks>
-      <addStars>6</addStars>
+      <stars>2,666</stars>
+      <forks>345</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47742487?s=40&amp;v=4</avatar>
@@ -341,6 +242,39 @@
           <avatar>https://avatars.githubusercontent.com/u/1243002?s=40&amp;v=4</avatar>
           <name>mrwatson-de</name>
           <url>https://github.com/mrwatson-de</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>bryanroscoe/shield_optimizer</title>
+      <link>https://github.com/bryanroscoe/shield_optimizer</link>
+      <description/>
+      <guid>https://github.com/bryanroscoe/shield_optimizer</guid>
+      <language>Svelte</language>
+      <languageColor>#ff3e00</languageColor>
+      <stars>972</stars>
+      <forks>26</forks>
+      <addStars>13</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2422297?s=40&amp;v=4</avatar>
+          <name>bryanroscoe</name>
+          <url>https://github.com/bryanroscoe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1104475?s=40&amp;v=4</avatar>
+          <name>dannyfallon</name>
+          <url>https://github.com/dannyfallon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8584243?s=40&amp;v=4</avatar>
+          <name>Demon-tk</name>
+          <url>https://github.com/Demon-tk</url>
         </contributor>
       </contributors>
     </item>

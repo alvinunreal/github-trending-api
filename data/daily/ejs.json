@@ -2,7 +2,7 @@
   "title": "GitHub Ejs Languages Daily Trending",
   "description": "Daily Trending of Ejs Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "Fechin/reference",
@@ -10,9 +10,9 @@
       "description": "⭕ Share quick reference cheat sheet for developers.",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "10,803",
+      "stars": "10,852",
       "forks": "1,319",
-      "addStars": "5",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2541482?s=40&v=4",
@@ -47,14 +47,14 @@
       "description": "",
       "language": "EJS",
       "languageColor": "#a91e50",
-      "stars": "2,860",
-      "forks": "4,819",
-      "addStars": "1",
+      "stars": "2,889",
+      "forks": "4,847",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/173312567?s=40&v=4",
-          "name": "anumol-baby",
-          "url": "https://github.com/anumol-baby"
+          "name": "v-anumol-baby",
+          "url": "https://github.com/v-anumol-baby"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/19893438?s=40&v=4",
@@ -68,8 +68,8 @@
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/157102811?s=40&v=4",
-          "name": "Mathiyarasy",
-          "url": "https://github.com/Mathiyarasy"
+          "name": "v-Mathiyarasy",
+          "url": "https://github.com/v-Mathiyarasy"
         }
       ]
     },
@@ -80,7 +80,7 @@
       "language": "EJS",
       "languageColor": "#a91e50",
       "stars": "279",
-      "forks": "6,102",
+      "forks": "6,127",
       "addStars": "0",
       "contributors": [
         {
@@ -107,43 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/73846350?s=40&v=4",
           "name": "Arman10101999",
           "url": "https://github.com/Arman10101999"
-        }
-      ]
-    },
-    {
-      "title": "Ovi/DummyJSON",
-      "url": "https://github.com/Ovi/DummyJSON",
-      "description": "DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.",
-      "language": "EJS",
-      "languageColor": "#a91e50",
-      "stars": "2,904",
-      "forks": "303",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23533420?s=40&v=4",
-          "name": "Ovi",
-          "url": "https://github.com/Ovi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54805418?s=40&v=4",
-          "name": "nayan-kunwar",
-          "url": "https://github.com/nayan-kunwar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41671?s=40&v=4",
-          "name": "djscruggs",
-          "url": "https://github.com/djscruggs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2285011?s=40&v=4",
-          "name": "Erik-J-D",
-          "url": "https://github.com/Erik-J-D"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7936061?s=40&v=4",
-          "name": "rifaldhiaw",
-          "url": "https://github.com/rifaldhiaw"
         }
       ]
     }

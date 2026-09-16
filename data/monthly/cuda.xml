@@ -3,27 +3,22 @@
     <title>GitHub Cuda Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
-      <title>MoonshotAI/FlashKDA</title>
-      <link>https://github.com/MoonshotAI/FlashKDA</link>
-      <description>FlashKDA: high-performance Kimi Delta Attention kernels</description>
-      <guid>https://github.com/MoonshotAI/FlashKDA</guid>
+      <title>flashinfer-ai/flashinfer</title>
+      <link>https://github.com/flashinfer-ai/flashinfer</link>
+      <description>FlashInfer: Kernel Library for LLM Serving</description>
+      <guid>https://github.com/flashinfer-ai/flashinfer</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,229</stars>
-      <forks>118</forks>
-      <addStars>769</addStars>
+      <stars>6,419</stars>
+      <forks>1,460</forks>
+      <addStars>262</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46477673?s=40&amp;v=4</avatar>
-          <name>esp0r</name>
-          <url>https://github.com/esp0r</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/97820520?s=40&amp;v=4</avatar>
-          <name>lyppg</name>
-          <url>https://github.com/lyppg</url>
+          <avatar>https://avatars.githubusercontent.com/u/11773619?s=40&amp;v=4</avatar>
+          <name>yzh119</name>
+          <url>https://github.com/yzh119</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -31,85 +26,19 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26946864?s=40&amp;v=4</avatar>
-          <name>gau-nernst</name>
-          <url>https://github.com/gau-nernst</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>deepseek-ai/DeepEP</title>
-      <link>https://github.com/deepseek-ai/DeepEP</link>
-      <description>DeepEP: an efficient expert-parallel communication library</description>
-      <guid>https://github.com/deepseek-ai/DeepEP</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>10,063</stars>
-      <forks>1,410</forks>
-      <addStars>187</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
-          <name>LyricZhao</name>
-          <url>https://github.com/LyricZhao</url>
+          <avatar>https://avatars.githubusercontent.com/u/43616432?s=40&amp;v=4</avatar>
+          <name>bkryu</name>
+          <url>https://github.com/bkryu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4</avatar>
-          <name>sphish</name>
-          <url>https://github.com/sphish</url>
+          <avatar>https://avatars.githubusercontent.com/u/52445717?s=40&amp;v=4</avatar>
+          <name>yyihuang</name>
+          <url>https://github.com/yyihuang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4</avatar>
-          <name>fzyzcjy</name>
-          <url>https://github.com/fzyzcjy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4</avatar>
-          <name>seth-howell</name>
-          <url>https://github.com/seth-howell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4</avatar>
-          <name>wangfakang</name>
-          <url>https://github.com/wangfakang</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>thu-ml/SageAttention</title>
-      <link>https://github.com/thu-ml/SageAttention</link>
-      <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
-      <guid>https://github.com/thu-ml/SageAttention</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>3,684</stars>
-      <forks>490</forks>
-      <addStars>186</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59364182?s=40&amp;v=4</avatar>
-          <name>jt-zhang</name>
-          <url>https://github.com/jt-zhang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110245937?s=40&amp;v=4</avatar>
-          <name>jason-huang03</name>
-          <url>https://github.com/jason-huang03</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38180676?s=40&amp;v=4</avatar>
-          <name>whx1003</name>
-          <url>https://github.com/whx1003</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37583905?s=40&amp;v=4</avatar>
-          <name>XiaomingXu1995</name>
-          <url>https://github.com/XiaomingXu1995</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
-          <name>guilhermeleobas</name>
-          <url>https://github.com/guilhermeleobas</url>
+          <avatar>https://avatars.githubusercontent.com/u/4958082?s=40&amp;v=4</avatar>
+          <name>aleozlx</name>
+          <url>https://github.com/aleozlx</url>
         </contributor>
       </contributors>
     </item>
@@ -120,9 +49,9 @@
       <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>7,737</stars>
-      <forks>1,214</forks>
-      <addStars>188</addStars>
+      <stars>7,839</stars>
+      <forks>1,262</forks>
+      <addStars>164</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
@@ -158,9 +87,9 @@
       <guid>https://github.com/NVIDIA/cuopt</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,029</stars>
-      <forks>222</forks>
-      <addStars>47</addStars>
+      <stars>1,042</stars>
+      <forks>230</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42624703?s=40&amp;v=4</avatar>
@@ -190,154 +119,154 @@
       </contributors>
     </item>
     <item>
-      <title>alibaba/rtp-llm</title>
-      <link>https://github.com/alibaba/rtp-llm</link>
-      <description>RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.</description>
-      <guid>https://github.com/alibaba/rtp-llm</guid>
+      <title>deepseek-ai/DeepEP</title>
+      <link>https://github.com/deepseek-ai/DeepEP</link>
+      <description>DeepEP: an efficient expert-parallel communication library</description>
+      <guid>https://github.com/deepseek-ai/DeepEP</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,316</stars>
-      <forks>266</forks>
-      <addStars>30</addStars>
+      <stars>10,153</stars>
+      <forks>1,441</forks>
+      <addStars>180</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1978696?s=40&amp;v=4</avatar>
-          <name>LLLLKKKK</name>
-          <url>https://github.com/LLLLKKKK</url>
+          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
+          <name>LyricZhao</name>
+          <url>https://github.com/LyricZhao</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46412693?s=40&amp;v=4</avatar>
-          <name>alibaba-miji</name>
-          <url>https://github.com/alibaba-miji</url>
+          <avatar>https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4</avatar>
+          <name>sphish</name>
+          <url>https://github.com/sphish</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60096118?s=40&amp;v=4</avatar>
-          <name>JackTan25</name>
-          <url>https://github.com/JackTan25</url>
+          <avatar>https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4</avatar>
+          <name>fzyzcjy</name>
+          <url>https://github.com/fzyzcjy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55839372?s=40&amp;v=4</avatar>
-          <name>Vinkle-hzt</name>
-          <url>https://github.com/Vinkle-hzt</url>
+          <avatar>https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4</avatar>
+          <name>seth-howell</name>
+          <url>https://github.com/seth-howell</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45456638?s=40&amp;v=4</avatar>
-          <name>jianglan89</name>
-          <url>https://github.com/jianglan89</url>
+          <avatar>https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4</avatar>
+          <name>wangfakang</name>
+          <url>https://github.com/wangfakang</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>HazyResearch/ThunderKittens</title>
-      <link>https://github.com/HazyResearch/ThunderKittens</link>
-      <description>Tile primitives for speedy kernels</description>
-      <guid>https://github.com/HazyResearch/ThunderKittens</guid>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>LLM training in simple, raw C/CUDA</description>
+      <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>3,659</stars>
-      <forks>318</forks>
-      <addStars>98</addStars>
+      <stars>31,005</stars>
+      <forks>3,763</forks>
+      <addStars>227</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11230781?s=40&amp;v=4</avatar>
-          <name>benjaminfspector</name>
-          <url>https://github.com/benjaminfspector</url>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31910389?s=40&amp;v=4</avatar>
-          <name>StuartSul</name>
-          <url>https://github.com/StuartSul</url>
+          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
+          <name>ngc92</name>
+          <url>https://github.com/ngc92</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48185825?s=40&amp;v=4</avatar>
-          <name>Aaryan0404</name>
-          <url>https://github.com/Aaryan0404</url>
+          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
+          <name>gordicaleksa</name>
+          <url>https://github.com/gordicaleksa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42813008?s=40&amp;v=4</avatar>
-          <name>jordan-benjamin</name>
-          <url>https://github.com/jordan-benjamin</url>
+          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
+          <name>ademeure</name>
+          <url>https://github.com/ademeure</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29069240?s=40&amp;v=4</avatar>
-          <name>simran-arora</name>
-          <url>https://github.com/simran-arora</url>
+          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
+          <name>rosslwheeler</name>
+          <url>https://github.com/rosslwheeler</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>BBuf/how-to-optim-algorithm-in-cuda</title>
-      <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-      <description>how to optimize some algorithm in cuda.</description>
-      <guid>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</guid>
+      <title>thu-ml/SageAttention</title>
+      <link>https://github.com/thu-ml/SageAttention</link>
+      <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
+      <guid>https://github.com/thu-ml/SageAttention</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>3,222</stars>
-      <forks>290</forks>
-      <addStars>76</addStars>
+      <stars>3,772</stars>
+      <forks>510</forks>
+      <addStars>125</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35585791?s=40&amp;v=4</avatar>
-          <name>BBuf</name>
-          <url>https://github.com/BBuf</url>
+          <avatar>https://avatars.githubusercontent.com/u/59364182?s=40&amp;v=4</avatar>
+          <name>jt-zhang</name>
+          <url>https://github.com/jt-zhang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/110245937?s=40&amp;v=4</avatar>
+          <name>jason-huang03</name>
+          <url>https://github.com/jason-huang03</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67543126?s=40&amp;v=4</avatar>
-          <name>peakcrosser7</name>
-          <url>https://github.com/peakcrosser7</url>
+          <avatar>https://avatars.githubusercontent.com/u/38180676?s=40&amp;v=4</avatar>
+          <name>whx1003</name>
+          <url>https://github.com/whx1003</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
+          <avatar>https://avatars.githubusercontent.com/u/37583905?s=40&amp;v=4</avatar>
+          <name>XiaomingXu1995</name>
+          <url>https://github.com/XiaomingXu1995</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/245616256?s=40&amp;v=4</avatar>
-          <name>Dessalines39394</name>
-          <url>https://github.com/Dessalines39394</url>
+          <avatar>https://avatars.githubusercontent.com/u/2712115?s=40&amp;v=4</avatar>
+          <name>guilhermeleobas</name>
+          <url>https://github.com/guilhermeleobas</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>mirage-project/mirage</title>
-      <link>https://github.com/mirage-project/mirage</link>
-      <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-      <guid>https://github.com/mirage-project/mirage</guid>
+      <title>NVIDIA/raft</title>
+      <link>https://github.com/NVIDIA/raft</link>
+      <description>RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</description>
+      <guid>https://github.com/NVIDIA/raft</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>2,452</stars>
-      <forks>242</forks>
-      <addStars>61</addStars>
+      <stars>1,042</stars>
+      <forks>250</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1669058?s=40&amp;v=4</avatar>
-          <name>jiazhihao</name>
-          <url>https://github.com/jiazhihao</url>
+          <avatar>https://avatars.githubusercontent.com/u/1242464?s=40&amp;v=4</avatar>
+          <name>cjnolet</name>
+          <url>https://github.com/cjnolet</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82456363?s=40&amp;v=4</avatar>
-          <name>yzhou442</name>
-          <url>https://github.com/yzhou442</url>
+          <avatar>https://avatars.githubusercontent.com/u/38199262?s=40&amp;v=4</avatar>
+          <name>GPUtester</name>
+          <url>https://github.com/GPUtester</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99570243?s=40&amp;v=4</avatar>
-          <name>xinhaoc</name>
-          <url>https://github.com/xinhaoc</url>
+          <avatar>https://avatars.githubusercontent.com/u/9253178?s=40&amp;v=4</avatar>
+          <name>achirkin</name>
+          <url>https://github.com/achirkin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48128384?s=40&amp;v=4</avatar>
-          <name>wmdi</name>
-          <url>https://github.com/wmdi</url>
+          <avatar>https://avatars.githubusercontent.com/u/14876585?s=40&amp;v=4</avatar>
+          <name>divyegala</name>
+          <url>https://github.com/divyegala</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
-          <name>undefined-c0der</name>
-          <url>https://github.com/undefined-c0der</url>
+          <avatar>https://avatars.githubusercontent.com/u/37386037?s=40&amp;v=4</avatar>
+          <name>aschaffer</name>
+          <url>https://github.com/aschaffer</url>
         </contributor>
       </contributors>
     </item>
@@ -348,8 +277,8 @@
       <guid>https://github.com/NVIDIA/cuvs</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>840</stars>
-      <forks>226</forks>
+      <stars>851</stars>
+      <forks>235</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
@@ -380,40 +309,35 @@
       </contributors>
     </item>
     <item>
-      <title>NVIDIA/nccl-tests</title>
-      <link>https://github.com/NVIDIA/nccl-tests</link>
-      <description>NCCL Tests</description>
-      <guid>https://github.com/NVIDIA/nccl-tests</guid>
+      <title>NVIDIA/cuCollections</title>
+      <link>https://github.com/NVIDIA/cuCollections</link>
+      <description/>
+      <guid>https://github.com/NVIDIA/cuCollections</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,636</stars>
-      <forks>399</forks>
-      <addStars>31</addStars>
+      <stars>665</stars>
+      <forks>119</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2538330?s=40&amp;v=4</avatar>
-          <name>AddyLaddy</name>
-          <url>https://github.com/AddyLaddy</url>
+          <avatar>https://avatars.githubusercontent.com/u/12716979?s=40&amp;v=4</avatar>
+          <name>PointKernel</name>
+          <url>https://github.com/PointKernel</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12857445?s=40&amp;v=4</avatar>
-          <name>sjeaugey</name>
-          <url>https://github.com/sjeaugey</url>
+          <avatar>https://avatars.githubusercontent.com/u/15221289?s=40&amp;v=4</avatar>
+          <name>jrhemstad</name>
+          <url>https://github.com/jrhemstad</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24571836?s=40&amp;v=4</avatar>
-          <name>shanedsnyder</name>
-          <url>https://github.com/shanedsnyder</url>
+          <avatar>https://avatars.githubusercontent.com/u/2955913?s=40&amp;v=4</avatar>
+          <name>sleeepyjack</name>
+          <url>https://github.com/sleeepyjack</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29100714?s=40&amp;v=4</avatar>
-          <name>kgioioso</name>
-          <url>https://github.com/kgioioso</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2293859?s=40&amp;v=4</avatar>
-          <name>jbachan</name>
-          <url>https://github.com/jbachan</url>
+          <avatar>https://avatars.githubusercontent.com/u/215756?s=40&amp;v=4</avatar>
+          <name>robertmaynard</name>
+          <url>https://github.com/robertmaynard</url>
         </contributor>
       </contributors>
     </item>
@@ -424,9 +348,9 @@
       <guid>https://github.com/NVlabs/instant-ngp</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>17,534</stars>
-      <forks>2,066</forks>
-      <addStars>41</addStars>
+      <stars>17,549</stars>
+      <forks>2,067</forks>
+      <addStars>43</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4923655?s=40&amp;v=4</avatar>
@@ -456,40 +380,154 @@
       </contributors>
     </item>
     <item>
-      <title>karpathy/llm.c</title>
-      <link>https://github.com/karpathy/llm.c</link>
-      <description>LLM training in simple, raw C/CUDA</description>
-      <guid>https://github.com/karpathy/llm.c</guid>
+      <title>HazyResearch/ThunderKittens</title>
+      <link>https://github.com/HazyResearch/ThunderKittens</link>
+      <description>Tile primitives for speedy kernels</description>
+      <guid>https://github.com/HazyResearch/ThunderKittens</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>30,877</stars>
-      <forks>3,744</forks>
-      <addStars>261</addStars>
+      <stars>3,709</stars>
+      <forks>327</forks>
+      <addStars>80</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
-          <name>karpathy</name>
-          <url>https://github.com/karpathy</url>
+          <avatar>https://avatars.githubusercontent.com/u/11230781?s=40&amp;v=4</avatar>
+          <name>benjaminfspector</name>
+          <url>https://github.com/benjaminfspector</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
-          <name>ngc92</name>
-          <url>https://github.com/ngc92</url>
+          <avatar>https://avatars.githubusercontent.com/u/31910389?s=40&amp;v=4</avatar>
+          <name>StuartSul</name>
+          <url>https://github.com/StuartSul</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
-          <name>gordicaleksa</name>
-          <url>https://github.com/gordicaleksa</url>
+          <avatar>https://avatars.githubusercontent.com/u/48185825?s=40&amp;v=4</avatar>
+          <name>Aaryan0404</name>
+          <url>https://github.com/Aaryan0404</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
-          <name>ademeure</name>
-          <url>https://github.com/ademeure</url>
+          <avatar>https://avatars.githubusercontent.com/u/42813008?s=40&amp;v=4</avatar>
+          <name>jordan-benjamin</name>
+          <url>https://github.com/jordan-benjamin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
-          <name>rosslwheeler</name>
-          <url>https://github.com/rosslwheeler</url>
+          <avatar>https://avatars.githubusercontent.com/u/29069240?s=40&amp;v=4</avatar>
+          <name>simran-arora</name>
+          <url>https://github.com/simran-arora</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mirage-project/mirage</title>
+      <link>https://github.com/mirage-project/mirage</link>
+      <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+      <guid>https://github.com/mirage-project/mirage</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>2,493</stars>
+      <forks>255</forks>
+      <addStars>73</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1669058?s=40&amp;v=4</avatar>
+          <name>jiazhihao</name>
+          <url>https://github.com/jiazhihao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82456363?s=40&amp;v=4</avatar>
+          <name>yzhou442</name>
+          <url>https://github.com/yzhou442</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99570243?s=40&amp;v=4</avatar>
+          <name>xinhaoc</name>
+          <url>https://github.com/xinhaoc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48128384?s=40&amp;v=4</avatar>
+          <name>wmdi</name>
+          <url>https://github.com/wmdi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
+          <name>undefined-c0der</name>
+          <url>https://github.com/undefined-c0der</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NVIDIA/nccl-tests</title>
+      <link>https://github.com/NVIDIA/nccl-tests</link>
+      <description>NCCL Tests</description>
+      <guid>https://github.com/NVIDIA/nccl-tests</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>1,659</stars>
+      <forks>405</forks>
+      <addStars>36</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2538330?s=40&amp;v=4</avatar>
+          <name>AddyLaddy</name>
+          <url>https://github.com/AddyLaddy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12857445?s=40&amp;v=4</avatar>
+          <name>sjeaugey</name>
+          <url>https://github.com/sjeaugey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24571836?s=40&amp;v=4</avatar>
+          <name>shanedsnyder</name>
+          <url>https://github.com/shanedsnyder</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29100714?s=40&amp;v=4</avatar>
+          <name>kgioioso</name>
+          <url>https://github.com/kgioioso</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2293859?s=40&amp;v=4</avatar>
+          <name>jbachan</name>
+          <url>https://github.com/jbachan</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NVIDIA/cudf-spark-jni</title>
+      <link>https://github.com/NVIDIA/cudf-spark-jni</link>
+      <description>NVIDIA cuDF plugin JNI For Apache Spark</description>
+      <guid>https://github.com/NVIDIA/cudf-spark-jni</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>66</stars>
+      <forks>93</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70000568?s=40&amp;v=4</avatar>
+          <name>nvauto</name>
+          <url>https://github.com/nvauto</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7416935?s=40&amp;v=4</avatar>
+          <name>ttnghia</name>
+          <url>https://github.com/ttnghia</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8086184?s=40&amp;v=4</avatar>
+          <name>pxLi</name>
+          <url>https://github.com/pxLi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1360766?s=40&amp;v=4</avatar>
+          <name>jlowe</name>
+          <url>https://github.com/jlowe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8166419?s=40&amp;v=4</avatar>
+          <name>res-life</name>
+          <url>https://github.com/res-life</url>
         </contributor>
       </contributors>
     </item>
@@ -500,9 +538,9 @@
       <guid>https://github.com/rapidsai/cugraph</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>2,225</stars>
-      <forks>365</forks>
-      <addStars>12</addStars>
+      <stars>2,233</stars>
+      <forks>368</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34135411?s=40&amp;v=4</avatar>
@@ -510,14 +548,14 @@
           <url>https://github.com/BradReesWork</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45606510?s=40&amp;v=4</avatar>
-          <name>afender</name>
-          <url>https://github.com/afender</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45364586?s=40&amp;v=4</avatar>
           <name>ChuckHastings</name>
           <url>https://github.com/ChuckHastings</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45606510?s=40&amp;v=4</avatar>
+          <name>afender</name>
+          <url>https://github.com/afender</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45857425?s=40&amp;v=4</avatar>
@@ -528,6 +566,44 @@
           <avatar>https://avatars.githubusercontent.com/u/41401566?s=40&amp;v=4</avatar>
           <name>Iroy30</name>
           <url>https://github.com/Iroy30</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>BBuf/how-to-optim-algorithm-in-cuda</title>
+      <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
+      <description>how to optimize some algorithm in cuda.</description>
+      <guid>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>3,269</stars>
+      <forks>291</forks>
+      <addStars>70</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35585791?s=40&amp;v=4</avatar>
+          <name>BBuf</name>
+          <url>https://github.com/BBuf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67543126?s=40&amp;v=4</avatar>
+          <name>peakcrosser7</name>
+          <url>https://github.com/peakcrosser7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/245616256?s=40&amp;v=4</avatar>
+          <name>Dessalines39394</name>
+          <url>https://github.com/Dessalines39394</url>
         </contributor>
       </contributors>
     </item>

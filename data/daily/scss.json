@@ -2,7 +2,7 @@
   "title": "GitHub Scss Languages Daily Trending",
   "description": "Daily Trending of Scss Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "academicpages/academicpages.github.io",
@@ -10,9 +10,9 @@
       "description": "Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "17,498",
-      "forks": "8,447",
-      "addStars": "5",
+      "stars": "17,607",
+      "forks": "9,284",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1213367?s=40&v=4",
@@ -42,108 +42,76 @@
       ]
     },
     {
-      "title": "cobiwave/simplefolio",
-      "url": "https://github.com/cobiwave/simplefolio",
-      "description": "⚡️ A minimal portfolio template for Developers",
+      "title": "qdrant/landing_page",
+      "url": "https://github.com/qdrant/landing_page",
+      "description": "Landing page for qdrant.tech",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "14,220",
-      "forks": "6,088",
-      "addStars": "1",
+      "stars": "60",
+      "forks": "147",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35739742?s=40&v=4",
-          "name": "cobiwave",
-          "url": "https://github.com/cobiwave"
+          "avatar": "https://avatars.githubusercontent.com/u/62056091?s=40&v=4",
+          "name": "davidmyriel",
+          "url": "https://github.com/davidmyriel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/64222167?s=40&v=4",
-          "name": "jacobo-martinez",
-          "url": "https://github.com/jacobo-martinez"
+          "avatar": "https://avatars.githubusercontent.com/u/1935623?s=40&v=4",
+          "name": "generall",
+          "url": "https://github.com/generall"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37514151?s=40&v=4",
-          "name": "SNasser97",
-          "url": "https://github.com/SNasser97"
+          "avatar": "https://avatars.githubusercontent.com/u/243056?s=40&v=4",
+          "name": "bashofmann",
+          "url": "https://github.com/bashofmann"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11070873?s=40&v=4",
-          "name": "multidimensionalinteractive",
-          "url": "https://github.com/multidimensionalinteractive"
+          "avatar": "https://avatars.githubusercontent.com/u/7085263?s=40&v=4",
+          "name": "trean",
+          "url": "https://github.com/trean"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32886368?s=40&v=4",
-          "name": "gjaiswal108",
-          "url": "https://github.com/gjaiswal108"
+          "avatar": "https://avatars.githubusercontent.com/u/856222?s=40&v=4",
+          "name": "timvisee",
+          "url": "https://github.com/timvisee"
         }
       ]
     },
     {
-      "title": "just-the-docs/just-the-docs",
-      "url": "https://github.com/just-the-docs/just-the-docs",
-      "description": "A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",
+      "title": "rstacruz/cheatsheets",
+      "url": "https://github.com/rstacruz/cheatsheets",
+      "description": "Cheatsheets for web development - devhints.io",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "9,141",
-      "forks": "3,790",
-      "addStars": "2",
+      "stars": "14,458",
+      "forks": "3,585",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/896475?s=40&v=4",
-          "name": "pmarsceill",
-          "url": "https://github.com/pmarsceill"
+          "avatar": "https://avatars.githubusercontent.com/u/74385?s=40&v=4",
+          "name": "rstacruz",
+          "url": "https://github.com/rstacruz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14893287?s=40&v=4",
-          "name": "mattxwang",
-          "url": "https://github.com/mattxwang"
+          "avatar": "https://avatars.githubusercontent.com/u/259196?s=40&v=4",
+          "name": "chadwithuhc",
+          "url": "https://github.com/chadwithuhc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28134127?s=40&v=4",
-          "name": "SgtSilvio",
-          "url": "https://github.com/SgtSilvio"
+          "avatar": "https://avatars.githubusercontent.com/u/40914576?s=40&v=4",
+          "name": "mhienle",
+          "url": "https://github.com/mhienle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18308236?s=40&v=4",
-          "name": "pdmosses",
-          "url": "https://github.com/pdmosses"
-        }
-      ]
-    },
-    {
-      "title": "vinceliuice/MacTahoe-gtk-theme",
-      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
-      "description": "MacOS Tahoe theme for gtk desktops",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": "1,543",
-      "forks": "86",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",
-          "name": "vinceliuice",
-          "url": "https://github.com/vinceliuice"
+          "avatar": "https://avatars.githubusercontent.com/u/1437428?s=40&v=4",
+          "name": "bezhermoso",
+          "url": "https://github.com/bezhermoso"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/119421047?s=40&v=4",
-          "name": "vinnytherobot",
-          "url": "https://github.com/vinnytherobot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113182591?s=40&v=4",
-          "name": "Octopustank",
-          "url": "https://github.com/Octopustank"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163449566?s=40&v=4",
-          "name": "choc1024",
-          "url": "https://github.com/choc1024"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/155487881?s=40&v=4",
-          "name": "Slim-Hady",
-          "url": "https://github.com/Slim-Hady"
+          "avatar": "https://avatars.githubusercontent.com/u/760204?s=40&v=4",
+          "name": "forivall",
+          "url": "https://github.com/forivall"
         }
       ]
     },
@@ -153,9 +121,9 @@
       "description": "Material Design Web Components",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "11,200",
-      "forks": "1,138",
-      "addStars": "3",
+      "stars": "11,243",
+      "forks": "1,140",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34382620?s=40&v=4",
@@ -185,71 +153,211 @@
       ]
     },
     {
-      "title": "thingsym/hugo-theme-techdoc",
-      "url": "https://github.com/thingsym/hugo-theme-techdoc",
-      "description": "The Techdoc is a Hugo Theme for technical documentation.",
+      "title": "patternfly/patternfly",
+      "url": "https://github.com/patternfly/patternfly",
+      "description": "This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "237",
-      "forks": "155",
+      "stars": "817",
+      "forks": "116",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1084604?s=40&v=4",
-          "name": "thingsym",
-          "url": "https://github.com/thingsym"
+          "avatar": "https://avatars.githubusercontent.com/u/35148959?s=40&v=4",
+          "name": "mcoker",
+          "url": "https://github.com/mcoker"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18169566?s=40&v=4",
-          "name": "deining",
-          "url": "https://github.com/deining"
+          "avatar": "https://avatars.githubusercontent.com/u/5385435?s=40&v=4",
+          "name": "mattnolting",
+          "url": "https://github.com/mattnolting"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1212885?s=40&v=4",
-          "name": "coliff",
-          "url": "https://github.com/coliff"
+          "avatar": "https://avatars.githubusercontent.com/u/19825616?s=40&v=4",
+          "name": "srambach",
+          "url": "https://github.com/srambach"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/94029?s=40&v=4",
-          "name": "moul",
-          "url": "https://github.com/moul"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/304193?s=40&v=4",
-          "name": "antoniovazquezblanco",
-          "url": "https://github.com/antoniovazquezblanco"
+          "avatar": "https://avatars.githubusercontent.com/u/20118816?s=40&v=4",
+          "name": "christiemolloy",
+          "url": "https://github.com/christiemolloy"
         }
       ]
     },
     {
-      "title": "catppuccin/discord",
-      "url": "https://github.com/catppuccin/discord",
-      "description": "🎮 Soothing pastel theme for Discord",
+      "title": "mahonzhan/awesome-coding-plan",
+      "url": "https://github.com/mahonzhan/awesome-coding-plan",
+      "description": "各厂家 Coding Plan 实际价值对比",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "1,409",
-      "forks": "187",
+      "stars": "2,864",
+      "forks": "38",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5861237?s=40&v=4",
+          "name": "mahonzhan",
+          "url": "https://github.com/mahonzhan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135629372?s=40&v=4",
+          "name": "xm2325",
+          "url": "https://github.com/xm2325"
+        }
+      ]
+    },
+    {
+      "title": "uswds/uswds",
+      "url": "https://github.com/uswds/uswds",
+      "description": "The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "7,187",
+      "forks": "1,109",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11464021?s=40&v=4",
+          "name": "thisisdano",
+          "url": "https://github.com/thisisdano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5249443?s=40&v=4",
+          "name": "maya",
+          "url": "https://github.com/maya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25211650?s=40&v=4",
+          "name": "mahoneycm",
+          "url": "https://github.com/mahoneycm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1385752?s=40&v=4",
+          "name": "wbyoko",
+          "url": "https://github.com/wbyoko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3385219?s=40&v=4",
+          "name": "mejiaj",
+          "url": "https://github.com/mejiaj"
+        }
+      ]
+    },
+    {
+      "title": "kitian616/jekyll-TeXt-theme",
+      "url": "https://github.com/kitian616/jekyll-TeXt-theme",
+      "description": "💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "3,339",
+      "forks": "2,656",
       "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/53945697?s=40&v=4",
-          "name": "ToxicAven",
-          "url": "https://github.com/ToxicAven"
+          "avatar": "https://avatars.githubusercontent.com/u/9103558?s=40&v=4",
+          "name": "kitian616",
+          "url": "https://github.com/kitian616"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/79978224?s=40&v=4",
-          "name": "nekowinston",
-          "url": "https://github.com/nekowinston"
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/102488279?s=40&v=4",
-          "name": "AnubisNekhet",
-          "url": "https://github.com/AnubisNekhet"
+          "avatar": "https://avatars.githubusercontent.com/u/1129155?s=40&v=4",
+          "name": "tanersenyurt",
+          "url": "https://github.com/tanersenyurt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72592921?s=40&v=4",
-          "name": "WitherCubes",
-          "url": "https://github.com/WitherCubes"
+          "avatar": "https://avatars.githubusercontent.com/u/5896343?s=40&v=4",
+          "name": "HenryQW",
+          "url": "https://github.com/HenryQW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20252212?s=40&v=4",
+          "name": "ssosso",
+          "url": "https://github.com/ssosso"
+        }
+      ]
+    },
+    {
+      "title": "LeNPaul/Millennial",
+      "url": "https://github.com/LeNPaul/Millennial",
+      "description": "A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "482",
+      "forks": "1,006",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8409329?s=40&v=4",
+          "name": "LeNPaul",
+          "url": "https://github.com/LeNPaul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1931755?s=40&v=4",
+          "name": "mschaeffner",
+          "url": "https://github.com/mschaeffner"
+        }
+      ]
+    },
+    {
+      "title": "RayeRen/acad-homepage.github.io",
+      "url": "https://github.com/RayeRen/acad-homepage.github.io",
+      "description": "AcadHomepage: A Modern and Responsive Academic Personal Homepage",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "2,946",
+      "forks": "5,876",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16171482?s=40&v=4",
+          "name": "RayeRen",
+          "url": "https://github.com/RayeRen"
+        }
+      ]
+    },
+    {
+      "title": "vinceliuice/Orchis-theme",
+      "url": "https://github.com/vinceliuice/Orchis-theme",
+      "description": "Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "4,096",
+      "forks": "262",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",
+          "name": "vinceliuice",
+          "url": "https://github.com/vinceliuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22682408?s=40&v=4",
+          "name": "Demetrio92",
+          "url": "https://github.com/Demetrio92"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/131406?s=40&v=4",
+          "name": "kapouer",
+          "url": "https://github.com/kapouer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22567908?s=40&v=4",
+          "name": "marmitar",
+          "url": "https://github.com/marmitar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1464877?s=40&v=4",
+          "name": "ksangers",
+          "url": "https://github.com/ksangers"
         }
       ]
     },
@@ -259,8 +367,8 @@
       "description": "The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "112",
-      "forks": "699",
+      "stars": "114",
+      "forks": "708",
       "addStars": "0",
       "contributors": [
         {
@@ -291,51 +399,14 @@
       ]
     },
     {
-      "title": "odoo/design-themes",
-      "url": "https://github.com/odoo/design-themes",
-      "description": "",
-      "language": "SCSS",
-      "languageColor": "#c6538c",
-      "stars": "196",
-      "forks": "357",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80679690?s=40&v=4",
-          "name": "Brieuc-brd",
-          "url": "https://github.com/Brieuc-brd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12633088?s=40&v=4",
-          "name": "C3POdoo",
-          "url": "https://github.com/C3POdoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10338094?s=40&v=4",
-          "name": "qsm-odoo",
-          "url": "https://github.com/qsm-odoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128030743?s=40&v=4",
-          "name": "chgo-odoo",
-          "url": "https://github.com/chgo-odoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/80678921?s=40&v=4",
-          "name": "xlu-odoo",
-          "url": "https://github.com/xlu-odoo"
-        }
-      ]
-    },
-    {
       "title": "conventional-commits/conventionalcommits.org",
       "url": "https://github.com/conventional-commits/conventionalcommits.org",
       "description": "The conventional commits specification",
       "language": "SCSS",
       "languageColor": "#c6538c",
-      "stars": "9,186",
-      "forks": "688",
-      "addStars": "6",
+      "stars": "9,247",
+      "forks": "693",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8950503?s=40&v=4",
@@ -356,6 +427,154 @@
           "avatar": "https://avatars.githubusercontent.com/u/2121481?s=40&v=4",
           "name": "MauricioRobayo",
           "url": "https://github.com/MauricioRobayo"
+        }
+      ]
+    },
+    {
+      "title": "cobiwave/simplefolio",
+      "url": "https://github.com/cobiwave/simplefolio",
+      "description": "⚡️ A minimal portfolio template for Developers",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "14,225",
+      "forks": "6,090",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35739742?s=40&v=4",
+          "name": "cobiwave",
+          "url": "https://github.com/cobiwave"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64222167?s=40&v=4",
+          "name": "jacobo-martinez",
+          "url": "https://github.com/jacobo-martinez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37514151?s=40&v=4",
+          "name": "SNasser97",
+          "url": "https://github.com/SNasser97"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11070873?s=40&v=4",
+          "name": "multidimensionalinteractive",
+          "url": "https://github.com/multidimensionalinteractive"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32886368?s=40&v=4",
+          "name": "gjaiswal108",
+          "url": "https://github.com/gjaiswal108"
+        }
+      ]
+    },
+    {
+      "title": "vinceliuice/MacTahoe-gtk-theme",
+      "url": "https://github.com/vinceliuice/MacTahoe-gtk-theme",
+      "description": "MacOS Tahoe theme for gtk desktops",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "1,586",
+      "forks": "90",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",
+          "name": "vinceliuice",
+          "url": "https://github.com/vinceliuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/119421047?s=40&v=4",
+          "name": "vinnytherobot",
+          "url": "https://github.com/vinnytherobot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113182591?s=40&v=4",
+          "name": "Octopustank",
+          "url": "https://github.com/Octopustank"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/163449566?s=40&v=4",
+          "name": "choc1024",
+          "url": "https://github.com/choc1024"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/155487881?s=40&v=4",
+          "name": "Slim-Hady",
+          "url": "https://github.com/Slim-Hady"
+        }
+      ]
+    },
+    {
+      "title": "pidcodes/pidcodes.github.com",
+      "url": "https://github.com/pidcodes/pidcodes.github.com",
+      "description": "Website for pid.codes",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "573",
+      "forks": "1,001",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52649?s=40&v=4",
+          "name": "tannewt",
+          "url": "https://github.com/tannewt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17865?s=40&v=4",
+          "name": "Arachnid",
+          "url": "https://github.com/Arachnid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1517291?s=40&v=4",
+          "name": "jepler",
+          "url": "https://github.com/jepler"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2874292?s=40&v=4",
+          "name": "sabas1080",
+          "url": "https://github.com/sabas1080"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6216436?s=40&v=4",
+          "name": "peternewman",
+          "url": "https://github.com/peternewman"
+        }
+      ]
+    },
+    {
+      "title": "Keldos-Li/typora-latex-theme",
+      "url": "https://github.com/Keldos-Li/typora-latex-theme",
+      "description": "将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.",
+      "language": "SCSS",
+      "languageColor": "#c6538c",
+      "stars": "5,962",
+      "forks": "334",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23137268?s=40&v=4",
+          "name": "Keldos-Li",
+          "url": "https://github.com/Keldos-Li"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19510622?s=40&v=4",
+          "name": "RalXYZ",
+          "url": "https://github.com/RalXYZ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93034081?s=40&v=4",
+          "name": "Bubbu0129",
+          "url": "https://github.com/Bubbu0129"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29992205?s=40&v=4",
+          "name": "undefined-moe",
+          "url": "https://github.com/undefined-moe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32015980?s=40&v=4",
+          "name": "Linho1219",
+          "url": "https://github.com/Linho1219"
         }
       ]
     }

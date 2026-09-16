@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "27,233",
-      "forks": "12,405",
-      "addStars": "76",
+      "stars": "27,242",
+      "forks": "12,401",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/481465?s=40&v=4",
@@ -42,39 +42,150 @@
       ]
     },
     {
-      "title": "ethereum/ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
+      "title": "Uniswap/v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "748",
-      "forks": "1,038",
-      "addStars": "15",
+      "stars": "2,529",
+      "forks": "1,327",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45835846?s=40&v=4",
-          "name": "Pandapip1",
-          "url": "https://github.com/Pandapip1"
+          "avatar": "https://avatars.githubusercontent.com/u/7897876?s=40&v=4",
+          "name": "moodysalem",
+          "url": "https://github.com/moodysalem"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57262657?s=40&v=4",
-          "name": "SamWilsn",
-          "url": "https://github.com/SamWilsn"
+          "avatar": "https://avatars.githubusercontent.com/u/3760414?s=40&v=4",
+          "name": "NoahZinsmeister",
+          "url": "https://github.com/NoahZinsmeister"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14004106?s=40&v=4",
-          "name": "lightclient",
-          "url": "https://github.com/lightclient"
+          "avatar": "https://avatars.githubusercontent.com/u/34962750?s=40&v=4",
+          "name": "hensha256",
+          "url": "https://github.com/hensha256"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/85952233?s=40&v=4",
-          "name": "eth-bot",
-          "url": "https://github.com/eth-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/30504811?s=40&v=4",
+          "name": "snreynolds",
+          "url": "https://github.com/snreynolds"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158211?s=40&v=4",
-          "name": "wanderer",
-          "url": "https://github.com/wanderer"
+          "avatar": "https://avatars.githubusercontent.com/u/59492811?s=40&v=4",
+          "name": "dianakocsis",
+          "url": "https://github.com/dianakocsis"
+        }
+      ]
+    },
+    {
+      "title": "SunWeb3Sec/DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "6,790",
+      "forks": "1,479",
+      "addStars": "60",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107249780?s=40&v=4",
+          "name": "SunWeb3Sec",
+          "url": "https://github.com/SunWeb3Sec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53768199?s=40&v=4",
+          "name": "zhouxianyuan",
+          "url": "https://github.com/zhouxianyuan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/209417172?s=40&v=4",
+          "name": "Z-Bra0",
+          "url": "https://github.com/Z-Bra0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/224065307?s=40&v=4",
+          "name": "TracExp207",
+          "url": "https://github.com/TracExp207"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82594266?s=40&v=4",
+          "name": "Kkaminsk86",
+          "url": "https://github.com/Kkaminsk86"
+        }
+      ]
+    },
+    {
+      "title": "1inch/swap-vm",
+      "url": "https://github.com/1inch/swap-vm",
+      "description": "",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "39",
+      "forks": "36",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26607726?s=40&v=4",
+          "name": "SteMak",
+          "url": "https://github.com/SteMak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1978490?s=40&v=4",
+          "name": "Sunnesoft",
+          "url": "https://github.com/Sunnesoft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5836307?s=40&v=4",
+          "name": "ifelsedeveloper",
+          "url": "https://github.com/ifelsedeveloper"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22360160?s=40&v=4",
+          "name": "SevenSwen",
+          "url": "https://github.com/SevenSwen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19306469?s=40&v=4",
+          "name": "galekseev",
+          "url": "https://github.com/galekseev"
+        }
+      ]
+    },
+    {
+      "title": "across-protocol/contracts",
+      "url": "https://github.com/across-protocol/contracts",
+      "description": "Smart contracts for Across protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": "152",
+      "forks": "93",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9457025?s=40&v=4",
+          "name": "nicholaspai",
+          "url": "https://github.com/nicholaspai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108695806?s=40&v=4",
+          "name": "pxrl",
+          "url": "https://github.com/pxrl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11791551?s=40&v=4",
+          "name": "mrice32",
+          "url": "https://github.com/mrice32"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12886084?s=40&v=4",
+          "name": "chrismaree",
+          "url": "https://github.com/chrismaree"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13224362?s=40&v=4",
+          "name": "fusmanii",
+          "url": "https://github.com/fusmanii"
         }
       ]
     },
@@ -84,9 +195,9 @@
       "description": "Aave V4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "200",
-      "forks": "123",
-      "addStars": "9",
+      "stars": "205",
+      "forks": "128",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55102840?s=40&v=4",
@@ -122,8 +233,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": "904",
-      "forks": "659",
-      "addStars": "9",
+      "forks": "664",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34962750?s=40&v=4",
@@ -149,447 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3760414?s=40&v=4",
           "name": "NoahZinsmeister",
           "url": "https://github.com/NoahZinsmeister"
-        }
-      ]
-    },
-    {
-      "title": "dapphub/ds-test",
-      "url": "https://github.com/dapphub/ds-test",
-      "description": "Assertions, equality checks and other test helpers",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "238",
-      "forks": "74",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18486361?s=40&v=4",
-          "name": "rainbreak",
-          "url": "https://github.com/rainbreak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6689924?s=40&v=4",
-          "name": "d-xo",
-          "url": "https://github.com/d-xo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60899256?s=40&v=4",
-          "name": "tommyrharper",
-          "url": "https://github.com/tommyrharper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14032?s=40&v=4",
-          "name": "dbrock",
-          "url": "https://github.com/dbrock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31553173?s=40&v=4",
-          "name": "brockelmore",
-          "url": "https://github.com/brockelmore"
-        }
-      ]
-    },
-    {
-      "title": "a16z/erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "222",
-      "forks": "43",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5491770?s=40&v=4",
-          "name": "daejunpark",
-          "url": "https://github.com/daejunpark"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25297591?s=40&v=4",
-          "name": "pcaversaccio",
-          "url": "https://github.com/pcaversaccio"
-        }
-      ]
-    },
-    {
-      "title": "Uniswap/v2-periphery",
-      "url": "https://github.com/Uniswap/v2-periphery",
-      "description": "🎚 Peripheral smart contracts for interacting with Uniswap V2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "1,268",
-      "forks": "1,761",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3760414?s=40&v=4",
-          "name": "NoahZinsmeister",
-          "url": "https://github.com/NoahZinsmeister"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7897876?s=40&v=4",
-          "name": "moodysalem",
-          "url": "https://github.com/moodysalem"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9343483?s=40&v=4",
-          "name": "haydenadams",
-          "url": "https://github.com/haydenadams"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40770586?s=40&v=4",
-          "name": "marktoda",
-          "url": "https://github.com/marktoda"
-        }
-      ]
-    },
-    {
-      "title": "1inch/swap-vm",
-      "url": "https://github.com/1inch/swap-vm",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "34",
-      "forks": "32",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1978490?s=40&v=4",
-          "name": "Sunnesoft",
-          "url": "https://github.com/Sunnesoft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26607726?s=40&v=4",
-          "name": "SteMak",
-          "url": "https://github.com/SteMak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5836307?s=40&v=4",
-          "name": "ifelsedeveloper",
-          "url": "https://github.com/ifelsedeveloper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22360160?s=40&v=4",
-          "name": "SevenSwen",
-          "url": "https://github.com/SevenSwen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19306469?s=40&v=4",
-          "name": "galekseev",
-          "url": "https://github.com/galekseev"
-        }
-      ]
-    },
-    {
-      "title": "0xProject/0x-settler",
-      "url": "https://github.com/0xProject/0x-settler",
-      "description": "0x settlement contracts using Permit2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "107",
-      "forks": "72",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1207590?s=40&v=4",
-          "name": "duncancmt",
-          "url": "https://github.com/duncancmt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47638426?s=40&v=4",
-          "name": "e1Ru1o",
-          "url": "https://github.com/e1Ru1o"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27389?s=40&v=4",
-          "name": "dekz",
-          "url": "https://github.com/dekz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24902242?s=40&v=4",
-          "name": "jparklev",
-          "url": "https://github.com/jparklev"
-        }
-      ]
-    },
-    {
-      "title": "foundry-rs/forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "1,053",
-      "forks": "519",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17163988?s=40&v=4",
-          "name": "mds1",
-          "url": "https://github.com/mds1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95942363?s=40&v=4",
-          "name": "zerosnacks",
-          "url": "https://github.com/zerosnacks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31553173?s=40&v=4",
-          "name": "brockelmore",
-          "url": "https://github.com/brockelmore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/94782988?s=40&v=4",
-          "name": "ZeroEkkusu",
-          "url": "https://github.com/ZeroEkkusu"
-        }
-      ]
-    },
-    {
-      "title": "bnb-chain/BEPs",
-      "url": "https://github.com/bnb-chain/BEPs",
-      "description": "BNB Evolution Proposals",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "976",
-      "forks": "679",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7995985?s=40&v=4",
-          "name": "buddh0",
-          "url": "https://github.com/buddh0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48426112?s=40&v=4",
-          "name": "chainwhisper",
-          "url": "https://github.com/chainwhisper"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152148891?s=40&v=4",
-          "name": "zzzckck",
-          "url": "https://github.com/zzzckck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7310198?s=40&v=4",
-          "name": "unclezoro",
-          "url": "https://github.com/unclezoro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2945006?s=40&v=4",
-          "name": "HaoyangLiu",
-          "url": "https://github.com/HaoyangLiu"
-        }
-      ]
-    },
-    {
-      "title": "Uniswap/v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "2,527",
-      "forks": "1,313",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7897876?s=40&v=4",
-          "name": "moodysalem",
-          "url": "https://github.com/moodysalem"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3760414?s=40&v=4",
-          "name": "NoahZinsmeister",
-          "url": "https://github.com/NoahZinsmeister"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34962750?s=40&v=4",
-          "name": "hensha256",
-          "url": "https://github.com/hensha256"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30504811?s=40&v=4",
-          "name": "snreynolds",
-          "url": "https://github.com/snreynolds"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59492811?s=40&v=4",
-          "name": "dianakocsis",
-          "url": "https://github.com/dianakocsis"
-        }
-      ]
-    },
-    {
-      "title": "coinbase/build-onchain-apps",
-      "url": "https://github.com/coinbase/build-onchain-apps",
-      "description": "Accelerate your onchain creativity with the Build Onchain Apps Template. ⛵️",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "751",
-      "forks": "151",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/829214?s=40&v=4",
-          "name": "Zizzamia",
-          "url": "https://github.com/Zizzamia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132851666?s=40&v=4",
-          "name": "kyhyco",
-          "url": "https://github.com/kyhyco"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35871990?s=40&v=4",
-          "name": "Sneh1999",
-          "url": "https://github.com/Sneh1999"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9765685?s=40&v=4",
-          "name": "eragon512",
-          "url": "https://github.com/eragon512"
-        }
-      ]
-    },
-    {
-      "title": "OriginProtocol/origin-dollar",
-      "url": "https://github.com/OriginProtocol/origin-dollar",
-      "description": "OUSD and OETH are stablecoins that passively accrue yield while you are holding it",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "149",
-      "forks": "111",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/579910?s=40&v=4",
-          "name": "sparrowDom",
-          "url": "https://github.com/sparrowDom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/489202?s=40&v=4",
-          "name": "tomlinton",
-          "url": "https://github.com/tomlinton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10547529?s=40&v=4",
-          "name": "shahthepro",
-          "url": "https://github.com/shahthepro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/837?s=40&v=4",
-          "name": "DanielVF",
-          "url": "https://github.com/DanielVF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6491112?s=40&v=4",
-          "name": "naddison36",
-          "url": "https://github.com/naddison36"
-        }
-      ]
-    },
-    {
-      "title": "OffchainLabs/nitro-contracts",
-      "url": "https://github.com/OffchainLabs/nitro-contracts",
-      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "151",
-      "forks": "158",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95478735?s=40&v=4",
-          "name": "gzeoneth",
-          "url": "https://github.com/gzeoneth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1663175?s=40&v=4",
-          "name": "yahgwai",
-          "url": "https://github.com/yahgwai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4563400?s=40&v=4",
-          "name": "gvladika",
-          "url": "https://github.com/gvladika"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6006498?s=40&v=4",
-          "name": "PlasmaPower",
-          "url": "https://github.com/PlasmaPower"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24272204?s=40&v=4",
-          "name": "rachel-bousfield",
-          "url": "https://github.com/rachel-bousfield"
-        }
-      ]
-    },
-    {
-      "title": "foundry-rs/book",
-      "url": "https://github.com/foundry-rs/book",
-      "description": "A book on all things Foundry, available at https://getfoundry.sh.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "959",
-      "forks": "1,008",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8862627?s=40&v=4",
-          "name": "onbjerg",
-          "url": "https://github.com/onbjerg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19890894?s=40&v=4",
-          "name": "mattsse",
-          "url": "https://github.com/mattsse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/95942363?s=40&v=4",
-          "name": "zerosnacks",
-          "url": "https://github.com/zerosnacks"
-        }
-      ]
-    },
-    {
-      "title": "Arachnid/solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "1,154",
-      "forks": "371",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17865?s=40&v=4",
-          "name": "Arachnid",
-          "url": "https://github.com/Arachnid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1032814?s=40&v=4",
-          "name": "ovangle",
-          "url": "https://github.com/ovangle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14809513?s=40&v=4",
-          "name": "RyanRHall",
-          "url": "https://github.com/RyanRHall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20340?s=40&v=4",
-          "name": "axic",
-          "url": "https://github.com/axic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4612986?s=40&v=4",
-          "name": "chknlittle",
-          "url": "https://github.com/chknlittle"
         }
       ]
     }

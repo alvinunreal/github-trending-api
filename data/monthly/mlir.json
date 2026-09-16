@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Monthly Trending",
   "description": "Monthly Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "triton-lang/triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "20,013",
-      "forks": "3,141",
-      "addStars": "254",
+      "stars": "20,173",
+      "forks": "3,190",
+      "addStars": "251",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/614788?s=40&v=4",
@@ -47,19 +47,19 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "146",
-      "forks": "196",
+      "stars": "166",
+      "forks": "224",
       "addStars": "30",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2306281?s=40&v=4",
-          "name": "Jokeren",
-          "url": "https://github.com/Jokeren"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/27532842?s=40&v=4",
           "name": "hongziqi",
           "url": "https://github.com/hongziqi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2306281?s=40&v=4",
+          "name": "Jokeren",
+          "url": "https://github.com/Jokeren"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/24322263?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "875",
-      "forks": "162",
-      "addStars": "123",
+      "stars": "906",
+      "forks": "171",
+      "addStars": "91",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&v=4",
@@ -106,51 +106,14 @@
       ]
     },
     {
-      "title": "facebookexperimental/triton",
-      "url": "https://github.com/facebookexperimental/triton",
-      "description": "Github mirror of trition-lang/triton repo.",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": "192",
-      "forks": "67",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24850433?s=40&v=4",
-          "name": "agron911",
-          "url": "https://github.com/agron911"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28767570?s=40&v=4",
-          "name": "njriasan",
-          "url": "https://github.com/njriasan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15899383?s=40&v=4",
-          "name": "htyu",
-          "url": "https://github.com/htyu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15016832?s=40&v=4",
-          "name": "Mogball",
-          "url": "https://github.com/Mogball"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13238737?s=40&v=4",
-          "name": "peterbell10",
-          "url": "https://github.com/peterbell10"
-        }
-      ]
-    },
-    {
       "title": "intel/intel-xpu-backend-for-triton",
       "url": "https://github.com/intel/intel-xpu-backend-for-triton",
       "description": "OpenAI Triton backend for Intel® GPUs",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "267",
-      "forks": "108",
-      "addStars": "4",
+      "stars": "270",
+      "forks": "109",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54643204?s=40&v=4",
@@ -180,71 +143,39 @@
       ]
     },
     {
-      "title": "EnzymeAD/Enzyme-JAX",
-      "url": "https://github.com/EnzymeAD/Enzyme-JAX",
-      "description": "Custom Bindings for Enzyme Automatic Differentiation Tool and Interfacing with JAX.",
+      "title": "facebookexperimental/triton",
+      "url": "https://github.com/facebookexperimental/triton",
+      "description": "Github mirror of trition-lang/triton repo.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "130",
-      "forks": "48",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1260124?s=40&v=4",
-          "name": "wsmoses",
-          "url": "https://github.com/wsmoses"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30564094?s=40&v=4",
-          "name": "avik-pal",
-          "url": "https://github.com/avik-pal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9824244?s=40&v=4",
-          "name": "Pangoraw",
-          "url": "https://github.com/Pangoraw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "tenstorrent/tt-mlir",
-      "url": "https://github.com/tenstorrent/tt-mlir",
-      "description": "Tenstorrent MLIR compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": "301",
-      "forks": "149",
+      "stars": "195",
+      "forks": "72",
       "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/127986401?s=40&v=4",
-          "name": "nsmithtt",
-          "url": "https://github.com/nsmithtt"
+          "avatar": "https://avatars.githubusercontent.com/u/24850433?s=40&v=4",
+          "name": "agron911",
+          "url": "https://github.com/agron911"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/157983820?s=40&v=4",
-          "name": "vmilosevic",
-          "url": "https://github.com/vmilosevic"
+          "avatar": "https://avatars.githubusercontent.com/u/28767570?s=40&v=4",
+          "name": "njriasan",
+          "url": "https://github.com/njriasan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/133996364?s=40&v=4",
-          "name": "tapspatel",
-          "url": "https://github.com/tapspatel"
+          "avatar": "https://avatars.githubusercontent.com/u/15899383?s=40&v=4",
+          "name": "htyu",
+          "url": "https://github.com/htyu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/186815808?s=40&v=4",
-          "name": "azecevicTT",
-          "url": "https://github.com/azecevicTT"
+          "avatar": "https://avatars.githubusercontent.com/u/15016832?s=40&v=4",
+          "name": "Mogball",
+          "url": "https://github.com/Mogball"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/133032400?s=40&v=4",
-          "name": "rpavlovicTT",
-          "url": "https://github.com/rpavlovicTT"
+          "avatar": "https://avatars.githubusercontent.com/u/13238737?s=40&v=4",
+          "name": "peterbell10",
+          "url": "https://github.com/peterbell10"
         }
       ]
     }

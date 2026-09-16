@@ -2,340 +2,116 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
-      "title": "duixcom/Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,868",
-      "forks": "2,511",
-      "addStars": "188",
+      "stars": "34,483",
+      "forks": "3,612",
+      "addStars": "6,095",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28629101?s=40&v=4",
-          "name": "whl88",
-          "url": "https://github.com/whl88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208416229?s=40&v=4",
-          "name": "suifeng9203",
-          "url": "https://github.com/suifeng9203"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2870096?s=40&v=4",
-          "name": "haol666",
-          "url": "https://github.com/haol666"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15390663?s=40&v=4",
-          "name": "flyingflyfly",
-          "url": "https://github.com/flyingflyfly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17336101?s=40&v=4",
-          "name": "Samge0",
-          "url": "https://github.com/Samge0"
-        }
-      ]
-    },
-    {
-      "title": "nmap/nmap",
-      "url": "https://github.com/nmap/nmap",
-      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "13,464",
-      "forks": "2,890",
-      "addStars": "73",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/768278?s=40&v=4",
-          "name": "bonsaiviking",
-          "url": "https://github.com/bonsaiviking"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/619500?s=40&v=4",
-          "name": "G10h4ck",
-          "url": "https://github.com/G10h4ck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22347290?s=40&v=4",
-          "name": "rewanthtammana",
-          "url": "https://github.com/rewanthtammana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16346336?s=40&v=4",
-          "name": "vinamrabhatia",
-          "url": "https://github.com/vinamrabhatia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2370088?s=40&v=4",
-          "name": "wongwaituck",
-          "url": "https://github.com/wongwaituck"
-        }
-      ]
-    },
-    {
-      "title": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "7,436",
-      "forks": "349",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
-          "name": "ryanfleury",
-          "url": "https://github.com/ryanfleury"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
-          "name": "NikitaSmith057",
-          "url": "https://github.com/NikitaSmith057"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&v=4",
-          "name": "mmozeiko",
-          "url": "https://github.com/mmozeiko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&v=4",
-          "name": "NikitaAtEpic",
-          "url": "https://github.com/NikitaAtEpic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&v=4",
-          "name": "andreymlv",
-          "url": "https://github.com/andreymlv"
-        }
-      ]
-    },
-    {
-      "title": "InterceptSuite/ProxyBridge",
-      "url": "https://github.com/InterceptSuite/ProxyBridge",
-      "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "6,125",
-      "forks": "370",
-      "addStars": "353",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39705906?s=40&v=4",
-          "name": "Anof-cyber",
-          "url": "https://github.com/Anof-cyber"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/195818135?s=40&v=4",
-          "name": "1rhino2",
-          "url": "https://github.com/1rhino2"
+          "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
+          "name": "JustVugg",
+          "url": "https://github.com/JustVugg"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48591714?s=40&v=4",
+          "name": "ZacharyZcR",
+          "url": "https://github.com/ZacharyZcR"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/289220702?s=40&v=4",
+          "name": "monotophic",
+          "url": "https://github.com/monotophic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/522310?s=40&v=4",
+          "name": "steve-m",
+          "url": "https://github.com/steve-m"
         }
       ]
     },
     {
-      "title": "dorianborian/sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "title": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,156",
-      "forks": "562",
-      "addStars": "155",
+      "stars": "5,083",
+      "forks": "564",
+      "addStars": "944",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33707294?s=40&v=4",
-          "name": "dorianborian",
-          "url": "https://github.com/dorianborian"
+          "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
+          "name": "luboslenco",
+          "url": "https://github.com/luboslenco"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22573854?s=40&v=4",
-          "name": "shariqnaiyer",
-          "url": "https://github.com/shariqnaiyer"
+          "avatar": "https://avatars.githubusercontent.com/u/28649121?s=40&v=4",
+          "name": "MathemanFlo",
+          "url": "https://github.com/MathemanFlo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/466956?s=40&v=4",
-          "name": "one-for-all",
-          "url": "https://github.com/one-for-all"
+          "avatar": "https://avatars.githubusercontent.com/u/1295639?s=40&v=4",
+          "name": "shiena",
+          "url": "https://github.com/shiena"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3700226?s=40&v=4",
-          "name": "vido89",
-          "url": "https://github.com/vido89"
+          "avatar": "https://avatars.githubusercontent.com/u/15870496?s=40&v=4",
+          "name": "lidorY",
+          "url": "https://github.com/lidorY"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7928135?s=40&v=4",
-          "name": "maximeconnolly",
-          "url": "https://github.com/maximeconnolly"
+          "avatar": "https://avatars.githubusercontent.com/u/28755060?s=40&v=4",
+          "name": "Xephobia",
+          "url": "https://github.com/Xephobia"
         }
       ]
     },
     {
-      "title": "tr4m0ryp/tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "title": "doldecomp/melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "704",
-      "forks": "191",
-      "addStars": "68",
+      "stars": "2,213",
+      "forks": "313",
+      "addStars": "554",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/175369445?s=40&v=4",
-          "name": "tr4m0ryp",
-          "url": "https://github.com/tr4m0ryp"
+          "avatar": "https://avatars.githubusercontent.com/u/5190964?s=40&v=4",
+          "name": "ribbanya",
+          "url": "https://github.com/ribbanya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7443598?s=40&v=4",
+          "name": "PsiLupan",
+          "url": "https://github.com/PsiLupan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52847440?s=40&v=4",
+          "name": "r-burns",
+          "url": "https://github.com/r-burns"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "git/git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "62,804",
-      "forks": "28,304",
-      "addStars": "177",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54884?s=40&v=4",
-          "name": "gitster",
-          "url": "https://github.com/gitster"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45925?s=40&v=4",
-          "name": "peff",
-          "url": "https://github.com/peff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/127790?s=40&v=4",
-          "name": "dscho",
-          "url": "https://github.com/dscho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4056630?s=40&v=4",
-          "name": "pks-t",
-          "url": "https://github.com/pks-t"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45301?s=40&v=4",
-          "name": "avar",
-          "url": "https://github.com/avar"
-        }
-      ]
-    },
-    {
-      "title": "openssl/openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "30,693",
-      "forks": "11,408",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
-          "name": "levitte",
-          "url": "https://github.com/levitte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7422273?s=40&v=4",
-          "name": "mattcaswell",
-          "url": "https://github.com/mattcaswell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9038069?s=40&v=4",
-          "name": "dot-asm",
-          "url": "https://github.com/dot-asm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17916609?s=40&v=4",
-          "name": "paulidale",
-          "url": "https://github.com/paulidale"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6590984?s=40&v=4",
-          "name": "snhenson",
-          "url": "https://github.com/snhenson"
-        }
-      ]
-    },
-    {
-      "title": "termux/termux-x11",
-      "url": "https://github.com/termux/termux-x11",
-      "description": "Termux X-server add-on.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "4,652",
-      "forks": "673",
-      "addStars": "62",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9674930?s=40&v=4",
-          "name": "twaik",
-          "url": "https://github.com/twaik"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76830230?s=40&v=4",
-          "name": "creepy-pasta101",
-          "url": "https://github.com/creepy-pasta101"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71028193?s=40&v=4",
-          "name": "gradle-update-robot",
-          "url": "https://github.com/gradle-update-robot"
-        }
-      ]
-    },
-    {
-      "title": "HandBrake/HandBrake",
-      "url": "https://github.com/HandBrake/HandBrake",
-      "description": "HandBrake's development repository",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "24,176",
-      "forks": "1,684",
-      "addStars": "101",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/628593?s=40&v=4",
-          "name": "sr55",
-          "url": "https://github.com/sr55"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/709720?s=40&v=4",
-          "name": "jstebbins",
-          "url": "https://github.com/jstebbins"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4305519?s=40&v=4",
-          "name": "galad87",
-          "url": "https://github.com/galad87"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70239?s=40&v=4",
-          "name": "bradleysepos",
-          "url": "https://github.com/bradleysepos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/374913?s=40&v=4",
-          "name": "jbrjake",
-          "url": "https://github.com/jbrjake"
+          "avatar": "https://avatars.githubusercontent.com/u/5770194?s=40&v=4",
+          "name": "MarkMcCaskey",
+          "url": "https://github.com/MarkMcCaskey"
         }
       ]
     },
@@ -345,9 +121,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,625",
-      "forks": "2,566",
-      "addStars": "55",
+      "stars": "27,870",
+      "forks": "2,603",
+      "addStars": "126",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
@@ -377,71 +153,288 @@
       ]
     },
     {
-      "title": "RxNaison/Epson-Waste-Reset",
-      "url": "https://github.com/RxNaison/Epson-Waste-Reset",
-      "description": "A free, native, and completely open-source utility to reset the \"Waste Ink Pad\" counter on Epson printers",
+      "title": "HarbourMasters/Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "159",
-      "forks": "34",
-      "addStars": "24",
+      "stars": "5,399",
+      "forks": "837",
+      "addStars": "67",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/87330825?s=40&v=4",
-          "name": "RxNaison",
-          "url": "https://github.com/RxNaison"
+          "avatar": "https://avatars.githubusercontent.com/u/159546?s=40&v=4",
+          "name": "serprex",
+          "url": "https://github.com/serprex"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/70942617?s=40&v=4",
+          "name": "briaguya0",
+          "url": "https://github.com/briaguya0"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8245980?s=40&v=4",
-          "name": "Oliver0804",
-          "url": "https://github.com/Oliver0804"
+          "avatar": "https://avatars.githubusercontent.com/u/774771?s=40&v=4",
+          "name": "Malkierian",
+          "url": "https://github.com/Malkierian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/390145?s=40&v=4",
-          "name": "theoo",
-          "url": "https://github.com/theoo"
+          "avatar": "https://avatars.githubusercontent.com/u/13861068?s=40&v=4",
+          "name": "Archez",
+          "url": "https://github.com/Archez"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12900195?s=40&v=4",
-          "name": "mughu-id",
-          "url": "https://github.com/mughu-id"
+          "avatar": "https://avatars.githubusercontent.com/u/7316699?s=40&v=4",
+          "name": "garrettjoecox",
+          "url": "https://github.com/garrettjoecox"
         }
       ]
     },
     {
-      "title": "lvgl/lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "title": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "24,498",
-      "forks": "4,322",
-      "addStars": "84",
+      "stars": "12,069",
+      "forks": "1,593",
+      "addStars": "19",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7599318?s=40&v=4",
-          "name": "kisvegabor",
-          "url": "https://github.com/kisvegabor"
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42941056?s=40&v=4",
-          "name": "embeddedt",
-          "url": "https://github.com/embeddedt"
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26767803?s=40&v=4",
-          "name": "FASTSHIFT",
-          "url": "https://github.com/FASTSHIFT"
+          "avatar": "https://avatars.githubusercontent.com/u/898396?s=40&v=4",
+          "name": "t-mat",
+          "url": "https://github.com/t-mat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55462127?s=40&v=4",
-          "name": "AndreCostaaa",
-          "url": "https://github.com/AndreCostaaa"
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
+        }
+      ]
+    },
+    {
+      "title": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "76,270",
+      "forks": "10,195",
+      "addStars": "304",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
+          "name": "jp9000",
+          "url": "https://github.com/jp9000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10396506?s=40&v=4",
+          "name": "jpark37",
+          "url": "https://github.com/jpark37"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3123295?s=40&v=4",
+          "name": "derrod",
+          "url": "https://github.com/derrod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9436503?s=40&v=4",
+          "name": "PatTheMav",
+          "url": "https://github.com/PatTheMav"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/624931?s=40&v=4",
+          "name": "RytoEX",
+          "url": "https://github.com/RytoEX"
+        }
+      ]
+    },
+    {
+      "title": "DarkFlippers/unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "22,269",
+      "forks": "1,944",
+      "addStars": "76",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10697207?s=40&v=4",
+          "name": "xMasterX",
+          "url": "https://github.com/xMasterX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1633132?s=40&v=4",
+          "name": "skotopes",
+          "url": "https://github.com/skotopes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/277532?s=40&v=4",
+          "name": "hedger",
+          "url": "https://github.com/hedger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44112859?s=40&v=4",
+          "name": "gornekich",
+          "url": "https://github.com/gornekich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4784169?s=40&v=4",
+          "name": "DrZlo13",
+          "url": "https://github.com/DrZlo13"
+        }
+      ]
+    },
+    {
+      "title": "duixcom/Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "15,462",
+      "forks": "2,630",
+      "addStars": "388",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28629101?s=40&v=4",
+          "name": "whl88",
+          "url": "https://github.com/whl88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208416229?s=40&v=4",
+          "name": "suifeng9203",
+          "url": "https://github.com/suifeng9203"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2870096?s=40&v=4",
+          "name": "haol666",
+          "url": "https://github.com/haol666"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15390663?s=40&v=4",
+          "name": "flyingflyfly",
+          "url": "https://github.com/flyingflyfly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17336101?s=40&v=4",
+          "name": "Samge0",
+          "url": "https://github.com/Samge0"
+        }
+      ]
+    },
+    {
+      "title": "redcanaryco/atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "12,548",
+      "forks": "3,213",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22311332?s=40&v=4",
+          "name": "clr2of8",
+          "url": "https://github.com/clr2of8"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27735081?s=40&v=4",
+          "name": "cyberbuff",
+          "url": "https://github.com/cyberbuff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5632822?s=40&v=4",
+          "name": "MHaggis",
+          "url": "https://github.com/MHaggis"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7771446?s=40&v=4",
+          "name": "patel-bhavin",
+          "url": "https://github.com/patel-bhavin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1476868?s=40&v=4",
+          "name": "josehelps",
+          "url": "https://github.com/josehelps"
+        }
+      ]
+    },
+    {
+      "title": "HarbourMasters/2ship2harkinian",
+      "url": "https://github.com/HarbourMasters/2ship2harkinian",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "2,227",
+      "forks": "242",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7316699?s=40&v=4",
+          "name": "garrettjoecox",
+          "url": "https://github.com/garrettjoecox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13861068?s=40&v=4",
+          "name": "Archez",
+          "url": "https://github.com/Archez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7004497?s=40&v=4",
+          "name": "Eblo",
+          "url": "https://github.com/Eblo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35883445?s=40&v=4",
+          "name": "louist103",
+          "url": "https://github.com/louist103"
+        }
+      ]
+    },
+    {
+      "title": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "42,855",
+      "forks": "7,356",
+      "addStars": "83",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+          "name": "bagder",
+          "url": "https://github.com/bagder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+          "name": "vszakats",
+          "url": "https://github.com/vszakats"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
+          "name": "yangtse",
+          "url": "https://github.com/yangtse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
+          "name": "captain-caveman2k",
+          "url": "https://github.com/captain-caveman2k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
+          "name": "dfandrich",
+          "url": "https://github.com/dfandrich"
         }
       ]
     },
@@ -451,9 +444,9 @@
       "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,441",
-      "forks": "1,601",
-      "addStars": "25",
+      "stars": "4,504",
+      "forks": "1,618",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3073890?s=40&v=4",
@@ -483,199 +476,14 @@
       ]
     },
     {
-      "title": "UberGuidoZ/Flipper",
-      "url": "https://github.com/UberGuidoZ/Flipper",
-      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "17,427",
-      "forks": "3,900",
-      "addStars": "52",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/57457139?s=40&v=4",
-          "name": "UberGuidoZ",
-          "url": "https://github.com/UberGuidoZ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88857687?s=40&v=4",
-          "name": "amec0e",
-          "url": "https://github.com/amec0e"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20751479?s=40&v=4",
-          "name": "RogueMaster",
-          "url": "https://github.com/RogueMaster"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/108245223?s=40&v=4",
-          "name": "FalsePhilosopher",
-          "url": "https://github.com/FalsePhilosopher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/148797232?s=40&v=4",
-          "name": "MarkCyber",
-          "url": "https://github.com/MarkCyber"
-        }
-      ]
-    },
-    {
-      "title": "xmrig/xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "10,094",
-      "forks": "3,830",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27528955?s=40&v=4",
-          "name": "xmrig",
-          "url": "https://github.com/xmrig"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15806605?s=40&v=4",
-          "name": "SChernykh",
-          "url": "https://github.com/SChernykh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2391234?s=40&v=4",
-          "name": "Spudz76",
-          "url": "https://github.com/Spudz76"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8947059?s=40&v=4",
-          "name": "Foudge",
-          "url": "https://github.com/Foudge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29379327?s=40&v=4",
-          "name": "benthetechguy",
-          "url": "https://github.com/benthetechguy"
-        }
-      ]
-    },
-    {
-      "title": "hashcat/hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "26,626",
-      "forks": "3,538",
-      "addStars": "59",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10434361?s=40&v=4",
-          "name": "jsteube",
-          "url": "https://github.com/jsteube"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15381185?s=40&v=4",
-          "name": "matrix",
-          "url": "https://github.com/matrix"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/921533?s=40&v=4",
-          "name": "philsmd",
-          "url": "https://github.com/philsmd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/219974596?s=40&v=4",
-          "name": "hashcat-bot",
-          "url": "https://github.com/hashcat-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13440524?s=40&v=4",
-          "name": "Chick3nman",
-          "url": "https://github.com/Chick3nman"
-        }
-      ]
-    },
-    {
-      "title": "yugabyte/yugabyte-db",
-      "url": "https://github.com/yugabyte/yugabyte-db",
-      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "10,499",
-      "forks": "1,308",
-      "addStars": "20",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79169168?s=40&v=4",
-          "name": "ddhodge",
-          "url": "https://github.com/ddhodge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/891914?s=40&v=4",
-          "name": "spolitov",
-          "url": "https://github.com/spolitov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5341399?s=40&v=4",
-          "name": "aishwarya24",
-          "url": "https://github.com/aishwarya24"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/552936?s=40&v=4",
-          "name": "mbautin",
-          "url": "https://github.com/mbautin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16715704?s=40&v=4",
-          "name": "jaki",
-          "url": "https://github.com/jaki"
-        }
-      ]
-    },
-    {
-      "title": "qmk/qmk_firmware",
-      "url": "https://github.com/qmk/qmk_firmware",
-      "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "20,659",
-      "forks": "44,240",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26984769?s=40&v=4",
-          "name": "qmk-bot",
-          "url": "https://github.com/qmk-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4781841?s=40&v=4",
-          "name": "fauxpark",
-          "url": "https://github.com/fauxpark"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2584963?s=40&v=4",
-          "name": "drashna",
-          "url": "https://github.com/drashna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18669334?s=40&v=4",
-          "name": "noroadsleft",
-          "url": "https://github.com/noroadsleft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16520359?s=40&v=4",
-          "name": "zvecr",
-          "url": "https://github.com/zvecr"
-        }
-      ]
-    },
-    {
       "title": "Genymobile/scrcpy",
       "url": "https://github.com/Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "148,309",
-      "forks": "13,642",
-      "addStars": "450",
+      "stars": "149,742",
+      "forks": "13,753",
+      "addStars": "584",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
@@ -701,6 +509,117 @@
           "avatar": "https://avatars.githubusercontent.com/u/2694559?s=40&v=4",
           "name": "rootkea",
           "url": "https://github.com/rootkea"
+        }
+      ]
+    },
+    {
+      "title": "capstone-engine/capstone",
+      "url": "https://github.com/capstone-engine/capstone",
+      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "9,024",
+      "forks": "1,730",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5965536?s=40&v=4",
+          "name": "aquynh",
+          "url": "https://github.com/aquynh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45763064?s=40&v=4",
+          "name": "Rot127",
+          "url": "https://github.com/Rot127"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34511237?s=40&v=4",
+          "name": "kabeor",
+          "url": "https://github.com/kabeor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24983369?s=40&v=4",
+          "name": "b1llow",
+          "url": "https://github.com/b1llow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35799796?s=40&v=4",
+          "name": "catenacyber",
+          "url": "https://github.com/catenacyber"
+        }
+      ]
+    },
+    {
+      "title": "NVIDIA-RTX/Streamline",
+      "url": "https://github.com/NVIDIA-RTX/Streamline",
+      "description": "Streamline Integration Framework",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "1,172",
+      "forks": "157",
+      "addStars": "58",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19938781?s=40&v=4",
+          "name": "anpurohit",
+          "url": "https://github.com/anpurohit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7717595?s=40&v=4",
+          "name": "larsbishop",
+          "url": "https://github.com/larsbishop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3920942?s=40&v=4",
+          "name": "liam-middlebrook",
+          "url": "https://github.com/liam-middlebrook"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29734920?s=40&v=4",
+          "name": "nvthayes",
+          "url": "https://github.com/nvthayes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1221057?s=40&v=4",
+          "name": "gw280",
+          "url": "https://github.com/gw280"
+        }
+      ]
+    },
+    {
+      "title": "mackron/miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "7,274",
+      "forks": "599",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1232553?s=40&v=4",
+          "name": "mackron",
+          "url": "https://github.com/mackron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29616?s=40&v=4",
+          "name": "tycho",
+          "url": "https://github.com/tycho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/958469?s=40&v=4",
+          "name": "znakeeye",
+          "url": "https://github.com/znakeeye"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7667009?s=40&v=4",
+          "name": "Clownacy",
+          "url": "https://github.com/Clownacy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1697224?s=40&v=4",
+          "name": "iarwain",
+          "url": "https://github.com/iarwain"
         }
       ]
     }

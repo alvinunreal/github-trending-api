@@ -3,42 +3,75 @@
     <title>GitHub Plpgsql Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Plpgsql Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
-      <title>qiantongtech/qData</title>
-      <link>https://github.com/qiantongtech/qData</link>
-      <description>qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&amp;A.</description>
-      <guid>https://github.com/qiantongtech/qData</guid>
+      <title>DataDog/storedog</title>
+      <link>https://github.com/DataDog/storedog</link>
+      <description/>
+      <guid>https://github.com/DataDog/storedog</guid>
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
-      <stars>570</stars>
-      <forks>121</forks>
-      <addStars>2</addStars>
+      <stars>32</stars>
+      <forks>39</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48905300?s=40&amp;v=4</avatar>
-          <name>1072651764</name>
-          <url>https://github.com/1072651764</url>
+          <avatar>https://avatars.githubusercontent.com/u/77298184?s=40&amp;v=4</avatar>
+          <name>spottsdd</name>
+          <url>https://github.com/spottsdd</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70643795?s=40&amp;v=4</avatar>
-          <name>wangming1114</name>
-          <url>https://github.com/wangming1114</url>
+          <avatar>https://avatars.githubusercontent.com/u/29441497?s=40&amp;v=4</avatar>
+          <name>arosenkranz</name>
+          <url>https://github.com/arosenkranz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/95398014?s=40&amp;v=4</avatar>
-          <name>zTaoHang</name>
-          <url>https://github.com/zTaoHang</url>
+          <avatar>https://avatars.githubusercontent.com/u/63879468?s=40&amp;v=4</avatar>
+          <name>devindford</name>
+          <url>https://github.com/devindford</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52955042?s=40&amp;v=4</avatar>
-          <name>zilaeu</name>
-          <url>https://github.com/zilaeu</url>
+          <avatar>https://avatars.githubusercontent.com/u/9119168?s=40&amp;v=4</avatar>
+          <name>stanleegoodspeed</name>
+          <url>https://github.com/stanleegoodspeed</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pgpartman/pg_partman</title>
+      <link>https://github.com/pgpartman/pg_partman</link>
+      <description>Partition management extension for PostgreSQL</description>
+      <guid>https://github.com/pgpartman/pg_partman</guid>
+      <language>PLpgSQL</language>
+      <languageColor>#336790</languageColor>
+      <stars>2,822</stars>
+      <forks>316</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/825402?s=40&amp;v=4</avatar>
+          <name>keithf4</name>
+          <url>https://github.com/keithf4</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34734371?s=40&amp;v=4</avatar>
-          <name>dangchunhui</name>
-          <url>https://github.com/dangchunhui</url>
+          <avatar>https://avatars.githubusercontent.com/u/125331?s=40&amp;v=4</avatar>
+          <name>jcoleman</name>
+          <url>https://github.com/jcoleman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46604?s=40&amp;v=4</avatar>
+          <name>theory</name>
+          <url>https://github.com/theory</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4621?s=40&amp;v=4</avatar>
+          <name>bradediger</name>
+          <url>https://github.com/bradediger</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24803131?s=40&amp;v=4</avatar>
+          <name>vitaly-burovoy</name>
+          <url>https://github.com/vitaly-burovoy</url>
         </contributor>
       </contributors>
     </item>
@@ -49,8 +82,8 @@
       <guid>https://github.com/guchengwuyue/yshop-drink</guid>
       <language>PLpgSQL</language>
       <languageColor>#336790</languageColor>
-      <stars>1,540</stars>
-      <forks>391</forks>
+      <stars>1,580</stars>
+      <forks>398</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>

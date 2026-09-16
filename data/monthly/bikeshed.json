@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Monthly Trending",
   "description": "Monthly Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "webmachinelearning/webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "3,228",
-      "forks": "209",
-      "addStars": "287",
+      "stars": "4,034",
+      "forks": "269",
+      "addStars": "1,030",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9669289?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "4,868",
-      "forks": "810",
-      "addStars": "17",
+      "stars": "4,880",
+      "forks": "816",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/725717?s=40&v=4",
@@ -74,46 +74,14 @@
       ]
     },
     {
-      "title": "gpuweb/gpuweb",
-      "url": "https://github.com/gpuweb/gpuweb",
-      "description": "Where the GPU for the Web work happens!",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": "5,459",
-      "forks": "377",
-      "addStars": "28",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/606355?s=40&v=4",
-          "name": "kainino0x",
-          "url": "https://github.com/kainino0x"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13054574?s=40&v=4",
-          "name": "dneto0",
-          "url": "https://github.com/dneto0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33432579?s=40&v=4",
-          "name": "alan-baker",
-          "url": "https://github.com/alan-baker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/805273?s=40&v=4",
-          "name": "toji",
-          "url": "https://github.com/toji"
-        }
-      ]
-    },
-    {
       "title": "w3c/webappsec-permissions-policy",
       "url": "https://github.com/w3c/webappsec-permissions-policy",
       "description": "A mechanism to selectively enable and disable browser features and APIs",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
       "stars": "430",
-      "forks": "181",
-      "addStars": "2",
+      "forks": "182",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45853?s=40&v=4",
@@ -138,13 +106,82 @@
       ]
     },
     {
+      "title": "w3c/webauthn",
+      "url": "https://github.com/w3c/webauthn",
+      "description": "Web Authentication: An API for accessing Public Key Credentials",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": "1,458",
+      "forks": "306",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1367758?s=40&v=4",
+          "name": "emlun",
+          "url": "https://github.com/emlun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/226571?s=40&v=4",
+          "name": "equalsJeffH",
+          "url": "https://github.com/equalsJeffH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21203?s=40&v=4",
+          "name": "agl",
+          "url": "https://github.com/agl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5166470?s=40&v=4",
+          "name": "MasterKale",
+          "url": "https://github.com/MasterKale"
+        }
+      ]
+    },
+    {
+      "title": "WebAudio/web-audio-api",
+      "url": "https://github.com/WebAudio/web-audio-api",
+      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": "1,131",
+      "forks": "180",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/663356?s=40&v=4",
+          "name": "rtoy",
+          "url": "https://github.com/rtoy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/270485?s=40&v=4",
+          "name": "padenot",
+          "url": "https://github.com/padenot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/676891?s=40&v=4",
+          "name": "hoch",
+          "url": "https://github.com/hoch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/507001?s=40&v=4",
+          "name": "cwilso",
+          "url": "https://github.com/cwilso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        }
+      ]
+    },
+    {
       "title": "immersive-web/webxr",
       "url": "https://github.com/immersive-web/webxr",
       "description": "Repository for the WebXR Device API Specification.",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "3,149",
-      "forks": "427",
+      "stars": "3,152",
+      "forks": "428",
       "addStars": "6",
       "contributors": [
         {
@@ -175,12 +212,44 @@
       ]
     },
     {
+      "title": "w3c/resource-timing",
+      "url": "https://github.com/w3c/resource-timing",
+      "description": "Resource Timing",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": "135",
+      "forks": "40",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1490400?s=40&v=4",
+          "name": "plehegar",
+          "url": "https://github.com/plehegar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/786187?s=40&v=4",
+          "name": "yoavweiss",
+          "url": "https://github.com/yoavweiss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10652?s=40&v=4",
+          "name": "igrigorik",
+          "url": "https://github.com/igrigorik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88566?s=40&v=4",
+          "name": "noamr",
+          "url": "https://github.com/noamr"
+        }
+      ]
+    },
+    {
       "title": "w3c/ServiceWorker",
       "url": "https://github.com/w3c/ServiceWorker",
       "description": "Service Workers",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "3,634",
+      "stars": "3,635",
       "forks": "324",
       "addStars": "2",
       "contributors": [
@@ -212,9 +281,9 @@
       "description": "",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "399",
-      "forks": "167",
-      "addStars": "2",
+      "stars": "400",
+      "forks": "170",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54452408?s=40&v=4",
@@ -244,9 +313,9 @@
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "709",
-      "forks": "92",
-      "addStars": "7",
+      "stars": "711",
+      "forks": "95",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1365071?s=40&v=4",
@@ -271,39 +340,71 @@
       ]
     },
     {
-      "title": "WebAudio/web-audio-api",
-      "url": "https://github.com/WebAudio/web-audio-api",
-      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
+      "title": "WICG/declarative-partial-updates",
+      "url": "https://github.com/WICG/declarative-partial-updates",
+      "description": "",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": "1,129",
-      "forks": "180",
-      "addStars": "5",
+      "stars": "133",
+      "forks": "13",
+      "addStars": "11",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/663356?s=40&v=4",
-          "name": "rtoy",
-          "url": "https://github.com/rtoy"
+          "avatar": "https://avatars.githubusercontent.com/u/88566?s=40&v=4",
+          "name": "noamr",
+          "url": "https://github.com/noamr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/270485?s=40&v=4",
-          "name": "padenot",
-          "url": "https://github.com/padenot"
+          "avatar": "https://avatars.githubusercontent.com/u/248721?s=40&v=4",
+          "name": "dbaron",
+          "url": "https://github.com/dbaron"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/676891?s=40&v=4",
-          "name": "hoch",
-          "url": "https://github.com/hoch"
+          "avatar": "https://avatars.githubusercontent.com/u/498917?s=40&v=4",
+          "name": "foolip",
+          "url": "https://github.com/foolip"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/507001?s=40&v=4",
-          "name": "cwilso",
-          "url": "https://github.com/cwilso"
+          "avatar": "https://avatars.githubusercontent.com/u/10931297?s=40&v=4",
+          "name": "tunetheweb",
+          "url": "https://github.com/tunetheweb"
+        }
+      ]
+    },
+    {
+      "title": "w3c/attribution",
+      "url": "https://github.com/w3c/attribution",
+      "description": "Attribution API",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": "110",
+      "forks": "87",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67641?s=40&v=4",
+          "name": "martinthomson",
+          "url": "https://github.com/martinthomson"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
+          "avatar": "https://avatars.githubusercontent.com/u/8644784?s=40&v=4",
+          "name": "apasel422",
+          "url": "https://github.com/apasel422"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35273659?s=40&v=4",
+          "name": "bmcase",
+          "url": "https://github.com/bmcase"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1066818?s=40&v=4",
+          "name": "csharrison",
+          "url": "https://github.com/csharrison"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/114113246?s=40&v=4",
+          "name": "andyleiserson",
+          "url": "https://github.com/andyleiserson"
         }
       ]
     }

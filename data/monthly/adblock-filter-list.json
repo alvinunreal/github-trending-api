@@ -2,7 +2,7 @@
   "title": "GitHub Adblock-filter-list Languages Monthly Trending",
   "description": "Monthly Trending of Adblock-filter-list Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "easylist/easylist",
@@ -10,9 +10,9 @@
       "description": "EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "3,107",
-      "forks": "904",
-      "addStars": "54",
+      "stars": "3,129",
+      "forks": "912",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1659004?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Filter lists for uBlock Origin & uBlock Origin Lite",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "5,969",
-      "forks": "1,032",
-      "addStars": "92",
+      "stars": "6,012",
+      "forks": "1,036",
+      "addStars": "83",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10303732?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "AdGuard Content Blocking Filters",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "4,478",
-      "forks": "821",
-      "addStars": "80",
+      "stars": "4,513",
+      "forks": "825",
+      "addStars": "71",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8361299?s=40&v=4",
@@ -106,39 +106,39 @@
       ]
     },
     {
-      "title": "MajkiIT/polish-ads-filter",
-      "url": "https://github.com/MajkiIT/polish-ads-filter",
-      "description": "CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard",
+      "title": "List-KR/List-KR",
+      "url": "https://github.com/List-KR/List-KR",
+      "description": "Korean-language website filters list for AdGuard and uBlock Origin",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "737",
-      "forks": "101",
-      "addStars": "4",
+      "stars": "245",
+      "forks": "34",
+      "addStars": "10",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40674670?s=40&v=4",
-          "name": "MajkiIT-automat",
-          "url": "https://github.com/MajkiIT-automat"
+          "avatar": "https://avatars.githubusercontent.com/u/98787049?s=40&v=4",
+          "name": "piquark6046",
+          "url": "https://github.com/piquark6046"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11302675?s=40&v=4",
-          "name": "MajkiIT",
-          "url": "https://github.com/MajkiIT"
+          "avatar": "https://avatars.githubusercontent.com/u/179668179?s=40&v=4",
+          "name": "fifoqueue",
+          "url": "https://github.com/fifoqueue"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35370833?s=40&v=4",
-          "name": "krystian3w",
-          "url": "https://github.com/krystian3w"
+          "avatar": "https://avatars.githubusercontent.com/u/34261355?s=40&v=4",
+          "name": "green1052",
+          "url": "https://github.com/green1052"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35114429?s=40&v=4",
-          "name": "PolishRoboDog",
-          "url": "https://github.com/PolishRoboDog"
+          "avatar": "https://avatars.githubusercontent.com/u/30369714?s=40&v=4",
+          "name": "seia-soto",
+          "url": "https://github.com/seia-soto"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15007183?s=40&v=4",
-          "name": "xxcriticxx",
-          "url": "https://github.com/xxcriticxx"
+          "avatar": "https://avatars.githubusercontent.com/u/5278201?s=40&v=4",
+          "name": "mu-hun",
+          "url": "https://github.com/mu-hun"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "description": "A filter list that hides website features which use Generative AI & content labeled as AI Generated.",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "885",
-      "forks": "20",
-      "addStars": "61",
+      "stars": "942",
+      "forks": "22",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1330770?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "AdGuard DNS filter",
       "language": "Adblock Filter List",
       "languageColor": "#800000",
-      "stars": "1,351",
-      "forks": "188",
-      "addStars": "40",
+      "stars": "1,371",
+      "forks": "194",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5947035?s=40&v=4",
@@ -213,6 +213,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/91964807?s=40&v=4",
           "name": "jellizaveta",
           "url": "https://github.com/jellizaveta"
+        }
+      ]
+    },
+    {
+      "title": "MajkiIT/polish-ads-filter",
+      "url": "https://github.com/MajkiIT/polish-ads-filter",
+      "description": "CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard",
+      "language": "Adblock Filter List",
+      "languageColor": "#800000",
+      "stars": "741",
+      "forks": "102",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40674670?s=40&v=4",
+          "name": "MajkiIT-automat",
+          "url": "https://github.com/MajkiIT-automat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11302675?s=40&v=4",
+          "name": "MajkiIT",
+          "url": "https://github.com/MajkiIT"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35370833?s=40&v=4",
+          "name": "krystian3w",
+          "url": "https://github.com/krystian3w"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35114429?s=40&v=4",
+          "name": "PolishRoboDog",
+          "url": "https://github.com/PolishRoboDog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15007183?s=40&v=4",
+          "name": "xxcriticxx",
+          "url": "https://github.com/xxcriticxx"
         }
       ]
     }

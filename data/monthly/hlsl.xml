@@ -3,7 +3,7 @@
     <title>GitHub Hlsl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hlsl Languages in GitHub</description>
-    <pubDate>Wed, 26 Aug 2026 13:56:53 GMT</pubDate>
+    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
     <item>
       <title>clshortfuse/renodx</title>
       <link>https://github.com/clshortfuse/renodx</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/clshortfuse/renodx</guid>
       <language>HLSL</language>
       <languageColor>#aace60</languageColor>
-      <stars>1,634</stars>
-      <forks>116</forks>
-      <addStars>96</addStars>
+      <stars>4,200</stars>
+      <forks>155</forks>
+      <addStars>2,632</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9271155?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/Blinue/Magpie</guid>
       <language>HLSL</language>
       <languageColor>#aace60</languageColor>
-      <stars>14,430</stars>
-      <forks>589</forks>
-      <addStars>223</addStars>
+      <stars>14,904</stars>
+      <forks>672</forks>
+      <addStars>578</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34770031?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/JamesCJ60/Universal-x86-Tuning-Utility</guid>
       <language>HLSL</language>
       <languageColor>#aace60</languageColor>
-      <stars>2,785</stars>
-      <forks>89</forks>
-      <addStars>68</addStars>
+      <stars>2,823</stars>
+      <forks>90</forks>
+      <addStars>71</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20888782?s=40&amp;v=4</avatar>
@@ -109,14 +109,75 @@
       </contributors>
     </item>
     <item>
+      <title>crosire/reshade-shaders</title>
+      <link>https://github.com/crosire/reshade-shaders</link>
+      <description>A collection of post-processing shaders written for ReShade.</description>
+      <guid>https://github.com/crosire/reshade-shaders</guid>
+      <language>HLSL</language>
+      <languageColor>#aace60</languageColor>
+      <stars>1,197</stars>
+      <forks>425</forks>
+      <addStars>10</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2057233?s=40&amp;v=4</avatar>
+          <name>crosire</name>
+          <url>https://github.com/crosire</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34406163?s=40&amp;v=4</avatar>
+          <name>Fubaxiusz</name>
+          <url>https://github.com/Fubaxiusz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3628530?s=40&amp;v=4</avatar>
+          <name>FransBouma</name>
+          <url>https://github.com/FransBouma</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15835838?s=40&amp;v=4</avatar>
+          <name>Ganossa</name>
+          <url>https://github.com/Ganossa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16274040?s=40&amp;v=4</avatar>
+          <name>bacondither</name>
+          <url>https://github.com/bacondither</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ray-cast/ray-mmd</title>
+      <link>https://github.com/ray-cast/ray-mmd</link>
+      <description>🎨 The project is designed to create a physically-based rendering at mikumikudance.</description>
+      <guid>https://github.com/ray-cast/ray-mmd</guid>
+      <language>HLSL</language>
+      <languageColor>#aace60</languageColor>
+      <stars>1,939</stars>
+      <forks>575</forks>
+      <addStars>27</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6936875?s=40&amp;v=4</avatar>
+          <name>ray-cast</name>
+          <url>https://github.com/ray-cast</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46285865?s=40&amp;v=4</avatar>
+          <name>guansss</name>
+          <url>https://github.com/guansss</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>leotorrez/ZZMI-Package</title>
       <link>https://github.com/leotorrez/ZZMI-Package</link>
       <description>NOT INTENDED FOR WIDE USE</description>
       <guid>https://github.com/leotorrez/ZZMI-Package</guid>
       <language>HLSL</language>
       <languageColor>#aace60</languageColor>
-      <stars>50</stars>
-      <forks>10</forks>
+      <stars>52</stars>
+      <forks>9</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -132,25 +193,35 @@
       </contributors>
     </item>
     <item>
-      <title>ray-cast/ray-mmd</title>
-      <link>https://github.com/ray-cast/ray-mmd</link>
-      <description>🎨 The project is designed to create a physically-based rendering at mikumikudance.</description>
-      <guid>https://github.com/ray-cast/ray-mmd</guid>
+      <title>SilentNightSound/GIMI-Package</title>
+      <link>https://github.com/SilentNightSound/GIMI-Package</link>
+      <description>GIMI Package for XXMI</description>
+      <guid>https://github.com/SilentNightSound/GIMI-Package</guid>
       <language>HLSL</language>
       <languageColor>#aace60</languageColor>
-      <stars>1,925</stars>
-      <forks>574</forks>
-      <addStars>26</addStars>
+      <stars>85</stars>
+      <forks>9</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6936875?s=40&amp;v=4</avatar>
-          <name>ray-cast</name>
-          <url>https://github.com/ray-cast</url>
+          <avatar>https://avatars.githubusercontent.com/u/5174777?s=40&amp;v=4</avatar>
+          <name>leotorrez</name>
+          <url>https://github.com/leotorrez</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46285865?s=40&amp;v=4</avatar>
-          <name>guansss</name>
-          <url>https://github.com/guansss</url>
+          <avatar>https://avatars.githubusercontent.com/u/107697535?s=40&amp;v=4</avatar>
+          <name>SilentNightSound</name>
+          <url>https://github.com/SilentNightSound</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25500382?s=40&amp;v=4</avatar>
+          <name>lupomikti</name>
+          <url>https://github.com/lupomikti</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40743506?s=40&amp;v=4</avatar>
+          <name>failsafe42</name>
+          <url>https://github.com/failsafe42</url>
         </contributor>
       </contributors>
     </item>

@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Weekly Trending",
   "description": "Weekly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "imputnet/cobalt",
@@ -10,9 +10,9 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "42,268",
-      "forks": "3,659",
-      "addStars": "146",
+      "stars": "43,264",
+      "forks": "3,787",
+      "addStars": "559",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71202418?s=40&v=4",
@@ -42,24 +42,39 @@
       ]
     },
     {
-      "title": "open-webui/desktop",
-      "url": "https://github.com/open-webui/desktop",
-      "description": "Open WebUI Desktop 🌐",
+      "title": "VERT-sh/VERT",
+      "url": "https://github.com/VERT-sh/VERT",
+      "description": "The next-generation file converter. Open source, fully local* and free forever.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,627",
-      "forks": "258",
-      "addStars": "60",
+      "stars": "15,608",
+      "forks": "833",
+      "addStars": "51",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
-          "name": "tjbck",
-          "url": "https://github.com/tjbck"
+          "avatar": "https://avatars.githubusercontent.com/u/45893380?s=40&v=4",
+          "name": "JovannMC",
+          "url": "https://github.com/JovannMC"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20534082?s=40&v=4",
-          "name": "NN708",
-          "url": "https://github.com/NN708"
+          "avatar": "https://avatars.githubusercontent.com/u/62841684?s=40&v=4",
+          "name": "not-nullptr",
+          "url": "https://github.com/not-nullptr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/163438634?s=40&v=4",
+          "name": "RealmyTheMan",
+          "url": "https://github.com/RealmyTheMan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/178000437?s=40&v=4",
+          "name": "azurejelly",
+          "url": "https://github.com/azurejelly"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47637144?s=40&v=4",
+          "name": "monikapurpl3",
+          "url": "https://github.com/monikapurpl3"
         }
       ]
     },
@@ -69,9 +84,9 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "3,615",
-      "forks": "243",
-      "addStars": "62",
+      "stars": "3,720",
+      "forks": "254",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98704938?s=40&v=4",
@@ -96,24 +111,46 @@
       ]
     },
     {
-      "title": "rajnandan1/kener",
-      "url": "https://github.com/rajnandan1/kener",
-      "description": "Stunning status pages, batteries included!",
+      "title": "open-webui/desktop",
+      "url": "https://github.com/open-webui/desktop",
+      "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "5,129",
-      "forks": "294",
-      "addStars": "19",
+      "stars": "2,767",
+      "forks": "266",
+      "addStars": "48",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16224367?s=40&v=4",
-          "name": "rajnandan1",
-          "url": "https://github.com/rajnandan1"
+          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
+          "name": "tjbck",
+          "url": "https://github.com/tjbck"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3674851?s=40&v=4",
-          "name": "kaffolder7",
-          "url": "https://github.com/kaffolder7"
+          "avatar": "https://avatars.githubusercontent.com/u/20534082?s=40&v=4",
+          "name": "NN708",
+          "url": "https://github.com/NN708"
+        }
+      ]
+    },
+    {
+      "title": "vaibhav-kakde-in/mdhero",
+      "url": "https://github.com/vaibhav-kakde-in/mdhero",
+      "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "158",
+      "forks": "21",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/192305282?s=40&v=4",
+          "name": "vaibhav-kakde-in",
+          "url": "https://github.com/vaibhav-kakde-in"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/494230?s=40&v=4",
+          "name": "rxwen",
+          "url": "https://github.com/rxwen"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -121,179 +158,46 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46644925?s=40&v=4",
-          "name": "ToxykAuBleu",
-          "url": "https://github.com/ToxykAuBleu"
+          "avatar": "https://avatars.githubusercontent.com/u/86353436?s=40&v=4",
+          "name": "hdo-projects",
+          "url": "https://github.com/hdo-projects"
         }
       ]
     },
     {
-      "title": "nmelhado/league-page",
-      "url": "https://github.com/nmelhado/league-page",
-      "description": "Create a custom league page for your Sleeper fantasy football league!",
+      "title": "Bittu5134/LOTM-Reader",
+      "url": "https://github.com/Bittu5134/LOTM-Reader",
+      "description": "A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "279",
-      "forks": "1,328",
-      "addStars": "3",
+      "stars": "119",
+      "forks": "31",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39418000?s=40&v=4",
-          "name": "nmelhado",
-          "url": "https://github.com/nmelhado"
+          "avatar": "https://avatars.githubusercontent.com/u/89441005?s=40&v=4",
+          "name": "Bittu5134",
+          "url": "https://github.com/Bittu5134"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91703566?s=40&v=4",
-          "name": "OldNewsBlues-2",
-          "url": "https://github.com/OldNewsBlues-2"
+          "avatar": "https://avatars.githubusercontent.com/u/295208219?s=40&v=4",
+          "name": "Deca-dex",
+          "url": "https://github.com/Deca-dex"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/88387529?s=40&v=4",
-          "name": "nmelhado2",
-          "url": "https://github.com/nmelhado2"
+          "avatar": "https://avatars.githubusercontent.com/u/122001692?s=40&v=4",
+          "name": "Scarlet-001",
+          "url": "https://github.com/Scarlet-001"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/53295790?s=40&v=4",
-          "name": "OldNewsBlues",
-          "url": "https://github.com/OldNewsBlues"
-        }
-      ]
-    },
-    {
-      "title": "ReVanced/revanced-website",
-      "url": "https://github.com/ReVanced/revanced-website",
-      "description": "🌐 Website for ReVanced",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "473",
-      "forks": "60",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47723802?s=40&v=4",
-          "name": "xafn",
-          "url": "https://github.com/xafn"
+          "avatar": "https://avatars.githubusercontent.com/u/17727225?s=40&v=4",
+          "name": "xEnniX",
+          "url": "https://github.com/xEnniX"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13122796?s=40&v=4",
-          "name": "oSumAtrIX",
-          "url": "https://github.com/oSumAtrIX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79272171?s=40&v=4",
-          "name": "Ushie",
-          "url": "https://github.com/Ushie"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28486288?s=40&v=4",
-          "name": "Axelen123",
-          "url": "https://github.com/Axelen123"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10727862?s=40&v=4",
-          "name": "KTibow",
-          "url": "https://github.com/KTibow"
-        }
-      ]
-    },
-    {
-      "title": "aukspot/dles",
-      "url": "https://github.com/aukspot/dles",
-      "description": "A curated collection of over 700 daily web games.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "108",
-      "forks": "59",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142464628?s=40&v=4",
-          "name": "aukspot",
-          "url": "https://github.com/aukspot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4217216?s=40&v=4",
-          "name": "monsdar",
-          "url": "https://github.com/monsdar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71411720?s=40&v=4",
-          "name": "kadeem-lewis",
-          "url": "https://github.com/kadeem-lewis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6892123?s=40&v=4",
-          "name": "tcrwt",
-          "url": "https://github.com/tcrwt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7221345?s=40&v=4",
-          "name": "Ericgi231",
-          "url": "https://github.com/Ericgi231"
-        }
-      ]
-    },
-    {
-      "title": "sveltejs/svelte.dev",
-      "url": "https://github.com/sveltejs/svelte.dev",
-      "description": "The Svelte omnisite",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "327",
-      "forks": "273",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
-          "name": "Rich-Harris",
-          "url": "https://github.com/Rich-Harris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5968653?s=40&v=4",
-          "name": "dummdidumm",
-          "url": "https://github.com/dummdidumm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54401897?s=40&v=4",
-          "name": "teemingc",
-          "url": "https://github.com/teemingc"
-        }
-      ]
-    },
-    {
-      "title": "jikan-me/website",
-      "url": "https://github.com/jikan-me/website",
-      "description": "Website source for Jikan.moe",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "53",
-      "forks": "378",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9166451?s=40&v=4",
-          "name": "irfan-dahir",
-          "url": "https://github.com/irfan-dahir"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25761442?s=40&v=4",
-          "name": "Wamy-Dev",
-          "url": "https://github.com/Wamy-Dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37444633?s=40&v=4",
-          "name": "AstralJohn",
-          "url": "https://github.com/AstralJohn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12372481?s=40&v=4",
-          "name": "sinkaroid",
-          "url": "https://github.com/sinkaroid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/114238949?s=40&v=4",
-          "name": "ArtaHendraa",
-          "url": "https://github.com/ArtaHendraa"
+          "avatar": "https://avatars.githubusercontent.com/u/206375538?s=40&v=4",
+          "name": "Ghostie-gui",
+          "url": "https://github.com/Ghostie-gui"
         }
       ]
     },
@@ -303,9 +207,9 @@
       "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,659",
-      "forks": "343",
-      "addStars": "6",
+      "stars": "2,666",
+      "forks": "345",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47742487?s=40&v=4",
@@ -331,6 +235,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/1243002?s=40&v=4",
           "name": "mrwatson-de",
           "url": "https://github.com/mrwatson-de"
+        }
+      ]
+    },
+    {
+      "title": "bryanroscoe/shield_optimizer",
+      "url": "https://github.com/bryanroscoe/shield_optimizer",
+      "description": "",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "972",
+      "forks": "26",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2422297?s=40&v=4",
+          "name": "bryanroscoe",
+          "url": "https://github.com/bryanroscoe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1104475?s=40&v=4",
+          "name": "dannyfallon",
+          "url": "https://github.com/dannyfallon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8584243?s=40&v=4",
+          "name": "Demon-tk",
+          "url": "https://github.com/Demon-tk"
         }
       ]
     }

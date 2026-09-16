@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Monthly Trending",
   "description": "Monthly Trending of Clojure Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "unclebob/swarm-forge",
@@ -10,9 +10,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "2,871",
-      "forks": "294",
-      "addStars": "1,589",
+      "stars": "3,894",
+      "forks": "384",
+      "addStars": "1,462",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "48,944",
-      "forks": "6,774",
-      "addStars": "633",
+      "stars": "49,285",
+      "forks": "6,822",
+      "addStars": "553",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1455846?s=40&v=4",
@@ -67,9 +67,9 @@
           "url": "https://github.com/nemanjaglumac"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5248953?s=40&v=4",
-          "name": "kdoh",
-          "url": "https://github.com/kdoh"
+          "avatar": "https://avatars.githubusercontent.com/u/8542534?s=40&v=4",
+          "name": "ranquild",
+          "url": "https://github.com/ranquild"
         }
       ]
     },
@@ -79,9 +79,9 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "44,642",
-      "forks": "2,790",
-      "addStars": "644",
+      "stars": "44,934",
+      "forks": "2,812",
+      "addStars": "557",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/479169?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "81,950",
-      "forks": "3,189",
-      "addStars": "179",
+      "stars": "82,019",
+      "forks": "3,186",
+      "addStars": "184",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/285292?s=40&v=4",
@@ -148,14 +148,51 @@
       ]
     },
     {
+      "title": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "60,044",
+      "forks": "4,102",
+      "addStars": "1,488",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
+          "name": "niwinz",
+          "url": "https://github.com/niwinz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3418223?s=40&v=4",
+          "name": "Alotor",
+          "url": "https://github.com/Alotor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1579633?s=40&v=4",
+          "name": "superalex",
+          "url": "https://github.com/superalex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1483050?s=40&v=4",
+          "name": "hirunatan",
+          "url": "https://github.com/hirunatan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&v=4",
+          "name": "EvaMarco",
+          "url": "https://github.com/EvaMarco"
+        }
+      ]
+    },
+    {
       "title": "logseq/og",
       "url": "https://github.com/logseq/og",
       "description": "Logseq og (file version)",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "262",
-      "forks": "40",
-      "addStars": "82",
+      "stars": "291",
+      "forks": "51",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/479169?s=40&v=4",
@@ -185,39 +222,39 @@
       ]
     },
     {
-      "title": "cognitect-labs/test-runner",
-      "url": "https://github.com/cognitect-labs/test-runner",
-      "description": "A test runner for clojure.test",
+      "title": "status-im/status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "308",
-      "forks": "36",
-      "addStars": "0",
+      "stars": "4,021",
+      "forks": "988",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/171129?s=40&v=4",
-          "name": "puredanger",
-          "url": "https://github.com/puredanger"
+          "avatar": "https://avatars.githubusercontent.com/u/2364994?s=40&v=4",
+          "name": "rasom",
+          "url": "https://github.com/rasom"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70788?s=40&v=4",
-          "name": "levand",
-          "url": "https://github.com/levand"
+          "avatar": "https://avatars.githubusercontent.com/u/11790366?s=40&v=4",
+          "name": "flexsurfer",
+          "url": "https://github.com/flexsurfer"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6774?s=40&v=4",
-          "name": "mainej",
-          "url": "https://github.com/mainej"
+          "avatar": "https://avatars.githubusercontent.com/u/2212681?s=40&v=4",
+          "name": "jakubgs",
+          "url": "https://github.com/jakubgs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/829803?s=40&v=4",
-          "name": "ghadishayban",
-          "url": "https://github.com/ghadishayban"
+          "avatar": "https://avatars.githubusercontent.com/u/1017008?s=40&v=4",
+          "name": "cammellos",
+          "url": "https://github.com/cammellos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/953000?s=40&v=4",
-          "name": "enaeher",
-          "url": "https://github.com/enaeher"
+          "avatar": "https://avatars.githubusercontent.com/u/4557972?s=40&v=4",
+          "name": "churik",
+          "url": "https://github.com/churik"
         }
       ]
     }

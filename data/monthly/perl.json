@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "exiftool/exiftool",
@@ -10,9 +10,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "4,983",
-      "forks": "475",
-      "addStars": "101",
+      "stars": "5,044",
+      "forks": "485",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/596983?s=40&v=4",
@@ -27,39 +27,39 @@
       ]
     },
     {
-      "title": "AlDanial/cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "znuny/Znuny",
+      "url": "https://github.com/znuny/Znuny",
+      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "23,464",
-      "forks": "1,120",
-      "addStars": "150",
+      "stars": "595",
+      "forks": "122",
+      "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1459933?s=40&v=4",
-          "name": "AlDanial",
-          "url": "https://github.com/AlDanial"
+          "avatar": "https://avatars.githubusercontent.com/u/3249687?s=40&v=4",
+          "name": "dennykorsukewitz",
+          "url": "https://github.com/dennykorsukewitz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7748385?s=40&v=4",
-          "name": "stsnel",
-          "url": "https://github.com/stsnel"
+          "avatar": "https://avatars.githubusercontent.com/u/889421?s=40&v=4",
+          "name": "jepf",
+          "url": "https://github.com/jepf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1958551?s=40&v=4",
-          "name": "wonderbird",
-          "url": "https://github.com/wonderbird"
+          "avatar": "https://avatars.githubusercontent.com/u/22312491?s=40&v=4",
+          "name": "NiklasSchmitt",
+          "url": "https://github.com/NiklasSchmitt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3129230?s=40&v=4",
-          "name": "jolkdarr",
-          "url": "https://github.com/jolkdarr"
+          "avatar": "https://avatars.githubusercontent.com/u/70537401?s=40&v=4",
+          "name": "ZigfieldTrotter",
+          "url": "https://github.com/ZigfieldTrotter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31558169?s=40&v=4",
-          "name": "DecimalTurn",
-          "url": "https://github.com/DecimalTurn"
+          "avatar": "https://avatars.githubusercontent.com/u/378324?s=40&v=4",
+          "name": "rkaldung",
+          "url": "https://github.com/rkaldung"
         }
       ]
     },
@@ -69,9 +69,9 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "479",
-      "forks": "119",
-      "addStars": "15",
+      "stars": "488",
+      "forks": "120",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49379?s=40&v=4",
@@ -101,125 +101,14 @@
       ]
     },
     {
-      "title": "awsdocs/aws-cdk-guide",
-      "url": "https://github.com/awsdocs/aws-cdk-guide",
-      "description": "User guide for the AWS Cloud Development Kit (CDK).",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "364",
-      "forks": "230",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113387406?s=40&v=4",
-          "name": "evzzk",
-          "url": "https://github.com/evzzk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16107690?s=40&v=4",
-          "name": "Doug-AWS",
-          "url": "https://github.com/Doug-AWS"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/379814?s=40&v=4",
-          "name": "mrgrain",
-          "url": "https://github.com/mrgrain"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2577368?s=40&v=4",
-          "name": "hacker65536",
-          "url": "https://github.com/hacker65536"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63321758?s=40&v=4",
-          "name": "KristinaPeterson",
-          "url": "https://github.com/KristinaPeterson"
-        }
-      ]
-    },
-    {
-      "title": "holzschu/a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,884",
-      "forks": "207",
-      "addStars": "56",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1814380?s=40&v=4",
-          "name": "N-Holzschuch",
-          "url": "https://github.com/N-Holzschuch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8070736?s=40&v=4",
-          "name": "holzschu",
-          "url": "https://github.com/holzschu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46334387?s=40&v=4",
-          "name": "personalizedrefrigerator",
-          "url": "https://github.com/personalizedrefrigerator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/601636?s=40&v=4",
-          "name": "kkebo",
-          "url": "https://github.com/kkebo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54460050?s=40&v=4",
-          "name": "HeavySnowJakarta",
-          "url": "https://github.com/HeavySnowJakarta"
-        }
-      ]
-    },
-    {
-      "title": "szTheory/exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "2,644",
-      "forks": "168",
-      "addStars": "126",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28652?s=40&v=4",
-          "name": "szTheory",
-          "url": "https://github.com/szTheory"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53786619?s=40&v=4",
-          "name": "PolpOnline",
-          "url": "https://github.com/PolpOnline"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1886660?s=40&v=4",
-          "name": "m1chu",
-          "url": "https://github.com/m1chu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6418678?s=40&v=4",
-          "name": "tayfuuun",
-          "url": "https://github.com/tayfuuun"
-        }
-      ]
-    },
-    {
       "title": "brendangregg/FlameGraph",
       "url": "https://github.com/brendangregg/FlameGraph",
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "19,694",
-      "forks": "2,107",
-      "addStars": "81",
+      "stars": "19,755",
+      "forks": "2,111",
+      "addStars": "102",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1101211?s=40&v=4",
@@ -249,478 +138,39 @@
       ]
     },
     {
-      "title": "inverse-inc/packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "title": "holzschu/a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "1,677",
-      "forks": "322",
-      "addStars": "20",
+      "stars": "3,920",
+      "forks": "213",
+      "addStars": "58",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2727473?s=40&v=4",
-          "name": "jrouzierinverse",
-          "url": "https://github.com/jrouzierinverse"
+          "avatar": "https://avatars.githubusercontent.com/u/1814380?s=40&v=4",
+          "name": "N-Holzschuch",
+          "url": "https://github.com/N-Holzschuch"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3857942?s=40&v=4",
-          "name": "julsemaan",
-          "url": "https://github.com/julsemaan"
+          "avatar": "https://avatars.githubusercontent.com/u/8070736?s=40&v=4",
+          "name": "holzschu",
+          "url": "https://github.com/holzschu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1553962?s=40&v=4",
-          "name": "fdurand",
-          "url": "https://github.com/fdurand"
+          "avatar": "https://avatars.githubusercontent.com/u/46334387?s=40&v=4",
+          "name": "personalizedrefrigerator",
+          "url": "https://github.com/personalizedrefrigerator"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3904468?s=40&v=4",
-          "name": "satkunas",
-          "url": "https://github.com/satkunas"
+          "avatar": "https://avatars.githubusercontent.com/u/601636?s=40&v=4",
+          "name": "kkebo",
+          "url": "https://github.com/kkebo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10830260?s=40&v=4",
-          "name": "nqb",
-          "url": "https://github.com/nqb"
-        }
-      ]
-    },
-    {
-      "title": "manwar/perlweeklychallenge-club",
-      "url": "https://github.com/manwar/perlweeklychallenge-club",
-      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "219",
-      "forks": "353",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/681195?s=40&v=4",
-          "name": "manwar",
-          "url": "https://github.com/manwar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6222212?s=40&v=4",
-          "name": "drbaggy",
-          "url": "https://github.com/drbaggy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28217714?s=40&v=4",
-          "name": "jo-37",
-          "url": "https://github.com/jo-37"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53903062?s=40&v=4",
-          "name": "andemark",
-          "url": "https://github.com/andemark"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/813664?s=40&v=4",
-          "name": "fluca1978",
-          "url": "https://github.com/fluca1978"
-        }
-      ]
-    },
-    {
-      "title": "OpenKore/openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "1,512",
-      "forks": "1,217",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17522256?s=40&v=4",
-          "name": "lututui",
-          "url": "https://github.com/lututui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1162431?s=40&v=4",
-          "name": "farrainbow",
-          "url": "https://github.com/farrainbow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10372732?s=40&v=4",
-          "name": "alisonrag",
-          "url": "https://github.com/alisonrag"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/772836?s=40&v=4",
-          "name": "allanon",
-          "url": "https://github.com/allanon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23263315?s=40&v=4",
-          "name": "sctnightcore",
-          "url": "https://github.com/sctnightcore"
-        }
-      ]
-    },
-    {
-      "title": "adrienverge/openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,394",
-      "forks": "378",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3234522?s=40&v=4",
-          "name": "DimitriPapadopoulos",
-          "url": "https://github.com/DimitriPapadopoulos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11367971?s=40&v=4",
-          "name": "mrbaseman",
-          "url": "https://github.com/mrbaseman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5244945?s=40&v=4",
-          "name": "adrienverge",
-          "url": "https://github.com/adrienverge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92695?s=40&v=4",
-          "name": "lkundrak",
-          "url": "https://github.com/lkundrak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1729331?s=40&v=4",
-          "name": "martinetd",
-          "url": "https://github.com/martinetd"
-        }
-      ]
-    },
-    {
-      "title": "Difegue/LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,086",
-      "forks": "226",
-      "addStars": "51",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8237712?s=40&v=4",
-          "name": "Difegue",
-          "url": "https://github.com/Difegue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113860476?s=40&v=4",
-          "name": "psilabs-dev",
-          "url": "https://github.com/psilabs-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124937394?s=40&v=4",
-          "name": "siliconfeces",
-          "url": "https://github.com/siliconfeces"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9023392?s=40&v=4",
-          "name": "Guerra24",
-          "url": "https://github.com/Guerra24"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10560038?s=40&v=4",
-          "name": "xiazeyu",
-          "url": "https://github.com/xiazeyu"
-        }
-      ]
-    },
-    {
-      "title": "Zimbra/zm-build",
-      "url": "https://github.com/Zimbra/zm-build",
-      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "243",
-      "forks": "104",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1577679?s=40&v=4",
-          "name": "zimbra-build",
-          "url": "https://github.com/zimbra-build"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6829212?s=40&v=4",
-          "name": "conraddamon",
-          "url": "https://github.com/conraddamon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7876006?s=40&v=4",
-          "name": "shri314",
-          "url": "https://github.com/shri314"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18736701?s=40&v=4",
-          "name": "djpitt",
-          "url": "https://github.com/djpitt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1310940?s=40&v=4",
-          "name": "grishick",
-          "url": "https://github.com/grishick"
-        }
-      ]
-    },
-    {
-      "title": "ddclient/ddclient",
-      "url": "https://github.com/ddclient/ddclient",
-      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,521",
-      "forks": "397",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1612291?s=40&v=4",
-          "name": "rhansen",
-          "url": "https://github.com/rhansen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
-          "name": "SuperSandro2000",
-          "url": "https://github.com/SuperSandro2000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/93846?s=40&v=4",
-          "name": "indrajitr",
-          "url": "https://github.com/indrajitr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46162223?s=40&v=4",
-          "name": "LenardHess",
-          "url": "https://github.com/LenardHess"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9771646?s=40&v=4",
-          "name": "beadon",
-          "url": "https://github.com/beadon"
-        }
-      ]
-    },
-    {
-      "title": "os-autoinst/os-autoinst-distri-opensuse",
-      "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
-      "description": "os-autoinst test cases for openSUSE",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "91",
-      "forks": "302",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9447312?s=40&v=4",
-          "name": "dzedro",
-          "url": "https://github.com/dzedro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10237751?s=40&v=4",
-          "name": "ricardobranco777",
-          "url": "https://github.com/ricardobranco777"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1693432?s=40&v=4",
-          "name": "okurz",
-          "url": "https://github.com/okurz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31735282?s=40&v=4",
-          "name": "jknphy",
-          "url": "https://github.com/jknphy"
-        }
-      ]
-    },
-    {
-      "title": "centreon/centreon-plugins",
-      "url": "https://github.com/centreon/centreon-plugins",
-      "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "335",
-      "forks": "305",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9079781?s=40&v=4",
-          "name": "garnier-quentin",
-          "url": "https://github.com/garnier-quentin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32134301?s=40&v=4",
-          "name": "omercier",
-          "url": "https://github.com/omercier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12429463?s=40&v=4",
-          "name": "Sims24",
-          "url": "https://github.com/Sims24"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/206826835?s=40&v=4",
-          "name": "scresto31",
-          "url": "https://github.com/scresto31"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40244829?s=40&v=4",
-          "name": "UrBnW",
-          "url": "https://github.com/UrBnW"
-        }
-      ]
-    },
-    {
-      "title": "docker-library/repo-info",
-      "url": "https://github.com/docker-library/repo-info",
-      "description": "Extended information (especially license and layer details) about the published Official Images",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "606",
-      "forks": "358",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
-          "name": "docker-library-bot",
-          "url": "https://github.com/docker-library-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
-          "name": "tianon",
-          "url": "https://github.com/tianon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
-          "name": "yosifkit",
-          "url": "https://github.com/yosifkit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/462287?s=40&v=4",
-          "name": "grooverdan",
-          "url": "https://github.com/grooverdan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/157178321?s=40&v=4",
-          "name": "tianon-sso",
-          "url": "https://github.com/tianon-sso"
-        }
-      ]
-    },
-    {
-      "title": "Perl/perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "2,320",
-      "forks": "641",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106911?s=40&v=4",
-          "name": "khwilliamson",
-          "url": "https://github.com/khwilliamson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/223441?s=40&v=4",
-          "name": "jhi",
-          "url": "https://github.com/jhi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56631196?s=40&v=4",
-          "name": "nwc10",
-          "url": "https://github.com/nwc10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8632853?s=40&v=4",
-          "name": "iabyn",
-          "url": "https://github.com/iabyn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51701?s=40&v=4",
-          "name": "rgs",
-          "url": "https://github.com/rgs"
-        }
-      ]
-    },
-    {
-      "title": "Aetherinox/csf-firewall",
-      "url": "https://github.com/Aetherinox/csf-firewall",
-      "description": "ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "367",
-      "forks": "71",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118329232?s=40&v=4",
-          "name": "Aetherinox",
-          "url": "https://github.com/Aetherinox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161414668?s=40&v=4",
-          "name": "BinaryServ",
-          "url": "https://github.com/BinaryServ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25663895?s=40&v=4",
-          "name": "theking81",
-          "url": "https://github.com/theking81"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3029101?s=40&v=4",
-          "name": "dborg89",
-          "url": "https://github.com/dborg89"
-        }
-      ]
-    },
-    {
-      "title": "znuny/Znuny",
-      "url": "https://github.com/znuny/Znuny",
-      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "591",
-      "forks": "121",
-      "addStars": "13",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3249687?s=40&v=4",
-          "name": "dennykorsukewitz",
-          "url": "https://github.com/dennykorsukewitz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/889421?s=40&v=4",
-          "name": "jepf",
-          "url": "https://github.com/jepf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22312491?s=40&v=4",
-          "name": "NiklasSchmitt",
-          "url": "https://github.com/NiklasSchmitt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70537401?s=40&v=4",
-          "name": "ZigfieldTrotter",
-          "url": "https://github.com/ZigfieldTrotter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/378324?s=40&v=4",
-          "name": "rkaldung",
-          "url": "https://github.com/rkaldung"
+          "avatar": "https://avatars.githubusercontent.com/u/54460050?s=40&v=4",
+          "name": "HeavySnowJakarta",
+          "url": "https://github.com/HeavySnowJakarta"
         }
       ]
     },
@@ -758,6 +208,450 @@
           "avatar": "https://avatars.githubusercontent.com/u/3443972?s=40&v=4",
           "name": "po1vo",
           "url": "https://github.com/po1vo"
+        }
+      ]
+    },
+    {
+      "title": "Zimbra/zm-build",
+      "url": "https://github.com/Zimbra/zm-build",
+      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "245",
+      "forks": "106",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1577679?s=40&v=4",
+          "name": "zimbra-build",
+          "url": "https://github.com/zimbra-build"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6829212?s=40&v=4",
+          "name": "conraddamon",
+          "url": "https://github.com/conraddamon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7876006?s=40&v=4",
+          "name": "shri314",
+          "url": "https://github.com/shri314"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18736701?s=40&v=4",
+          "name": "djpitt",
+          "url": "https://github.com/djpitt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1310940?s=40&v=4",
+          "name": "grishick",
+          "url": "https://github.com/grishick"
+        }
+      ]
+    },
+    {
+      "title": "OpenKore/openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "1,523",
+      "forks": "1,216",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17522256?s=40&v=4",
+          "name": "lututui",
+          "url": "https://github.com/lututui"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1162431?s=40&v=4",
+          "name": "farrainbow",
+          "url": "https://github.com/farrainbow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10372732?s=40&v=4",
+          "name": "alisonrag",
+          "url": "https://github.com/alisonrag"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/772836?s=40&v=4",
+          "name": "allanon",
+          "url": "https://github.com/allanon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23263315?s=40&v=4",
+          "name": "sctnightcore",
+          "url": "https://github.com/sctnightcore"
+        }
+      ]
+    },
+    {
+      "title": "AlDanial/cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "23,536",
+      "forks": "1,126",
+      "addStars": "123",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1459933?s=40&v=4",
+          "name": "AlDanial",
+          "url": "https://github.com/AlDanial"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7748385?s=40&v=4",
+          "name": "stsnel",
+          "url": "https://github.com/stsnel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1958551?s=40&v=4",
+          "name": "wonderbird",
+          "url": "https://github.com/wonderbird"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3129230?s=40&v=4",
+          "name": "jolkdarr",
+          "url": "https://github.com/jolkdarr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31558169?s=40&v=4",
+          "name": "DecimalTurn",
+          "url": "https://github.com/DecimalTurn"
+        }
+      ]
+    },
+    {
+      "title": "inverse-inc/packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "1,690",
+      "forks": "328",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2727473?s=40&v=4",
+          "name": "jrouzierinverse",
+          "url": "https://github.com/jrouzierinverse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3857942?s=40&v=4",
+          "name": "julsemaan",
+          "url": "https://github.com/julsemaan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1553962?s=40&v=4",
+          "name": "fdurand",
+          "url": "https://github.com/fdurand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3904468?s=40&v=4",
+          "name": "satkunas",
+          "url": "https://github.com/satkunas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10830260?s=40&v=4",
+          "name": "nqb",
+          "url": "https://github.com/nqb"
+        }
+      ]
+    },
+    {
+      "title": "adrienverge/openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,416",
+      "forks": "380",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3234522?s=40&v=4",
+          "name": "DimitriPapadopoulos",
+          "url": "https://github.com/DimitriPapadopoulos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11367971?s=40&v=4",
+          "name": "mrbaseman",
+          "url": "https://github.com/mrbaseman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5244945?s=40&v=4",
+          "name": "adrienverge",
+          "url": "https://github.com/adrienverge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92695?s=40&v=4",
+          "name": "lkundrak",
+          "url": "https://github.com/lkundrak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1729331?s=40&v=4",
+          "name": "martinetd",
+          "url": "https://github.com/martinetd"
+        }
+      ]
+    },
+    {
+      "title": "centreon/centreon-plugins",
+      "url": "https://github.com/centreon/centreon-plugins",
+      "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "335",
+      "forks": "306",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9079781?s=40&v=4",
+          "name": "garnier-quentin",
+          "url": "https://github.com/garnier-quentin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32134301?s=40&v=4",
+          "name": "omercier",
+          "url": "https://github.com/omercier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12429463?s=40&v=4",
+          "name": "Sims24",
+          "url": "https://github.com/Sims24"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/206826835?s=40&v=4",
+          "name": "scresto31",
+          "url": "https://github.com/scresto31"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40244829?s=40&v=4",
+          "name": "UrBnW",
+          "url": "https://github.com/UrBnW"
+        }
+      ]
+    },
+    {
+      "title": "Difegue/LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,109",
+      "forks": "226",
+      "addStars": "41",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8237712?s=40&v=4",
+          "name": "Difegue",
+          "url": "https://github.com/Difegue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113860476?s=40&v=4",
+          "name": "psilabs-dev",
+          "url": "https://github.com/psilabs-dev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124937394?s=40&v=4",
+          "name": "siliconfeces",
+          "url": "https://github.com/siliconfeces"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9023392?s=40&v=4",
+          "name": "Guerra24",
+          "url": "https://github.com/Guerra24"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10560038?s=40&v=4",
+          "name": "xiazeyu",
+          "url": "https://github.com/xiazeyu"
+        }
+      ]
+    },
+    {
+      "title": "docker-library/repo-info",
+      "url": "https://github.com/docker-library/repo-info",
+      "description": "Extended information (especially license and layer details) about the published Official Images",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "608",
+      "forks": "358",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
+          "name": "docker-library-bot",
+          "url": "https://github.com/docker-library-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
+          "name": "tianon",
+          "url": "https://github.com/tianon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
+          "name": "yosifkit",
+          "url": "https://github.com/yosifkit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/462287?s=40&v=4",
+          "name": "grooverdan",
+          "url": "https://github.com/grooverdan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/157178321?s=40&v=4",
+          "name": "tianon-sso",
+          "url": "https://github.com/tianon-sso"
+        }
+      ]
+    },
+    {
+      "title": "yaml/yaml-test-suite",
+      "url": "https://github.com/yaml/yaml-test-suite",
+      "description": "Comprehensive, language independent Test Suite for YAML",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "271",
+      "forks": "100",
+      "addStars": "13",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21826?s=40&v=4",
+          "name": "ingydotnet",
+          "url": "https://github.com/ingydotnet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/688850?s=40&v=4",
+          "name": "perlpunk",
+          "url": "https://github.com/perlpunk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/791710?s=40&v=4",
+          "name": "flyx",
+          "url": "https://github.com/flyx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/617000?s=40&v=4",
+          "name": "eemeli",
+          "url": "https://github.com/eemeli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66491?s=40&v=4",
+          "name": "rogpeppe",
+          "url": "https://github.com/rogpeppe"
+        }
+      ]
+    },
+    {
+      "title": "ddclient/ddclient",
+      "url": "https://github.com/ddclient/ddclient",
+      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,543",
+      "forks": "400",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1612291?s=40&v=4",
+          "name": "rhansen",
+          "url": "https://github.com/rhansen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7258858?s=40&v=4",
+          "name": "SuperSandro2000",
+          "url": "https://github.com/SuperSandro2000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93846?s=40&v=4",
+          "name": "indrajitr",
+          "url": "https://github.com/indrajitr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46162223?s=40&v=4",
+          "name": "LenardHess",
+          "url": "https://github.com/LenardHess"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9771646?s=40&v=4",
+          "name": "beadon",
+          "url": "https://github.com/beadon"
+        }
+      ]
+    },
+    {
+      "title": "os-autoinst/os-autoinst-distri-opensuse",
+      "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
+      "description": "os-autoinst test cases for openSUSE",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "91",
+      "forks": "304",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10237751?s=40&v=4",
+          "name": "ricardobranco777",
+          "url": "https://github.com/ricardobranco777"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9447312?s=40&v=4",
+          "name": "dzedro",
+          "url": "https://github.com/dzedro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1693432?s=40&v=4",
+          "name": "okurz",
+          "url": "https://github.com/okurz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31735282?s=40&v=4",
+          "name": "jknphy",
+          "url": "https://github.com/jknphy"
+        }
+      ]
+    },
+    {
+      "title": "awsdocs/aws-cdk-guide",
+      "url": "https://github.com/awsdocs/aws-cdk-guide",
+      "description": "User guide for the AWS Cloud Development Kit (CDK).",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "364",
+      "forks": "230",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113387406?s=40&v=4",
+          "name": "evzzk",
+          "url": "https://github.com/evzzk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16107690?s=40&v=4",
+          "name": "Doug-AWS",
+          "url": "https://github.com/Doug-AWS"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/379814?s=40&v=4",
+          "name": "mrgrain",
+          "url": "https://github.com/mrgrain"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2577368?s=40&v=4",
+          "name": "hacker65536",
+          "url": "https://github.com/hacker65536"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63321758?s=40&v=4",
+          "name": "KristinaPeterson",
+          "url": "https://github.com/KristinaPeterson"
         }
       ]
     }

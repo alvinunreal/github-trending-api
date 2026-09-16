@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Monthly Trending",
   "description": "Monthly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
   "items": [
     {
       "title": "ublue-os/bazzite",
@@ -10,9 +10,9 @@
       "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "9,008",
-      "forks": "1,067",
-      "addStars": "232",
+      "stars": "9,078",
+      "forks": "1,097",
+      "addStars": "206",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10704358?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Next generation Cosmic desktop environment",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "6,727",
-      "forks": "206",
-      "addStars": "229",
+      "stars": "6,807",
+      "forks": "209",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7741236?s=40&v=4",
@@ -74,14 +74,41 @@
       ]
     },
     {
+      "title": "ublue-os/main",
+      "url": "https://github.com/ublue-os/main",
+      "description": "OCI base images of Fedora with batteries included",
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": "707",
+      "forks": "83",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1264109?s=40&v=4",
+          "name": "castrojo",
+          "url": "https://github.com/castrojo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60557?s=40&v=4",
+          "name": "bsherman",
+          "url": "https://github.com/bsherman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10704358?s=40&v=4",
+          "name": "KyleGospo",
+          "url": "https://github.com/KyleGospo"
+        }
+      ]
+    },
+    {
       "title": "ublue-os/image-template",
       "url": "https://github.com/ublue-os/image-template",
       "description": "Build your own custom Universal Blue Image!",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "835",
-      "forks": "187",
-      "addStars": "25",
+      "stars": "853",
+      "forks": "186",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1264109?s=40&v=4",
@@ -102,38 +129,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/120808662?s=40&v=4",
           "name": "tulilirockz",
           "url": "https://github.com/tulilirockz"
-        }
-      ]
-    },
-    {
-      "title": "catppuccin/zed",
-      "url": "https://github.com/catppuccin/zed",
-      "description": "🦀 Soothing pastel theme for Zed",
-      "language": "Just",
-      "languageColor": "#384d54",
-      "stars": "887",
-      "forks": "36",
-      "addStars": "19",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21319730?s=40&v=4",
-          "name": "tecandrew",
-          "url": "https://github.com/tecandrew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47499684?s=40&v=4",
-          "name": "uncenter",
-          "url": "https://github.com/uncenter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14126445?s=40&v=4",
-          "name": "aizigao",
-          "url": "https://github.com/aizigao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58985301?s=40&v=4",
-          "name": "sgoudham",
-          "url": "https://github.com/sgoudham"
         }
       ]
     }
