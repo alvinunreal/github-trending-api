@@ -3,10 +3,9 @@ name: Fetch GitHub Trending
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *' # UTC 凌晨 1 点
-    - cron: '0 7 * * *' # UTC 早 7 点
-    - cron: '0 13 * * *' # UTC 中午 1 点
-    - cron: '0 19 * * *' # UTC 下午 7 点
+    # Temporary off-peak scheduler registration test; restored after a
+    # schedule-triggered run is observed.
+    - cron: '12 * * * *'
 
 jobs:
   build:
