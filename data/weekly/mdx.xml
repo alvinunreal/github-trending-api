@@ -3,40 +3,7 @@
     <title>GitHub Mdx Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Mdx Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
-    <item>
-      <title>enactic/openarm</title>
-      <link>https://github.com/enactic/openarm</link>
-      <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
-      <guid>https://github.com/enactic/openarm</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>3,369</stars>
-      <forks>367</forks>
-      <addStars>405</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27350?s=40&amp;v=4</avatar>
-          <name>kou</name>
-          <url>https://github.com/kou</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/846454?s=40&amp;v=4</avatar>
-          <name>abetomo</name>
-          <url>https://github.com/abetomo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12229857?s=40&amp;v=4</avatar>
-          <name>daipom</name>
-          <url>https://github.com/daipom</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64927810?s=40&amp;v=4</avatar>
-          <name>1lokeshpatel</name>
-          <url>https://github.com/1lokeshpatel</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>twbs/bootstrap</title>
       <link>https://github.com/twbs/bootstrap</link>
@@ -44,9 +11,9 @@
       <guid>https://github.com/twbs/bootstrap</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>174,817</stars>
-      <forks>78,592</forks>
-      <addStars>114</addStars>
+      <stars>174,834</stars>
+      <forks>78,588</forks>
+      <addStars>122</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98681?s=40&amp;v=4</avatar>
@@ -71,15 +38,86 @@
       </contributors>
     </item>
     <item>
+      <title>enactic/openarm</title>
+      <link>https://github.com/enactic/openarm</link>
+      <description>A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.</description>
+      <guid>https://github.com/enactic/openarm</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>3,427</stars>
+      <forks>372</forks>
+      <addStars>462</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27350?s=40&amp;v=4</avatar>
+          <name>kou</name>
+          <url>https://github.com/kou</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/846454?s=40&amp;v=4</avatar>
+          <name>abetomo</name>
+          <url>https://github.com/abetomo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12229857?s=40&amp;v=4</avatar>
+          <name>daipom</name>
+          <url>https://github.com/daipom</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64927810?s=40&amp;v=4</avatar>
+          <name>1lokeshpatel</name>
+          <url>https://github.com/1lokeshpatel</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>dair-ai/Prompt-Engineering-Guide</title>
+      <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
+      <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
+      <guid>https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>78,414</stars>
+      <forks>8,628</forks>
+      <addStars>268</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4</avatar>
+          <name>omarsar</name>
+          <url>https://github.com/omarsar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129090711?s=40&amp;v=4</avatar>
+          <name>S4MFI</name>
+          <url>https://github.com/S4MFI</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50868?s=40&amp;v=4</avatar>
+          <name>behrends</name>
+          <url>https://github.com/behrends</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/53365307?s=40&amp;v=4</avatar>
+          <name>ThunderCatXp</name>
+          <url>https://github.com/ThunderCatXp</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>adongwanai/AgentGuide</title>
       <link>https://github.com/adongwanai/AgentGuide</link>
       <description>https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成</description>
       <guid>https://github.com/adongwanai/AgentGuide</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>9,668</stars>
-      <forks>937</forks>
-      <addStars>328</addStars>
+      <stars>9,717</stars>
+      <forks>939</forks>
+      <addStars>308</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/155899169?s=40&amp;v=4</avatar>
@@ -110,9 +148,9 @@
       <guid>https://github.com/FailproofAI/failproofai</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>3,518</stars>
+      <stars>3,644</stars>
       <forks>475</forks>
-      <addStars>1,067</addStars>
+      <addStars>1,056</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/40313233?s=40&amp;v=4</avatar>
@@ -132,91 +170,15 @@
       </contributors>
     </item>
     <item>
-      <title>dair-ai/Prompt-Engineering-Guide</title>
-      <link>https://github.com/dair-ai/Prompt-Engineering-Guide</link>
-      <description>🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.</description>
-      <guid>https://github.com/dair-ai/Prompt-Engineering-Guide</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>78,361</stars>
-      <forks>8,618</forks>
-      <addStars>275</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7049564?s=40&amp;v=4</avatar>
-          <name>omarsar</name>
-          <url>https://github.com/omarsar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129090711?s=40&amp;v=4</avatar>
-          <name>S4MFI</name>
-          <url>https://github.com/S4MFI</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50868?s=40&amp;v=4</avatar>
-          <name>behrends</name>
-          <url>https://github.com/behrends</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53365307?s=40&amp;v=4</avatar>
-          <name>ThunderCatXp</name>
-          <url>https://github.com/ThunderCatXp</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hashicorp/web-unified-docs</title>
-      <link>https://github.com/hashicorp/web-unified-docs</link>
-      <description>Hashicorp Unified Docs</description>
-      <guid>https://github.com/hashicorp/web-unified-docs</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>86</stars>
-      <forks>275</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62622282?s=40&amp;v=4</avatar>
-          <name>hashibot-web</name>
-          <url>https://github.com/hashibot-web</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62406755?s=40&amp;v=4</avatar>
-          <name>schavis</name>
-          <url>https://github.com/schavis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47586768?s=40&amp;v=4</avatar>
-          <name>trujillo-adam</name>
-          <url>https://github.com/trujillo-adam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/76443935?s=40&amp;v=4</avatar>
-          <name>Dan-Heath</name>
-          <url>https://github.com/Dan-Heath</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26799583?s=40&amp;v=4</avatar>
-          <name>aimeeu</name>
-          <url>https://github.com/aimeeu</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>cloudflare/cloudflare-docs</title>
       <link>https://github.com/cloudflare/cloudflare-docs</link>
       <description>Cloudflare’s documentation</description>
       <guid>https://github.com/cloudflare/cloudflare-docs</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>5,223</stars>
-      <forks>16,720</forks>
-      <addStars>25</addStars>
+      <stars>5,227</stars>
+      <forks>16,735</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/680496?s=40&amp;v=4</avatar>
@@ -246,15 +208,48 @@
       </contributors>
     </item>
     <item>
+      <title>Comfy-Org/docs</title>
+      <link>https://github.com/Comfy-Org/docs</link>
+      <description>Documentation for ComfyUI</description>
+      <guid>https://github.com/Comfy-Org/docs</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>289</stars>
+      <forks>207</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/192523189?s=40&amp;v=4</avatar>
+          <name>comfyui-wiki</name>
+          <url>https://github.com/comfyui-wiki</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/267740176?s=40&amp;v=4</avatar>
+          <name>lin-bot23</name>
+          <url>https://github.com/lin-bot23</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5674242?s=40&amp;v=4</avatar>
+          <name>robinjhuang</name>
+          <url>https://github.com/robinjhuang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>modelcontextprotocol/ext-skills</title>
       <link>https://github.com/modelcontextprotocol/ext-skills</link>
       <description>MCP Extension for Skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.</description>
       <guid>https://github.com/modelcontextprotocol/ext-skills</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>574</stars>
+      <stars>590</stars>
       <forks>51</forks>
-      <addStars>355</addStars>
+      <addStars>370</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16480113?s=40&amp;v=4</avatar>
@@ -272,47 +267,113 @@
           <url>https://github.com/pja-ant</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/767427?s=40&amp;v=4</avatar>
-          <name>erain</name>
-          <url>https://github.com/erain</url>
+          <avatar>https://avatars.githubusercontent.com/u/16130816?s=40&amp;v=4</avatar>
+          <name>sambhav</name>
+          <url>https://github.com/sambhav</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>wasp-lang/open-saas</title>
-      <link>https://github.com/wasp-lang/open-saas</link>
-      <description>A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.</description>
-      <guid>https://github.com/wasp-lang/open-saas</guid>
+      <title>tailwindlabs/tailwindcss.com</title>
+      <link>https://github.com/tailwindlabs/tailwindcss.com</link>
+      <description>The Tailwind CSS documentation website.</description>
+      <guid>https://github.com/tailwindlabs/tailwindcss.com</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>15,834</stars>
-      <forks>1,903</forks>
-      <addStars>68</addStars>
+      <stars>143</stars>
+      <forks>73</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70215737?s=40&amp;v=4</avatar>
-          <name>vincanger</name>
-          <url>https://github.com/vincanger</url>
+          <avatar>https://avatars.githubusercontent.com/u/1430546?s=40&amp;v=4</avatar>
+          <name>petersuhm</name>
+          <url>https://github.com/petersuhm</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84568328?s=40&amp;v=4</avatar>
-          <name>FranjoMindek</name>
-          <url>https://github.com/FranjoMindek</url>
+          <avatar>https://avatars.githubusercontent.com/u/882133?s=40&amp;v=4</avatar>
+          <name>reinink</name>
+          <url>https://github.com/reinink</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22752307?s=40&amp;v=4</avatar>
-          <name>sodic</name>
-          <url>https://github.com/sodic</url>
+          <avatar>https://avatars.githubusercontent.com/u/458591?s=40&amp;v=4</avatar>
+          <name>philipp-spiess</name>
+          <url>https://github.com/philipp-spiess</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2223680?s=40&amp;v=4</avatar>
-          <name>infomiho</name>
-          <url>https://github.com/infomiho</url>
+          <avatar>https://avatars.githubusercontent.com/u/4323180?s=40&amp;v=4</avatar>
+          <name>adamwathan</name>
+          <url>https://github.com/adamwathan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/511681?s=40&amp;v=4</avatar>
-          <name>cprecioso</name>
-          <url>https://github.com/cprecioso</url>
+          <avatar>https://avatars.githubusercontent.com/u/614993?s=40&amp;v=4</avatar>
+          <name>thecrypticace</name>
+          <url>https://github.com/thecrypticace</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>react/react-native-website</title>
+      <link>https://github.com/react/react-native-website</link>
+      <description>The React Native website and docs</description>
+      <guid>https://github.com/react/react-native-website</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>2,160</stars>
+      <forks>6,326</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/719641?s=40&amp;v=4</avatar>
+          <name>Simek</name>
+          <url>https://github.com/Simek</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/165856?s=40&amp;v=4</avatar>
+          <name>hramos</name>
+          <url>https://github.com/hramos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1278991?s=40&amp;v=4</avatar>
+          <name>tesseralis</name>
+          <url>https://github.com/tesseralis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3001957?s=40&amp;v=4</avatar>
+          <name>cortinico</name>
+          <url>https://github.com/cortinico</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jellyfin/jellyfin.org</title>
+      <link>https://github.com/jellyfin/jellyfin.org</link>
+      <description>Jellyfin Project website, blog, and user documentation</description>
+      <guid>https://github.com/jellyfin/jellyfin.org</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>165</stars>
+      <forks>713</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2305178?s=40&amp;v=4</avatar>
+          <name>nielsvanvelzen</name>
+          <url>https://github.com/nielsvanvelzen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/94436780?s=40&amp;v=4</avatar>
+          <name>BotBlake</name>
+          <url>https://github.com/BotBlake</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25688628?s=40&amp;v=4</avatar>
+          <name>felix920506</name>
+          <url>https://github.com/felix920506</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3741446?s=40&amp;v=4</avatar>
+          <name>Shadowghost</name>
+          <url>https://github.com/Shadowghost</url>
         </contributor>
       </contributors>
     </item>
@@ -324,7 +385,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>138</stars>
-      <forks>312</forks>
+      <forks>313</forks>
       <addStars>2</addStars>
       <contributors>
         <contributor>
@@ -355,77 +416,6 @@
       </contributors>
     </item>
     <item>
-      <title>react/react-native-website</title>
-      <link>https://github.com/react/react-native-website</link>
-      <description>The React Native website and docs</description>
-      <guid>https://github.com/react/react-native-website</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>2,160</stars>
-      <forks>6,320</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/719641?s=40&amp;v=4</avatar>
-          <name>Simek</name>
-          <url>https://github.com/Simek</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/165856?s=40&amp;v=4</avatar>
-          <name>hramos</name>
-          <url>https://github.com/hramos</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1278991?s=40&amp;v=4</avatar>
-          <name>tesseralis</name>
-          <url>https://github.com/tesseralis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3001957?s=40&amp;v=4</avatar>
-          <name>cortinico</name>
-          <url>https://github.com/cortinico</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>huggingface/course</title>
-      <link>https://github.com/huggingface/course</link>
-      <description>The Hugging Face course on Transformers</description>
-      <guid>https://github.com/huggingface/course</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>4,221</stars>
-      <forks>1,424</forks>
-      <addStars>24</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26859204?s=40&amp;v=4</avatar>
-          <name>lewtun</name>
-          <url>https://github.com/lewtun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5528894?s=40&amp;v=4</avatar>
-          <name>kambizG</name>
-          <url>https://github.com/kambizG</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4</avatar>
-          <name>burtenshaw</name>
-          <url>https://github.com/burtenshaw</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17560478?s=40&amp;v=4</avatar>
-          <name>artyomboyko</name>
-          <url>https://github.com/artyomboyko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66115008?s=40&amp;v=4</avatar>
-          <name>eduard-balamatiuc</name>
-          <url>https://github.com/eduard-balamatiuc</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>withastro/docs</title>
       <link>https://github.com/withastro/docs</link>
       <description>Astro documentation</description>
@@ -433,7 +423,7 @@
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
       <stars>1,691</stars>
-      <forks>1,889</forks>
+      <forks>1,891</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -464,106 +454,40 @@
       </contributors>
     </item>
     <item>
-      <title>Comfy-Org/docs</title>
-      <link>https://github.com/Comfy-Org/docs</link>
-      <description>Documentation for ComfyUI</description>
-      <guid>https://github.com/Comfy-Org/docs</guid>
+      <title>hunvreus/basecoat</title>
+      <link>https://github.com/hunvreus/basecoat</link>
+      <description>A components library built with Tailwind CSS that works with any web stack.</description>
+      <guid>https://github.com/hunvreus/basecoat</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>288</stars>
-      <forks>207</forks>
-      <addStars>2</addStars>
+      <stars>4,316</stars>
+      <forks>139</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/192523189?s=40&amp;v=4</avatar>
-          <name>comfyui-wiki</name>
-          <url>https://github.com/comfyui-wiki</url>
+          <avatar>https://avatars.githubusercontent.com/u/306868?s=40&amp;v=4</avatar>
+          <name>hunvreus</name>
+          <url>https://github.com/hunvreus</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/267740176?s=40&amp;v=4</avatar>
-          <name>lin-bot23</name>
-          <url>https://github.com/lin-bot23</url>
+          <avatar>https://avatars.githubusercontent.com/u/1384521?s=40&amp;v=4</avatar>
+          <name>wangbinyq</name>
+          <url>https://github.com/wangbinyq</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5674242?s=40&amp;v=4</avatar>
-          <name>robinjhuang</name>
-          <url>https://github.com/robinjhuang</url>
+          <avatar>https://avatars.githubusercontent.com/u/99708?s=40&amp;v=4</avatar>
+          <name>hrbonz</name>
+          <url>https://github.com/hrbonz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>newrelic/docs-website</title>
-      <link>https://github.com/newrelic/docs-website</link>
-      <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
-      <guid>https://github.com/newrelic/docs-website</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>197</stars>
-      <forks>1,460</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9435570?s=40&amp;v=4</avatar>
-          <name>zuluecho9</name>
-          <url>https://github.com/zuluecho9</url>
+          <avatar>https://avatars.githubusercontent.com/u/333051?s=40&amp;v=4</avatar>
+          <name>sonyarianto</name>
+          <url>https://github.com/sonyarianto</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18040274?s=40&amp;v=4</avatar>
-          <name>rhetoric101</name>
-          <url>https://github.com/rhetoric101</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/180251336?s=40&amp;v=4</avatar>
-          <name>adutta-newrelic</name>
-          <url>https://github.com/adutta-newrelic</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48104650?s=40&amp;v=4</avatar>
-          <name>homelessbirds</name>
-          <url>https://github.com/homelessbirds</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42678939?s=40&amp;v=4</avatar>
-          <name>bradleycamacho</name>
-          <url>https://github.com/bradleycamacho</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jellyfin/jellyfin.org</title>
-      <link>https://github.com/jellyfin/jellyfin.org</link>
-      <description>Jellyfin Project website, blog, and user documentation</description>
-      <guid>https://github.com/jellyfin/jellyfin.org</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>164</stars>
-      <forks>713</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2305178?s=40&amp;v=4</avatar>
-          <name>nielsvanvelzen</name>
-          <url>https://github.com/nielsvanvelzen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94436780?s=40&amp;v=4</avatar>
-          <name>BotBlake</name>
-          <url>https://github.com/BotBlake</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25688628?s=40&amp;v=4</avatar>
-          <name>felix920506</name>
-          <url>https://github.com/felix920506</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3741446?s=40&amp;v=4</avatar>
-          <name>Shadowghost</name>
-          <url>https://github.com/Shadowghost</url>
+          <avatar>https://avatars.githubusercontent.com/u/433819?s=40&amp;v=4</avatar>
+          <name>f15u</name>
+          <url>https://github.com/f15u</url>
         </contributor>
       </contributors>
     </item>
@@ -574,9 +498,9 @@
       <guid>https://github.com/LibreChat-AI/librechat.ai</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>657</stars>
-      <forks>458</forks>
-      <addStars>15</addStars>
+      <stars>660</stars>
+      <forks>460</forks>
+      <addStars>18</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110412045?s=40&amp;v=4</avatar>
@@ -607,9 +531,9 @@
       <guid>https://github.com/buchidonggua/dg-ai-notes</guid>
       <language>MDX</language>
       <languageColor>#fcb32c</languageColor>
-      <stars>2,838</stars>
+      <stars>2,883</stars>
       <forks>229</forks>
-      <addStars>153</addStars>
+      <addStars>149</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31760283?s=40&amp;v=4</avatar>
@@ -620,120 +544,6 @@
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ton-blockchain/docs</title>
-      <link>https://github.com/ton-blockchain/docs</link>
-      <description>TON developer documentation</description>
-      <guid>https://github.com/ton-blockchain/docs</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>69</stars>
-      <forks>96</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68142933?s=40&amp;v=4</avatar>
-          <name>novusnota</name>
-          <url>https://github.com/novusnota</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/89766357?s=40&amp;v=4</avatar>
-          <name>aigerimu</name>
-          <url>https://github.com/aigerimu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/186486509?s=40&amp;v=4</avatar>
-          <name>verytactical</name>
-          <url>https://github.com/verytactical</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99297870?s=40&amp;v=4</avatar>
-          <name>Karkarmath</name>
-          <url>https://github.com/Karkarmath</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42098239?s=40&amp;v=4</avatar>
-          <name>Gusarich</name>
-          <url>https://github.com/Gusarich</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hunvreus/basecoat</title>
-      <link>https://github.com/hunvreus/basecoat</link>
-      <description>A components library built with Tailwind CSS that works with any web stack.</description>
-      <guid>https://github.com/hunvreus/basecoat</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>4,313</stars>
-      <forks>138</forks>
-      <addStars>25</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/306868?s=40&amp;v=4</avatar>
-          <name>hunvreus</name>
-          <url>https://github.com/hunvreus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1384521?s=40&amp;v=4</avatar>
-          <name>wangbinyq</name>
-          <url>https://github.com/wangbinyq</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99708?s=40&amp;v=4</avatar>
-          <name>hrbonz</name>
-          <url>https://github.com/hrbonz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/333051?s=40&amp;v=4</avatar>
-          <name>sonyarianto</name>
-          <url>https://github.com/sonyarianto</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/433819?s=40&amp;v=4</avatar>
-          <name>f15u</name>
-          <url>https://github.com/f15u</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>react-native-elements/react-native-elements</title>
-      <link>https://github.com/react-native-elements/react-native-elements</link>
-      <description>Cross-Platform React Native UI Toolkit</description>
-      <guid>https://github.com/react-native-elements/react-native-elements</guid>
-      <language>MDX</language>
-      <languageColor>#fcb32c</languageColor>
-      <stars>25,862</stars>
-      <forks>4,675</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5962998?s=40&amp;v=4</avatar>
-          <name>iRoachie</name>
-          <url>https://github.com/iRoachie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55053424?s=40&amp;v=4</avatar>
-          <name>arpitBhalla</name>
-          <url>https://github.com/arpitBhalla</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7840686?s=40&amp;v=4</avatar>
-          <name>Monte9</name>
-          <url>https://github.com/Monte9</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1857282?s=40&amp;v=4</avatar>
-          <name>dabit3</name>
-          <url>https://github.com/dabit3</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37510403?s=40&amp;v=4</avatar>
-          <name>react-native-elements-ci</name>
-          <url>https://github.com/react-native-elements-ci</url>
         </contributor>
       </contributors>
     </item>
@@ -772,6 +582,191 @@
           <avatar>https://avatars.githubusercontent.com/u/164088955?s=40&amp;v=4</avatar>
           <name>RealDiligent</name>
           <url>https://github.com/RealDiligent</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hashicorp/web-unified-docs</title>
+      <link>https://github.com/hashicorp/web-unified-docs</link>
+      <description>Hashicorp Unified Docs</description>
+      <guid>https://github.com/hashicorp/web-unified-docs</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>86</stars>
+      <forks>275</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62622282?s=40&amp;v=4</avatar>
+          <name>hashibot-web</name>
+          <url>https://github.com/hashibot-web</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62406755?s=40&amp;v=4</avatar>
+          <name>schavis</name>
+          <url>https://github.com/schavis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47586768?s=40&amp;v=4</avatar>
+          <name>trujillo-adam</name>
+          <url>https://github.com/trujillo-adam</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76443935?s=40&amp;v=4</avatar>
+          <name>Dan-Heath</name>
+          <url>https://github.com/Dan-Heath</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26799583?s=40&amp;v=4</avatar>
+          <name>aimeeu</name>
+          <url>https://github.com/aimeeu</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>newrelic/docs-website</title>
+      <link>https://github.com/newrelic/docs-website</link>
+      <description>Source code for @newrelic docs. We welcome pull requests and questions on our docs!</description>
+      <guid>https://github.com/newrelic/docs-website</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>197</stars>
+      <forks>1,461</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9435570?s=40&amp;v=4</avatar>
+          <name>zuluecho9</name>
+          <url>https://github.com/zuluecho9</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18040274?s=40&amp;v=4</avatar>
+          <name>rhetoric101</name>
+          <url>https://github.com/rhetoric101</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/180251336?s=40&amp;v=4</avatar>
+          <name>adutta-newrelic</name>
+          <url>https://github.com/adutta-newrelic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48104650?s=40&amp;v=4</avatar>
+          <name>homelessbirds</name>
+          <url>https://github.com/homelessbirds</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42678939?s=40&amp;v=4</avatar>
+          <name>bradleycamacho</name>
+          <url>https://github.com/bradleycamacho</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>huggingface/course</title>
+      <link>https://github.com/huggingface/course</link>
+      <description>The Hugging Face course on Transformers</description>
+      <guid>https://github.com/huggingface/course</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>4,223</stars>
+      <forks>1,424</forks>
+      <addStars>25</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26859204?s=40&amp;v=4</avatar>
+          <name>lewtun</name>
+          <url>https://github.com/lewtun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5528894?s=40&amp;v=4</avatar>
+          <name>kambizG</name>
+          <url>https://github.com/kambizG</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19620375?s=40&amp;v=4</avatar>
+          <name>burtenshaw</name>
+          <url>https://github.com/burtenshaw</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17560478?s=40&amp;v=4</avatar>
+          <name>artyomboyko</name>
+          <url>https://github.com/artyomboyko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66115008?s=40&amp;v=4</avatar>
+          <name>eduard-balamatiuc</name>
+          <url>https://github.com/eduard-balamatiuc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>langfuse/langfuse-docs</title>
+      <link>https://github.com/langfuse/langfuse-docs</link>
+      <description>🪢 Open source agent evals &amp; observability: Trace, evaluate, and improve LLM applications with one open platform.</description>
+      <guid>https://github.com/langfuse/langfuse-docs</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>240</stars>
+      <forks>303</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2834609?s=40&amp;v=4</avatar>
+          <name>marcklingen</name>
+          <url>https://github.com/marcklingen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48529566?s=40&amp;v=4</avatar>
+          <name>jannikmaierhoefer</name>
+          <url>https://github.com/jannikmaierhoefer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>discord/discord-api-docs</title>
+      <link>https://github.com/discord/discord-api-docs</link>
+      <description>Official Discord Developer Docs</description>
+      <guid>https://github.com/discord/discord-api-docs</guid>
+      <language>MDX</language>
+      <languageColor>#fcb32c</languageColor>
+      <stars>6,487</stars>
+      <forks>1,381</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11778454?s=40&amp;v=4</avatar>
+          <name>advaith1</name>
+          <url>https://github.com/advaith1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4193854?s=40&amp;v=4</avatar>
+          <name>msciotti</name>
+          <url>https://github.com/msciotti</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3411005?s=40&amp;v=4</avatar>
+          <name>shaydewael</name>
+          <url>https://github.com/shaydewael</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/298370?s=40&amp;v=4</avatar>
+          <name>markmandel</name>
+          <url>https://github.com/markmandel</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2942184?s=40&amp;v=4</avatar>
+          <name>night</name>
+          <url>https://github.com/night</url>
         </contributor>
       </contributors>
     </item>

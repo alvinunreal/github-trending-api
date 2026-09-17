@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "E3SM-Project/E3SM",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,761",
-      "forks": "882",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
-        }
-      ]
-    },
-    {
       "title": "GEOS-ESM/MAPL",
       "url": "https://github.com/GEOS-ESM/MAPL",
       "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
@@ -86,7 +49,7 @@
       "languageColor": "#4d41b1",
       "stars": "45",
       "forks": "25",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2982494?s=40&v=4",
@@ -116,39 +79,76 @@
       ]
     },
     {
-      "title": "MetOffice/jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "23",
-      "forks": "35",
-      "addStars": "2",
+      "stars": "1,761",
+      "forks": "882",
+      "addStars": "28",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
-          "name": "james-bruten-mo",
-          "url": "https://github.com/james-bruten-mo"
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43399998?s=40&v=4",
-          "name": "Pierre-siddall",
-          "url": "https://github.com/Pierre-siddall"
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/145924708?s=40&v=4",
-          "name": "maggiehendry",
-          "url": "https://github.com/maggiehendry"
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2984440?s=40&v=4",
-          "name": "yaswant",
-          "url": "https://github.com/yaswant"
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61183013?s=40&v=4",
-          "name": "jennyhickson",
-          "url": "https://github.com/jennyhickson"
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
+      "title": "JuliaPackaging/Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "406",
+      "forks": "762",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
+          "name": "giordano",
+          "url": "https://github.com/giordano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213514?s=40&v=4",
+          "name": "eschnett",
+          "url": "https://github.com/eschnett"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
+          "name": "staticfloat",
+          "url": "https://github.com/staticfloat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
+          "name": "maleadt",
+          "url": "https://github.com/maleadt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
+          "name": "vchuravy",
+          "url": "https://github.com/vchuravy"
         }
       ]
     },
@@ -183,46 +183,46 @@
           "url": "https://github.com/tommbendall"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/130391369?s=40&v=4",
-          "name": "oakleybrunt",
-          "url": "https://github.com/oakleybrunt"
+          "avatar": "https://avatars.githubusercontent.com/u/24609575?s=40&v=4",
+          "name": "andrewcoughtrie",
+          "url": "https://github.com/andrewcoughtrie"
         }
       ]
     },
     {
-      "title": "JuliaPackaging/Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "MetOffice/jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "406",
-      "forks": "760",
-      "addStars": "3",
+      "stars": "23",
+      "forks": "36",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/765740?s=40&v=4",
-          "name": "giordano",
-          "url": "https://github.com/giordano"
+          "avatar": "https://avatars.githubusercontent.com/u/109733895?s=40&v=4",
+          "name": "james-bruten-mo",
+          "url": "https://github.com/james-bruten-mo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/213514?s=40&v=4",
-          "name": "eschnett",
-          "url": "https://github.com/eschnett"
+          "avatar": "https://avatars.githubusercontent.com/u/145924708?s=40&v=4",
+          "name": "maggiehendry",
+          "url": "https://github.com/maggiehendry"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/130920?s=40&v=4",
-          "name": "staticfloat",
-          "url": "https://github.com/staticfloat"
+          "avatar": "https://avatars.githubusercontent.com/u/43399998?s=40&v=4",
+          "name": "Pierre-siddall",
+          "url": "https://github.com/Pierre-siddall"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/383068?s=40&v=4",
-          "name": "maleadt",
-          "url": "https://github.com/maleadt"
+          "avatar": "https://avatars.githubusercontent.com/u/2984440?s=40&v=4",
+          "name": "yaswant",
+          "url": "https://github.com/yaswant"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
-          "name": "vchuravy",
-          "url": "https://github.com/vchuravy"
+          "avatar": "https://avatars.githubusercontent.com/u/61183013?s=40&v=4",
+          "name": "jennyhickson",
+          "url": "https://github.com/jennyhickson"
         }
       ]
     },
@@ -301,43 +301,6 @@
       ]
     },
     {
-      "title": "cp2k/cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,207",
-      "forks": "500",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
-          "name": "vondele",
-          "url": "https://github.com/vondele"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
-          "name": "mkrack",
-          "url": "https://github.com/mkrack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
-          "name": "oschuett",
-          "url": "https://github.com/oschuett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
-          "name": "tlaino",
-          "url": "https://github.com/tlaino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
-          "name": "juerghutter",
-          "url": "https://github.com/juerghutter"
-        }
-      ]
-    },
-    {
       "title": "MCSclimate/MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -375,13 +338,50 @@
       ]
     },
     {
+      "title": "cp2k/cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,208",
+      "forks": "500",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
+          "name": "vondele",
+          "url": "https://github.com/vondele"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
+          "name": "mkrack",
+          "url": "https://github.com/mkrack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
+          "name": "oschuett",
+          "url": "https://github.com/oschuett"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
+          "name": "tlaino",
+          "url": "https://github.com/tlaino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
+          "name": "juerghutter",
+          "url": "https://github.com/juerghutter"
+        }
+      ]
+    },
+    {
       "title": "ElmerCSC/elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,706",
-      "forks": "396",
+      "stars": "1,708",
+      "forks": "397",
       "addStars": "44",
       "contributors": [
         {
@@ -418,8 +418,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "969",
-      "forks": "539",
-      "addStars": "20",
+      "forks": "540",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
@@ -454,7 +454,7 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "875",
+      "stars": "876",
       "forks": "689",
       "addStars": "13",
       "contributors": [
@@ -486,49 +486,12 @@
       ]
     },
     {
-      "title": "MFlowCode/MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "420",
-      "forks": "173",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39740593?s=40&v=4",
-          "name": "sbryngelson",
-          "url": "https://github.com/sbryngelson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24208000?s=40&v=4",
-          "name": "henryleberre",
-          "url": "https://github.com/henryleberre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48168887?s=40&v=4",
-          "name": "wilfonba",
-          "url": "https://github.com/wilfonba"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98496194?s=40&v=4",
-          "name": "haochey",
-          "url": "https://github.com/haochey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/187532398?s=40&v=4",
-          "name": "danieljvickers",
-          "url": "https://github.com/danieljvickers"
-        }
-      ]
-    },
-    {
       "title": "grimme-lab/xtb",
       "url": "https://github.com/grimme-lab/xtb",
       "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "840",
+      "stars": "841",
       "forks": "207",
       "addStars": "12",
       "contributors": [

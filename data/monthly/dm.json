@@ -2,7 +2,7 @@
   "title": "GitHub Dm Languages Monthly Trending",
   "description": "Monthly Trending of Dm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "tgstation/tgstation",
@@ -11,8 +11,8 @@
       "language": "DM",
       "languageColor": "#447265",
       "stars": "1,935",
-      "forks": "5,316",
-      "addStars": "15",
+      "forks": "5,318",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12387510?s=40&v=4",
@@ -33,6 +33,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/3827314?s=40&v=4",
           "name": "Cheridan",
           "url": "https://github.com/Cheridan"
+        }
+      ]
+    },
+    {
+      "title": "cmss13-devs/cmss13",
+      "url": "https://github.com/cmss13-devs/cmss13",
+      "description": "Contains the code for CM-SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": "170",
+      "forks": "942",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128137806?s=40&v=4",
+          "name": "cm13-github",
+          "url": "https://github.com/cm13-github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66756236?s=40&v=4",
+          "name": "stanalbatross",
+          "url": "https://github.com/stanalbatross"
         }
       ]
     },
@@ -65,6 +92,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3009534?s=40&v=4",
           "name": "mvanalphen",
           "url": "https://github.com/mvanalphen"
+        }
+      ]
+    },
+    {
+      "title": "goonstation/goonstation",
+      "url": "https://github.com/goonstation/goonstation",
+      "description": "Repository for the Goonstation branch of SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": "406",
+      "forks": "1,822",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/358431?s=40&v=4",
+          "name": "pali6",
+          "url": "https://github.com/pali6"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65057909?s=40&v=4",
+          "name": "robuddybot",
+          "url": "https://github.com/robuddybot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48066662?s=40&v=4",
+          "name": "Tarmunora",
+          "url": "https://github.com/Tarmunora"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20713227?s=40&v=4",
+          "name": "TobleroneSwordfish",
+          "url": "https://github.com/TobleroneSwordfish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4741640?s=40&v=4",
+          "name": "ZeWaka",
+          "url": "https://github.com/ZeWaka"
         }
       ]
     },
@@ -102,70 +166,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3886584?s=40&v=4",
           "name": "ChangelingRain",
           "url": "https://github.com/ChangelingRain"
-        }
-      ]
-    },
-    {
-      "title": "goonstation/goonstation",
-      "url": "https://github.com/goonstation/goonstation",
-      "description": "Repository for the Goonstation branch of SS13",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": "406",
-      "forks": "1,821",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/358431?s=40&v=4",
-          "name": "pali6",
-          "url": "https://github.com/pali6"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65057909?s=40&v=4",
-          "name": "robuddybot",
-          "url": "https://github.com/robuddybot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48066662?s=40&v=4",
-          "name": "Tarmunora",
-          "url": "https://github.com/Tarmunora"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20713227?s=40&v=4",
-          "name": "TobleroneSwordfish",
-          "url": "https://github.com/TobleroneSwordfish"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4741640?s=40&v=4",
-          "name": "ZeWaka",
-          "url": "https://github.com/ZeWaka"
-        }
-      ]
-    },
-    {
-      "title": "cmss13-devs/cmss13",
-      "url": "https://github.com/cmss13-devs/cmss13",
-      "description": "Contains the code for CM-SS13",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": "170",
-      "forks": "941",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128137806?s=40&v=4",
-          "name": "cm13-github",
-          "url": "https://github.com/cm13-github"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66756236?s=40&v=4",
-          "name": "stanalbatross",
-          "url": "https://github.com/stanalbatross"
         }
       ]
     },

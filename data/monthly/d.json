@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Monthly Trending",
   "description": "Monthly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "abraunegg/onedrive",
@@ -10,9 +10,9 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "12,815",
+      "stars": "12,819",
       "forks": "913",
-      "addStars": "142",
+      "addStars": "141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4956234?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "572",
-      "forks": "2,483",
+      "stars": "573",
+      "forks": "2,488",
       "addStars": "39",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "1,017",
+      "stars": "1,018",
       "forks": "164",
-      "addStars": "29",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24679280?s=40&v=4",
@@ -116,51 +116,14 @@
       ]
     },
     {
-      "title": "dlang/phobos",
-      "url": "https://github.com/dlang/phobos",
-      "description": "The standard library of the D programming language",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": "1,259",
-      "forks": "773",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/566679?s=40&v=4",
-          "name": "andralex",
-          "url": "https://github.com/andralex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/579956?s=40&v=4",
-          "name": "jmdavis",
-          "url": "https://github.com/jmdavis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4370550?s=40&v=4",
-          "name": "wilzbach",
-          "url": "https://github.com/wilzbach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/568298?s=40&v=4",
-          "name": "WalterBright",
-          "url": "https://github.com/WalterBright"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/288976?s=40&v=4",
-          "name": "MartinNowak",
-          "url": "https://github.com/MartinNowak"
-        }
-      ]
-    },
-    {
       "title": "gnunn1/tilix",
       "url": "https://github.com/gnunn1/tilix",
       "description": "A tiling terminal emulator for Linux using GTK+ 3",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "5,720",
+      "stars": "5,721",
       "forks": "322",
-      "addStars": "12",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9358238?s=40&v=4",

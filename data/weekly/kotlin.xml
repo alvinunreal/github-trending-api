@@ -3,248 +3,7 @@
     <title>GitHub Kotlin Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Kotlin Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
-    <item>
-      <title>damontecres/Wholphin</title>
-      <link>https://github.com/damontecres/Wholphin</link>
-      <description>An OSS Android TV client for Jellyfin</description>
-      <guid>https://github.com/damontecres/Wholphin</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>2,914</stars>
-      <forks>159</forks>
-      <addStars>53</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/154766448?s=40&amp;v=4</avatar>
-          <name>damontecres</name>
-          <url>https://github.com/damontecres</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57109577?s=40&amp;v=4</avatar>
-          <name>zoro11031</name>
-          <url>https://github.com/zoro11031</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40403606?s=40&amp;v=4</avatar>
-          <name>Fjuro</name>
-          <url>https://github.com/Fjuro</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47003818?s=40&amp;v=4</avatar>
-          <name>krittawitst</name>
-          <url>https://github.com/krittawitst</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>KernelSU-Next/KernelSU-Next</title>
-      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
-      <description>An advanced Kernel based root solution for Android</description>
-      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>4,253</stars>
-      <forks>1,102</forks>
-      <addStars>46</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
-          <name>tiann</name>
-          <url>https://github.com/tiann</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
-          <name>rifsxd</name>
-          <url>https://github.com/rifsxd</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
-          <name>Ylarod</name>
-          <url>https://github.com/Ylarod</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
-          <name>5ec1cff</name>
-          <url>https://github.com/5ec1cff</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>deniscerri/ytdlnis</title>
-      <link>https://github.com/deniscerri/ytdlnis</link>
-      <description>Full-featured audio/video downloader for Android using yt-dlp</description>
-      <guid>https://github.com/deniscerri/ytdlnis</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>10,119</stars>
-      <forks>456</forks>
-      <addStars>141</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64997243?s=40&amp;v=4</avatar>
-          <name>deniscerri</name>
-          <url>https://github.com/deniscerri</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/75589932?s=40&amp;v=4</avatar>
-          <name>zaednasr</name>
-          <url>https://github.com/zaednasr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
-          <name>weblate</name>
-          <url>https://github.com/weblate</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103105829?s=40&amp;v=4</avatar>
-          <name>Kefir2105</name>
-          <url>https://github.com/Kefir2105</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jellyfin/jellyfin-androidtv</title>
-      <link>https://github.com/jellyfin/jellyfin-androidtv</link>
-      <description>Android TV Client for Jellyfin</description>
-      <guid>https://github.com/jellyfin/jellyfin-androidtv</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>4,556</stars>
-      <forks>952</forks>
-      <addStars>32</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2305178?s=40&amp;v=4</avatar>
-          <name>nielsvanvelzen</name>
-          <url>https://github.com/nielsvanvelzen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3450688?s=40&amp;v=4</avatar>
-          <name>thornbill</name>
-          <url>https://github.com/thornbill</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2727561?s=40&amp;v=4</avatar>
-          <name>ebr11</name>
-          <url>https://github.com/ebr11</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4700006?s=40&amp;v=4</avatar>
-          <name>WWWesten</name>
-          <url>https://github.com/WWWesten</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>recloudstream/cloudstream</title>
-      <link>https://github.com/recloudstream/cloudstream</link>
-      <description>Android app for streaming and downloading media.</description>
-      <guid>https://github.com/recloudstream/cloudstream</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>10,680</stars>
-      <forks>1,059</forks>
-      <addStars>67</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11805592?s=40&amp;v=4</avatar>
-          <name>LagradOst</name>
-          <url>https://github.com/LagradOst</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142361265?s=40&amp;v=4</avatar>
-          <name>Luna712</name>
-          <url>https://github.com/Luna712</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46196380?s=40&amp;v=4</avatar>
-          <name>Blatzar</name>
-          <url>https://github.com/Blatzar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/147925818?s=40&amp;v=4</avatar>
-          <name>fire-light42</name>
-          <url>https://github.com/fire-light42</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18114966?s=40&amp;v=4</avatar>
-          <name>C10udburst</name>
-          <url>https://github.com/C10udburst</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ExTV/Podroid</title>
-      <link>https://github.com/ExTV/Podroid</link>
-      <description>A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.</description>
-      <guid>https://github.com/ExTV/Podroid</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>2,669</stars>
-      <forks>165</forks>
-      <addStars>427</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102330270?s=40&amp;v=4</avatar>
-          <name>ExTV</name>
-          <url>https://github.com/ExTV</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12866789?s=40&amp;v=4</avatar>
-          <name>vitorsaldiva</name>
-          <url>https://github.com/vitorsaldiva</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25800553?s=40&amp;v=4</avatar>
-          <name>9hm2</name>
-          <url>https://github.com/9hm2</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>amir1376/ab-download-manager</title>
-      <link>https://github.com/amir1376/ab-download-manager</link>
-      <description>A Download Manager that speeds up your downloads</description>
-      <guid>https://github.com/amir1376/ab-download-manager</guid>
-      <language>Kotlin</language>
-      <languageColor>#A97BFF</languageColor>
-      <stars>17,939</stars>
-      <forks>916</forks>
-      <addStars>163</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38394888?s=40&amp;v=4</avatar>
-          <name>amir1376</name>
-          <url>https://github.com/amir1376</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129018081?s=40&amp;v=4</avatar>
-          <name>amirroid</name>
-          <url>https://github.com/amirroid</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50986612?s=40&amp;v=4</avatar>
-          <name>ehsannarmani</name>
-          <url>https://github.com/ehsannarmani</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106905365?s=40&amp;v=4</avatar>
-          <name>dagimg-dot</name>
-          <url>https://github.com/dagimg-dot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57851661?s=40&amp;v=4</avatar>
-          <name>CoZooo</name>
-          <url>https://github.com/CoZooo</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>sameerasw/essentials</title>
       <link>https://github.com/sameerasw/essentials</link>
@@ -252,9 +11,9 @@
       <guid>https://github.com/sameerasw/essentials</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,995</stars>
+      <stars>3,004</stars>
       <forks>80</forks>
-      <addStars>135</addStars>
+      <addStars>140</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/68902530?s=40&amp;v=4</avatar>
@@ -284,15 +43,114 @@
       </contributors>
     </item>
     <item>
+      <title>KernelSU-Next/KernelSU-Next</title>
+      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
+      <description>An advanced Kernel based root solution for Android</description>
+      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>4,262</stars>
+      <forks>1,106</forks>
+      <addStars>45</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
+          <name>tiann</name>
+          <url>https://github.com/tiann</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
+          <name>rifsxd</name>
+          <url>https://github.com/rifsxd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
+          <name>Ylarod</name>
+          <url>https://github.com/Ylarod</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
+          <name>5ec1cff</name>
+          <url>https://github.com/5ec1cff</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ExTV/Podroid</title>
+      <link>https://github.com/ExTV/Podroid</link>
+      <description>A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.</description>
+      <guid>https://github.com/ExTV/Podroid</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>2,764</stars>
+      <forks>174</forks>
+      <addStars>466</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102330270?s=40&amp;v=4</avatar>
+          <name>ExTV</name>
+          <url>https://github.com/ExTV</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12866789?s=40&amp;v=4</avatar>
+          <name>vitorsaldiva</name>
+          <url>https://github.com/vitorsaldiva</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25800553?s=40&amp;v=4</avatar>
+          <name>9hm2</name>
+          <url>https://github.com/9hm2</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>damontecres/Wholphin</title>
+      <link>https://github.com/damontecres/Wholphin</link>
+      <description>An OSS Android TV client for Jellyfin</description>
+      <guid>https://github.com/damontecres/Wholphin</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>2,920</stars>
+      <forks>161</forks>
+      <addStars>48</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/154766448?s=40&amp;v=4</avatar>
+          <name>damontecres</name>
+          <url>https://github.com/damontecres</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/57109577?s=40&amp;v=4</avatar>
+          <name>zoro11031</name>
+          <url>https://github.com/zoro11031</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40403606?s=40&amp;v=4</avatar>
+          <name>Fjuro</name>
+          <url>https://github.com/Fjuro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47003818?s=40&amp;v=4</avatar>
+          <name>krittawitst</name>
+          <url>https://github.com/krittawitst</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>gkd-kit/gkd</title>
       <link>https://github.com/gkd-kit/gkd</link>
       <description>基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules</description>
       <guid>https://github.com/gkd-kit/gkd</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>41,931</stars>
+      <stars>41,961</stars>
       <forks>1,984</forks>
-      <addStars>379</addStars>
+      <addStars>376</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38517192?s=40&amp;v=4</avatar>
@@ -322,116 +180,225 @@
       </contributors>
     </item>
     <item>
-      <title>2dust/v2rayNG</title>
-      <link>https://github.com/2dust/v2rayNG</link>
-      <description>A V2Ray client for Android, support Xray core and v2fly core</description>
-      <guid>https://github.com/2dust/v2rayNG</guid>
+      <title>tailscale/tailscale-android</title>
+      <link>https://github.com/tailscale/tailscale-android</link>
+      <description>Tailscale Android Client</description>
+      <guid>https://github.com/tailscale/tailscale-android</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>62,706</stars>
-      <forks>8,111</forks>
-      <addStars>393</addStars>
+      <stars>2,565</stars>
+      <forks>730</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31833384?s=40&amp;v=4</avatar>
-          <name>2dust</name>
-          <url>https://github.com/2dust</url>
+          <avatar>https://avatars.githubusercontent.com/u/1140756?s=40&amp;v=4</avatar>
+          <name>DentonGentry</name>
+          <url>https://github.com/DentonGentry</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1588741?s=40&amp;v=4</avatar>
-          <name>yuhan6665</name>
-          <url>https://github.com/yuhan6665</url>
+          <avatar>https://avatars.githubusercontent.com/u/135075563?s=40&amp;v=4</avatar>
+          <name>kari-ts</name>
+          <url>https://github.com/kari-ts</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/132823494?s=40&amp;v=4</avatar>
-          <name>codewithtamim</name>
-          <url>https://github.com/codewithtamim</url>
+          <avatar>https://avatars.githubusercontent.com/u/524812?s=40&amp;v=4</avatar>
+          <name>eliasnaur</name>
+          <url>https://github.com/eliasnaur</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25316928?s=40&amp;v=4</avatar>
-          <name>solokot</name>
-          <url>https://github.com/solokot</url>
+          <avatar>https://avatars.githubusercontent.com/u/779591?s=40&amp;v=4</avatar>
+          <name>barnstar</name>
+          <url>https://github.com/barnstar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1861169?s=40&amp;v=4</avatar>
-          <name>eliotcougar</name>
-          <url>https://github.com/eliotcougar</url>
+          <avatar>https://avatars.githubusercontent.com/u/9057073?s=40&amp;v=4</avatar>
+          <name>agottardo</name>
+          <url>https://github.com/agottardo</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>maxrave-dev/SimpMusic</title>
-      <link>https://github.com/maxrave-dev/SimpMusic</link>
-      <description>A cross-platform music app using YouTube Music for backend</description>
-      <guid>https://github.com/maxrave-dev/SimpMusic</guid>
+      <title>aniyomiorg/aniyomi</title>
+      <link>https://github.com/aniyomiorg/aniyomi</link>
+      <description>An app for manga and anime</description>
+      <guid>https://github.com/aniyomiorg/aniyomi</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>11,278</stars>
-      <forks>597</forks>
-      <addStars>222</addStars>
+      <stars>7,689</stars>
+      <forks>657</forks>
+      <addStars>30</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113747128?s=40&amp;v=4</avatar>
-          <name>maxrave-dev</name>
-          <url>https://github.com/maxrave-dev</url>
+          <avatar>https://avatars.githubusercontent.com/u/4098258?s=40&amp;v=4</avatar>
+          <name>arkon</name>
+          <url>https://github.com/arkon</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87689078?s=40&amp;v=4</avatar>
-          <name>RounakDadsena</name>
-          <url>https://github.com/RounakDadsena</url>
+          <avatar>https://avatars.githubusercontent.com/u/3521738?s=40&amp;v=4</avatar>
+          <name>inorichi</name>
+          <url>https://github.com/inorichi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102886591?s=40&amp;v=4</avatar>
-          <name>spiicez21</name>
-          <url>https://github.com/spiicez21</url>
+          <avatar>https://avatars.githubusercontent.com/u/43830312?s=40&amp;v=4</avatar>
+          <name>jmir1</name>
+          <url>https://github.com/jmir1</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96661824?s=40&amp;v=4</avatar>
-          <name>CrazyWolf13</name>
-          <url>https://github.com/CrazyWolf13</url>
+          <avatar>https://avatars.githubusercontent.com/u/12537387?s=40&amp;v=4</avatar>
+          <name>ivaniskandar</name>
+          <url>https://github.com/ivaniskandar</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62717259?s=40&amp;v=4</avatar>
-          <name>ilianoKokoro</name>
-          <url>https://github.com/ilianoKokoro</url>
+          <avatar>https://avatars.githubusercontent.com/u/49240133?s=40&amp;v=4</avatar>
+          <name>Secozzi</name>
+          <url>https://github.com/Secozzi</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>vivizzz007/vivi-music</title>
-      <link>https://github.com/vivizzz007/vivi-music</link>
-      <description>Vivi-Music is an expressive Material 3–based YouTube Music client for Android.</description>
-      <guid>https://github.com/vivizzz007/vivi-music</guid>
+      <title>thejaustin/ShizukuPlus</title>
+      <link>https://github.com/thejaustin/ShizukuPlus</link>
+      <description>An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.</description>
+      <guid>https://github.com/thejaustin/ShizukuPlus</guid>
       <language>Kotlin</language>
       <languageColor>#A97BFF</languageColor>
-      <stars>2,686</stars>
-      <forks>118</forks>
-      <addStars>913</addStars>
+      <stars>1,020</stars>
+      <forks>59</forks>
+      <addStars>74</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/208284282?s=40&amp;v=4</avatar>
-          <name>vivizzz007</name>
-          <url>https://github.com/vivizzz007</url>
+          <avatar>https://avatars.githubusercontent.com/u/10579902?s=40&amp;v=4</avatar>
+          <name>thejaustin</name>
+          <url>https://github.com/thejaustin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/177887593?s=40&amp;v=4</avatar>
-          <name>Maloy-Android</name>
-          <url>https://github.com/Maloy-Android</url>
+          <avatar>https://avatars.githubusercontent.com/u/12999176?s=40&amp;v=4</avatar>
+          <name>RikkaW</name>
+          <url>https://github.com/RikkaW</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37149164?s=40&amp;v=4</avatar>
-          <name>T-Boyke</name>
-          <url>https://github.com/T-Boyke</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184148670?s=40&amp;v=4</avatar>
-          <name>Mickael81</name>
-          <url>https://github.com/Mickael81</url>
+          <avatar>https://avatars.githubusercontent.com/u/80229487?s=40&amp;v=4</avatar>
+          <name>thedjchi</name>
+          <url>https://github.com/thedjchi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/87477585?s=40&amp;v=4</avatar>
-          <name>Anto426</name>
-          <url>https://github.com/Anto426</url>
+          <avatar>https://avatars.githubusercontent.com/u/224605497?s=40&amp;v=4</avatar>
+          <name>qwencoder</name>
+          <url>https://github.com/qwencoder</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>deniscerri/ytdlnis</title>
+      <link>https://github.com/deniscerri/ytdlnis</link>
+      <description>Full-featured audio/video downloader for Android using yt-dlp</description>
+      <guid>https://github.com/deniscerri/ytdlnis</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>10,147</stars>
+      <forks>459</forks>
+      <addStars>143</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64997243?s=40&amp;v=4</avatar>
+          <name>deniscerri</name>
+          <url>https://github.com/deniscerri</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/75589932?s=40&amp;v=4</avatar>
+          <name>zaednasr</name>
+          <url>https://github.com/zaednasr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/103105829?s=40&amp;v=4</avatar>
+          <name>Kefir2105</name>
+          <url>https://github.com/Kefir2105</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>komikku-app/anikku</title>
+      <link>https://github.com/komikku-app/anikku</link>
+      <description>Free and open source anime watcher for Android</description>
+      <guid>https://github.com/komikku-app/anikku</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>1,037</stars>
+      <forks>71</forks>
+      <addStars>24</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4098258?s=40&amp;v=4</avatar>
+          <name>arkon</name>
+          <url>https://github.com/arkon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3521738?s=40&amp;v=4</avatar>
+          <name>inorichi</name>
+          <url>https://github.com/inorichi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43830312?s=40&amp;v=4</avatar>
+          <name>jmir1</name>
+          <url>https://github.com/jmir1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16017808?s=40&amp;v=4</avatar>
+          <name>cuong-tran</name>
+          <url>https://github.com/cuong-tran</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97435834?s=40&amp;v=4</avatar>
+          <name>LuftVerbot</name>
+          <url>https://github.com/LuftVerbot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ravindu644/Droidspaces-OSS</title>
+      <link>https://github.com/ravindu644/Droidspaces-OSS</link>
+      <description>A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty</description>
+      <guid>https://github.com/ravindu644/Droidspaces-OSS</guid>
+      <language>Kotlin</language>
+      <languageColor>#A97BFF</languageColor>
+      <stars>2,148</stars>
+      <forks>202</forks>
+      <addStars>238</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126038496?s=40&amp;v=4</avatar>
+          <name>ravindu644</name>
+          <url>https://github.com/ravindu644</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82716291?s=40&amp;v=4</avatar>
+          <name>yoshi3jp</name>
+          <url>https://github.com/yoshi3jp</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/447101?s=40&amp;v=4</avatar>
+          <name>snowwolf725</name>
+          <url>https://github.com/snowwolf725</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104779758?s=40&amp;v=4</avatar>
+          <name>maazm7d</name>
+          <url>https://github.com/maazm7d</url>
         </contributor>
       </contributors>
     </item>

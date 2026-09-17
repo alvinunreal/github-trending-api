@@ -2,54 +2,17 @@
   "title": "GitHub Fluent Languages Monthly Trending",
   "description": "Monthly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
-    {
-      "title": "janeczku/calibre-web",
-      "url": "https://github.com/janeczku/calibre-web",
-      "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
-      "language": "Fluent",
-      "languageColor": "#ffcc33",
-      "stars": "18,183",
-      "forks": "1,857",
-      "addStars": "355",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6438895?s=40&v=4",
-          "name": "OzzieIsaacs",
-          "url": "https://github.com/OzzieIsaacs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4482454?s=40&v=4",
-          "name": "cbartondock",
-          "url": "https://github.com/cbartondock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18114445?s=40&v=4",
-          "name": "cervinko",
-          "url": "https://github.com/cervinko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3346204?s=40&v=4",
-          "name": "idalin",
-          "url": "https://github.com/idalin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/999845?s=40&v=4",
-          "name": "jkrehm",
-          "url": "https://github.com/jkrehm"
-        }
-      ]
-    },
     {
       "title": "qarmin/czkawka",
       "url": "https://github.com/qarmin/czkawka",
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "33,517",
-      "forks": "1,172",
-      "addStars": "865",
+      "stars": "33,552",
+      "forks": "1,176",
+      "addStars": "864",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41945903?s=40&v=4",
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3356767?s=40&v=4",
           "name": "pczarn",
           "url": "https://github.com/pczarn"
+        }
+      ]
+    },
+    {
+      "title": "janeczku/calibre-web",
+      "url": "https://github.com/janeczku/calibre-web",
+      "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
+      "language": "Fluent",
+      "languageColor": "#ffcc33",
+      "stars": "18,195",
+      "forks": "1,859",
+      "addStars": "354",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6438895?s=40&v=4",
+          "name": "OzzieIsaacs",
+          "url": "https://github.com/OzzieIsaacs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4482454?s=40&v=4",
+          "name": "cbartondock",
+          "url": "https://github.com/cbartondock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18114445?s=40&v=4",
+          "name": "cervinko",
+          "url": "https://github.com/cervinko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3346204?s=40&v=4",
+          "name": "idalin",
+          "url": "https://github.com/idalin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/999845?s=40&v=4",
+          "name": "jkrehm",
+          "url": "https://github.com/jkrehm"
         }
       ]
     },
@@ -121,9 +121,9 @@
       "description": "An Anime Game launcher for Linux with telemetry disabling",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "2,246",
+      "stars": "2,248",
       "forks": "88",
-      "addStars": "50",
+      "addStars": "48",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29639507?s=40&v=4",

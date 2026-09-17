@@ -2,17 +2,103 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
+    {
+      "title": "Abdenasser/neohtop",
+      "url": "https://github.com/Abdenasser/neohtop",
+      "description": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "9,374",
+      "forks": "307",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8364240?s=40&v=4",
+          "name": "Abdenasser",
+          "url": "https://github.com/Abdenasser"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75797743?s=40&v=4",
+          "name": "Pinguin2001",
+          "url": "https://github.com/Pinguin2001"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45561?s=40&v=4",
+          "name": "razor950",
+          "url": "https://github.com/razor950"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170102251?s=40&v=4",
+          "name": "laciferin2024",
+          "url": "https://github.com/laciferin2024"
+        }
+      ]
+    },
+    {
+      "title": "open-webui/desktop",
+      "url": "https://github.com/open-webui/desktop",
+      "description": "Open WebUI Desktop 🌐",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "2,774",
+      "forks": "267",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
+          "name": "tjbck",
+          "url": "https://github.com/tjbck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20534082?s=40&v=4",
+          "name": "NN708",
+          "url": "https://github.com/NN708"
+        }
+      ]
+    },
+    {
+      "title": "openfoodfacts/openfoodfacts-explorer",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-explorer",
+      "description": "The next-generation frontend for OpenFoodFacts, made with SvelteKit",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "71",
+      "forks": "161",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12072630?s=40&v=4",
+          "name": "VaiTon",
+          "url": "https://github.com/VaiTon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1689815?s=40&v=4",
+          "name": "teolemon",
+          "url": "https://github.com/teolemon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/185998278?s=40&v=4",
+          "name": "swastikCommits",
+          "url": "https://github.com/swastikCommits"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/132787186?s=40&v=4",
+          "name": "heymitali",
+          "url": "https://github.com/heymitali"
+        }
+      ]
+    },
     {
       "title": "imputnet/cobalt",
       "url": "https://github.com/imputnet/cobalt",
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "43,264",
-      "forks": "3,787",
-      "addStars": "58",
+      "stars": "43,308",
+      "forks": "3,795",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71202418?s=40&v=4",
@@ -47,8 +133,8 @@
       "description": "A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "119",
-      "forks": "31",
+      "stars": "120",
+      "forks": "32",
       "addStars": "1",
       "contributors": [
         {
@@ -79,34 +165,34 @@
       ]
     },
     {
-      "title": "seanmorley15/AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
+      "title": "vaibhav-kakde-in/mdhero",
+      "url": "https://github.com/vaibhav-kakde-in/mdhero",
+      "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "3,720",
-      "forks": "254",
-      "addStars": "3",
+      "stars": "162",
+      "forks": "21",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/98704938?s=40&v=4",
-          "name": "seanmorley15",
-          "url": "https://github.com/seanmorley15"
+          "avatar": "https://avatars.githubusercontent.com/u/192305282?s=40&v=4",
+          "name": "vaibhav-kakde-in",
+          "url": "https://github.com/vaibhav-kakde-in"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/216347766?s=40&v=4",
-          "name": "Am-Monteiro",
-          "url": "https://github.com/Am-Monteiro"
+          "avatar": "https://avatars.githubusercontent.com/u/494230?s=40&v=4",
+          "name": "rxwen",
+          "url": "https://github.com/rxwen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1008395?s=40&v=4",
-          "name": "lkiesow",
-          "url": "https://github.com/lkiesow"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/122745160?s=40&v=4",
-          "name": "dymek37",
-          "url": "https://github.com/dymek37"
+          "avatar": "https://avatars.githubusercontent.com/u/86353436?s=40&v=4",
+          "name": "hdo-projects",
+          "url": "https://github.com/hdo-projects"
         }
       ]
     },
@@ -116,8 +202,8 @@
       "description": "cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "1,529",
-      "forks": "159",
+      "stars": "1,532",
+      "forks": "160",
       "addStars": "3",
       "contributors": [
         {
@@ -139,65 +225,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/106538?s=40&v=4",
           "name": "cbin",
           "url": "https://github.com/cbin"
-        }
-      ]
-    },
-    {
-      "title": "open-webui/desktop",
-      "url": "https://github.com/open-webui/desktop",
-      "description": "Open WebUI Desktop 🌐",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "2,767",
-      "forks": "266",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25473318?s=40&v=4",
-          "name": "tjbck",
-          "url": "https://github.com/tjbck"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20534082?s=40&v=4",
-          "name": "NN708",
-          "url": "https://github.com/NN708"
-        }
-      ]
-    },
-    {
-      "title": "RockinChaos/Shiru",
-      "url": "https://github.com/RockinChaos/Shiru",
-      "description": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": "589",
-      "forks": "39",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10971577?s=40&v=4",
-          "name": "RockinChaos",
-          "url": "https://github.com/RockinChaos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6506529?s=40&v=4",
-          "name": "ThaUnknown",
-          "url": "https://github.com/ThaUnknown"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23356924?s=40&v=4",
-          "name": "michiel-cox",
-          "url": "https://github.com/michiel-cox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38181667?s=40&v=4",
-          "name": "kyngs",
-          "url": "https://github.com/kyngs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10920253?s=40&v=4",
-          "name": "alanpoulain",
-          "url": "https://github.com/alanpoulain"
         }
       ]
     }

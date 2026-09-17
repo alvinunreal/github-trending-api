@@ -2,17 +2,54 @@
   "title": "GitHub Java Languages Weekly Trending",
   "description": "Weekly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "78,349",
+      "forks": "8,674",
+      "addStars": "2,919",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
+          "name": "ryanmkurtz",
+          "url": "https://github.com/ryanmkurtz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
+          "name": "ghidra1",
+          "url": "https://github.com/ghidra1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
+          "name": "dragonmacher",
+          "url": "https://github.com/dragonmacher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
+          "name": "nsadeveloper789",
+          "url": "https://github.com/nsadeveloper789"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4",
+          "name": "caheckman",
+          "url": "https://github.com/caheckman"
+        }
+      ]
+    },
     {
       "title": "sepinf-inc/IPED",
       "url": "https://github.com/sepinf-inc/IPED",
       "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,954",
-      "forks": "509",
-      "addStars": "202",
+      "stars": "2,964",
+      "forks": "510",
+      "addStars": "206",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7276994?s=40&v=4",
@@ -47,9 +84,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "33,728",
-      "forks": "2,057",
-      "addStars": "1,015",
+      "stars": "33,800",
+      "forks": "2,061",
+      "addStars": "1,052",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5897464?s=40&v=4",
@@ -79,135 +116,34 @@
       ]
     },
     {
-      "title": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "title": "Suwayomi/Suwayomi-Server",
+      "url": "https://github.com/Suwayomi/Suwayomi-Server",
+      "description": "A rewrite of Tachiyomi for the Desktop",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "77,219",
-      "forks": "8,529",
-      "addStars": "1,928",
+      "stars": "7,710",
+      "forks": "457",
+      "addStars": "127",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
-          "name": "ryanmkurtz",
-          "url": "https://github.com/ryanmkurtz"
+          "avatar": "https://avatars.githubusercontent.com/u/8719233?s=40&v=4",
+          "name": "AriaMoradi",
+          "url": "https://github.com/AriaMoradi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48333017?s=40&v=4",
-          "name": "ghidra1",
-          "url": "https://github.com/ghidra1"
+          "avatar": "https://avatars.githubusercontent.com/u/6090655?s=40&v=4",
+          "name": "Syer10",
+          "url": "https://github.com/Syer10"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48328597?s=40&v=4",
-          "name": "dragonmacher",
-          "url": "https://github.com/dragonmacher"
+          "avatar": "https://avatars.githubusercontent.com/u/50052685?s=40&v=4",
+          "name": "schroda",
+          "url": "https://github.com/schroda"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46821332?s=40&v=4",
-          "name": "nsadeveloper789",
-          "url": "https://github.com/nsadeveloper789"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48068198?s=40&v=4",
-          "name": "caheckman",
-          "url": "https://github.com/caheckman"
-        }
-      ]
-    },
-    {
-      "title": "Anuken/Mindustry",
-      "url": "https://github.com/Anuken/Mindustry",
-      "description": "The automation tower defense RTS",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "29,002",
-      "forks": "3,770",
-      "addStars": "114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10100000?s=40&v=4",
-          "name": "Anuken",
-          "url": "https://github.com/Anuken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3179271?s=40&v=4",
-          "name": "Quezler",
-          "url": "https://github.com/Quezler"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54301439?s=40&v=4",
-          "name": "MEEPofFaith",
-          "url": "https://github.com/MEEPofFaith"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2945013?s=40&v=4",
-          "name": "Epowerj",
-          "url": "https://github.com/Epowerj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        }
-      ]
-    },
-    {
-      "title": "00-Evan/shattered-pixel-dungeon",
-      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
-      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "6,532",
-      "forks": "1,618",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2347603?s=40&v=4",
-          "name": "00-Evan",
-          "url": "https://github.com/00-Evan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/594670?s=40&v=4",
-          "name": "watabou",
-          "url": "https://github.com/watabou"
-        }
-      ]
-    },
-    {
-      "title": "microg/GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "14,602",
-      "forks": "3,172",
-      "addStars": "103",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4",
-          "name": "mar-v-in",
-          "url": "https://github.com/mar-v-in"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4",
-          "name": "DaVinci9196",
-          "url": "https://github.com/DaVinci9196"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4",
-          "name": "fynngodau",
-          "url": "https://github.com/fynngodau"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4",
-          "name": "ale5000-git",
-          "url": "https://github.com/ale5000-git"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31284753?s=40&v=4",
-          "name": "p1gp1g",
-          "url": "https://github.com/p1gp1g"
+          "avatar": "https://avatars.githubusercontent.com/u/59023762?s=40&v=4",
+          "name": "cpiber",
+          "url": "https://github.com/cpiber"
         }
       ]
     },
@@ -217,9 +153,9 @@
       "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,019",
-      "forks": "883",
-      "addStars": "70",
+      "stars": "9,031",
+      "forks": "886",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124077501?s=40&v=4",
@@ -249,189 +185,14 @@
       ]
     },
     {
-      "title": "Suwayomi/Suwayomi-Server",
-      "url": "https://github.com/Suwayomi/Suwayomi-Server",
-      "description": "A rewrite of Tachiyomi for the Desktop",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "7,700",
-      "forks": "454",
-      "addStars": "127",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8719233?s=40&v=4",
-          "name": "AriaMoradi",
-          "url": "https://github.com/AriaMoradi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6090655?s=40&v=4",
-          "name": "Syer10",
-          "url": "https://github.com/Syer10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50052685?s=40&v=4",
-          "name": "schroda",
-          "url": "https://github.com/schroda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59023762?s=40&v=4",
-          "name": "cpiber",
-          "url": "https://github.com/cpiber"
-        }
-      ]
-    },
-    {
-      "title": "jeecgboot/JeecgBoot",
-      "url": "https://github.com/jeecgboot/JeecgBoot",
-      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "47,841",
-      "forks": "16,183",
-      "addStars": "155",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3162115?s=40&v=4",
-          "name": "zhangdaiscott",
-          "url": "https://github.com/zhangdaiscott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8199499?s=40&v=4",
-          "name": "liaozhiyang",
-          "url": "https://github.com/liaozhiyang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73815154?s=40&v=4",
-          "name": "xlh12306",
-          "url": "https://github.com/xlh12306"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39980681?s=40&v=4",
-          "name": "yann0001",
-          "url": "https://github.com/yann0001"
-        }
-      ]
-    },
-    {
-      "title": "ashishps1/awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "26,819",
-      "forks": "6,501",
-      "addStars": "156",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4",
-          "name": "ashishps1",
-          "url": "https://github.com/ashishps1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39495643?s=40&v=4",
-          "name": "mukulagarwal08",
-          "url": "https://github.com/mukulagarwal08"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70262922?s=40&v=4",
-          "name": "VishalMCF",
-          "url": "https://github.com/VishalMCF"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/127577540?s=40&v=4",
-          "name": "AnilKumarSingh9856",
-          "url": "https://github.com/AnilKumarSingh9856"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
-          "name": "Hardvan",
-          "url": "https://github.com/Hardvan"
-        }
-      ]
-    },
-    {
-      "title": "Mininglamp-OSS/octo-android",
-      "url": "https://github.com/Mininglamp-OSS/octo-android",
-      "description": "OCTO Android Client — Open-source enterprise IM",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "893",
-      "forks": "121",
-      "addStars": "109",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7678334?s=40&v=4",
-          "name": "yujiawei",
-          "url": "https://github.com/yujiawei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17797708?s=40&v=4",
-          "name": "No8blackball",
-          "url": "https://github.com/No8blackball"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/121083647?s=40&v=4",
-          "name": "mzanalyticst",
-          "url": "https://github.com/mzanalyticst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39320777?s=40&v=4",
-          "name": "lml2468",
-          "url": "https://github.com/lml2468"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "92,304",
-      "forks": "8,548",
-      "addStars": "723",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
-          "name": "Frooodle",
-          "url": "https://github.com/Frooodle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
-          "name": "Ludy87",
-          "url": "https://github.com/Ludy87"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
-          "name": "jbrunton96",
-          "url": "https://github.com/jbrunton96"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74901996?s=40&v=4",
-          "name": "reecebrowne",
-          "url": "https://github.com/reecebrowne"
-        }
-      ]
-    },
-    {
       "title": "keycloak/keycloak",
       "url": "https://github.com/keycloak/keycloak",
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "36,802",
-      "forks": "8,936",
-      "addStars": "135",
+      "stars": "36,832",
+      "forks": "8,941",
+      "addStars": "136",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
@@ -456,172 +217,98 @@
       ]
     },
     {
-      "title": "agentscope-ai/agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
+      "title": "spring-projects/spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,640",
-      "forks": "1,369",
-      "addStars": "125",
+      "stars": "81,459",
+      "forks": "42,420",
+      "addStars": "59",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9292748?s=40&v=4",
-          "name": "AlbumenJ",
-          "url": "https://github.com/AlbumenJ"
+          "avatar": "https://avatars.githubusercontent.com/u/914682?s=40&v=4",
+          "name": "wilkinsona",
+          "url": "https://github.com/wilkinsona"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18097545?s=40&v=4",
-          "name": "chickenlj",
-          "url": "https://github.com/chickenlj"
+          "avatar": "https://avatars.githubusercontent.com/u/490484?s=40&v=4",
+          "name": "snicoll",
+          "url": "https://github.com/snicoll"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38268859?s=40&v=4",
-          "name": "LearningGp",
-          "url": "https://github.com/LearningGp"
+          "avatar": "https://avatars.githubusercontent.com/u/519772?s=40&v=4",
+          "name": "philwebb",
+          "url": "https://github.com/philwebb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109072362?s=40&v=4",
-          "name": "jujn",
-          "url": "https://github.com/jujn"
+          "avatar": "https://avatars.githubusercontent.com/u/98899556?s=40&v=4",
+          "name": "mhalbritter",
+          "url": "https://github.com/mhalbritter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1761408?s=40&v=4",
+          "name": "mbhave",
+          "url": "https://github.com/mbhave"
         }
       ]
     },
     {
-      "title": "bazelbuild/bazel",
-      "url": "https://github.com/bazelbuild/bazel",
-      "description": "a fast, scalable, multi-language and extensible build system",
+      "title": "00-Evan/shattered-pixel-dungeon",
+      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "25,856",
-      "forks": "4,608",
-      "addStars": "42",
+      "stars": "6,538",
+      "forks": "1,617",
+      "addStars": "47",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3524818?s=40&v=4",
-          "name": "lberki",
-          "url": "https://github.com/lberki"
+          "avatar": "https://avatars.githubusercontent.com/u/2347603?s=40&v=4",
+          "name": "00-Evan",
+          "url": "https://github.com/00-Evan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/326527?s=40&v=4",
-          "name": "katre",
-          "url": "https://github.com/katre"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/478458?s=40&v=4",
-          "name": "cushon",
-          "url": "https://github.com/cushon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10134896?s=40&v=4",
-          "name": "janakdr",
-          "url": "https://github.com/janakdr"
+          "avatar": "https://avatars.githubusercontent.com/u/594670?s=40&v=4",
+          "name": "watabou",
+          "url": "https://github.com/watabou"
         }
       ]
     },
     {
-      "title": "LawnchairLauncher/lawnchair",
-      "url": "https://github.com/LawnchairLauncher/lawnchair",
-      "description": "No clever tagline needed.",
+      "title": "GeyserMC/Geyser",
+      "url": "https://github.com/GeyserMC/Geyser",
+      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,534",
-      "forks": "1,674",
-      "addStars": "64",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/672456?s=40&v=4",
-          "name": "sunnygoyal",
-          "url": "https://github.com/sunnygoyal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29541356?s=40&v=4",
-          "name": "alexchau-google",
-          "url": "https://github.com/alexchau-google"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1196024?s=40&v=4",
-          "name": "vinitnayak7",
-          "url": "https://github.com/vinitnayak7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/440407?s=40&v=4",
-          "name": "mikejurka",
-          "url": "https://github.com/mikejurka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67072250?s=40&v=4",
-          "name": "victortulias",
-          "url": "https://github.com/victortulias"
-        }
-      ]
-    },
-    {
-      "title": "apache/fineract",
-      "url": "https://github.com/apache/fineract",
-      "description": "Apache Fineract",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "2,480",
-      "forks": "2,767",
+      "stars": "5,792",
+      "forks": "883",
       "addStars": "19",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/542697?s=40&v=4",
-          "name": "vishwasbabu",
-          "url": "https://github.com/vishwasbabu"
+          "avatar": "https://avatars.githubusercontent.com/u/20743703?s=40&v=4",
+          "name": "Camotoy",
+          "url": "https://github.com/Camotoy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7602740?s=40&v=4",
-          "name": "adamsaghy",
-          "url": "https://github.com/adamsaghy"
+          "avatar": "https://avatars.githubusercontent.com/u/105284508?s=40&v=4",
+          "name": "onebeastchris",
+          "url": "https://github.com/onebeastchris"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1131294?s=40&v=4",
-          "name": "keithwoodlock",
-          "url": "https://github.com/keithwoodlock"
+          "avatar": "https://avatars.githubusercontent.com/u/29153871?s=40&v=4",
+          "name": "Redned235",
+          "url": "https://github.com/Redned235"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
+          "avatar": "https://avatars.githubusercontent.com/u/5401186?s=40&v=4",
+          "name": "rtm516",
+          "url": "https://github.com/rtm516"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1265866?s=40&v=4",
-          "name": "johnw65",
-          "url": "https://github.com/johnw65"
-        }
-      ]
-    },
-    {
-      "title": "iBotPeaches/Apktool",
-      "url": "https://github.com/iBotPeaches/Apktool",
-      "description": "A tool for reverse engineering Android apk files",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "25,574",
-      "forks": "4,008",
-      "addStars": "74",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/611784?s=40&v=4",
-          "name": "iBotPeaches",
-          "url": "https://github.com/iBotPeaches"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/405138?s=40&v=4",
-          "name": "broo2s",
-          "url": "https://github.com/broo2s"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8811086?s=40&v=4",
-          "name": "IgorEisberg",
-          "url": "https://github.com/IgorEisberg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106383?s=40&v=4",
-          "name": "JesusFreke",
-          "url": "https://github.com/JesusFreke"
+          "avatar": "https://avatars.githubusercontent.com/u/116838833?s=40&v=4",
+          "name": "eclipseisoffline",
+          "url": "https://github.com/eclipseisoffline"
         }
       ]
     },
@@ -631,9 +318,9 @@
       "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "15,919",
-      "forks": "3,945",
-      "addStars": "52",
+      "stars": "15,943",
+      "forks": "3,949",
+      "addStars": "48",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2899462?s=40&v=4",
@@ -663,88 +350,66 @@
       ]
     },
     {
-      "title": "adityatandon15/Low-Level-Design-Course",
-      "url": "https://github.com/adityatandon15/Low-Level-Design-Course",
-      "description": "All Code of LLD Playlist",
+      "title": "iBotPeaches/Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,274",
-      "forks": "873",
-      "addStars": "30",
+      "stars": "25,589",
+      "forks": "4,009",
+      "addStars": "74",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40351467?s=40&v=4",
-          "name": "adityatandon15",
-          "url": "https://github.com/adityatandon15"
+          "avatar": "https://avatars.githubusercontent.com/u/611784?s=40&v=4",
+          "name": "iBotPeaches",
+          "url": "https://github.com/iBotPeaches"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/165943559?s=40&v=4",
-          "name": "Sdunga1",
-          "url": "https://github.com/Sdunga1"
+          "avatar": "https://avatars.githubusercontent.com/u/405138?s=40&v=4",
+          "name": "broo2s",
+          "url": "https://github.com/broo2s"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8811086?s=40&v=4",
+          "name": "IgorEisberg",
+          "url": "https://github.com/IgorEisberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106383?s=40&v=4",
+          "name": "JesusFreke",
+          "url": "https://github.com/JesusFreke"
         }
       ]
     },
     {
-      "title": "ashishps1/awesome-system-design-resources",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "title": "bazelbuild/bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "41,461",
-      "forks": "8,728",
-      "addStars": "202",
+      "stars": "25,857",
+      "forks": "4,613",
+      "addStars": "45",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8646889?s=40&v=4",
-          "name": "ashishps1",
-          "url": "https://github.com/ashishps1"
+          "avatar": "https://avatars.githubusercontent.com/u/3524818?s=40&v=4",
+          "name": "lberki",
+          "url": "https://github.com/lberki"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118598641?s=40&v=4",
-          "name": "systemdesign42",
-          "url": "https://github.com/systemdesign42"
+          "avatar": "https://avatars.githubusercontent.com/u/326527?s=40&v=4",
+          "name": "katre",
+          "url": "https://github.com/katre"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19947758?s=40&v=4",
-          "name": "ajitzero",
-          "url": "https://github.com/ajitzero"
+          "avatar": "https://avatars.githubusercontent.com/u/478458?s=40&v=4",
+          "name": "cushon",
+          "url": "https://github.com/cushon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/89011337?s=40&v=4",
-          "name": "abdulrahim2002",
-          "url": "https://github.com/abdulrahim2002"
-        }
-      ]
-    },
-    {
-      "title": "termux/termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "60,889",
-      "forks": "7,542",
-      "addStars": "370",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
-          "name": "agnostic-apollo",
-          "url": "https://github.com/agnostic-apollo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
-          "name": "fornwall",
-          "url": "https://github.com/fornwall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
-          "name": "Grimler91",
-          "url": "https://github.com/Grimler91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
-          "name": "maoabc",
-          "url": "https://github.com/maoabc"
+          "avatar": "https://avatars.githubusercontent.com/u/10134896?s=40&v=4",
+          "name": "janakdr",
+          "url": "https://github.com/janakdr"
         }
       ]
     },
@@ -754,9 +419,9 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,334",
-      "forks": "193",
-      "addStars": "33",
+      "stars": "1,337",
+      "forks": "194",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1067755?s=40&v=4",
@@ -782,6 +447,277 @@
           "avatar": "https://avatars.githubusercontent.com/u/59016399?s=40&v=4",
           "name": "quocvuong1105",
           "url": "https://github.com/quocvuong1105"
+        }
+      ]
+    },
+    {
+      "title": "AndroidIDEOfficial/AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "3,118",
+      "forks": "639",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46931079?s=40&v=4",
+          "name": "itsaky",
+          "url": "https://github.com/itsaky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43380144?s=40&v=4",
+          "name": "MrIkso",
+          "url": "https://github.com/MrIkso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75083264?s=40&v=4",
+          "name": "deepkrg",
+          "url": "https://github.com/deepkrg"
+        }
+      ]
+    },
+    {
+      "title": "apache/rocketmq",
+      "url": "https://github.com/apache/rocketmq",
+      "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "22,601",
+      "forks": "12,013",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1527648?s=40&v=4",
+          "name": "vintagewang",
+          "url": "https://github.com/vintagewang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21963954?s=40&v=4",
+          "name": "RongtongJin",
+          "url": "https://github.com/RongtongJin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3961183?s=40&v=4",
+          "name": "zhouxinyu",
+          "url": "https://github.com/zhouxinyu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20906038?s=40&v=4",
+          "name": "drpmma",
+          "url": "https://github.com/drpmma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5009624?s=40&v=4",
+          "name": "YangJodie",
+          "url": "https://github.com/YangJodie"
+        }
+      ]
+    },
+    {
+      "title": "netty/netty",
+      "url": "https://github.com/netty/netty",
+      "description": "Netty project - an event-driven asynchronous network application framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "35,062",
+      "forks": "16,269",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/439362?s=40&v=4",
+          "name": "normanmaurer",
+          "url": "https://github.com/normanmaurer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173918?s=40&v=4",
+          "name": "trustin",
+          "url": "https://github.com/trustin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7993?s=40&v=4",
+          "name": "chrisvest",
+          "url": "https://github.com/chrisvest"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7562868?s=40&v=4",
+          "name": "Scottmitch",
+          "url": "https://github.com/Scottmitch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/78738768?s=40&v=4",
+          "name": "netty-project-bot",
+          "url": "https://github.com/netty-project-bot"
+        }
+      ]
+    },
+    {
+      "title": "microg/GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "14,609",
+      "forks": "3,181",
+      "addStars": "100",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/994036?s=40&v=4",
+          "name": "mar-v-in",
+          "url": "https://github.com/mar-v-in"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/150454414?s=40&v=4",
+          "name": "DaVinci9196",
+          "url": "https://github.com/DaVinci9196"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16943720?s=40&v=4",
+          "name": "fynngodau",
+          "url": "https://github.com/fynngodau"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15793015?s=40&v=4",
+          "name": "ale5000-git",
+          "url": "https://github.com/ale5000-git"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31284753?s=40&v=4",
+          "name": "p1gp1g",
+          "url": "https://github.com/p1gp1g"
+        }
+      ]
+    },
+    {
+      "title": "PaperMC/Paper",
+      "url": "https://github.com/PaperMC/Paper",
+      "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "12,648",
+      "forks": "3,537",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15055071?s=40&v=4",
+          "name": "Machine-Maker",
+          "url": "https://github.com/Machine-Maker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58008?s=40&v=4",
+          "name": "aikar",
+          "url": "https://github.com/aikar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1254957?s=40&v=4",
+          "name": "zachbr",
+          "url": "https://github.com/zachbr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28825609?s=40&v=4",
+          "name": "kennytv",
+          "url": "https://github.com/kennytv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1228900?s=40&v=4",
+          "name": "electronicboy",
+          "url": "https://github.com/electronicboy"
+        }
+      ]
+    },
+    {
+      "title": "quarkusio/quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "15,892",
+      "forks": "3,300",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
+          "name": "gsmet",
+          "url": "https://github.com/gsmet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
+          "name": "geoand",
+          "url": "https://github.com/geoand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54133?s=40&v=4",
+          "name": "gastaldi",
+          "url": "https://github.com/gastaldi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/328571?s=40&v=4",
+          "name": "stuartwdouglas",
+          "url": "https://github.com/stuartwdouglas"
+        }
+      ]
+    },
+    {
+      "title": "JabRef/jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "4,737",
+      "forks": "3,579",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1366654?s=40&v=4",
+          "name": "koppor",
+          "url": "https://github.com/koppor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/320228?s=40&v=4",
+          "name": "Siedlerchr",
+          "url": "https://github.com/Siedlerchr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5037600?s=40&v=4",
+          "name": "tobiasdiez",
+          "url": "https://github.com/tobiasdiez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2141507?s=40&v=4",
+          "name": "stefan-kolb",
+          "url": "https://github.com/stefan-kolb"
+        }
+      ]
+    },
+    {
+      "title": "fish2018/webhtv",
+      "url": "https://github.com/fish2018/webhtv",
+      "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "1,463",
+      "forks": "424",
+      "addStars": "77",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/218780352?s=40&v=4",
+          "name": "jhengazuki",
+          "url": "https://github.com/jhengazuki"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3471963?s=40&v=4",
+          "name": "FongMi",
+          "url": "https://github.com/FongMi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34814105?s=40&v=4",
+          "name": "fish2018",
+          "url": "https://github.com/fish2018"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5087074?s=40&v=4",
+          "name": "IsayIsee",
+          "url": "https://github.com/IsayIsee"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Monthly Trending",
   "description": "Monthly Trending of Clojure Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "unclebob/swarm-forge",
@@ -10,9 +10,9 @@
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "3,894",
-      "forks": "384",
-      "addStars": "1,462",
+      "stars": "3,900",
+      "forks": "385",
+      "addStars": "1,460",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36901?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "49,285",
-      "forks": "6,822",
-      "addStars": "553",
+      "stars": "49,309",
+      "forks": "6,824",
+      "addStars": "563",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1455846?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "44,934",
-      "forks": "2,812",
-      "addStars": "557",
+      "stars": "44,952",
+      "forks": "2,814",
+      "addStars": "555",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/479169?s=40&v=4",
@@ -111,51 +111,14 @@
       ]
     },
     {
-      "title": "tonsky/FiraCode",
-      "url": "https://github.com/tonsky/FiraCode",
-      "description": "Free monospaced font with programming ligatures",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": "82,019",
-      "forks": "3,186",
-      "addStars": "184",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/285292?s=40&v=4",
-          "name": "tonsky",
-          "url": "https://github.com/tonsky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7355414?s=40&v=4",
-          "name": "thundernixon",
-          "url": "https://github.com/thundernixon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&v=4",
-          "name": "jsoref",
-          "url": "https://github.com/jsoref"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/381361?s=40&v=4",
-          "name": "joshka",
-          "url": "https://github.com/joshka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/261579?s=40&v=4",
-          "name": "davelab6",
-          "url": "https://github.com/davelab6"
-        }
-      ]
-    },
-    {
       "title": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "60,044",
-      "forks": "4,102",
-      "addStars": "1,488",
+      "stars": "60,086",
+      "forks": "4,108",
+      "addStars": "1,434",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/843689?s=40&v=4",
@@ -185,12 +148,86 @@
       ]
     },
     {
+      "title": "tonsky/FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "82,020",
+      "forks": "3,186",
+      "addStars": "181",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/285292?s=40&v=4",
+          "name": "tonsky",
+          "url": "https://github.com/tonsky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7355414?s=40&v=4",
+          "name": "thundernixon",
+          "url": "https://github.com/thundernixon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2119212?s=40&v=4",
+          "name": "jsoref",
+          "url": "https://github.com/jsoref"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/381361?s=40&v=4",
+          "name": "joshka",
+          "url": "https://github.com/joshka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/261579?s=40&v=4",
+          "name": "davelab6",
+          "url": "https://github.com/davelab6"
+        }
+      ]
+    },
+    {
+      "title": "status-im/status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "4,021",
+      "forks": "989",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2364994?s=40&v=4",
+          "name": "rasom",
+          "url": "https://github.com/rasom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11790366?s=40&v=4",
+          "name": "flexsurfer",
+          "url": "https://github.com/flexsurfer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2212681?s=40&v=4",
+          "name": "jakubgs",
+          "url": "https://github.com/jakubgs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1017008?s=40&v=4",
+          "name": "cammellos",
+          "url": "https://github.com/cammellos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4557972?s=40&v=4",
+          "name": "churik",
+          "url": "https://github.com/churik"
+        }
+      ]
+    },
+    {
       "title": "logseq/og",
       "url": "https://github.com/logseq/og",
       "description": "Logseq og (file version)",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "291",
+      "stars": "292",
       "forks": "51",
       "addStars": "62",
       "contributors": [
@@ -218,43 +255,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/584378?s=40&v=4",
           "name": "pengx17",
           "url": "https://github.com/pengx17"
-        }
-      ]
-    },
-    {
-      "title": "status-im/status-legacy",
-      "url": "https://github.com/status-im/status-legacy",
-      "description": "a free (libre) open source, mobile OS for Ethereum",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": "4,021",
-      "forks": "988",
-      "addStars": "5",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2364994?s=40&v=4",
-          "name": "rasom",
-          "url": "https://github.com/rasom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11790366?s=40&v=4",
-          "name": "flexsurfer",
-          "url": "https://github.com/flexsurfer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2212681?s=40&v=4",
-          "name": "jakubgs",
-          "url": "https://github.com/jakubgs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1017008?s=40&v=4",
-          "name": "cammellos",
-          "url": "https://github.com/cammellos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4557972?s=40&v=4",
-          "name": "churik",
-          "url": "https://github.com/churik"
         }
       ]
     }

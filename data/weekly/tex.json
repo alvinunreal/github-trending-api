@@ -2,81 +2,17 @@
   "title": "GitHub Tex Languages Weekly Trending",
   "description": "Weekly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
-    {
-      "title": "latexstudio/CUMCMThesis",
-      "url": "https://github.com/latexstudio/CUMCMThesis",
-      "description": "全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2026 年格式",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": "1,414",
-      "forks": "243",
-      "addStars": "174",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2612876?s=40&v=4",
-          "name": "latexstudio",
-          "url": "https://github.com/latexstudio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38849270?s=40&v=4",
-          "name": "CamuseCao",
-          "url": "https://github.com/CamuseCao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/134639741?s=40&v=4",
-          "name": "myhsia",
-          "url": "https://github.com/myhsia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1196941?s=40&v=4",
-          "name": "Abreto",
-          "url": "https://github.com/Abreto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37971080?s=40&v=4",
-          "name": "OsbertWang",
-          "url": "https://github.com/OsbertWang"
-        }
-      ]
-    },
-    {
-      "title": "mikubaka88/CCFA-Skills",
-      "url": "https://github.com/mikubaka88/CCFA-Skills",
-      "description": "A skill family for shaping the research storyline of CCF-A papers.",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": "2,501",
-      "forks": "115",
-      "addStars": "174",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/129048682?s=40&v=4",
-          "name": "mikubaka88",
-          "url": "https://github.com/mikubaka88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52696979?s=40&v=4",
-          "name": "SimonZeng7108",
-          "url": "https://github.com/SimonZeng7108"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
     {
       "title": "zhanwen/MathModel",
       "url": "https://github.com/zhanwen/MathModel",
       "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "12,005",
-      "forks": "2,311",
-      "addStars": "259",
+      "stars": "12,029",
+      "forks": "2,312",
+      "addStars": "232",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11382789?s=40&v=4",
@@ -106,14 +42,83 @@
       ]
     },
     {
+      "title": "mikubaka88/CCFA-Skills",
+      "url": "https://github.com/mikubaka88/CCFA-Skills",
+      "description": "A skill family for shaping the research storyline of CCF-A papers.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "2,595",
+      "forks": "116",
+      "addStars": "168",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129048682?s=40&v=4",
+          "name": "mikubaka88",
+          "url": "https://github.com/mikubaka88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52696979?s=40&v=4",
+          "name": "SimonZeng7108",
+          "url": "https://github.com/SimonZeng7108"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234719084?s=40&v=4",
+          "name": "JiayuDing031020",
+          "url": "https://github.com/JiayuDing031020"
+        }
+      ]
+    },
+    {
+      "title": "latexstudio/CUMCMThesis",
+      "url": "https://github.com/latexstudio/CUMCMThesis",
+      "description": "全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2026 年格式",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "1,416",
+      "forks": "243",
+      "addStars": "129",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2612876?s=40&v=4",
+          "name": "latexstudio",
+          "url": "https://github.com/latexstudio"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38849270?s=40&v=4",
+          "name": "CamuseCao",
+          "url": "https://github.com/CamuseCao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/134639741?s=40&v=4",
+          "name": "myhsia",
+          "url": "https://github.com/myhsia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1196941?s=40&v=4",
+          "name": "Abreto",
+          "url": "https://github.com/Abreto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37971080?s=40&v=4",
+          "name": "OsbertWang",
+          "url": "https://github.com/OsbertWang"
+        }
+      ]
+    },
+    {
       "title": "billryan/resume",
       "url": "https://github.com/billryan/resume",
       "description": "An elegant \\LaTeX\\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "11,433",
-      "forks": "2,872",
-      "addStars": "35",
+      "stars": "11,437",
+      "forks": "2,870",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1292567?s=40&v=4",
@@ -148,9 +153,9 @@
       "description": "Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,416",
-      "forks": "1,943",
-      "addStars": "6",
+      "stars": "6,418",
+      "forks": "1,944",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5965649?s=40&v=4",
@@ -176,38 +181,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2816635?s=40&v=4",
           "name": "ateucher",
           "url": "https://github.com/ateucher"
-        }
-      ]
-    },
-    {
-      "title": "posquit0/Awesome-CV",
-      "url": "https://github.com/posquit0/Awesome-CV",
-      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": "28,509",
-      "forks": "5,293",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1484002?s=40&v=4",
-          "name": "posquit0",
-          "url": "https://github.com/posquit0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3946014?s=40&v=4",
-          "name": "OJFord",
-          "url": "https://github.com/OJFord"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/690051?s=40&v=4",
-          "name": "nitrogl",
-          "url": "https://github.com/nitrogl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1300336?s=40&v=4",
-          "name": "dcsim",
-          "url": "https://github.com/dcsim"
         }
       ]
     },
@@ -249,76 +222,71 @@
       ]
     },
     {
-      "title": "sb2nov/resume",
-      "url": "https://github.com/sb2nov/resume",
-      "description": "Software developer resume in Latex",
+      "title": "posquit0/Awesome-CV",
+      "url": "https://github.com/posquit0/Awesome-CV",
+      "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "6,988",
-      "forks": "1,885",
-      "addStars": "18",
+      "stars": "28,518",
+      "forks": "5,293",
+      "addStars": "55",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
-          "name": "sb2nov",
-          "url": "https://github.com/sb2nov"
+          "avatar": "https://avatars.githubusercontent.com/u/1484002?s=40&v=4",
+          "name": "posquit0",
+          "url": "https://github.com/posquit0"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&v=4",
-          "name": "TheColorDarkBlue",
-          "url": "https://github.com/TheColorDarkBlue"
+          "avatar": "https://avatars.githubusercontent.com/u/3946014?s=40&v=4",
+          "name": "OJFord",
+          "url": "https://github.com/OJFord"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/947595?s=40&v=4",
-          "name": "dearlordylord",
-          "url": "https://github.com/dearlordylord"
+          "avatar": "https://avatars.githubusercontent.com/u/690051?s=40&v=4",
+          "name": "nitrogl",
+          "url": "https://github.com/nitrogl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1228142?s=40&v=4",
-          "name": "greenmoon55",
-          "url": "https://github.com/greenmoon55"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6411209?s=40&v=4",
-          "name": "ygnr",
-          "url": "https://github.com/ygnr"
+          "avatar": "https://avatars.githubusercontent.com/u/1300336?s=40&v=4",
+          "name": "dcsim",
+          "url": "https://github.com/dcsim"
         }
       ]
     },
     {
-      "title": "lib-pku/libpku",
-      "url": "https://github.com/lib-pku/libpku",
-      "description": "贵校课程资料民间整理",
+      "title": "zcash/zips",
+      "url": "https://github.com/zcash/zips",
+      "description": "Zcash Improvement Proposals",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "34,002",
-      "forks": "8,194",
-      "addStars": "39",
+      "stars": "306",
+      "forks": "187",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45264158?s=40&v=4",
-          "name": "librarian-pku",
-          "url": "https://github.com/librarian-pku"
+          "avatar": "https://avatars.githubusercontent.com/u/643204?s=40&v=4",
+          "name": "daira",
+          "url": "https://github.com/daira"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35071593?s=40&v=4",
-          "name": "littlesulley",
-          "url": "https://github.com/littlesulley"
+          "avatar": "https://avatars.githubusercontent.com/u/4993799?s=40&v=4",
+          "name": "str4d",
+          "url": "https://github.com/str4d"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47054269?s=40&v=4",
-          "name": "SyzygyYuan",
-          "url": "https://github.com/SyzygyYuan"
+          "avatar": "https://avatars.githubusercontent.com/u/27591?s=40&v=4",
+          "name": "nuttycom",
+          "url": "https://github.com/nuttycom"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44885400?s=40&v=4",
-          "name": "colizz",
-          "url": "https://github.com/colizz"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/31237954?s=40&v=4",
-          "name": "brenner8023",
-          "url": "https://github.com/brenner8023"
+          "avatar": "https://avatars.githubusercontent.com/u/46618816?s=40&v=4",
+          "name": "vivek-arte",
+          "url": "https://github.com/vivek-arte"
         }
       ]
     },
@@ -329,8 +297,8 @@
       "language": "TeX",
       "languageColor": "#3D6117",
       "stars": "4,817",
-      "forks": "864",
-      "addStars": "10",
+      "forks": "865",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57188?s=40&v=4",
@@ -360,51 +328,14 @@
       ]
     },
     {
-      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "Introduction to Autonomous Robots",
-      "language": "TeX",
-      "languageColor": "#3D6117",
-      "stars": "3,514",
-      "forks": "778",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4378663?s=40&v=4",
-          "name": "alecive",
-          "url": "https://github.com/alecive"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4449777?s=40&v=4",
-          "name": "curobotlab",
-          "url": "https://github.com/curobotlab"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/399192?s=40&v=4",
-          "name": "correll",
-          "url": "https://github.com/correll"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1191374?s=40&v=4",
-          "name": "hayesbh",
-          "url": "https://github.com/hayesbh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13409495?s=40&v=4",
-          "name": "AlWiVo",
-          "url": "https://github.com/AlWiVo"
-        }
-      ]
-    },
-    {
       "title": "HarisIqbal88/PlotNeuralNet",
       "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "24,977",
-      "forks": "3,062",
-      "addStars": "16",
+      "stars": "24,980",
+      "forks": "3,061",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17570785?s=40&v=4",
@@ -430,6 +361,80 @@
           "avatar": "https://avatars.githubusercontent.com/u/9316076?s=40&v=4",
           "name": "Brandon-HY-Lin",
           "url": "https://github.com/Brandon-HY-Lin"
+        }
+      ]
+    },
+    {
+      "title": "sb2nov/resume",
+      "url": "https://github.com/sb2nov/resume",
+      "description": "Software developer resume in Latex",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "6,991",
+      "forks": "1,884",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1517779?s=40&v=4",
+          "name": "sb2nov",
+          "url": "https://github.com/sb2nov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/146706527?s=40&v=4",
+          "name": "TheColorDarkBlue",
+          "url": "https://github.com/TheColorDarkBlue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/947595?s=40&v=4",
+          "name": "dearlordylord",
+          "url": "https://github.com/dearlordylord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1228142?s=40&v=4",
+          "name": "greenmoon55",
+          "url": "https://github.com/greenmoon55"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6411209?s=40&v=4",
+          "name": "ygnr",
+          "url": "https://github.com/ygnr"
+        }
+      ]
+    },
+    {
+      "title": "latex3/latex2e",
+      "url": "https://github.com/latex3/latex2e",
+      "description": "The LaTeX2e kernel",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "2,468",
+      "forks": "318",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1062981?s=40&v=4",
+          "name": "FrankMittelbach",
+          "url": "https://github.com/FrankMittelbach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/654518?s=40&v=4",
+          "name": "josephwright",
+          "url": "https://github.com/josephwright"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1268738?s=40&v=4",
+          "name": "davidcarlisle",
+          "url": "https://github.com/davidcarlisle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12678598?s=40&v=4",
+          "name": "PhelypeOleinik",
+          "url": "https://github.com/PhelypeOleinik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4047173?s=40&v=4",
+          "name": "u-fischer",
+          "url": "https://github.com/u-fischer"
         }
       ]
     }

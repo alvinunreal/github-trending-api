@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>E3SM-Project/E3SM</title>
       <link>https://github.com/E3SM-Project/E3SM</link>
@@ -50,8 +50,8 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>969</stars>
-      <forks>539</forks>
-      <addStars>6</addStars>
+      <forks>540</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
@@ -87,7 +87,7 @@
       <guid>https://github.com/firemodels/fds</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>875</stars>
+      <stars>876</stars>
       <forks>689</forks>
       <addStars>4</addStars>
       <contributors>
@@ -127,7 +127,7 @@
       <languageColor>#4d41b1</languageColor>
       <stars>1,761</stars>
       <forks>882</forks>
-      <addStars>8</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12666234?s=40&amp;v=4</avatar>
@@ -164,7 +164,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>406</stars>
-      <forks>760</forks>
+      <forks>762</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -201,9 +201,9 @@
       <guid>https://github.com/ElmerCSC/elmerfem</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,706</stars>
-      <forks>396</forks>
-      <addStars>7</addStars>
+      <stars>1,708</stars>
+      <forks>397</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6664192?s=40&amp;v=4</avatar>
@@ -239,7 +239,7 @@
       <guid>https://github.com/cp2k/cp2k</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,207</stars>
+      <stars>1,208</stars>
       <forks>500</forks>
       <addStars>6</addStars>
       <contributors>
@@ -267,6 +267,44 @@
           <avatar>https://avatars.githubusercontent.com/u/16081490?s=40&amp;v=4</avatar>
           <name>juerghutter</name>
           <url>https://github.com/juerghutter</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MFlowCode/MFC</title>
+      <link>https://github.com/MFlowCode/MFC</link>
+      <description>Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs</description>
+      <guid>https://github.com/MFlowCode/MFC</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>420</stars>
+      <forks>174</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39740593?s=40&amp;v=4</avatar>
+          <name>sbryngelson</name>
+          <url>https://github.com/sbryngelson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24208000?s=40&amp;v=4</avatar>
+          <name>henryleberre</name>
+          <url>https://github.com/henryleberre</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48168887?s=40&amp;v=4</avatar>
+          <name>wilfonba</name>
+          <url>https://github.com/wilfonba</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/98496194?s=40&amp;v=4</avatar>
+          <name>haochey</name>
+          <url>https://github.com/haochey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/187532398?s=40&amp;v=4</avatar>
+          <name>danieljvickers</name>
+          <url>https://github.com/danieljvickers</url>
         </contributor>
       </contributors>
     </item>

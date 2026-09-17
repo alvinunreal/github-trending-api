@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>anthropics/claude-plugins-community</title>
       <link>https://github.com/anthropics/claude-plugins-community</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/claude-plugins-community</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,120</stars>
-      <forks>302</forks>
-      <addStars>3,784</addStars>
+      <stars>4,184</stars>
+      <forks>305</forks>
+      <addStars>3,853</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/238056179?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,584</stars>
-      <forks>2,711</forks>
-      <addStars>25,489</addStars>
+      <stars>47,343</stars>
+      <forks>2,761</forks>
+      <addStars>25,944</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32200675?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,650</stars>
-      <forks>3,752</forks>
-      <addStars>20,417</addStars>
+      <stars>32,478</stars>
+      <forks>3,850</forks>
+      <addStars>21,946</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -114,53 +114,15 @@
       </contributors>
     </item>
     <item>
-      <title>volcengine/OpenViking</title>
-      <link>https://github.com/volcengine/OpenViking</link>
-      <description>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</description>
-      <guid>https://github.com/volcengine/OpenViking</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>37,663</stars>
-      <forks>2,907</forks>
-      <addStars>9,114</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4</avatar>
-          <name>qin-ctx</name>
-          <url>https://github.com/qin-ctx</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4</avatar>
-          <name>ZaynJarvis</name>
-          <url>https://github.com/ZaynJarvis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4</avatar>
-          <name>zhoujh01</name>
-          <url>https://github.com/zhoujh01</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4</avatar>
-          <name>r266-tech</name>
-          <url>https://github.com/r266-tech</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>google-research/timesfm</title>
       <link>https://github.com/google-research/timesfm</link>
       <description>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.</description>
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,675</stars>
-      <forks>3,131</forks>
-      <addStars>5,202</addStars>
+      <stars>32,980</stars>
+      <forks>3,175</forks>
+      <addStars>5,249</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4</avatar>
@@ -190,48 +152,15 @@
       </contributors>
     </item>
     <item>
-      <title>K-Dense-AI/scientific-agent-skills</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
-      <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>45,159</stars>
-      <forks>4,095</forks>
-      <addStars>11,662</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
-          <name>TKassis</name>
-          <url>https://github.com/TKassis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4</avatar>
-          <name>borealBytes</name>
-          <url>https://github.com/borealBytes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>jingyaogong/minimind</title>
       <link>https://github.com/jingyaogong/minimind</link>
       <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,276</stars>
-      <forks>7,967</forks>
-      <addStars>6,660</addStars>
+      <stars>61,458</stars>
+      <forks>7,999</forks>
+      <addStars>6,769</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4</avatar>
@@ -261,15 +190,147 @@
       </contributors>
     </item>
     <item>
+      <title>securo-finance/securo</title>
+      <link>https://github.com/securo-finance/securo</link>
+      <description>Open-source personal finance manager. Self-hosted, privacy-first.</description>
+      <guid>https://github.com/securo-finance/securo</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>3,503</stars>
+      <forks>443</forks>
+      <addStars>1,897</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5116181?s=40&amp;v=4</avatar>
+          <name>tassionoronha</name>
+          <url>https://github.com/tassionoronha</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/90114586?s=40&amp;v=4</avatar>
+          <name>ADolkun</name>
+          <url>https://github.com/ADolkun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/225529?s=40&amp;v=4</avatar>
+          <name>panga</name>
+          <url>https://github.com/panga</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>K-Dense-AI/scientific-agent-skills</title>
+      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
+      <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>45,357</stars>
+      <forks>4,113</forks>
+      <addStars>11,782</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
+          <name>TKassis</name>
+          <url>https://github.com/TKassis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4</avatar>
+          <name>borealBytes</name>
+          <url>https://github.com/borealBytes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>p-e-w/heretic</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <description>Fully automatic censorship removal for language models</description>
+      <guid>https://github.com/p-e-w/heretic</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>31,673</stars>
+      <forks>3,533</forks>
+      <addStars>3,996</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4</avatar>
+          <name>p-e-w</name>
+          <url>https://github.com/p-e-w</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/175500353?s=40&amp;v=4</avatar>
+          <name>Vinay-Umrethe</name>
+          <url>https://github.com/Vinay-Umrethe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4</avatar>
+          <name>anrp</name>
+          <url>https://github.com/anrp</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4</avatar>
+          <name>spikymoth</name>
+          <url>https://github.com/spikymoth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>abi/screenshot-to-code</title>
+      <link>https://github.com/abi/screenshot-to-code</link>
+      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
+      <guid>https://github.com/abi/screenshot-to-code</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>79,132</stars>
+      <forks>9,659</forks>
+      <addStars>5,171</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/23818?s=40&amp;v=4</avatar>
+          <name>abi</name>
+          <url>https://github.com/abi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/53188310?s=40&amp;v=4</avatar>
+          <name>clean99</name>
+          <url>https://github.com/clean99</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59241904?s=40&amp;v=4</avatar>
+          <name>kachbit</name>
+          <url>https://github.com/kachbit</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>public-apis/public-apis</title>
       <link>https://github.com/public-apis/public-apis</link>
       <description>A collective list of free APIs</description>
       <guid>https://github.com/public-apis/public-apis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>480,764</stars>
-      <forks>53,065</forks>
-      <addStars>22,173</addStars>
+      <stars>481,160</stars>
+      <forks>53,119</forks>
+      <addStars>20,690</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50463866?s=40&amp;v=4</avatar>
@@ -299,294 +360,15 @@
       </contributors>
     </item>
     <item>
-      <title>harry0703/MoneyPrinterTurbo</title>
-      <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-      <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
-      <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>124,146</stars>
-      <forks>19,211</forks>
-      <addStars>20,832</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
-          <name>harry0703</name>
-          <url>https://github.com/harry0703</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/251123242?s=40&amp;v=4</avatar>
-          <name>c020627</name>
-          <url>https://github.com/c020627</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/95077259?s=40&amp;v=4</avatar>
-          <name>yyhhyyyyyy</name>
-          <url>https://github.com/yyhhyyyyyy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96235876?s=40&amp;v=4</avatar>
-          <name>vuisme</name>
-          <url>https://github.com/vuisme</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>youssofal/MTPLX</title>
-      <link>https://github.com/youssofal/MTPLX</link>
-      <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
-      <guid>https://github.com/youssofal/MTPLX</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>2,333</stars>
-      <forks>173</forks>
-      <addStars>1,148</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66418316?s=40&amp;v=4</avatar>
-          <name>youssofal</name>
-          <url>https://github.com/youssofal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8346495?s=40&amp;v=4</avatar>
-          <name>davidtai</name>
-          <url>https://github.com/davidtai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84099452?s=40&amp;v=4</avatar>
-          <name>Cyb3rb1ade</name>
-          <url>https://github.com/Cyb3rb1ade</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jundot/omlx</title>
-      <link>https://github.com/jundot/omlx</link>
-      <description>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
-      <guid>https://github.com/jundot/omlx</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>21,794</stars>
-      <forks>1,881</forks>
-      <addStars>3,116</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64250138?s=40&amp;v=4</avatar>
-          <name>jundot</name>
-          <url>https://github.com/jundot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6842433?s=40&amp;v=4</avatar>
-          <name>cfbraun</name>
-          <url>https://github.com/cfbraun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30080538?s=40&amp;v=4</avatar>
-          <name>JimStenstrom</name>
-          <url>https://github.com/JimStenstrom</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>p-e-w/heretic</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <description>Fully automatic censorship removal for language models</description>
-      <guid>https://github.com/p-e-w/heretic</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>31,541</stars>
-      <forks>3,523</forks>
-      <addStars>3,987</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2702526?s=40&amp;v=4</avatar>
-          <name>p-e-w</name>
-          <url>https://github.com/p-e-w</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/175500353?s=40&amp;v=4</avatar>
-          <name>Vinay-Umrethe</name>
-          <url>https://github.com/Vinay-Umrethe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1325515?s=40&amp;v=4</avatar>
-          <name>anrp</name>
-          <url>https://github.com/anrp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/133602907?s=40&amp;v=4</avatar>
-          <name>spikymoth</name>
-          <url>https://github.com/spikymoth</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Tencent/AI-Infra-Guard</title>
-      <link>https://github.com/Tencent/AI-Infra-Guard</link>
-      <description>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</description>
-      <guid>https://github.com/Tencent/AI-Infra-Guard</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>6,387</stars>
-      <forks>590</forks>
-      <addStars>1,904</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18695984?s=40&amp;v=4</avatar>
-          <name>boy-hack</name>
-          <url>https://github.com/boy-hack</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19813635?s=40&amp;v=4</avatar>
-          <name>aigsec</name>
-          <url>https://github.com/aigsec</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28682217?s=40&amp;v=4</avatar>
-          <name>rocie799</name>
-          <url>https://github.com/rocie799</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/170615914?s=40&amp;v=4</avatar>
-          <name>zonalalala</name>
-          <url>https://github.com/zonalalala</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55682544?s=40&amp;v=4</avatar>
-          <name>y3oZ</name>
-          <url>https://github.com/y3oZ</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>abi/screenshot-to-code</title>
-      <link>https://github.com/abi/screenshot-to-code</link>
-      <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
-      <guid>https://github.com/abi/screenshot-to-code</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>78,989</stars>
-      <forks>9,643</forks>
-      <addStars>5,062</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23818?s=40&amp;v=4</avatar>
-          <name>abi</name>
-          <url>https://github.com/abi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53188310?s=40&amp;v=4</avatar>
-          <name>clean99</name>
-          <url>https://github.com/clean99</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59241904?s=40&amp;v=4</avatar>
-          <name>kachbit</name>
-          <url>https://github.com/kachbit</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>microsoft/data-formulator</title>
-      <link>https://github.com/microsoft/data-formulator</link>
-      <description>🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.</description>
-      <guid>https://github.com/microsoft/data-formulator</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>17,220</stars>
-      <forks>1,673</forks>
-      <addStars>1,226</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/93549116?s=40&amp;v=4</avatar>
-          <name>Chenglong-MS</name>
-          <url>https://github.com/Chenglong-MS</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/233943790?s=40&amp;v=4</avatar>
-          <name>zhb-y-agent</name>
-          <url>https://github.com/zhb-y-agent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11507384?s=40&amp;v=4</avatar>
-          <name>danmarshall</name>
-          <url>https://github.com/danmarshall</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/233935264?s=40&amp;v=4</avatar>
-          <name>zhb-ai</name>
-          <url>https://github.com/zhb-ai</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>blader/humanizer</title>
-      <link>https://github.com/blader/humanizer</link>
-      <description>Agent skill that removes signs of AI-generated writing from text</description>
-      <guid>https://github.com/blader/humanizer</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>48,907</stars>
-      <forks>3,968</forks>
-      <addStars>12,798</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
-          <name>blader</name>
-          <url>https://github.com/blader</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
-          <name>mvanhorn</name>
-          <url>https://github.com/mvanhorn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4</avatar>
-          <name>Scott-Emberson</name>
-          <url>https://github.com/Scott-Emberson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/243858445?s=40&amp;v=4</avatar>
-          <name>warp-agent</name>
-          <url>https://github.com/warp-agent</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>experientiallabs/experiential</title>
       <link>https://github.com/experientiallabs/experiential</link>
       <description>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.</description>
       <guid>https://github.com/experientiallabs/experiential</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,962</stars>
-      <forks>176</forks>
-      <addStars>4,576</addStars>
+      <stars>5,063</stars>
+      <forks>182</forks>
+      <addStars>4,661</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44129612?s=40&amp;v=4</avatar>
@@ -594,14 +376,14 @@
           <url>https://github.com/SilenNaihin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9440350?s=40&amp;v=4</avatar>
-          <name>kfallah</name>
-          <url>https://github.com/kfallah</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9440350?s=40&amp;v=4</avatar>
+          <name>kfallah</name>
+          <url>https://github.com/kfallah</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
@@ -617,9 +399,9 @@
       <guid>https://github.com/zubair-trabzada/geo-seo-claude</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,636</stars>
-      <forks>1,613</forks>
-      <addStars>1,297</addStars>
+      <stars>10,666</stars>
+      <forks>1,623</forks>
+      <addStars>1,321</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5149834?s=40&amp;v=4</avatar>
@@ -644,15 +426,53 @@
       </contributors>
     </item>
     <item>
+      <title>volcengine/OpenViking</title>
+      <link>https://github.com/volcengine/OpenViking</link>
+      <description>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</description>
+      <guid>https://github.com/volcengine/OpenViking</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>37,879</stars>
+      <forks>2,932</forks>
+      <addStars>9,270</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/234610432?s=40&amp;v=4</avatar>
+          <name>qin-ctx</name>
+          <url>https://github.com/qin-ctx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31875147?s=40&amp;v=4</avatar>
+          <name>ZaynJarvis</name>
+          <url>https://github.com/ZaynJarvis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/242402223?s=40&amp;v=4</avatar>
+          <name>zhoujh01</name>
+          <url>https://github.com/zhoujh01</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/233881301?s=40&amp;v=4</avatar>
+          <name>r266-tech</name>
+          <url>https://github.com/r266-tech</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>petergyang/no-ai-slop</title>
       <link>https://github.com/petergyang/no-ai-slop</link>
       <description>Removes 20+ patterns of AI slop from any piece of writing.</description>
       <guid>https://github.com/petergyang/no-ai-slop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,991</stars>
-      <forks>705</forks>
-      <addStars>4,702</addStars>
+      <stars>10,357</stars>
+      <forks>724</forks>
+      <addStars>4,949</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2383268?s=40&amp;v=4</avatar>
@@ -682,20 +502,134 @@
       </contributors>
     </item>
     <item>
-      <title>sngyai/Sequoia-X</title>
-      <link>https://github.com/sngyai/Sequoia-X</link>
-      <description>A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书</description>
-      <guid>https://github.com/sngyai/Sequoia-X</guid>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <description>Learn it. Build it. Ship it for others.</description>
+      <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,304</stars>
-      <forks>1,483</forks>
-      <addStars>1,978</addStars>
+      <stars>54,881</stars>
+      <forks>9,640</forks>
+      <addStars>8,384</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1306534?s=40&amp;v=4</avatar>
-          <name>sngyai</name>
-          <url>https://github.com/sngyai</url>
+          <avatar>https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4</avatar>
+          <name>rohitg00</name>
+          <url>https://github.com/rohitg00</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/113239388?s=40&amp;v=4</avatar>
+          <name>abhinav-m22</name>
+          <url>https://github.com/abhinav-m22</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37583483?s=40&amp;v=4</avatar>
+          <name>thereisnotime</name>
+          <url>https://github.com/thereisnotime</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35212698?s=40&amp;v=4</avatar>
+          <name>thejesh23</name>
+          <url>https://github.com/thejesh23</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Tencent/AI-Infra-Guard</title>
+      <link>https://github.com/Tencent/AI-Infra-Guard</link>
+      <description>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</description>
+      <guid>https://github.com/Tencent/AI-Infra-Guard</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>6,412</stars>
+      <forks>594</forks>
+      <addStars>1,908</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18695984?s=40&amp;v=4</avatar>
+          <name>boy-hack</name>
+          <url>https://github.com/boy-hack</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19813635?s=40&amp;v=4</avatar>
+          <name>aigsec</name>
+          <url>https://github.com/aigsec</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28682217?s=40&amp;v=4</avatar>
+          <name>rocie799</name>
+          <url>https://github.com/rocie799</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/170615914?s=40&amp;v=4</avatar>
+          <name>zonalalala</name>
+          <url>https://github.com/zonalalala</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/55682544?s=40&amp;v=4</avatar>
+          <name>y3oZ</name>
+          <url>https://github.com/y3oZ</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jiji262/douyin-downloader</title>
+      <link>https://github.com/jiji262/douyin-downloader</link>
+      <description>A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。</description>
+      <guid>https://github.com/jiji262/douyin-downloader</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>11,891</stars>
+      <forks>1,820</forks>
+      <addStars>2,543</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/168751?s=40&amp;v=4</avatar>
+          <name>jiji262</name>
+          <url>https://github.com/jiji262</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/213367755?s=40&amp;v=4</avatar>
+          <name>dennistodo</name>
+          <url>https://github.com/dennistodo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/255798083?s=40&amp;v=4</avatar>
+          <name>craft-agents-bot</name>
+          <url>https://github.com/craft-agents-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>D4Vinci/Scrapling</title>
+      <link>https://github.com/D4Vinci/Scrapling</link>
+      <description>🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ</description>
+      <guid>https://github.com/D4Vinci/Scrapling</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>81,773</stars>
+      <forks>8,304</forks>
+      <addStars>7,245</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
+          <name>D4Vinci</name>
+          <url>https://github.com/D4Vinci</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102706514?s=40&amp;v=4</avatar>
+          <name>yetval</name>
+          <url>https://github.com/yetval</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52079299?s=40&amp;v=4</avatar>
+          <name>AbdullahY36</name>
+          <url>https://github.com/AbdullahY36</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -703,14 +637,113 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16517186?s=40&amp;v=4</avatar>
-          <name>ethqunzhong</name>
-          <url>https://github.com/ethqunzhong</url>
+          <avatar>https://avatars.githubusercontent.com/u/286198?s=40&amp;v=4</avatar>
+          <name>mhillebrand</name>
+          <url>https://github.com/mhillebrand</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>youssofal/MTPLX</title>
+      <link>https://github.com/youssofal/MTPLX</link>
+      <description>The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthropic compatible local server.</description>
+      <guid>https://github.com/youssofal/MTPLX</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>2,347</stars>
+      <forks>174</forks>
+      <addStars>1,062</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66418316?s=40&amp;v=4</avatar>
+          <name>youssofal</name>
+          <url>https://github.com/youssofal</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17290550?s=40&amp;v=4</avatar>
-          <name>YipKo</name>
-          <url>https://github.com/YipKo</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8346495?s=40&amp;v=4</avatar>
+          <name>davidtai</name>
+          <url>https://github.com/davidtai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84099452?s=40&amp;v=4</avatar>
+          <name>Cyb3rb1ade</name>
+          <url>https://github.com/Cyb3rb1ade</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>blader/humanizer</title>
+      <link>https://github.com/blader/humanizer</link>
+      <description>Agent skill that removes signs of AI-generated writing from text</description>
+      <guid>https://github.com/blader/humanizer</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>49,504</stars>
+      <forks>4,010</forks>
+      <addStars>13,336</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
+          <name>blader</name>
+          <url>https://github.com/blader</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
+          <name>mvanhorn</name>
+          <url>https://github.com/mvanhorn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8268155?s=40&amp;v=4</avatar>
+          <name>Scott-Emberson</name>
+          <url>https://github.com/Scott-Emberson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/243858445?s=40&amp;v=4</avatar>
+          <name>warp-agent</name>
+          <url>https://github.com/warp-agent</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jundot/omlx</title>
+      <link>https://github.com/jundot/omlx</link>
+      <description>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
+      <guid>https://github.com/jundot/omlx</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>21,839</stars>
+      <forks>1,886</forks>
+      <addStars>3,104</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64250138?s=40&amp;v=4</avatar>
+          <name>jundot</name>
+          <url>https://github.com/jundot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6842433?s=40&amp;v=4</avatar>
+          <name>cfbraun</name>
+          <url>https://github.com/cfbraun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30080538?s=40&amp;v=4</avatar>
+          <name>JimStenstrom</name>
+          <url>https://github.com/JimStenstrom</url>
         </contributor>
       </contributors>
     </item>

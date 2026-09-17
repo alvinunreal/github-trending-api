@@ -2,122 +2,16 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
-    {
-      "title": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "91,756",
-      "forks": "5,120",
-      "addStars": "489",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38380847?s=40&v=4",
-          "name": "Tienisto",
-          "url": "https://github.com/Tienisto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/125032334?s=40&v=4",
-          "name": "sergd88",
-          "url": "https://github.com/sergd88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78599753?s=40&v=4",
-          "name": "ShlomoCode",
-          "url": "https://github.com/ShlomoCode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39922116?s=40&v=4",
-          "name": "TheGB0077",
-          "url": "https://github.com/TheGB0077"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4068977?s=40&v=4",
-          "name": "gidano",
-          "url": "https://github.com/gidano"
-        }
-      ]
-    },
-    {
-      "title": "chen08209/FlClash",
-      "url": "https://github.com/chen08209/FlClash",
-      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "52,352",
-      "forks": "3,293",
-      "addStars": "144",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
-          "name": "chen08209",
-          "url": "https://github.com/chen08209"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41893946?s=40&v=4",
-          "name": "txyyh",
-          "url": "https://github.com/txyyh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101031809?s=40&v=4",
-          "name": "BIGGASSS",
-          "url": "https://github.com/BIGGASSS"
-        }
-      ]
-    },
-    {
-      "title": "AppFlowy-IO/AppFlowy",
-      "url": "https://github.com/AppFlowy-IO/AppFlowy",
-      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "76,753",
-      "forks": "6,018",
-      "addStars": "68",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86001920?s=40&v=4",
-          "name": "appflowy",
-          "url": "https://github.com/appflowy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11863087?s=40&v=4",
-          "name": "LucasXu0",
-          "url": "https://github.com/LucasXu0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71320345?s=40&v=4",
-          "name": "richardshiue",
-          "url": "https://github.com/richardshiue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42929161?s=40&v=4",
-          "name": "Xazin",
-          "url": "https://github.com/Xazin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2352832?s=40&v=4",
-          "name": "vincentdchan",
-          "url": "https://github.com/vincentdchan"
-        }
-      ]
-    },
     {
       "title": "dart-lang/sdk",
       "url": "https://github.com/dart-lang/sdk",
       "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "11,283",
-      "forks": "1,876",
+      "stars": "11,284",
+      "forks": "1,900",
       "addStars": "1",
       "contributors": [
         {
@@ -148,110 +42,14 @@
       ]
     },
     {
-      "title": "getlantern/lantern",
-      "url": "https://github.com/getlantern/lantern",
-      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "15,975",
-      "forks": "11,041",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6346213?s=40&v=4",
-          "name": "atavism",
-          "url": "https://github.com/atavism"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/132374182?s=40&v=4",
-          "name": "jigar-f",
-          "url": "https://github.com/jigar-f"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1143966?s=40&v=4",
-          "name": "myleshorton",
-          "url": "https://github.com/myleshorton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104022054?s=40&v=4",
-          "name": "garmr-ulfr",
-          "url": "https://github.com/garmr-ulfr"
-        }
-      ]
-    },
-    {
-      "title": "lichess-org/mobile",
-      "url": "https://github.com/lichess-org/mobile",
-      "description": "Lichess mobile app",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "2,543",
-      "forks": "493",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/423393?s=40&v=4",
-          "name": "veloce",
-          "url": "https://github.com/veloce"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/120588494?s=40&v=4",
-          "name": "julien4215",
-          "url": "https://github.com/julien4215"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13141438?s=40&v=4",
-          "name": "tom-anders",
-          "url": "https://github.com/tom-anders"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54973703?s=40&v=4",
-          "name": "nav-28",
-          "url": "https://github.com/nav-28"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78898963?s=40&v=4",
-          "name": "HaonRekcef",
-          "url": "https://github.com/HaonRekcef"
-        }
-      ]
-    },
-    {
-      "title": "orailnoor/private-agent",
-      "url": "https://github.com/orailnoor/private-agent",
-      "description": "PrivateAgent is an open-source Android automation agent built with Flutter. It utilizes the DeepSeek API and native Android Accessibility Services to interpret screen layouts and execute multi-step tasks across any installed application via natural language commands.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "324",
-      "forks": "142",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34442749?s=40&v=4",
-          "name": "orailnoor",
-          "url": "https://github.com/orailnoor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54399984?s=40&v=4",
-          "name": "techjarves",
-          "url": "https://github.com/techjarves"
-        }
-      ]
-    },
-    {
       "title": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "178,962",
-      "forks": "31,269",
-      "addStars": "18",
+      "stars": "178,994",
+      "forks": "31,413",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
@@ -281,172 +79,389 @@
       ]
     },
     {
-      "title": "bggRGjQaUbCoE/PiliPlus",
-      "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
-      "description": "PiliPlus",
+      "title": "flutter/packages",
+      "url": "https://github.com/flutter/packages",
+      "description": "A collection of useful packages maintained by the Flutter team",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "18,414",
-      "forks": "1,323",
-      "addStars": "30",
+      "stars": "5,310",
+      "forks": "3,974",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/114972867?s=40&v=4",
-          "name": "bggRGjQaUbCoE",
-          "url": "https://github.com/bggRGjQaUbCoE"
+          "avatar": "https://avatars.githubusercontent.com/u/42042535?s=40&v=4",
+          "name": "engine-flutter-autoroll",
+          "url": "https://github.com/engine-flutter-autoroll"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25545225?s=40&v=4",
-          "name": "guozhigq",
-          "url": "https://github.com/guozhigq"
+          "avatar": "https://avatars.githubusercontent.com/u/122189?s=40&v=4",
+          "name": "stuartmorgan-g",
+          "url": "https://github.com/stuartmorgan-g"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17450420?s=40&v=4",
-          "name": "orz12",
-          "url": "https://github.com/orz12"
+          "avatar": "https://avatars.githubusercontent.com/u/8620741?s=40&v=4",
+          "name": "dnfield",
+          "url": "https://github.com/dnfield"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/107370289?s=40&v=4",
-          "name": "My-Responsitories",
-          "url": "https://github.com/My-Responsitories"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89803422?s=40&v=4",
-          "name": "VillagerTom",
-          "url": "https://github.com/VillagerTom"
+          "avatar": "https://avatars.githubusercontent.com/u/10687576?s=40&v=4",
+          "name": "bparrishMines",
+          "url": "https://github.com/bparrishMines"
         }
       ]
     },
     {
-      "title": "rrousselGit/riverpod",
-      "url": "https://github.com/rrousselGit/riverpod",
-      "description": "A reactive caching and data-binding framework. Riverpod makes working with asynchronous code a breeze.",
+      "title": "FoxSensei001/LoveIwara",
+      "url": "https://github.com/FoxSensei001/LoveIwara",
+      "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Meta Horizon OS, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、Meta Horizon OS、IOS、Windows、MacOS等系统。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "7,386",
-      "forks": "1,109",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20165741?s=40&v=4",
-          "name": "rrousselGit",
-          "url": "https://github.com/rrousselGit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43258118?s=40&v=4",
-          "name": "kazukidddd",
-          "url": "https://github.com/kazukidddd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15617545?s=40&v=4",
-          "name": "TimWhiting",
-          "url": "https://github.com/TimWhiting"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32538273?s=40&v=4",
-          "name": "ValentinVignal",
-          "url": "https://github.com/ValentinVignal"
-        }
-      ]
-    },
-    {
-      "title": "krille-chan/fluffychat",
-      "url": "https://github.com/krille-chan/fluffychat",
-      "description": "The cutest instant messenger in the [matrix]",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "3,129",
-      "forks": "635",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24619905?s=40&v=4",
-          "name": "krille-chan",
-          "url": "https://github.com/krille-chan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2433620?s=40&v=4",
-          "name": "Sorunome",
-          "url": "https://github.com/Sorunome"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7106279?s=40&v=4",
-          "name": "jelv",
-          "url": "https://github.com/jelv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34414563?s=40&v=4",
-          "name": "IhorHordiichuk",
-          "url": "https://github.com/IhorHordiichuk"
-        }
-      ]
-    },
-    {
-      "title": "saber-notes/saber",
-      "url": "https://github.com/saber-notes/saber",
-      "description": "The cross-platform open-source app built for handwriting",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": "4,806",
-      "forks": "371",
+      "stars": "1,433",
+      "forks": "55",
       "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21128619?s=40&v=4",
-          "name": "adil192",
-          "url": "https://github.com/adil192"
+          "avatar": "https://avatars.githubusercontent.com/u/192869501?s=40&v=4",
+          "name": "FoxSensei001",
+          "url": "https://github.com/FoxSensei001"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
-          "name": "albanobattistella",
-          "url": "https://github.com/albanobattistella"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48548230?s=40&v=4",
-          "name": "ceskyDJ",
-          "url": "https://github.com/ceskyDJ"
+          "avatar": "https://avatars.githubusercontent.com/u/109803649?s=40&v=4",
+          "name": "mojimoon",
+          "url": "https://github.com/mojimoon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4339059?s=40&v=4",
-          "name": "ShevT",
-          "url": "https://github.com/ShevT"
+          "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&v=4",
+          "name": "sisyphus-dev-ai",
+          "url": "https://github.com/sisyphus-dev-ai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111511925?s=40&v=4",
+          "name": "NeKoOuO",
+          "url": "https://github.com/NeKoOuO"
         }
       ]
     },
     {
-      "title": "cogwheel0/conduit",
-      "url": "https://github.com/cogwheel0/conduit",
-      "description": "Native iOS and Android client for Open WebUI, direct OpenAI-compatible, Ollama, and Hermes agents.",
+      "title": "sdegenaar/liquid_glass_widgets",
+      "url": "https://github.com/sdegenaar/liquid_glass_widgets",
+      "description": "Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "2,140",
-      "forks": "217",
+      "stars": "628",
+      "forks": "91",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2247107?s=40&v=4",
+          "name": "sdegenaar",
+          "url": "https://github.com/sdegenaar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10269289?s=40&v=4",
+          "name": "JakeThomson",
+          "url": "https://github.com/JakeThomson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3504893?s=40&v=4",
+          "name": "jfhair",
+          "url": "https://github.com/jfhair"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/246373445?s=40&v=4",
+          "name": "yukinoaruu",
+          "url": "https://github.com/yukinoaruu"
+        }
+      ]
+    },
+    {
+      "title": "flutter/agent-plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "description": "",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "2,959",
+      "forks": "179",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1063596?s=40&v=4",
+          "name": "reidbaker",
+          "url": "https://github.com/reidbaker"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1145719?s=40&v=4",
+          "name": "johnpryan",
+          "url": "https://github.com/johnpryan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1533520?s=40&v=4",
+          "name": "jwren",
+          "url": "https://github.com/jwren"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/269567208?s=40&v=4",
+          "name": "reidbaker-agent",
+          "url": "https://github.com/reidbaker-agent"
+        }
+      ]
+    },
+    {
+      "title": "Anxcye/anx-reader",
+      "url": "https://github.com/Anxcye/anx-reader",
+      "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "8,860",
+      "forks": "630",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91717732?s=40&v=4",
+          "name": "Anxcye",
+          "url": "https://github.com/Anxcye"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92250089?s=40&v=4",
+          "name": "Xapitonov",
+          "url": "https://github.com/Xapitonov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63033549?s=40&v=4",
+          "name": "deskangel",
+          "url": "https://github.com/deskangel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181099066?s=40&v=4",
+          "name": "addtion99",
+          "url": "https://github.com/addtion99"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65609202?s=40&v=4",
+          "name": "yi124773651",
+          "url": "https://github.com/yi124773651"
+        }
+      ]
+    },
+    {
+      "title": "simonoppowa/OpenNutriTracker",
+      "url": "https://github.com/simonoppowa/OpenNutriTracker",
+      "description": "🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "2,542",
+      "forks": "347",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24407484?s=40&v=4",
+          "name": "simonoppowa",
+          "url": "https://github.com/simonoppowa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42590474?s=40&v=4",
+          "name": "jordan-lee-code",
+          "url": "https://github.com/jordan-lee-code"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18120083?s=40&v=4",
+          "name": "doktormerlin",
+          "url": "https://github.com/doktormerlin"
+        }
+      ]
+    },
+    {
+      "title": "OpenStrap/edge",
+      "url": "https://github.com/OpenStrap/edge",
+      "description": "App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "590",
+      "forks": "101",
       "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/172976095?s=40&v=4",
-          "name": "cogwheel0",
-          "url": "https://github.com/cogwheel0"
+          "avatar": "https://avatars.githubusercontent.com/u/127765312?s=40&v=4",
+          "name": "abdulsaheel",
+          "url": "https://github.com/abdulsaheel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/295140484?s=40&v=4",
-          "name": "Qyzom",
-          "url": "https://github.com/Qyzom"
+          "avatar": "https://avatars.githubusercontent.com/u/179630?s=40&v=4",
+          "name": "dannymcc",
+          "url": "https://github.com/dannymcc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61460660?s=40&v=4",
-          "name": "larsb24",
-          "url": "https://github.com/larsb24"
+          "avatar": "https://avatars.githubusercontent.com/u/99352677?s=40&v=4",
+          "name": "DropTabl",
+          "url": "https://github.com/DropTabl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/82151?s=40&v=4",
-          "name": "andrewchen",
-          "url": "https://github.com/andrewchen"
+          "avatar": "https://avatars.githubusercontent.com/u/142034221?s=40&v=4",
+          "name": "FlixiDoe",
+          "url": "https://github.com/FlixiDoe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1883384?s=40&v=4",
-          "name": "culstrup",
-          "url": "https://github.com/culstrup"
+          "avatar": "https://avatars.githubusercontent.com/u/60280126?s=40&v=4",
+          "name": "Brackyt",
+          "url": "https://github.com/Brackyt"
+        }
+      ]
+    },
+    {
+      "title": "TheLastGimbus/GooglePhotosTakeoutHelper",
+      "url": "https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper",
+      "description": "Script that organizes the Google Takeout archive into one big chronological folder",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "5,910",
+      "forks": "330",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40139196?s=40&v=4",
+          "name": "TheLastGimbus",
+          "url": "https://github.com/TheLastGimbus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25020780?s=40&v=4",
+          "name": "DalenW",
+          "url": "https://github.com/DalenW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6493651?s=40&v=4",
+          "name": "jmigual",
+          "url": "https://github.com/jmigual"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/159414?s=40&v=4",
+          "name": "hheimbuerger",
+          "url": "https://github.com/hheimbuerger"
+        }
+      ]
+    },
+    {
+      "title": "cake-tech/cake_wallet",
+      "url": "https://github.com/cake-tech/cake_wallet",
+      "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "1,918",
+      "forks": "390",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31170694?s=40&v=4",
+          "name": "OmarHatem28",
+          "url": "https://github.com/OmarHatem28"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53115730?s=40&v=4",
+          "name": "mkyq",
+          "url": "https://github.com/mkyq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45227694?s=40&v=4",
+          "name": "alex-suomi",
+          "url": "https://github.com/alex-suomi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17529954?s=40&v=4",
+          "name": "serhii-bor",
+          "url": "https://github.com/serhii-bor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64401859?s=40&v=4",
+          "name": "Blazebrain",
+          "url": "https://github.com/Blazebrain"
+        }
+      ]
+    },
+    {
+      "title": "firebase/flutterfire",
+      "url": "https://github.com/firebase/flutterfire",
+      "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "9,250",
+      "forks": "4,118",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16018629?s=40&v=4",
+          "name": "russellwheatley",
+          "url": "https://github.com/russellwheatley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5347038?s=40&v=4",
+          "name": "Salakar",
+          "url": "https://github.com/Salakar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3680002?s=40&v=4",
+          "name": "Lyokone",
+          "url": "https://github.com/Lyokone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/394889?s=40&v=4",
+          "name": "collinjackson",
+          "url": "https://github.com/collinjackson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64037520?s=40&v=4",
+          "name": "SelaseKay",
+          "url": "https://github.com/SelaseKay"
+        }
+      ]
+    },
+    {
+      "title": "Spyou/Zangetsu",
+      "url": "https://github.com/Spyou/Zangetsu",
+      "description": "Free, open-source app for anime, movies, series, manga and light novels — on Android, Android TV and iOS (beta).",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": "331",
+      "forks": "42",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88382789?s=40&v=4",
+          "name": "Spyou",
+          "url": "https://github.com/Spyou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43285863?s=40&v=4",
+          "name": "NeighborhoodNerd",
+          "url": "https://github.com/NeighborhoodNerd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/229025345?s=40&v=4",
+          "name": "mo7AmMeD64",
+          "url": "https://github.com/mo7AmMeD64"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38371196?s=40&v=4",
+          "name": "xayron",
+          "url": "https://github.com/xayron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/189317152?s=40&v=4",
+          "name": "Ombryal",
+          "url": "https://github.com/Ombryal"
         }
       ]
     }

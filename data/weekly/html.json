@@ -2,49 +2,17 @@
   "title": "GitHub Html Languages Weekly Trending",
   "description": "Weekly Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
-    {
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "40,367",
-      "forks": "2,569",
-      "addStars": "5,557",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-          "name": "cathrynlavery",
-          "url": "https://github.com/cathrynlavery"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/174610155?s=40&v=4",
-          "name": "parveen0029",
-          "url": "https://github.com/parveen0029"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        }
-      ]
-    },
     {
       "title": "AhmadIbrahiim/Website-downloader",
       "url": "https://github.com/AhmadIbrahiim/Website-downloader",
       "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "5,485",
-      "forks": "1,273",
-      "addStars": "155",
+      "stars": "5,504",
+      "forks": "1,278",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17949497?s=40&v=4",
@@ -64,14 +32,46 @@
       ]
     },
     {
+      "title": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "9,545",
+      "forks": "1,474",
+      "addStars": "710",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
+          "name": "averygan",
+          "url": "https://github.com/averygan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161183892?s=40&v=4",
+          "name": "jouls0217",
+          "url": "https://github.com/jouls0217"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97675744?s=40&v=4",
+          "name": "AmanoSpica",
+          "url": "https://github.com/AmanoSpica"
+        }
+      ]
+    },
+    {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "170,455",
-      "forks": "21,923",
-      "addStars": "834",
+      "stars": "170,546",
+      "forks": "21,930",
+      "addStars": "787",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&v=4",
@@ -101,46 +101,14 @@
       ]
     },
     {
-      "title": "averygan/reclip",
-      "url": "https://github.com/averygan/reclip",
-      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "9,483",
-      "forks": "1,465",
-      "addStars": "630",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88895948?s=40&v=4",
-          "name": "averygan",
-          "url": "https://github.com/averygan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161183892?s=40&v=4",
-          "name": "jouls0217",
-          "url": "https://github.com/jouls0217"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/97675744?s=40&v=4",
-          "name": "AmanoSpica",
-          "url": "https://github.com/AmanoSpica"
-        }
-      ]
-    },
-    {
       "title": "Jakubantalik/transitions.dev",
       "url": "https://github.com/Jakubantalik/transitions.dev",
       "description": "Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,192",
-      "forks": "170",
-      "addStars": "681",
+      "stars": "4,225",
+      "forks": "175",
+      "addStars": "697",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14873517?s=40&v=4",
@@ -165,9 +133,9 @@
       "description": "The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "12,922",
-      "forks": "923",
-      "addStars": "332",
+      "stars": "12,980",
+      "forks": "924",
+      "addStars": "334",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/86096184?s=40&v=4",
@@ -197,19 +165,24 @@
       ]
     },
     {
-      "title": "omacom/omarchy-site",
-      "url": "https://github.com/omacom/omarchy-site",
-      "description": "Beautiful, Modern & Opinionated Linux by DHH",
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "101",
-      "forks": "288",
-      "addStars": "28",
+      "stars": "22,750",
+      "forks": "1,584",
+      "addStars": "315",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
-          "name": "dhh",
-          "url": "https://github.com/dhh"
+          "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
+          "name": "f-trycua",
+          "url": "https://github.com/f-trycua"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3820588?s=40&v=4",
+          "name": "ddupont808",
+          "url": "https://github.com/ddupont808"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -217,14 +190,46 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57728214?s=40&v=4",
-          "name": "barisgirismen",
-          "url": "https://github.com/barisgirismen"
+          "avatar": "https://avatars.githubusercontent.com/u/57335981?s=40&v=4",
+          "name": "r33drichards",
+          "url": "https://github.com/r33drichards"
+        }
+      ]
+    },
+    {
+      "title": "google/fonts",
+      "url": "https://github.com/google/fonts",
+      "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "20,496",
+      "forks": "2,921",
+      "addStars": "45",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7525512?s=40&v=4",
+          "name": "m4rc1e",
+          "url": "https://github.com/m4rc1e"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17323701?s=40&v=4",
-          "name": "seanmitchell",
-          "url": "https://github.com/seanmitchell"
+          "avatar": "https://avatars.githubusercontent.com/u/64773544?s=40&v=4",
+          "name": "emmamarichal",
+          "url": "https://github.com/emmamarichal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213676?s=40&v=4",
+          "name": "felipesanches",
+          "url": "https://github.com/felipesanches"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/261579?s=40&v=4",
+          "name": "davelab6",
+          "url": "https://github.com/davelab6"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12222436?s=40&v=4",
+          "name": "RosaWagner",
+          "url": "https://github.com/RosaWagner"
         }
       ]
     },
@@ -234,9 +239,9 @@
       "description": "Check if people follows you back on Instagram.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,851",
-      "forks": "447",
-      "addStars": "36",
+      "stars": "4,856",
+      "forks": "448",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29355377?s=40&v=4",
@@ -266,14 +271,83 @@
       ]
     },
     {
+      "title": "omacom/omarchy-site",
+      "url": "https://github.com/omacom/omarchy-site",
+      "description": "Beautiful, Modern & Opinionated Linux by DHH",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "104",
+      "forks": "296",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
+          "name": "dhh",
+          "url": "https://github.com/dhh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57728214?s=40&v=4",
+          "name": "barisgirismen",
+          "url": "https://github.com/barisgirismen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17323701?s=40&v=4",
+          "name": "seanmitchell",
+          "url": "https://github.com/seanmitchell"
+        }
+      ]
+    },
+    {
+      "title": "docker/awesome-compose",
+      "url": "https://github.com/docker/awesome-compose",
+      "description": "Awesome Docker Compose samples",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "46,356",
+      "forks": "8,326",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/705411?s=40&v=4",
+          "name": "glours",
+          "url": "https://github.com/glours"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/809903?s=40&v=4",
+          "name": "aiordache",
+          "url": "https://github.com/aiordache"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/841263?s=40&v=4",
+          "name": "milas",
+          "url": "https://github.com/milas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6329508?s=40&v=4",
+          "name": "jdrouet",
+          "url": "https://github.com/jdrouet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31759512?s=40&v=4",
+          "name": "LeonStoldt",
+          "url": "https://github.com/LeonStoldt"
+        }
+      ]
+    },
+    {
       "title": "Ylianst/MeshCentral",
       "url": "https://github.com/Ylianst/MeshCentral",
       "description": "A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,234",
-      "forks": "991",
-      "addStars": "44",
+      "stars": "7,242",
+      "forks": "993",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1319013?s=40&v=4",
@@ -303,117 +377,14 @@
       ]
     },
     {
-      "title": "techchipnet/CamPhish",
-      "url": "https://github.com/techchipnet/CamPhish",
-      "description": "Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "5,108",
-      "forks": "1,394",
-      "addStars": "54",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42796435?s=40&v=4",
-          "name": "techchipnet",
-          "url": "https://github.com/techchipnet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72634331?s=40&v=4",
-          "name": "Kr3sZ",
-          "url": "https://github.com/Kr3sZ"
-        }
-      ]
-    },
-    {
-      "title": "aoaostar/legado",
-      "url": "https://github.com/aoaostar/legado",
-      "description": "阅读APP书源",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "6,354",
-      "forks": "279",
-      "addStars": "99",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86001674?s=40&v=4",
-          "name": "aoaostar",
-          "url": "https://github.com/aoaostar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6436073?s=40&v=4",
-          "name": "j4Uq",
-          "url": "https://github.com/j4Uq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74645100?s=40&v=4",
-          "name": "Crazyokd",
-          "url": "https://github.com/Crazyokd"
-        }
-      ]
-    },
-    {
-      "title": "horilla/horilla-hr",
-      "url": "https://github.com/horilla/horilla-hr",
-      "description": "Horilla is a free and open source HR software.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "1,423",
-      "forks": "914",
-      "addStars": "61",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131998600?s=40&v=4",
-          "name": "horilla-opensource",
-          "url": "https://github.com/horilla-opensource"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15129796?s=40&v=4",
-          "name": "yuri-val",
-          "url": "https://github.com/yuri-val"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/171917472?s=40&v=4",
-          "name": "nikhilravicybro",
-          "url": "https://github.com/nikhilravicybro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "matlab/simulink-agentic-toolkit",
-      "url": "https://github.com/matlab/simulink-agentic-toolkit",
-      "description": "The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "1,106",
-      "forks": "103",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67381097?s=40&v=4",
-          "name": "awatturk-mw",
-          "url": "https://github.com/awatturk-mw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/266517078?s=40&v=4",
-          "name": "nnerurka-mw",
-          "url": "https://github.com/nnerurka-mw"
-        }
-      ]
-    },
-    {
       "title": "OWASP/Top10",
       "url": "https://github.com/OWASP/Top10",
       "description": "Official OWASP Top 10 Document Repository",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "6,082",
+      "stars": "6,091",
       "forks": "1,143",
-      "addStars": "23",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5029993?s=40&v=4",
@@ -439,6 +410,55 @@
           "avatar": "https://avatars.githubusercontent.com/u/34228884?s=40&v=4",
           "name": "JZDLin",
           "url": "https://github.com/JZDLin"
+        }
+      ]
+    },
+    {
+      "title": "aoaostar/legado",
+      "url": "https://github.com/aoaostar/legado",
+      "description": "阅读APP书源",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "6,372",
+      "forks": "281",
+      "addStars": "109",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86001674?s=40&v=4",
+          "name": "aoaostar",
+          "url": "https://github.com/aoaostar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6436073?s=40&v=4",
+          "name": "j4Uq",
+          "url": "https://github.com/j4Uq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74645100?s=40&v=4",
+          "name": "Crazyokd",
+          "url": "https://github.com/Crazyokd"
+        }
+      ]
+    },
+    {
+      "title": "techchipnet/CamPhish",
+      "url": "https://github.com/techchipnet/CamPhish",
+      "description": "Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "5,116",
+      "forks": "1,397",
+      "addStars": "53",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42796435?s=40&v=4",
+          "name": "techchipnet",
+          "url": "https://github.com/techchipnet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72634331?s=40&v=4",
+          "name": "Kr3sZ",
+          "url": "https://github.com/Kr3sZ"
         }
       ]
     }

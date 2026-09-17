@@ -2,42 +2,116 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
-      "title": "Atmosphere-NX/Atmosphere",
-      "url": "https://github.com/Atmosphere-NX/Atmosphere",
-      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "title": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "19,651",
-      "forks": "1,475",
-      "addStars": "30",
+      "stars": "1,736",
+      "forks": "395",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8676005?s=40&v=4",
-          "name": "SciresM",
-          "url": "https://github.com/SciresM"
+          "avatar": "https://avatars.githubusercontent.com/u/96936658?s=40&v=4",
+          "name": "maybegreat48",
+          "url": "https://github.com/maybegreat48"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1922548?s=40&v=4",
-          "name": "TuxSH",
-          "url": "https://github.com/TuxSH"
+          "avatar": "https://avatars.githubusercontent.com/u/121949966?s=40&v=4",
+          "name": "ShinyWasabi",
+          "url": "https://github.com/ShinyWasabi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20960561?s=40&v=4",
-          "name": "hexkyz",
-          "url": "https://github.com/hexkyz"
+          "avatar": "https://avatars.githubusercontent.com/u/110748953?s=40&v=4",
+          "name": "Mr-X-GTA",
+          "url": "https://github.com/Mr-X-GTA"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4",
-          "name": "lioncash",
-          "url": "https://github.com/lioncash"
+          "avatar": "https://avatars.githubusercontent.com/u/18056374?s=40&v=4",
+          "name": "playday3008",
+          "url": "https://github.com/playday3008"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1298105?s=40&v=4",
-          "name": "ktemkin",
-          "url": "https://github.com/ktemkin"
+          "avatar": "https://avatars.githubusercontent.com/u/24372625?s=40&v=4",
+          "name": "Deadlineem",
+          "url": "https://github.com/Deadlineem"
+        }
+      ]
+    },
+    {
+      "title": "keepassxreboot/keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "28,843",
+      "forks": "1,910",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2809491?s=40&v=4",
+          "name": "droidmonkey",
+          "url": "https://github.com/droidmonkey"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/293265?s=40&v=4",
+          "name": "debfx",
+          "url": "https://github.com/debfx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/911270?s=40&v=4",
+          "name": "phoerious",
+          "url": "https://github.com/phoerious"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/193820?s=40&v=4",
+          "name": "BlueIce",
+          "url": "https://github.com/BlueIce"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/686894?s=40&v=4",
+          "name": "TheZ3ro",
+          "url": "https://github.com/TheZ3ro"
+        }
+      ]
+    },
+    {
+      "title": "react/react-native",
+      "url": "https://github.com/react/react-native",
+      "description": "A framework for building native applications using React",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "126,636",
+      "forks": "25,279",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11689122?s=40&v=4",
+          "name": "reactjs-bot",
+          "url": "https://github.com/reactjs-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/515103?s=40&v=4",
+          "name": "mdvacca",
+          "url": "https://github.com/mdvacca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3001957?s=40&v=4",
+          "name": "cortinico",
+          "url": "https://github.com/cortinico"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22032?s=40&v=4",
+          "name": "shergin",
+          "url": "https://github.com/shergin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5676?s=40&v=4",
+          "name": "javache",
+          "url": "https://github.com/javache"
         }
       ]
     },
@@ -47,9 +121,9 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,895",
-      "forks": "355",
-      "addStars": "144",
+      "stars": "1,996",
+      "forks": "368",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/142312170?s=40&v=4",
@@ -67,221 +141,327 @@
           "url": "https://github.com/MichaelDementii"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3766087?s=40&v=4",
-          "name": "pinizhaninov",
-          "url": "https://github.com/pinizhaninov"
+          "avatar": "https://avatars.githubusercontent.com/u/58595746?s=40&v=4",
+          "name": "MOVIBALE",
+          "url": "https://github.com/MOVIBALE"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
     {
-      "title": "Redot-Engine/redot-engine",
-      "url": "https://github.com/Redot-Engine/redot-engine",
-      "description": "Redot Engine – Multi-platform 2D and 3D game engine",
+      "title": "google/highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,100",
-      "forks": "332",
-      "addStars": "9",
+      "stars": "5,844",
+      "forks": "472",
+      "addStars": "21",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
-          "name": "akien-mga",
-          "url": "https://github.com/akien-mga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
-          "name": "reduz",
-          "url": "https://github.com/reduz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17489292?s=40&v=4",
-          "name": "Repiteo",
-          "url": "https://github.com/Repiteo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4",
-          "name": "bruvzg",
-          "url": "https://github.com/bruvzg"
-        }
-      ]
-    },
-    {
-      "title": "godotengine/godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "117,263",
-      "forks": "26,766",
-      "addStars": "106",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
-          "name": "akien-mga",
-          "url": "https://github.com/akien-mga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17489292?s=40&v=4",
-          "name": "Repiteo",
-          "url": "https://github.com/Repiteo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
-          "name": "reduz",
-          "url": "https://github.com/reduz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7645683?s=40&v=4",
-          "name": "bruvzg",
-          "url": "https://github.com/bruvzg"
-        }
-      ]
-    },
-    {
-      "title": "vicinaehq/vicinae",
-      "url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "9,792",
-      "forks": "291",
-      "addStars": "81",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72200344?s=40&v=4",
-          "name": "aurelleb",
-          "url": "https://github.com/aurelleb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104676201?s=40&v=4",
-          "name": "cilginc",
-          "url": "https://github.com/cilginc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5113343?s=40&v=4",
-          "name": "rithvikvibhu",
-          "url": "https://github.com/rithvikvibhu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106905365?s=40&v=4",
-          "name": "dagimg-dot",
-          "url": "https://github.com/dagimg-dot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/117572566?s=40&v=4",
-          "name": "quadratech188",
-          "url": "https://github.com/quadratech188"
-        }
-      ]
-    },
-    {
-      "title": "google/googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "39,542",
-      "forks": "10,895",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12735026?s=40&v=4",
-          "name": "gennadiycivil",
-          "url": "https://github.com/gennadiycivil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/761129?s=40&v=4",
-          "name": "derekmauro",
-          "url": "https://github.com/derekmauro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18310463?s=40&v=4",
-          "name": "kuzkry",
-          "url": "https://github.com/kuzkry"
+          "avatar": "https://avatars.githubusercontent.com/u/17255429?s=40&v=4",
+          "name": "jan-wassenberg",
+          "url": "https://github.com/jan-wassenberg"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/32201506?s=40&v=4",
           "name": "copybara-github",
           "url": "https://github.com/copybara-github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28941113?s=40&v=4",
+          "name": "johnplatts",
+          "url": "https://github.com/johnplatts"
         }
       ]
     },
     {
-      "title": "musescore/MuseScore",
-      "url": "https://github.com/musescore/MuseScore",
-      "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+      "title": "microsoft/intelligent-terminal",
+      "url": "https://github.com/microsoft/intelligent-terminal",
+      "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,112",
-      "forks": "3,289",
+      "stars": "1,985",
+      "forks": "157",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69313318?s=40&v=4",
+          "name": "vanzue",
+          "url": "https://github.com/vanzue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25942151?s=40&v=4",
+          "name": "DDKinger",
+          "url": "https://github.com/DDKinger"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73506701?s=40&v=4",
+          "name": "yeelam-gordon",
+          "url": "https://github.com/yeelam-gordon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26824113?s=40&v=4",
+          "name": "PankajBhojwani",
+          "url": "https://github.com/PankajBhojwani"
+        }
+      ]
+    },
+    {
+      "title": "FEX-Emu/FEX",
+      "url": "https://github.com/FEX-Emu/FEX",
+      "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "8,031",
+      "forks": "354",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1018829?s=40&v=4",
+          "name": "Sonicadvance1",
+          "url": "https://github.com/Sonicadvance1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/712067?s=40&v=4",
+          "name": "lioncash",
+          "url": "https://github.com/lioncash"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1498135?s=40&v=4",
+          "name": "alyssarosenzweig",
+          "url": "https://github.com/alyssarosenzweig"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/393266?s=40&v=4",
+          "name": "skmp",
+          "url": "https://github.com/skmp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4840017?s=40&v=4",
+          "name": "neobrain",
+          "url": "https://github.com/neobrain"
+        }
+      ]
+    },
+    {
+      "title": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "21,486",
+      "forks": "3,501",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&v=4",
+          "name": "horenmar",
+          "url": "https://github.com/horenmar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92878?s=40&v=4",
+          "name": "philsquared",
+          "url": "https://github.com/philsquared"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39244355?s=40&v=4",
+          "name": "ChrisThrasher",
+          "url": "https://github.com/ChrisThrasher"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4840096?s=40&v=4",
+          "name": "claremacrae",
+          "url": "https://github.com/claremacrae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5606370?s=40&v=4",
+          "name": "JoeyGrajciar",
+          "url": "https://github.com/JoeyGrajciar"
+        }
+      ]
+    },
+    {
+      "title": "ROCm/rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "502",
+      "forks": "409",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7151294?s=40&v=4",
+          "name": "lmoriche",
+          "url": "https://github.com/lmoriche"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/117856571?s=40&v=4",
+          "name": "marifamd",
+          "url": "https://github.com/marifamd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/143540922?s=40&v=4",
+          "name": "dgaliffiAMD",
+          "url": "https://github.com/dgaliffiAMD"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16549273?s=40&v=4",
+          "name": "kiritigowda",
+          "url": "https://github.com/kiritigowda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24297043?s=40&v=4",
+          "name": "AryanSalmanpour",
+          "url": "https://github.com/AryanSalmanpour"
+        }
+      ]
+    },
+    {
+      "title": "apache/arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "17,129",
+      "forks": "4,305",
       "addStars": "8",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67867444?s=40&v=4",
-          "name": "RomanPudashkin",
-          "url": "https://github.com/RomanPudashkin"
+          "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
+          "name": "kou",
+          "url": "https://github.com/kou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/48658420?s=40&v=4",
-          "name": "cbjeukendrup",
-          "url": "https://github.com/cbjeukendrup"
+          "avatar": "https://avatars.githubusercontent.com/u/1721820?s=40&v=4",
+          "name": "pitrou",
+          "url": "https://github.com/pitrou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/234271?s=40&v=4",
-          "name": "lasconic",
-          "url": "https://github.com/lasconic"
+          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
+          "name": "wesm",
+          "url": "https://github.com/wesm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1422476?s=40&v=4",
-          "name": "wschweer",
-          "url": "https://github.com/wschweer"
+          "avatar": "https://avatars.githubusercontent.com/u/961747?s=40&v=4",
+          "name": "kszucs",
+          "url": "https://github.com/kszucs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3818029?s=40&v=4",
-          "name": "igorkorsukov",
-          "url": "https://github.com/igorkorsukov"
+          "avatar": "https://avatars.githubusercontent.com/u/1020496?s=40&v=4",
+          "name": "jorisvandenbossche",
+          "url": "https://github.com/jorisvandenbossche"
         }
       ]
     },
     {
-      "title": "nlohmann/json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
+      "title": "google/perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "50,618",
-      "forks": "7,500",
-      "addStars": "13",
+      "stars": "6,515",
+      "forks": "870",
+      "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/159488?s=40&v=4",
-          "name": "nlohmann",
-          "url": "https://github.com/nlohmann"
+          "avatar": "https://avatars.githubusercontent.com/u/679100?s=40&v=4",
+          "name": "LalitMaganti",
+          "url": "https://github.com/LalitMaganti"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15652306?s=40&v=4",
-          "name": "theodelrieu",
-          "url": "https://github.com/theodelrieu"
+          "avatar": "https://avatars.githubusercontent.com/u/7137473?s=40&v=4",
+          "name": "primiano",
+          "url": "https://github.com/primiano"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/320854?s=40&v=4",
-          "name": "falbrechtskirchinger",
-          "url": "https://github.com/falbrechtskirchinger"
+          "avatar": "https://avatars.githubusercontent.com/u/351085?s=40&v=4",
+          "name": "chromy",
+          "url": "https://github.com/chromy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/736001?s=40&v=4",
-          "name": "Teemperor",
-          "url": "https://github.com/Teemperor"
+          "avatar": "https://avatars.githubusercontent.com/u/19826?s=40&v=4",
+          "name": "fmayer",
+          "url": "https://github.com/fmayer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6147146?s=40&v=4",
+          "name": "stevegolton",
+          "url": "https://github.com/stevegolton"
+        }
+      ]
+    },
+    {
+      "title": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "6,136",
+      "forks": "2,193",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1059334?s=40&v=4",
+          "name": "jbeder",
+          "url": "https://github.com/jbeder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/456045?s=40&v=4",
+          "name": "SGSSGene",
+          "url": "https://github.com/SGSSGene"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50514813?s=40&v=4",
+          "name": "dota17",
+          "url": "https://github.com/dota17"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2918873?s=40&v=4",
+          "name": "neheb",
+          "url": "https://github.com/neheb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/391371?s=40&v=4",
+          "name": "asmaloney",
+          "url": "https://github.com/asmaloney"
+        }
+      ]
+    },
+    {
+      "title": "esphome/esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "11,696",
+      "forks": "5,628",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
+          "name": "bdraco",
+          "url": "https://github.com/bdraco"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3060199?s=40&v=4",
+          "name": "jesserockz",
+          "url": "https://github.com/jesserockz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6833237?s=40&v=4",
+          "name": "OttoWinter",
+          "url": "https://github.com/OttoWinter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/154711427?s=40&v=4",
+          "name": "swoboda1337",
+          "url": "https://github.com/swoboda1337"
         }
       ]
     },
@@ -291,9 +471,9 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "16,895",
-      "forks": "2,483",
-      "addStars": "20",
+      "stars": "16,913",
+      "forks": "2,490",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10536251?s=40&v=4",
@@ -323,71 +503,113 @@
       ]
     },
     {
-      "title": "jtenniswood/espcontrol",
-      "url": "https://github.com/jtenniswood/espcontrol",
-      "description": "Esphome based smart home control panel",
+      "title": "PX4/PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,025",
-      "forks": "150",
-      "addStars": "15",
+      "stars": "12,648",
+      "forks": "16,037",
+      "addStars": "13",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10881541?s=40&v=4",
-          "name": "jtenniswood",
-          "url": "https://github.com/jtenniswood"
+          "avatar": "https://avatars.githubusercontent.com/u/1208119?s=40&v=4",
+          "name": "LorenzMeier",
+          "url": "https://github.com/LorenzMeier"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/628349?s=40&v=4",
-          "name": "salnajjar",
-          "url": "https://github.com/salnajjar"
+          "avatar": "https://avatars.githubusercontent.com/u/84712?s=40&v=4",
+          "name": "dagar",
+          "url": "https://github.com/dagar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/281593?s=40&v=4",
+          "name": "bkueng",
+          "url": "https://github.com/bkueng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4349962?s=40&v=4",
-          "name": "modem7",
-          "url": "https://github.com/modem7"
+          "avatar": "https://avatars.githubusercontent.com/u/1419688?s=40&v=4",
+          "name": "julianoes",
+          "url": "https://github.com/julianoes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4668506?s=40&v=4",
+          "name": "MaEtUgR",
+          "url": "https://github.com/MaEtUgR"
         }
       ]
     },
     {
-      "title": "aria2/aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "title": "microsoft/onnxruntime-genai",
+      "url": "https://github.com/microsoft/onnxruntime-genai",
+      "description": "Generative AI extensions for onnxruntime",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,382",
-      "forks": "3,911",
-      "addStars": "77",
+      "stars": "1,122",
+      "forks": "353",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/404610?s=40&v=4",
-          "name": "tatsuhiro-t",
-          "url": "https://github.com/tatsuhiro-t"
+          "avatar": "https://avatars.githubusercontent.com/u/73297588?s=40&v=4",
+          "name": "jchen351",
+          "url": "https://github.com/jchen351"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/383665?s=40&v=4",
-          "name": "nmaier",
-          "url": "https://github.com/nmaier"
+          "avatar": "https://avatars.githubusercontent.com/u/12852605?s=40&v=4",
+          "name": "baijumeswani",
+          "url": "https://github.com/baijumeswani"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1257373?s=40&v=4",
-          "name": "ITriskTI",
-          "url": "https://github.com/ITriskTI"
+          "avatar": "https://avatars.githubusercontent.com/u/38674843?s=40&v=4",
+          "name": "RyanUnderhill",
+          "url": "https://github.com/RyanUnderhill"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16373649?s=40&v=4",
-          "name": "kwkam",
-          "url": "https://github.com/kwkam"
+          "avatar": "https://avatars.githubusercontent.com/u/115581922?s=40&v=4",
+          "name": "kunal-vaishnavi",
+          "url": "https://github.com/kunal-vaishnavi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6374087?s=40&v=4",
-          "name": "103yiran",
-          "url": "https://github.com/103yiran"
+          "avatar": "https://avatars.githubusercontent.com/u/3302433?s=40&v=4",
+          "name": "natke",
+          "url": "https://github.com/natke"
+        }
+      ]
+    },
+    {
+      "title": "fougue/mayo",
+      "url": "https://github.com/fougue/mayo",
+      "description": "3D CAD viewer and converter based on Qt + OpenCascade",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "2,209",
+      "forks": "358",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/939132?s=40&v=4",
+          "name": "HuguesDelorme",
+          "url": "https://github.com/HuguesDelorme"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/851453?s=40&v=4",
+          "name": "gkv311",
+          "url": "https://github.com/gkv311"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/470143?s=40&v=4",
+          "name": "mmuman",
+          "url": "https://github.com/mmuman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4140247?s=40&v=4",
+          "name": "luzpaz",
+          "url": "https://github.com/luzpaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5566160?s=40&v=4",
+          "name": "VictorLamoine",
+          "url": "https://github.com/VictorLamoine"
         }
       ]
     },
@@ -397,9 +619,9 @@
       "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,835",
-      "forks": "2,265",
-      "addStars": "8",
+      "stars": "2,841",
+      "forks": "2,288",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10891919?s=40&v=4",
@@ -429,150 +651,34 @@
       ]
     },
     {
-      "title": "microsoft/onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "title": "Z3Prover/z3",
+      "url": "https://github.com/Z3Prover/z3",
+      "description": "The Z3 Theorem Prover",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "21,863",
-      "forks": "4,231",
-      "addStars": "10",
+      "stars": "12,695",
+      "forks": "1,690",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30328909?s=40&v=4",
-          "name": "tianleiwu",
-          "url": "https://github.com/tianleiwu"
+          "avatar": "https://avatars.githubusercontent.com/u/3085284?s=40&v=4",
+          "name": "NikolajBjorner",
+          "url": "https://github.com/NikolajBjorner"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7679871?s=40&v=4",
-          "name": "fs-eire",
-          "url": "https://github.com/fs-eire"
+          "avatar": "https://avatars.githubusercontent.com/u/5377127?s=40&v=4",
+          "name": "levnach",
+          "url": "https://github.com/levnach"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18449977?s=40&v=4",
-          "name": "edgchen1",
-          "url": "https://github.com/edgchen1"
+          "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",
+          "name": "leodemoura",
+          "url": "https://github.com/leodemoura"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/979079?s=40&v=4",
-          "name": "skottmckay",
-          "url": "https://github.com/skottmckay"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11303988?s=40&v=4",
-          "name": "yuslepukhin",
-          "url": "https://github.com/yuslepukhin"
-        }
-      ]
-    },
-    {
-      "title": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "128,397",
-      "forks": "23,256",
-      "addStars": "128",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
-          "name": "ggerganov",
-          "url": "https://github.com/ggerganov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7702203?s=40&v=4",
-          "name": "ngxson",
-          "url": "https://github.com/ngxson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1629204?s=40&v=4",
-          "name": "CISC",
-          "url": "https://github.com/CISC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2141330?s=40&v=4",
-          "name": "slaren",
-          "url": "https://github.com/slaren"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18492268?s=40&v=4",
-          "name": "JohannesGaessler",
-          "url": "https://github.com/JohannesGaessler"
-        }
-      ]
-    },
-    {
-      "title": "nextcloud/desktop",
-      "url": "https://github.com/nextcloud/desktop",
-      "description": "💻 Desktop sync client for Nextcloud",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "3,870",
-      "forks": "1,009",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70155116?s=40&v=4",
-          "name": "claucambra",
-          "url": "https://github.com/claucambra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1070214?s=40&v=4",
-          "name": "dragotin",
-          "url": "https://github.com/dragotin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20296731?s=40&v=4",
-          "name": "nextcloud-bot",
-          "url": "https://github.com/nextcloud-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/168967?s=40&v=4",
-          "name": "mgallien",
-          "url": "https://github.com/mgallien"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4",
-          "name": "ogoffart",
-          "url": "https://github.com/ogoffart"
-        }
-      ]
-    },
-    {
-      "title": "firebase/firebase-ios-sdk",
-      "url": "https://github.com/firebase/firebase-ios-sdk",
-      "description": "Firebase SDK for Apple App Development",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": "6,657",
-      "forks": "1,786",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73870?s=40&v=4",
-          "name": "paulb777",
-          "url": "https://github.com/paulb777"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36927374?s=40&v=4",
-          "name": "ncooke3",
-          "url": "https://github.com/ncooke3"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10249104?s=40&v=4",
-          "name": "wilhuff",
-          "url": "https://github.com/wilhuff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3010484?s=40&v=4",
-          "name": "andrewheard",
-          "url": "https://github.com/andrewheard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1097316?s=40&v=4",
-          "name": "ryanwilson",
-          "url": "https://github.com/ryanwilson"
+          "avatar": "https://avatars.githubusercontent.com/u/2998477?s=40&v=4",
+          "name": "nunoplopes",
+          "url": "https://github.com/nunoplopes"
         }
       ]
     }

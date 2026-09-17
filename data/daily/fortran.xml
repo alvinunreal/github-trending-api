@@ -3,45 +3,7 @@
     <title>GitHub Fortran Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Fortran Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
-    <item>
-      <title>ElmerCSC/elmerfem</title>
-      <link>https://github.com/ElmerCSC/elmerfem</link>
-      <description>Official git repository of Elmer FEM software</description>
-      <guid>https://github.com/ElmerCSC/elmerfem</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>1,706</stars>
-      <forks>396</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6664192?s=40&amp;v=4</avatar>
-          <name>raback</name>
-          <url>https://github.com/raback</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10917604?s=40&amp;v=4</avatar>
-          <name>mmalinen</name>
-          <url>https://github.com/mmalinen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10937930?s=40&amp;v=4</avatar>
-          <name>juharu</name>
-          <url>https://github.com/juharu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/975622?s=40&amp;v=4</avatar>
-          <name>ettaka</name>
-          <url>https://github.com/ettaka</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7487289?s=40&amp;v=4</avatar>
-          <name>juhanikataja</name>
-          <url>https://github.com/juhanikataja</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>firemodels/fds</title>
       <link>https://github.com/firemodels/fds</link>
@@ -49,9 +11,9 @@
       <guid>https://github.com/firemodels/fds</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>875</stars>
+      <stars>876</stars>
       <forks>689</forks>
-      <addStars>2</addStars>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12403014?s=40&amp;v=4</avatar>
@@ -77,82 +39,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7450069?s=40&amp;v=4</avatar>
           <name>marcosvanella</name>
           <url>https://github.com/marcosvanella</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OpenFAST/openfast</title>
-      <link>https://github.com/OpenFAST/openfast</link>
-      <description>Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
-      <guid>https://github.com/OpenFAST/openfast</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>969</stars>
-      <forks>539</forks>
-      <addStars>1</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
-          <name>bjonkman</name>
-          <url>https://github.com/bjonkman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
-          <name>andrew-platt</name>
-          <url>https://github.com/andrew-platt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
-          <name>rafmudaf</name>
-          <url>https://github.com/rafmudaf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
-          <name>deslaughter</name>
-          <url>https://github.com/deslaughter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
-          <name>ebranlard</name>
-          <url>https://github.com/ebranlard</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>cp2k/cp2k</title>
-      <link>https://github.com/cp2k/cp2k</link>
-      <description>Quantum chemistry and solid state physics software package</description>
-      <guid>https://github.com/cp2k/cp2k</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>1,207</stars>
-      <forks>500</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4202567?s=40&amp;v=4</avatar>
-          <name>vondele</name>
-          <url>https://github.com/vondele</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10218869?s=40&amp;v=4</avatar>
-          <name>mkrack</name>
-          <url>https://github.com/mkrack</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241771?s=40&amp;v=4</avatar>
-          <name>oschuett</name>
-          <url>https://github.com/oschuett</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25837887?s=40&amp;v=4</avatar>
-          <name>tlaino</name>
-          <url>https://github.com/tlaino</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16081490?s=40&amp;v=4</avatar>
-          <name>juerghutter</name>
-          <url>https://github.com/juerghutter</url>
         </contributor>
       </contributors>
     </item>
@@ -195,6 +81,82 @@
       </contributors>
     </item>
     <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>Collection of builder repositories for BinaryBuilder.jl</description>
+      <guid>https://github.com/JuliaPackaging/Yggdrasil</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>406</stars>
+      <forks>762</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/765740?s=40&amp;v=4</avatar>
+          <name>giordano</name>
+          <url>https://github.com/giordano</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/213514?s=40&amp;v=4</avatar>
+          <name>eschnett</name>
+          <url>https://github.com/eschnett</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/130920?s=40&amp;v=4</avatar>
+          <name>staticfloat</name>
+          <url>https://github.com/staticfloat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/383068?s=40&amp;v=4</avatar>
+          <name>maleadt</name>
+          <url>https://github.com/maleadt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145258?s=40&amp;v=4</avatar>
+          <name>vchuravy</name>
+          <url>https://github.com/vchuravy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MetOffice/jules</title>
+      <link>https://github.com/MetOffice/jules</link>
+      <description>The Joint UK Land Environment Simulator</description>
+      <guid>https://github.com/MetOffice/jules</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>23</stars>
+      <forks>36</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109733895?s=40&amp;v=4</avatar>
+          <name>james-bruten-mo</name>
+          <url>https://github.com/james-bruten-mo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145924708?s=40&amp;v=4</avatar>
+          <name>maggiehendry</name>
+          <url>https://github.com/maggiehendry</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43399998?s=40&amp;v=4</avatar>
+          <name>Pierre-siddall</name>
+          <url>https://github.com/Pierre-siddall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2984440?s=40&amp;v=4</avatar>
+          <name>yaswant</name>
+          <url>https://github.com/yaswant</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61183013?s=40&amp;v=4</avatar>
+          <name>jennyhickson</name>
+          <url>https://github.com/jennyhickson</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>wrf-model/WRF</title>
       <link>https://github.com/wrf-model/WRF</link>
       <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
@@ -203,7 +165,7 @@
       <languageColor>#4d41b1</languageColor>
       <stars>1,761</stars>
       <forks>882</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12666234?s=40&amp;v=4</avatar>
@@ -233,40 +195,40 @@
       </contributors>
     </item>
     <item>
-      <title>MetOffice/jules</title>
-      <link>https://github.com/MetOffice/jules</link>
-      <description>The Joint UK Land Environment Simulator</description>
-      <guid>https://github.com/MetOffice/jules</guid>
+      <title>cp2k/cp2k</title>
+      <link>https://github.com/cp2k/cp2k</link>
+      <description>Quantum chemistry and solid state physics software package</description>
+      <guid>https://github.com/cp2k/cp2k</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>23</stars>
-      <forks>35</forks>
-      <addStars>1</addStars>
+      <stars>1,208</stars>
+      <forks>500</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/109733895?s=40&amp;v=4</avatar>
-          <name>james-bruten-mo</name>
-          <url>https://github.com/james-bruten-mo</url>
+          <avatar>https://avatars.githubusercontent.com/u/4202567?s=40&amp;v=4</avatar>
+          <name>vondele</name>
+          <url>https://github.com/vondele</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43399998?s=40&amp;v=4</avatar>
-          <name>Pierre-siddall</name>
-          <url>https://github.com/Pierre-siddall</url>
+          <avatar>https://avatars.githubusercontent.com/u/10218869?s=40&amp;v=4</avatar>
+          <name>mkrack</name>
+          <url>https://github.com/mkrack</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145924708?s=40&amp;v=4</avatar>
-          <name>maggiehendry</name>
-          <url>https://github.com/maggiehendry</url>
+          <avatar>https://avatars.githubusercontent.com/u/241771?s=40&amp;v=4</avatar>
+          <name>oschuett</name>
+          <url>https://github.com/oschuett</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2984440?s=40&amp;v=4</avatar>
-          <name>yaswant</name>
-          <url>https://github.com/yaswant</url>
+          <avatar>https://avatars.githubusercontent.com/u/25837887?s=40&amp;v=4</avatar>
+          <name>tlaino</name>
+          <url>https://github.com/tlaino</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61183013?s=40&amp;v=4</avatar>
-          <name>jennyhickson</name>
-          <url>https://github.com/jennyhickson</url>
+          <avatar>https://avatars.githubusercontent.com/u/16081490?s=40&amp;v=4</avatar>
+          <name>juerghutter</name>
+          <url>https://github.com/juerghutter</url>
         </contributor>
       </contributors>
     </item>
@@ -305,6 +267,158 @@
           <avatar>https://avatars.githubusercontent.com/u/26165365?s=40&amp;v=4</avatar>
           <name>stevemullerworth</name>
           <url>https://github.com/stevemullerworth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MCSclimate/MCT</title>
+      <link>https://github.com/MCSclimate/MCT</link>
+      <description>Model Coupling Tookit</description>
+      <guid>https://github.com/MCSclimate/MCT</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>54</stars>
+      <forks>19</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/947068?s=40&amp;v=4</avatar>
+          <name>rljacob</name>
+          <url>https://github.com/rljacob</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1740206?s=40&amp;v=4</avatar>
+          <name>quantheory</name>
+          <url>https://github.com/quantheory</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6126104?s=40&amp;v=4</avatar>
+          <name>jedwards4b</name>
+          <url>https://github.com/jedwards4b</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5412?s=40&amp;v=4</avatar>
+          <name>steder</name>
+          <url>https://github.com/steder</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13952101?s=40&amp;v=4</avatar>
+          <name>Katetc</name>
+          <url>https://github.com/Katetc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
+      <guid>https://github.com/OpenFAST/openfast</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>969</stars>
+      <forks>540</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
+          <name>bjonkman</name>
+          <url>https://github.com/bjonkman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
+          <name>andrew-platt</name>
+          <url>https://github.com/andrew-platt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
+          <name>rafmudaf</name>
+          <url>https://github.com/rafmudaf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
+          <name>deslaughter</name>
+          <url>https://github.com/deslaughter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
+          <name>ebranlard</name>
+          <url>https://github.com/ebranlard</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MetOffice/lfric_apps</title>
+      <link>https://github.com/MetOffice/lfric_apps</link>
+      <description>LFRic Applications</description>
+      <guid>https://github.com/MetOffice/lfric_apps</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>31</stars>
+      <forks>117</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109733895?s=40&amp;v=4</avatar>
+          <name>james-bruten-mo</name>
+          <url>https://github.com/james-bruten-mo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/136574563?s=40&amp;v=4</avatar>
+          <name>MetBenjaminWent</name>
+          <url>https://github.com/MetBenjaminWent</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87382490?s=40&amp;v=4</avatar>
+          <name>mo-marqh</name>
+          <url>https://github.com/mo-marqh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14180399?s=40&amp;v=4</avatar>
+          <name>tommbendall</name>
+          <url>https://github.com/tommbendall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24609575?s=40&amp;v=4</avatar>
+          <name>andrewcoughtrie</name>
+          <url>https://github.com/andrewcoughtrie</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ElmerCSC/elmerfem</title>
+      <link>https://github.com/ElmerCSC/elmerfem</link>
+      <description>Official git repository of Elmer FEM software</description>
+      <guid>https://github.com/ElmerCSC/elmerfem</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>1,708</stars>
+      <forks>397</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6664192?s=40&amp;v=4</avatar>
+          <name>raback</name>
+          <url>https://github.com/raback</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10917604?s=40&amp;v=4</avatar>
+          <name>mmalinen</name>
+          <url>https://github.com/mmalinen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10937930?s=40&amp;v=4</avatar>
+          <name>juharu</name>
+          <url>https://github.com/juharu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/975622?s=40&amp;v=4</avatar>
+          <name>ettaka</name>
+          <url>https://github.com/ettaka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7487289?s=40&amp;v=4</avatar>
+          <name>juhanikataja</name>
+          <url>https://github.com/juhanikataja</url>
         </contributor>
       </contributors>
     </item>

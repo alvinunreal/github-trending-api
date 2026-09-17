@@ -3,7 +3,7 @@
     <title>GitHub Open-policy-agent Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Open-policy-agent Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>Azure/azure-policy</title>
       <link>https://github.com/Azure/azure-policy</link>
@@ -13,7 +13,7 @@
       <languageColor>#7d9199</languageColor>
       <stars>1,698</stars>
       <forks>1,159</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/718813?s=40&amp;v=4</avatar>
@@ -43,46 +43,13 @@
       </contributors>
     </item>
     <item>
-      <title>aquasecurity/trivy-checks</title>
-      <link>https://github.com/aquasecurity/trivy-checks</link>
-      <description/>
-      <guid>https://github.com/aquasecurity/trivy-checks</guid>
-      <language>Open Policy Agent</language>
-      <languageColor>#7d9199</languageColor>
-      <stars>83</stars>
-      <forks>78</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4</avatar>
-          <name>nikpivkin</name>
-          <url>https://github.com/nikpivkin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4</avatar>
-          <name>simar7</name>
-          <url>https://github.com/simar7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9782393?s=40&amp;v=4</avatar>
-          <name>chen-keinan</name>
-          <url>https://github.com/chen-keinan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/123973998?s=40&amp;v=4</avatar>
-          <name>yagreut</name>
-          <url>https://github.com/yagreut</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Checkmarx/kics</title>
       <link>https://github.com/Checkmarx/kics</link>
       <description>Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.</description>
       <guid>https://github.com/Checkmarx/kics</guid>
       <language>Open Policy Agent</language>
       <languageColor>#7d9199</languageColor>
-      <stars>2,699</stars>
+      <stars>2,700</stars>
       <forks>381</forks>
       <addStars>4</addStars>
       <contributors>
@@ -109,6 +76,39 @@
       </contributors>
     </item>
     <item>
+      <title>aquasecurity/trivy-checks</title>
+      <link>https://github.com/aquasecurity/trivy-checks</link>
+      <description/>
+      <guid>https://github.com/aquasecurity/trivy-checks</guid>
+      <language>Open Policy Agent</language>
+      <languageColor>#7d9199</languageColor>
+      <stars>83</stars>
+      <forks>79</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4</avatar>
+          <name>nikpivkin</name>
+          <url>https://github.com/nikpivkin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4</avatar>
+          <name>simar7</name>
+          <url>https://github.com/simar7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9782393?s=40&amp;v=4</avatar>
+          <name>chen-keinan</name>
+          <url>https://github.com/chen-keinan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/123973998?s=40&amp;v=4</avatar>
+          <name>yagreut</name>
+          <url>https://github.com/yagreut</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>harness-community/harnesscd-example-apps</title>
       <link>https://github.com/harness-community/harnesscd-example-apps</link>
       <description>Example Apps to Demonstrate Harness CD &amp; GitOps</description>
@@ -116,7 +116,7 @@
       <language>Open Policy Agent</language>
       <languageColor>#7d9199</languageColor>
       <stars>24</stars>
-      <forks>1,328</forks>
+      <forks>1,330</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>

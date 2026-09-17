@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Monthly Trending",
   "description": "Monthly Trending of Mustache Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "prometheus-community/helm-charts",
@@ -10,7 +10,7 @@
       "description": "Prometheus community Helm charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "6,187",
+      "stars": "6,186",
       "forks": "5,385",
       "addStars": "32",
       "contributors": [
@@ -39,7 +39,7 @@
       "languageColor": "#724b3b",
       "stars": "2,366",
       "forks": "2,114",
-      "addStars": "21",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7290987?s=40&v=4",
@@ -96,9 +96,9 @@
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": "909",
+      "stars": "910",
       "forks": "794",
-      "addStars": "20",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91628200?s=40&v=4",
@@ -124,43 +124,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/89214940?s=40&v=4",
           "name": "mentiaa",
           "url": "https://github.com/mentiaa"
-        }
-      ]
-    },
-    {
-      "title": "swagger-api/swagger-codegen",
-      "url": "https://github.com/swagger-api/swagger-codegen",
-      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": "17,787",
-      "forks": "5,959",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/934260?s=40&v=4",
-          "name": "wing328",
-          "url": "https://github.com/wing328"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
-          "name": "fehguy",
-          "url": "https://github.com/fehguy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3266608?s=40&v=4",
-          "name": "HugoMario",
-          "url": "https://github.com/HugoMario"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/159740?s=40&v=4",
-          "name": "xhh",
-          "url": "https://github.com/xhh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15786658?s=40&v=4",
-          "name": "frantuma",
-          "url": "https://github.com/frantuma"
         }
       ]
     },
@@ -192,13 +155,50 @@
       ]
     },
     {
+      "title": "swagger-api/swagger-codegen",
+      "url": "https://github.com/swagger-api/swagger-codegen",
+      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": "17,788",
+      "forks": "5,959",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/934260?s=40&v=4",
+          "name": "wing328",
+          "url": "https://github.com/wing328"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
+          "name": "fehguy",
+          "url": "https://github.com/fehguy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3266608?s=40&v=4",
+          "name": "HugoMario",
+          "url": "https://github.com/HugoMario"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/159740?s=40&v=4",
+          "name": "xhh",
+          "url": "https://github.com/xhh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15786658?s=40&v=4",
+          "name": "frantuma",
+          "url": "https://github.com/frantuma"
+        }
+      ]
+    },
+    {
       "title": "goharbor/harbor-helm",
       "url": "https://github.com/goharbor/harbor-helm",
       "description": "The helm chart to deploy Harbor",
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": "1,519",
-      "forks": "863",
+      "forks": "864",
       "addStars": "11",
       "contributors": [
         {
@@ -272,7 +272,7 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": "1,307",
-      "forks": "1,082",
+      "forks": "1,083",
       "addStars": "5",
       "contributors": [
         {
@@ -299,6 +299,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/3503707?s=40&v=4",
           "name": "bwagner5",
           "url": "https://github.com/bwagner5"
+        }
+      ]
+    },
+    {
+      "title": "codefresh-contrib/gitops-certification-examples",
+      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
+      "description": "GitOps Certification Level 1 examples",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": "302",
+      "forks": "5,952",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39800303?s=40&v=4",
+          "name": "kostis-codefresh",
+          "url": "https://github.com/kostis-codefresh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84354430?s=40&v=4",
+          "name": "hseligson1",
+          "url": "https://github.com/hseligson1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7886068?s=40&v=4",
+          "name": "amazingandyyy",
+          "url": "https://github.com/amazingandyyy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16040521?s=40&v=4",
+          "name": "aspanner",
+          "url": "https://github.com/aspanner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27641366?s=40&v=4",
+          "name": "kamuridesu",
+          "url": "https://github.com/kamuridesu"
         }
       ]
     }

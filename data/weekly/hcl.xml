@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>terraform-google-modules/terraform-google-kubernetes-engine</title>
       <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>1,280</stars>
-      <forks>1,286</forks>
-      <addStars>0</addStars>
+      <stars>1,281</stars>
+      <forks>1,285</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
@@ -38,44 +38,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-vpc</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-      <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-vpc</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>3,262</stars>
-      <forks>4,628</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33663870?s=40&amp;v=4</avatar>
-          <name>DrFaust92</name>
-          <url>https://github.com/DrFaust92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
-          <name>betajobot</name>
-          <url>https://github.com/betajobot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
       <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
@@ -83,8 +45,8 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>5,005</stars>
-      <forks>4,408</forks>
-      <addStars>3</addStars>
+      <forks>4,407</forks>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
@@ -114,6 +76,82 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-aws-modules/terraform-aws-vpc</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+      <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-vpc</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>3,263</stars>
+      <forks>4,626</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33663870?s=40&amp;v=4</avatar>
+          <name>DrFaust92</name>
+          <url>https://github.com/DrFaust92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>GoogleCloudPlatform/cloud-foundation-fabric</title>
+      <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+      <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+      <guid>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>2,099</stars>
+      <forks>1,266</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66007?s=40&amp;v=4</avatar>
+          <name>ludoo</name>
+          <url>https://github.com/ludoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/100541?s=40&amp;v=4</avatar>
+          <name>juliocc</name>
+          <url>https://github.com/juliocc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81653?s=40&amp;v=4</avatar>
+          <name>lcaggio</name>
+          <url>https://github.com/lcaggio</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3180307?s=40&amp;v=4</avatar>
+          <name>wiktorn</name>
+          <url>https://github.com/wiktorn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2360747?s=40&amp;v=4</avatar>
+          <name>sruffilli</name>
+          <url>https://github.com/sruffilli</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-aws-modules/terraform-aws-s3-bucket</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
       <description>Terraform module to create AWS S3 resources 🇺🇦</description>
@@ -121,7 +159,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>585</stars>
-      <forks>3,808</forks>
+      <forks>3,810</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
@@ -190,6 +228,115 @@
       </contributors>
     </item>
     <item>
+      <title>terraform-aws-modules/terraform-aws-ecs</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
+      <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-ecs</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>676</stars>
+      <forks>669</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
+          <name>antonbabenko</name>
+          <url>https://github.com/antonbabenko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/481964?s=40&amp;v=4</avatar>
+          <name>arminc</name>
+          <url>https://github.com/arminc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28572351?s=40&amp;v=4</avatar>
+          <name>betajobot</name>
+          <url>https://github.com/betajobot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-google-modules/terraform-google-project-factory</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>963</stars>
+      <forks>593</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
+          <name>morgante</name>
+          <url>https://github.com/morgante</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
+          <name>adrienthebo</name>
+          <url>https://github.com/adrienthebo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
+          <name>cloud-foundation-bot</name>
+          <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>terraform-aws-modules/terraform-aws-elasticache</title>
+      <link>https://github.com/terraform-aws-modules/terraform-aws-elasticache</link>
+      <description>Terraform module to create AWS ElastiCache resources 🇺🇦</description>
+      <guid>https://github.com/terraform-aws-modules/terraform-aws-elasticache</guid>
+      <language>HCL</language>
+      <languageColor>#844FBA</languageColor>
+      <stars>28</stars>
+      <forks>70</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
+          <name>bryantbiggs</name>
+          <url>https://github.com/bryantbiggs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
+          <name>semantic-release-bot</name>
+          <url>https://github.com/semantic-release-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69476188?s=40&amp;v=4</avatar>
+          <name>magreenbaum</name>
+          <url>https://github.com/magreenbaum</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/901867?s=40&amp;v=4</avatar>
+          <name>FlorinAndrei</name>
+          <url>https://github.com/FlorinAndrei</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4600857?s=40&amp;v=4</avatar>
+          <name>adubkov</name>
+          <url>https://github.com/adubkov</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>terraform-google-modules/terraform-google-iam</title>
       <link>https://github.com/terraform-google-modules/terraform-google-iam</link>
       <description>Manages multiple IAM roles for resources on Google Cloud</description>
@@ -223,35 +370,30 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-google-modules/terraform-google-project-factory</title>
-      <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-      <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-      <guid>https://github.com/terraform-google-modules/terraform-google-project-factory</guid>
+      <title>terraform-google-modules/terraform-google-network</title>
+      <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+      <description>Sets up a new VPC network on Google Cloud</description>
+      <guid>https://github.com/terraform-google-modules/terraform-google-network</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>963</stars>
-      <forks>593</forks>
+      <stars>503</stars>
+      <forks>1,280</forks>
       <addStars>1</addStars>
       <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
-          <name>aaron-lane</name>
-          <url>https://github.com/aaron-lane</url>
-        </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1627801?s=40&amp;v=4</avatar>
           <name>morgante</name>
           <url>https://github.com/morgante</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/172194?s=40&amp;v=4</avatar>
-          <name>adrienthebo</name>
-          <url>https://github.com/adrienthebo</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60107303?s=40&amp;v=4</avatar>
           <name>cloud-foundation-bot</name>
           <url>https://github.com/cloud-foundation-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10655063?s=40&amp;v=4</avatar>
+          <name>aaron-lane</name>
+          <url>https://github.com/aaron-lane</url>
         </contributor>
       </contributors>
     </item>

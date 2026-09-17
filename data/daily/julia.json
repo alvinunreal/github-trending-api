@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "JuliaLang/julia",
@@ -10,8 +10,8 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "49,107",
-      "forks": "5,976",
+      "stars": "49,115",
+      "forks": "5,975",
       "addStars": "7",
       "contributors": [
         {
@@ -42,12 +42,86 @@
       ]
     },
     {
+      "title": "JuliaSmoothOptimizers/Krylov.jl",
+      "url": "https://github.com/JuliaSmoothOptimizers/Krylov.jl",
+      "description": "A Julia Basket of Hand-Picked Krylov Methods",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "497",
+      "forks": "73",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35051714?s=40&v=4",
+          "name": "amontoison",
+          "url": "https://github.com/amontoison"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38760?s=40&v=4",
+          "name": "dpo",
+          "url": "https://github.com/dpo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47035783?s=40&v=4",
+          "name": "geoffroyleconte",
+          "url": "https://github.com/geoffroyleconte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25304288?s=40&v=4",
+          "name": "tmigot",
+          "url": "https://github.com/tmigot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1068752?s=40&v=4",
+          "name": "abelsiqueira",
+          "url": "https://github.com/abelsiqueira"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "1,413",
+      "forks": "297",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20099589?s=40&v=4",
+          "name": "ali-ramadhan",
+          "url": "https://github.com/ali-ramadhan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15271942?s=40&v=4",
+          "name": "glwagner",
+          "url": "https://github.com/glwagner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7112768?s=40&v=4",
+          "name": "navidcy",
+          "url": "https://github.com/navidcy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33547697?s=40&v=4",
+          "name": "simone-silvestri",
+          "url": "https://github.com/simone-silvestri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13205162?s=40&v=4",
+          "name": "tomchor",
+          "url": "https://github.com/tomchor"
+        }
+      ]
+    },
+    {
       "title": "MakieOrg/Makie.jl",
       "url": "https://github.com/MakieOrg/Makie.jl",
       "description": "Interactive data visualizations and plotting in Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": "2,810",
+      "stars": "2,812",
       "forks": "396",
       "addStars": "0",
       "contributors": [
@@ -85,7 +159,7 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": "732",
-      "forks": "605",
+      "forks": "604",
       "addStars": "0",
       "contributors": [
         {
@@ -112,6 +186,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/5619885?s=40&v=4",
           "name": "DilumAluthge",
           "url": "https://github.com/DilumAluthge"
+        }
+      ]
+    },
+    {
+      "title": "CliMA/ClimaCore.jl",
+      "url": "https://github.com/CliMA/ClimaCore.jl",
+      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": "118",
+      "forks": "19",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1880641?s=40&v=4",
+          "name": "charleskawczynski",
+          "url": "https://github.com/charleskawczynski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1692009?s=40&v=4",
+          "name": "simonbyrne",
+          "url": "https://github.com/simonbyrne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39932030?s=40&v=4",
+          "name": "valeriabarra",
+          "url": "https://github.com/valeriabarra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55154978?s=40&v=4",
+          "name": "sriharshakandala",
+          "url": "https://github.com/sriharshakandala"
         }
       ]
     }

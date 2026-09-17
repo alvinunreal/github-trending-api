@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "abue-ammar/tinycast",
@@ -10,9 +10,9 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "5,126",
-      "forks": "240",
-      "addStars": "1,986",
+      "stars": "6,042",
+      "forks": "282",
+      "addStars": "2,953",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
@@ -42,51 +42,14 @@
       ]
     },
     {
-      "title": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "21,489",
-      "forks": "1,940",
-      "addStars": "377",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
-          "name": "steipete",
-          "url": "https://github.com/steipete"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
-          "name": "ratulsarna",
-          "url": "https://github.com/ratulsarna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104957188?s=40&v=4",
-          "name": "Yuxin-Qiao",
-          "url": "https://github.com/Yuxin-Qiao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
-    {
       "title": "peetzweg/opendisplay",
       "url": "https://github.com/peetzweg/opendisplay",
       "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,288",
-      "forks": "287",
-      "addStars": "1,159",
+      "stars": "4,488",
+      "forks": "296",
+      "addStars": "1,542",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/839848?s=40&v=4",
@@ -111,401 +74,14 @@
       ]
     },
     {
-      "title": "FrizzleM/SideInstaller",
-      "url": "https://github.com/FrizzleM/SideInstaller",
-      "description": "An an app that installs Sidestore on iOS 27, fully on-device",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "732",
-      "forks": "63",
-      "addStars": "91",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/182496942?s=40&v=4",
-          "name": "FrizzleM",
-          "url": "https://github.com/FrizzleM"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/235445911?s=40&v=4",
-          "name": "so-5699",
-          "url": "https://github.com/so-5699"
-        }
-      ]
-    },
-    {
-      "title": "altstoreio/AltStore",
-      "url": "https://github.com/altstoreio/AltStore",
-      "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "14,383",
-      "forks": "1,504",
-      "addStars": "66",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/705880?s=40&v=4",
-          "name": "rileytestut",
-          "url": "https://github.com/rileytestut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15572604?s=40&v=4",
-          "name": "caroline-moore",
-          "url": "https://github.com/caroline-moore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99302292?s=40&v=4",
-          "name": "shanegillio",
-          "url": "https://github.com/shanegillio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5678977?s=40&v=4",
-          "name": "tbodt",
-          "url": "https://github.com/tbodt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26331126?s=40&v=4",
-          "name": "noah978",
-          "url": "https://github.com/noah978"
-        }
-      ]
-    },
-    {
-      "title": "iFurySt/open-codex-computer-use",
-      "url": "https://github.com/iFurySt/open-codex-computer-use",
-      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "2,099",
-      "forks": "186",
-      "addStars": "140",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16201837?s=40&v=4",
-          "name": "iFurySt",
-          "url": "https://github.com/iFurySt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56818734?s=40&v=4",
-          "name": "usoonees",
-          "url": "https://github.com/usoonees"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25194972?s=40&v=4",
-          "name": "tisfeng",
-          "url": "https://github.com/tisfeng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46434871?s=40&v=4",
-          "name": "kogekiplay",
-          "url": "https://github.com/kogekiplay"
-        }
-      ]
-    },
-    {
-      "title": "BarutSRB/OmniWM",
-      "url": "https://github.com/BarutSRB/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "2,930",
-      "forks": "120",
-      "addStars": "131",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20517828?s=40&v=4",
-          "name": "nikitabobko",
-          "url": "https://github.com/nikitabobko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12249659?s=40&v=4",
-          "name": "BarutSRB",
-          "url": "https://github.com/BarutSRB"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23367003?s=40&v=4",
-          "name": "zicochaos",
-          "url": "https://github.com/zicochaos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/758096?s=40&v=4",
-          "name": "mobile-ar",
-          "url": "https://github.com/mobile-ar"
-        }
-      ]
-    },
-    {
-      "title": "TheBoredTeam/boring.notch",
-      "url": "https://github.com/TheBoredTeam/boring.notch",
-      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "10,748",
-      "forks": "1,014",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4",
-          "name": "Alexander5015",
-          "url": "https://github.com/Alexander5015"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46974223?s=40&v=4",
-          "name": "theboringhumane",
-          "url": "https://github.com/theboringhumane"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58087998?s=40&v=4",
-          "name": "richardkunkli",
-          "url": "https://github.com/richardkunkli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96822675?s=40&v=4",
-          "name": "OmChachad",
-          "url": "https://github.com/OmChachad"
-        }
-      ]
-    },
-    {
-      "title": "dwarvesf/hidden",
-      "url": "https://github.com/dwarvesf/hidden",
-      "description": "An ultra-light MacOS utility that helps hide menu bar icons",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "14,779",
-      "forks": "486",
-      "addStars": "87",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14150687?s=40&v=4",
-          "name": "phucledien",
-          "url": "https://github.com/phucledien"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1749624?s=40&v=4",
-          "name": "tieubao",
-          "url": "https://github.com/tieubao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37923396?s=40&v=4",
-          "name": "siliconprime-thanhduc",
-          "url": "https://github.com/siliconprime-thanhduc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35858359?s=40&v=4",
-          "name": "viettrungphan",
-          "url": "https://github.com/viettrungphan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43706386?s=40&v=4",
-          "name": "p-z-l",
-          "url": "https://github.com/p-z-l"
-        }
-      ]
-    },
-    {
-      "title": "osaurus-ai/osaurus",
-      "url": "https://github.com/osaurus-ai/osaurus",
-      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "7,921",
-      "forks": "467",
-      "addStars": "118",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/189663?s=40&v=4",
-          "name": "tpae",
-          "url": "https://github.com/tpae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138501656?s=40&v=4",
-          "name": "jjang-ai",
-          "url": "https://github.com/jjang-ai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61781996?s=40&v=4",
-          "name": "RaajeevChandran",
-          "url": "https://github.com/RaajeevChandran"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/264272563?s=40&v=4",
-          "name": "mimeding",
-          "url": "https://github.com/mimeding"
-        }
-      ]
-    },
-    {
-      "title": "LiveContainer/LiveContainer",
-      "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "Run iOS apps without actually installing them!",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "12,186",
-      "forks": "1,009",
-      "addStars": "179",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60165378?s=40&v=4",
-          "name": "hugeBlack",
-          "url": "https://github.com/hugeBlack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40482367?s=40&v=4",
-          "name": "khanhduytran0",
-          "url": "https://github.com/khanhduytran0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28908603?s=40&v=4",
-          "name": "Staubgeborener",
-          "url": "https://github.com/Staubgeborener"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98632439?s=40&v=4",
-          "name": "AppInstalleriOSGH",
-          "url": "https://github.com/AppInstalleriOSGH"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92153597?s=40&v=4",
-          "name": "fkunn1326",
-          "url": "https://github.com/fkunn1326"
-        }
-      ]
-    },
-    {
-      "title": "vorssaint/vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "19,352",
-      "forks": "696",
-      "addStars": "2,168",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
-          "name": "vorssaint",
-          "url": "https://github.com/vorssaint"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42336971?s=40&v=4",
-          "name": "PathGao",
-          "url": "https://github.com/PathGao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45411502?s=40&v=4",
-          "name": "iltonandrew",
-          "url": "https://github.com/iltonandrew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1708189?s=40&v=4",
-          "name": "ruvelro",
-          "url": "https://github.com/ruvelro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73610855?s=40&v=4",
-          "name": "tenbux",
-          "url": "https://github.com/tenbux"
-        }
-      ]
-    },
-    {
-      "title": "jordanbaird/Ice",
-      "url": "https://github.com/jordanbaird/Ice",
-      "description": "Powerful menu bar manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "29,647",
-      "forks": "917",
-      "addStars": "114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90936861?s=40&v=4",
-          "name": "jordanbaird",
-          "url": "https://github.com/jordanbaird"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2091312?s=40&v=4",
-          "name": "stonerl",
-          "url": "https://github.com/stonerl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1892194?s=40&v=4",
-          "name": "Olshansk",
-          "url": "https://github.com/Olshansk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4800403?s=40&v=4",
-          "name": "michyprima",
-          "url": "https://github.com/michyprima"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22471214?s=40&v=4",
-          "name": "dhruvikn",
-          "url": "https://github.com/dhruvikn"
-        }
-      ]
-    },
-    {
-      "title": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": "27,146",
-      "forks": "2,359",
-      "addStars": "255",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&v=4",
-          "name": "lawrencecchen",
-          "url": "https://github.com/lawrencecchen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38676809?s=40&v=4",
-          "name": "austinywang",
-          "url": "https://github.com/austinywang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67667005?s=40&v=4",
-          "name": "azooz2003-bit",
-          "url": "https://github.com/azooz2003-bit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1694850?s=40&v=4",
-          "name": "ejc3",
-          "url": "https://github.com/ejc3"
-        }
-      ]
-    },
-    {
       "title": "Lakr233/vphone-cli",
       "url": "https://github.com/Lakr233/vphone-cli",
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,107",
-      "forks": "1,570",
-      "addStars": "1,656",
+      "stars": "13,707",
+      "forks": "1,621",
+      "addStars": "1,927",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25259084?s=40&v=4",
@@ -535,14 +111,492 @@
       ]
     },
     {
+      "title": "dwarvesf/hidden",
+      "url": "https://github.com/dwarvesf/hidden",
+      "description": "An ultra-light MacOS utility that helps hide menu bar icons",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "14,811",
+      "forks": "493",
+      "addStars": "118",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14150687?s=40&v=4",
+          "name": "phucledien",
+          "url": "https://github.com/phucledien"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1749624?s=40&v=4",
+          "name": "tieubao",
+          "url": "https://github.com/tieubao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37923396?s=40&v=4",
+          "name": "siliconprime-thanhduc",
+          "url": "https://github.com/siliconprime-thanhduc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35858359?s=40&v=4",
+          "name": "viettrungphan",
+          "url": "https://github.com/viettrungphan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43706386?s=40&v=4",
+          "name": "p-z-l",
+          "url": "https://github.com/p-z-l"
+        }
+      ]
+    },
+    {
+      "title": "FrizzleM/SideInstaller",
+      "url": "https://github.com/FrizzleM/SideInstaller",
+      "description": "An an app that installs Sidestore on iOS 27, fully on-device",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "757",
+      "forks": "65",
+      "addStars": "103",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/182496942?s=40&v=4",
+          "name": "FrizzleM",
+          "url": "https://github.com/FrizzleM"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235445911?s=40&v=4",
+          "name": "so-5699",
+          "url": "https://github.com/so-5699"
+        }
+      ]
+    },
+    {
+      "title": "MonitorControl/MonitorControl",
+      "url": "https://github.com/MonitorControl/MonitorControl",
+      "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "34,213",
+      "forks": "1,008",
+      "addStars": "82",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/37590873?s=40&v=4",
+          "name": "waydabber",
+          "url": "https://github.com/waydabber"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1309829?s=40&v=4",
+          "name": "reitermarkus",
+          "url": "https://github.com/reitermarkus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7591717?s=40&v=4",
+          "name": "JoniVR",
+          "url": "https://github.com/JoniVR"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4009175?s=40&v=4",
+          "name": "the0neyouseek",
+          "url": "https://github.com/the0neyouseek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15175599?s=40&v=4",
+          "name": "jajoho",
+          "url": "https://github.com/jajoho"
+        }
+      ]
+    },
+    {
+      "title": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "21,563",
+      "forks": "1,953",
+      "addStars": "376",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
+          "name": "steipete",
+          "url": "https://github.com/steipete"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105903728?s=40&v=4",
+          "name": "ratulsarna",
+          "url": "https://github.com/ratulsarna"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104957188?s=40&v=4",
+          "name": "Yuxin-Qiao",
+          "url": "https://github.com/Yuxin-Qiao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
+      "title": "iFurySt/open-codex-computer-use",
+      "url": "https://github.com/iFurySt/open-codex-computer-use",
+      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "2,117",
+      "forks": "189",
+      "addStars": "133",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16201837?s=40&v=4",
+          "name": "iFurySt",
+          "url": "https://github.com/iFurySt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56818734?s=40&v=4",
+          "name": "usoonees",
+          "url": "https://github.com/usoonees"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25194972?s=40&v=4",
+          "name": "tisfeng",
+          "url": "https://github.com/tisfeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9270068?s=40&v=4",
+          "name": "wicgee",
+          "url": "https://github.com/wicgee"
+        }
+      ]
+    },
+    {
+      "title": "LiveContainer/LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "12,225",
+      "forks": "1,016",
+      "addStars": "187",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60165378?s=40&v=4",
+          "name": "hugeBlack",
+          "url": "https://github.com/hugeBlack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40482367?s=40&v=4",
+          "name": "khanhduytran0",
+          "url": "https://github.com/khanhduytran0"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28908603?s=40&v=4",
+          "name": "Staubgeborener",
+          "url": "https://github.com/Staubgeborener"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/98632439?s=40&v=4",
+          "name": "AppInstalleriOSGH",
+          "url": "https://github.com/AppInstalleriOSGH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92153597?s=40&v=4",
+          "name": "fkunn1326",
+          "url": "https://github.com/fkunn1326"
+        }
+      ]
+    },
+    {
+      "title": "TheBoredTeam/boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "10,764",
+      "forks": "1,018",
+      "addStars": "99",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4",
+          "name": "Alexander5015",
+          "url": "https://github.com/Alexander5015"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46974223?s=40&v=4",
+          "name": "theboringhumane",
+          "url": "https://github.com/theboringhumane"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58087998?s=40&v=4",
+          "name": "richardkunkli",
+          "url": "https://github.com/richardkunkli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96822675?s=40&v=4",
+          "name": "OmChachad",
+          "url": "https://github.com/OmChachad"
+        }
+      ]
+    },
+    {
+      "title": "jordanbaird/Ice",
+      "url": "https://github.com/jordanbaird/Ice",
+      "description": "Powerful menu bar manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "29,661",
+      "forks": "926",
+      "addStars": "112",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90936861?s=40&v=4",
+          "name": "jordanbaird",
+          "url": "https://github.com/jordanbaird"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2091312?s=40&v=4",
+          "name": "stonerl",
+          "url": "https://github.com/stonerl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1892194?s=40&v=4",
+          "name": "Olshansk",
+          "url": "https://github.com/Olshansk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4800403?s=40&v=4",
+          "name": "michyprima",
+          "url": "https://github.com/michyprima"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22471214?s=40&v=4",
+          "name": "dhruvikn",
+          "url": "https://github.com/dhruvikn"
+        }
+      ]
+    },
+    {
+      "title": "PlayCover/PlayCover",
+      "url": "https://github.com/PlayCover/PlayCover",
+      "description": "Community fork of PlayCover",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "11,752",
+      "forks": "988",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42140194?s=40&v=4",
+          "name": "IsaacMarovitz",
+          "url": "https://github.com/IsaacMarovitz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47154119?s=40&v=4",
+          "name": "Depal1",
+          "url": "https://github.com/Depal1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47700212?s=40&v=4",
+          "name": "JoseMoreville",
+          "url": "https://github.com/JoseMoreville"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/371475?s=40&v=4",
+          "name": "lixin9311",
+          "url": "https://github.com/lixin9311"
+        }
+      ]
+    },
+    {
+      "title": "onevcat/Kingfisher",
+      "url": "https://github.com/onevcat/Kingfisher",
+      "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "24,402",
+      "forks": "2,772",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1019875?s=40&v=4",
+          "name": "onevcat",
+          "url": "https://github.com/onevcat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13112992?s=40&v=4",
+          "name": "lixiang1994",
+          "url": "https://github.com/lixiang1994"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/96502?s=40&v=4",
+          "name": "dstranz",
+          "url": "https://github.com/dstranz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/260880192?s=40&v=4",
+          "name": "onevclaw",
+          "url": "https://github.com/onevclaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5518285?s=40&v=4",
+          "name": "xspyhack",
+          "url": "https://github.com/xspyhack"
+        }
+      ]
+    },
+    {
+      "title": "farzaa/clicky",
+      "url": "https://github.com/farzaa/clicky",
+      "description": "",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "7,572",
+      "forks": "1,492",
+      "addStars": "62",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15614124?s=40&v=4",
+          "name": "farzaa",
+          "url": "https://github.com/farzaa"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
+          "name": "oz-agent",
+          "url": "https://github.com/oz-agent"
+        }
+      ]
+    },
+    {
+      "title": "momenbasel/PureMac",
+      "url": "https://github.com/momenbasel/PureMac",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "6,524",
+      "forks": "358",
+      "addStars": "187",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8724766?s=40&v=4",
+          "name": "momenbasel",
+          "url": "https://github.com/momenbasel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79738961?s=40&v=4",
+          "name": "zeck00",
+          "url": "https://github.com/zeck00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1768446?s=40&v=4",
+          "name": "balcsida",
+          "url": "https://github.com/balcsida"
+        }
+      ]
+    },
+    {
+      "title": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "114,018",
+      "forks": "8,865",
+      "addStars": "612",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
+          "name": "jaywcjlove",
+          "url": "https://github.com/jaywcjlove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20600565?s=40&v=4",
+          "name": "alichtman",
+          "url": "https://github.com/alichtman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&v=4",
+          "name": "xcv58",
+          "url": "https://github.com/xcv58"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16080436?s=40&v=4",
+          "name": "heldev",
+          "url": "https://github.com/heldev"
+        }
+      ]
+    },
+    {
+      "title": "osaurus-ai/osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "7,956",
+      "forks": "471",
+      "addStars": "123",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/189663?s=40&v=4",
+          "name": "tpae",
+          "url": "https://github.com/tpae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138501656?s=40&v=4",
+          "name": "jjang-ai",
+          "url": "https://github.com/jjang-ai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61781996?s=40&v=4",
+          "name": "RaajeevChandran",
+          "url": "https://github.com/RaajeevChandran"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/264272563?s=40&v=4",
+          "name": "mimeding",
+          "url": "https://github.com/mimeding"
+        }
+      ]
+    },
+    {
       "title": "Alamofire/Alamofire",
       "url": "https://github.com/Alamofire/Alamofire",
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "42,419",
+      "stars": "42,420",
       "forks": "7,658",
-      "addStars": "10",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/169110?s=40&v=4",
@@ -567,29 +621,39 @@
       ]
     },
     {
-      "title": "farzaa/clicky",
-      "url": "https://github.com/farzaa/clicky",
-      "description": "",
+      "title": "vsouza/awesome-ios",
+      "url": "https://github.com/vsouza/awesome-ios",
+      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,563",
-      "forks": "1,488",
-      "addStars": "60",
+      "stars": "53,378",
+      "forks": "7,008",
+      "addStars": "85",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/6511079?s=40&v=4",
+          "name": "lfarah",
+          "url": "https://github.com/lfarah"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15614124?s=40&v=4",
-          "name": "farzaa",
-          "url": "https://github.com/farzaa"
+          "avatar": "https://avatars.githubusercontent.com/u/484656?s=40&v=4",
+          "name": "vsouza",
+          "url": "https://github.com/vsouza"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/260729474?s=40&v=4",
-          "name": "oz-agent",
-          "url": "https://github.com/oz-agent"
+          "avatar": "https://avatars.githubusercontent.com/u/4723115?s=40&v=4",
+          "name": "dkhamsing",
+          "url": "https://github.com/dkhamsing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77198?s=40&v=4",
+          "name": "heyvito",
+          "url": "https://github.com/heyvito"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10736853?s=40&v=4",
+          "name": "naeemshaikh90",
+          "url": "https://github.com/naeemshaikh90"
         }
       ]
     }

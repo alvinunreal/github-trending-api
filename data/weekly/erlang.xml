@@ -3,7 +3,45 @@
     <title>GitHub Erlang Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Erlang Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
+    <item>
+      <title>emqx/emqx</title>
+      <link>https://github.com/emqx/emqx</link>
+      <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
+      <guid>https://github.com/emqx/emqx</guid>
+      <language>Erlang</language>
+      <languageColor>#B83998</languageColor>
+      <stars>16,735</stars>
+      <forks>2,549</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/164324?s=40&amp;v=4</avatar>
+          <name>zmstone</name>
+          <url>https://github.com/zmstone</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16166434?s=40&amp;v=4</avatar>
+          <name>thalesmg</name>
+          <url>https://github.com/thalesmg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1148366?s=40&amp;v=4</avatar>
+          <name>keynslug</name>
+          <url>https://github.com/keynslug</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4236?s=40&amp;v=4</avatar>
+          <name>savonarola</name>
+          <url>https://github.com/savonarola</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3116225?s=40&amp;v=4</avatar>
+          <name>zhongwencool</name>
+          <url>https://github.com/zhongwencool</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>apache/couchdb</title>
       <link>https://github.com/apache/couchdb</link>
@@ -11,9 +49,9 @@
       <guid>https://github.com/apache/couchdb</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>6,952</stars>
+      <stars>6,953</stars>
       <forks>1,077</forks>
-      <addStars>3</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/47223?s=40&amp;v=4</avatar>
@@ -43,40 +81,78 @@
       </contributors>
     </item>
     <item>
-      <title>emqx/emqx</title>
-      <link>https://github.com/emqx/emqx</link>
-      <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
-      <guid>https://github.com/emqx/emqx</guid>
+      <title>erlang/otp</title>
+      <link>https://github.com/erlang/otp</link>
+      <description>Erlang/OTP</description>
+      <guid>https://github.com/erlang/otp</guid>
       <language>Erlang</language>
       <languageColor>#B83998</languageColor>
-      <stars>16,726</stars>
-      <forks>2,549</forks>
-      <addStars>30</addStars>
+      <stars>12,331</stars>
+      <forks>3,273</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/164324?s=40&amp;v=4</avatar>
-          <name>zmstone</name>
-          <url>https://github.com/zmstone</url>
+          <avatar>https://avatars.githubusercontent.com/u/74840?s=40&amp;v=4</avatar>
+          <name>bjorng</name>
+          <url>https://github.com/bjorng</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16166434?s=40&amp;v=4</avatar>
-          <name>thalesmg</name>
-          <url>https://github.com/thalesmg</url>
+          <avatar>https://avatars.githubusercontent.com/u/111762?s=40&amp;v=4</avatar>
+          <name>garazdawi</name>
+          <url>https://github.com/garazdawi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1148366?s=40&amp;v=4</avatar>
-          <name>keynslug</name>
-          <url>https://github.com/keynslug</url>
+          <avatar>https://avatars.githubusercontent.com/u/158050?s=40&amp;v=4</avatar>
+          <name>bmk</name>
+          <url>https://github.com/bmk</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4236?s=40&amp;v=4</avatar>
-          <name>savonarola</name>
-          <url>https://github.com/savonarola</url>
+          <avatar>https://avatars.githubusercontent.com/u/294507?s=40&amp;v=4</avatar>
+          <name>IngelaAndin</name>
+          <url>https://github.com/IngelaAndin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3116225?s=40&amp;v=4</avatar>
-          <name>zhongwencool</name>
-          <url>https://github.com/zhongwencool</url>
+          <avatar>https://avatars.githubusercontent.com/u/229591?s=40&amp;v=4</avatar>
+          <name>sverker</name>
+          <url>https://github.com/sverker</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>processone/ejabberd</title>
+      <link>https://github.com/processone/ejabberd</link>
+      <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
+      <guid>https://github.com/processone/ejabberd</guid>
+      <language>Erlang</language>
+      <languageColor>#B83998</languageColor>
+      <stars>6,725</stars>
+      <forks>1,552</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96807?s=40&amp;v=4</avatar>
+          <name>badlop</name>
+          <url>https://github.com/badlop</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61998?s=40&amp;v=4</avatar>
+          <name>prefiks</name>
+          <url>https://github.com/prefiks</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71850?s=40&amp;v=4</avatar>
+          <name>weiss</name>
+          <url>https://github.com/weiss</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1354311?s=40&amp;v=4</avatar>
+          <name>alexeyshch</name>
+          <url>https://github.com/alexeyshch</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/743187?s=40&amp;v=4</avatar>
+          <name>cromain</name>
+          <url>https://github.com/cromain</url>
         </contributor>
       </contributors>
     </item>

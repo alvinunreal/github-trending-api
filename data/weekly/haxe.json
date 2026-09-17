@@ -2,7 +2,7 @@
   "title": "GitHub Haxe Languages Weekly Trending",
   "description": "Weekly Trending of Haxe Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "CodenameCrew/CodenameEngine",
@@ -11,7 +11,7 @@
       "language": "Haxe",
       "languageColor": "#df7900",
       "stars": "479",
-      "forks": "362",
+      "forks": "361",
       "addStars": "3",
       "contributors": [
         {
@@ -42,49 +42,12 @@
       ]
     },
     {
-      "title": "FunkinCrew/Funkin",
-      "url": "https://github.com/FunkinCrew/Funkin",
-      "description": "A rhythm game made with HaxeFlixel",
-      "language": "Haxe",
-      "languageColor": "#df7900",
-      "stars": "3,761",
-      "forks": "2,558",
-      "addStars": "10",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22229331?s=40&v=4",
-          "name": "ninjamuffin99",
-          "url": "https://github.com/ninjamuffin99"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4635334?s=40&v=4",
-          "name": "EliteMasterEric",
-          "url": "https://github.com/EliteMasterEric"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/170126004?s=40&v=4",
-          "name": "Hundrec",
-          "url": "https://github.com/Hundrec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86753001?s=40&v=4",
-          "name": "AbnormalPoof",
-          "url": "https://github.com/AbnormalPoof"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77043862?s=40&v=4",
-          "name": "MAJigsaw77",
-          "url": "https://github.com/MAJigsaw77"
-        }
-      ]
-    },
-    {
       "title": "HaxeFoundation/haxe",
       "url": "https://github.com/HaxeFoundation/haxe",
       "description": "Haxe - The Cross-Platform Toolkit",
       "language": "Haxe",
       "languageColor": "#df7900",
-      "stars": "6,932",
+      "stars": "6,933",
       "forks": "715",
       "addStars": "10",
       "contributors": [
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/178171?s=40&v=4",
           "name": "waneck",
           "url": "https://github.com/waneck"
+        }
+      ]
+    },
+    {
+      "title": "FunkinCrew/Funkin",
+      "url": "https://github.com/FunkinCrew/Funkin",
+      "description": "A rhythm game made with HaxeFlixel",
+      "language": "Haxe",
+      "languageColor": "#df7900",
+      "stars": "3,761",
+      "forks": "2,559",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22229331?s=40&v=4",
+          "name": "ninjamuffin99",
+          "url": "https://github.com/ninjamuffin99"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4635334?s=40&v=4",
+          "name": "EliteMasterEric",
+          "url": "https://github.com/EliteMasterEric"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170126004?s=40&v=4",
+          "name": "Hundrec",
+          "url": "https://github.com/Hundrec"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86753001?s=40&v=4",
+          "name": "AbnormalPoof",
+          "url": "https://github.com/AbnormalPoof"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77043862?s=40&v=4",
+          "name": "MAJigsaw77",
+          "url": "https://github.com/MAJigsaw77"
         }
       ]
     },

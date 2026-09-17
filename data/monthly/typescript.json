@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "cursor/plugins",
@@ -10,9 +10,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,967",
-      "forks": "710",
-      "addStars": "4,996",
+      "stars": "8,169",
+      "forks": "727",
+      "addStars": "5,021",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,262",
-      "forks": "5,876",
-      "addStars": "16,497",
+      "stars": "37,584",
+      "forks": "5,906",
+      "addStars": "16,773",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18752201?s=40&v=4",
@@ -72,9 +72,9 @@
           "url": "https://github.com/YizukiAme"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/94427531?s=40&v=4",
-          "name": "ly-wang19",
-          "url": "https://github.com/ly-wang19"
+          "avatar": "https://avatars.githubusercontent.com/u/71585589?s=40&v=4",
+          "name": "xuyuanwei678",
+          "url": "https://github.com/xuyuanwei678"
         }
       ]
     },
@@ -84,9 +84,9 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,487",
-      "forks": "507",
-      "addStars": "4,146",
+      "stars": "5,538",
+      "forks": "511",
+      "addStars": "4,197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
@@ -116,14 +116,46 @@
       ]
     },
     {
+      "title": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "7,508",
+      "forks": "982",
+      "addStars": "6,210",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26071627?s=40&v=4",
+          "name": "chaitanyagiri",
+          "url": "https://github.com/chaitanyagiri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86521613?s=40&v=4",
+          "name": "gpechieu",
+          "url": "https://github.com/gpechieu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35274501?s=40&v=4",
+          "name": "savvaskoualis",
+          "url": "https://github.com/savvaskoualis"
+        }
+      ]
+    },
+    {
       "title": "tashfeenahmed/freellmapi",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,533",
-      "forks": "3,623",
-      "addStars": "8,012",
+      "stars": "26,871",
+      "forks": "3,668",
+      "addStars": "8,153",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -158,9 +190,9 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,321",
-      "forks": "525",
-      "addStars": "1,229",
+      "stars": "6,421",
+      "forks": "529",
+      "addStars": "1,336",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
@@ -185,51 +217,14 @@
       ]
     },
     {
-      "title": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "18,831",
-      "forks": "2,409",
-      "addStars": "6,883",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
-          "name": "bensenescu",
-          "url": "https://github.com/bensenescu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
-          "name": "jeremypenguin-max",
-          "url": "https://github.com/jeremypenguin-max"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
-          "name": "bookingseo",
-          "url": "https://github.com/bookingseo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        }
-      ]
-    },
-    {
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,019",
-      "forks": "701",
-      "addStars": "2,165",
+      "stars": "3,144",
+      "forks": "747",
+      "addStars": "2,535",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -259,19 +254,19 @@
       ]
     },
     {
-      "title": "advaitpaliwal/feynman",
-      "url": "https://github.com/advaitpaliwal/feynman",
-      "description": "The open source AI research agent.",
+      "title": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,615",
-      "forks": "1,077",
-      "addStars": "1,140",
+      "stars": "19,025",
+      "forks": "2,446",
+      "addStars": "6,795",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66044327?s=40&v=4",
-          "name": "advaitpaliwal",
-          "url": "https://github.com/advaitpaliwal"
+          "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
+          "name": "bensenescu",
+          "url": "https://github.com/bensenescu"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -279,83 +274,19 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4758311?s=40&v=4",
-          "name": "shkao",
-          "url": "https://github.com/shkao"
+          "avatar": "https://avatars.githubusercontent.com/u/287046313?s=40&v=4",
+          "name": "jeremypenguin-max",
+          "url": "https://github.com/jeremypenguin-max"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/259547?s=40&v=4",
-          "name": "randomm",
-          "url": "https://github.com/randomm"
+          "avatar": "https://avatars.githubusercontent.com/u/68512992?s=40&v=4",
+          "name": "bookingseo",
+          "url": "https://github.com/bookingseo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/53619378?s=40&v=4",
-          "name": "Dunya-8a",
-          "url": "https://github.com/Dunya-8a"
-        }
-      ]
-    },
-    {
-      "title": "ever-co/ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "7,034",
-      "forks": "1,071",
-      "addStars": "2,104",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
-          "name": "rahul-rocket",
-          "url": "https://github.com/rahul-rocket"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
-          "name": "evereq",
-          "url": "https://github.com/evereq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
-          "name": "adkif",
-          "url": "https://github.com/adkif"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40795644?s=40&v=4",
-          "name": "AlexTasev",
-          "url": "https://github.com/AlexTasev"
-        }
-      ]
-    },
-    {
-      "title": "bookorbit/bookorbit",
-      "url": "https://github.com/bookorbit/bookorbit",
-      "description": "BookOrbit: Your Reading Space",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "4,359",
-      "forks": "269",
-      "addStars": "2,147",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18559658?s=40&v=4",
-          "name": "neonsolstice",
-          "url": "https://github.com/neonsolstice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/213777310?s=40&v=4",
-          "name": "chrismansell26",
-          "url": "https://github.com/chrismansell26"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/333657?s=40&v=4",
-          "name": "jadehawk",
-          "url": "https://github.com/jadehawk"
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
         }
       ]
     },
@@ -365,9 +296,9 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,333",
-      "forks": "9,087",
-      "addStars": "2,838",
+      "stars": "33,388",
+      "forks": "9,085",
+      "addStars": "2,859",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/268502447?s=40&v=4",
@@ -397,14 +328,51 @@
       ]
     },
     {
+      "title": "advaitpaliwal/feynman",
+      "url": "https://github.com/advaitpaliwal/feynman",
+      "description": "The open source AI research agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "9,650",
+      "forks": "1,077",
+      "addStars": "1,168",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66044327?s=40&v=4",
+          "name": "advaitpaliwal",
+          "url": "https://github.com/advaitpaliwal"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4758311?s=40&v=4",
+          "name": "shkao",
+          "url": "https://github.com/shkao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/259547?s=40&v=4",
+          "name": "randomm",
+          "url": "https://github.com/randomm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53619378?s=40&v=4",
+          "name": "Dunya-8a",
+          "url": "https://github.com/Dunya-8a"
+        }
+      ]
+    },
+    {
       "title": "langwatch/langwatch",
       "url": "https://github.com/langwatch/langwatch",
       "description": "The platform for LLM evaluations and AI agent testing",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,801",
-      "forks": "391",
-      "addStars": "1,306",
+      "stars": "4,809",
+      "forks": "393",
+      "addStars": "1,317",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/792201?s=40&v=4",
@@ -434,14 +402,51 @@
       ]
     },
     {
+      "title": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "7,634",
+      "forks": "1,114",
+      "addStars": "2,904",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
+          "name": "rahul-rocket",
+          "url": "https://github.com/rahul-rocket"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118497?s=40&v=4",
+          "name": "evereq",
+          "url": "https://github.com/evereq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45813955?s=40&v=4",
+          "name": "adkif",
+          "url": "https://github.com/adkif"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40795644?s=40&v=4",
+          "name": "AlexTasev",
+          "url": "https://github.com/AlexTasev"
+        }
+      ]
+    },
+    {
       "title": "maotoumao/MusicFree",
       "url": "https://github.com/maotoumao/MusicFree",
       "description": "插件化、定制化、无广告的免费音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,904",
-      "forks": "1,936",
-      "addStars": "891",
+      "stars": "26,934",
+      "forks": "1,940",
+      "addStars": "889",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31655147?s=40&v=4",
@@ -471,19 +476,46 @@
       ]
     },
     {
-      "title": "zenbu-labs/terminal-browser",
-      "url": "https://github.com/zenbu-labs/terminal-browser",
-      "description": "A browser inside your terminal",
+      "title": "bookorbit/bookorbit",
+      "url": "https://github.com/bookorbit/bookorbit",
+      "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,985",
-      "forks": "140",
-      "addStars": "1,974",
+      "stars": "4,395",
+      "forks": "278",
+      "addStars": "2,166",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97781863?s=40&v=4",
-          "name": "RobPruzan",
-          "url": "https://github.com/RobPruzan"
+          "avatar": "https://avatars.githubusercontent.com/u/18559658?s=40&v=4",
+          "name": "neonsolstice",
+          "url": "https://github.com/neonsolstice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213777310?s=40&v=4",
+          "name": "chrismansell26",
+          "url": "https://github.com/chrismansell26"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/333657?s=40&v=4",
+          "name": "jadehawk",
+          "url": "https://github.com/jadehawk"
+        }
+      ]
+    },
+    {
+      "title": "eneskirca/nodeterm",
+      "url": "https://github.com/eneskirca/nodeterm",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "1,860",
+      "forks": "202",
+      "addStars": "1,256",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39504888?s=40&v=4",
+          "name": "eneskirca",
+          "url": "https://github.com/eneskirca"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -491,19 +523,56 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/552829?s=40&v=4",
-          "name": "transitive-bullshit",
-          "url": "https://github.com/transitive-bullshit"
+          "avatar": "https://avatars.githubusercontent.com/u/29606388?s=40&v=4",
+          "name": "gor3a",
+          "url": "https://github.com/gor3a"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1385518?s=40&v=4",
-          "name": "guillaumemeyer",
-          "url": "https://github.com/guillaumemeyer"
+          "avatar": "https://avatars.githubusercontent.com/u/1424395?s=40&v=4",
+          "name": "dkattan",
+          "url": "https://github.com/dkattan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17993385?s=40&v=4",
-          "name": "alanagoyal",
-          "url": "https://github.com/alanagoyal"
+          "avatar": "https://avatars.githubusercontent.com/u/978257?s=40&v=4",
+          "name": "basmilius",
+          "url": "https://github.com/basmilius"
+        }
+      ]
+    },
+    {
+      "title": "linshenkx/prompt-optimizer",
+      "url": "https://github.com/linshenkx/prompt-optimizer",
+      "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "34,921",
+      "forks": "4,080",
+      "addStars": "1,847",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32978552?s=40&v=4",
+          "name": "linshenkx",
+          "url": "https://github.com/linshenkx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5528016?s=40&v=4",
+          "name": "hexart",
+          "url": "https://github.com/hexart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1950036?s=40&v=4",
+          "name": "prazjain",
+          "url": "https://github.com/prazjain"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15119304?s=40&v=4",
+          "name": "lanyuanxiaoyao",
+          "url": "https://github.com/lanyuanxiaoyao"
         }
       ]
     },
@@ -513,9 +582,9 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,039",
+      "stars": "36,041",
       "forks": "1,113",
-      "addStars": "256",
+      "addStars": "252",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2768267?s=40&v=4",

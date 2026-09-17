@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Monthly Trending",
   "description": "Monthly Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
     {
       "title": "tabler/tabler",
@@ -10,9 +10,9 @@
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "41,703",
-      "forks": "4,425",
-      "addStars": "312",
+      "stars": "41,707",
+      "forks": "4,426",
+      "addStars": "314",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1282324?s=40&v=4",
@@ -37,65 +37,6 @@
       ]
     },
     {
-      "title": "datawhalechina/deepagents-in-action",
-      "url": "https://github.com/datawhalechina/deepagents-in-action",
-      "description": "📚 《Deep Agents 实战》—— LangChain 官方大使出品，基于 LangChain / LangGraph 生态，从零构建生产级 AI Agent 的完整指南",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "2,409",
-      "forks": "242",
-      "addStars": "758",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2936504?s=40&v=4",
-          "name": "webup",
-          "url": "https://github.com/webup"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24755216?s=40&v=4",
-          "name": "ThingsWorld",
-          "url": "https://github.com/ThingsWorld"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6524977?s=40&v=4",
-          "name": "luojiyin1987",
-          "url": "https://github.com/luojiyin1987"
-        }
-      ]
-    },
-    {
-      "title": "satnaing/astro-paper",
-      "url": "https://github.com/satnaing/astro-paper",
-      "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": "5,048",
-      "forks": "1,095",
-      "addStars": "102",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53733092?s=40&v=4",
-          "name": "satnaing",
-          "url": "https://github.com/satnaing"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40914272?s=40&v=4",
-          "name": "tanishqmanuja",
-          "url": "https://github.com/tanishqmanuja"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6358755?s=40&v=4",
-          "name": "eerison",
-          "url": "https://github.com/eerison"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26923823?s=40&v=4",
-          "name": "87xie",
-          "url": "https://github.com/87xie"
-        }
-      ]
-    },
-    {
       "title": "skills/agentic-workflows-that-read-the-room",
       "url": "https://github.com/skills/agentic-workflows-that-read-the-room",
       "description": "This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow",
@@ -103,7 +44,7 @@
       "languageColor": "#ff5a03",
       "stars": "71",
       "forks": "24",
-      "addStars": "38",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4140343?s=40&v=4",
@@ -119,7 +60,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "1,951",
-      "forks": "1,162",
+      "forks": "1,163",
       "addStars": "7",
       "contributors": [
         {
@@ -156,7 +97,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "198",
-      "forks": "630",
+      "forks": "632",
       "addStars": "7",
       "contributors": [
         {
@@ -182,6 +123,38 @@
       ]
     },
     {
+      "title": "satnaing/astro-paper",
+      "url": "https://github.com/satnaing/astro-paper",
+      "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": "5,051",
+      "forks": "1,096",
+      "addStars": "101",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53733092?s=40&v=4",
+          "name": "satnaing",
+          "url": "https://github.com/satnaing"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40914272?s=40&v=4",
+          "name": "tanishqmanuja",
+          "url": "https://github.com/tanishqmanuja"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6358755?s=40&v=4",
+          "name": "eerison",
+          "url": "https://github.com/eerison"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26923823?s=40&v=4",
+          "name": "87xie",
+          "url": "https://github.com/87xie"
+        }
+      ]
+    },
+    {
       "title": "ImranR98/apps.obtainium.imranr.dev",
       "url": "https://github.com/ImranR98/apps.obtainium.imranr.dev",
       "description": "Collection of suggested apps for Obtainium.",
@@ -189,7 +162,7 @@
       "languageColor": "#ff5a03",
       "stars": "578",
       "forks": "184",
-      "addStars": "36",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30463115?s=40&v=4",
@@ -219,9 +192,9 @@
       "description": "🍀Firefly, fresh and aesthetic Astro blog theme template.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "2,150",
-      "forks": "1,714",
-      "addStars": "266",
+      "stars": "2,156",
+      "forks": "1,723",
+      "addStars": "263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43440669?s=40&v=4",
@@ -246,34 +219,34 @@
       ]
     },
     {
-      "title": "music-assistant/music-assistant.io",
-      "url": "https://github.com/music-assistant/music-assistant.io",
-      "description": "Documentation repo for Music Assistant",
+      "title": "cworld1/astro-theme-pure",
+      "url": "https://github.com/cworld1/astro-theme-pure",
+      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "20",
-      "forks": "125",
-      "addStars": "0",
+      "stars": "1,077",
+      "forks": "278",
+      "addStars": "50",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&v=4",
-          "name": "OzGav",
-          "url": "https://github.com/OzGav"
+          "avatar": "https://avatars.githubusercontent.com/u/37377181?s=40&v=4",
+          "name": "cworld1",
+          "url": "https://github.com/cworld1"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/36695271?s=40&v=4",
+          "name": "zhuozhiyongde",
+          "url": "https://github.com/zhuozhiyongde"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60214390?s=40&v=4",
-          "name": "jozefKruszynski",
-          "url": "https://github.com/jozefKruszynski"
+          "avatar": "https://avatars.githubusercontent.com/u/16103757?s=40&v=4",
+          "name": "0Ky",
+          "url": "https://github.com/0Ky"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4980085?s=40&v=4",
-          "name": "dan-long-dev",
-          "url": "https://github.com/dan-long-dev"
+          "avatar": "https://avatars.githubusercontent.com/u/120261584?s=40&v=4",
+          "name": "vnsnclo",
+          "url": "https://github.com/vnsnclo"
         }
       ]
     },
@@ -283,7 +256,7 @@
       "description": "Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript providing everything you need to jumpstart your Astro project. Get started with Astroplate and save yourself hours of work!",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "1,199",
+      "stars": "1,198",
       "forks": "415",
       "addStars": "16",
       "contributors": [
@@ -311,6 +284,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/41498159?s=40&v=4",
           "name": "bosh-code",
           "url": "https://github.com/bosh-code"
+        }
+      ]
+    },
+    {
+      "title": "music-assistant/music-assistant.io",
+      "url": "https://github.com/music-assistant/music-assistant.io",
+      "description": "Documentation repo for Music Assistant",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": "20",
+      "forks": "125",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19848947?s=40&v=4",
+          "name": "OzGav",
+          "url": "https://github.com/OzGav"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60214390?s=40&v=4",
+          "name": "jozefKruszynski",
+          "url": "https://github.com/jozefKruszynski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4980085?s=40&v=4",
+          "name": "dan-long-dev",
+          "url": "https://github.com/dan-long-dev"
         }
       ]
     },

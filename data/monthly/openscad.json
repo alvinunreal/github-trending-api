@@ -2,15 +2,52 @@
   "title": "GitHub Openscad Languages Monthly Trending",
   "description": "Monthly Trending of Openscad Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 16 Sep 2026 10:15:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 17:29:19 GMT",
   "items": [
+    {
+      "title": "FrameworkComputer/Framework-Laptop-13",
+      "url": "https://github.com/FrameworkComputer/Framework-Laptop-13",
+      "description": "Documentation for the Mainboard and other modules in the Framework Laptop 13",
+      "language": "OpenSCAD",
+      "languageColor": "#e5cd45",
+      "stars": "1,990",
+      "forks": "86",
+      "addStars": "22",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28994301?s=40&v=4",
+          "name": "eclecticc",
+          "url": "https://github.com/eclecticc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3173633?s=40&v=4",
+          "name": "CRImier",
+          "url": "https://github.com/CRImier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5307138?s=40&v=4",
+          "name": "JohnAZoidberg",
+          "url": "https://github.com/JohnAZoidberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/734011?s=40&v=4",
+          "name": "kiram9",
+          "url": "https://github.com/kiram9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11021263?s=40&v=4",
+          "name": "DeflateAwning",
+          "url": "https://github.com/DeflateAwning"
+        }
+      ]
+    },
     {
       "title": "MicrosoftDocs/windows-driver-docs",
       "url": "https://github.com/MicrosoftDocs/windows-driver-docs",
       "description": "The official Windows Driver Kit documentation sources",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "1,065",
+      "stars": "1,066",
       "forks": "866",
       "addStars": "7",
       "contributors": [
@@ -47,8 +84,8 @@
       "description": "The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "2,364",
-      "forks": "207",
+      "stars": "2,366",
+      "forks": "208",
       "addStars": "48",
       "contributors": [
         {
@@ -84,9 +121,9 @@
       "description": "Voron Community mods",
       "language": "OpenSCAD",
       "languageColor": "#e5cd45",
-      "stars": "3,339",
+      "stars": "3,340",
       "forks": "1,845",
-      "addStars": "14",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4352664?s=40&v=4",

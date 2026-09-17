@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Wed, 16 Sep 2026 10:15:13 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
     <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,946</stars>
-      <forks>247</forks>
-      <addStars>194</addStars>
+      <stars>1,961</stars>
+      <forks>251</forks>
+      <addStars>198</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -34,9 +34,9 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,142</stars>
-      <forks>20,109</forks>
-      <addStars>389</addStars>
+      <stars>26,175</stars>
+      <forks>20,117</forks>
+      <addStars>396</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37933096?s=40&amp;v=4</avatar>
@@ -66,47 +66,14 @@
       </contributors>
     </item>
     <item>
-      <title>nix-darwin/nix-darwin</title>
-      <link>https://github.com/nix-darwin/nix-darwin</link>
-      <description>Manage your macOS using Nix</description>
-      <guid>https://github.com/nix-darwin/nix-darwin</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>5,925</stars>
-      <forks>659</forks>
-      <addStars>112</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
-          <name>LnL7</name>
-          <url>https://github.com/LnL7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
-          <name>Enzime</name>
-          <url>https://github.com/Enzime</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18535642?s=40&amp;v=4</avatar>
-          <name>emilazy</name>
-          <url>https://github.com/emilazy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
-          <name>domenkozar</name>
-          <url>https://github.com/domenkozar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>NixOS/nixos-hardware</title>
       <link>https://github.com/NixOS/nixos-hardware</link>
       <description>A collection of NixOS modules covering hardware quirks.</description>
       <guid>https://github.com/NixOS/nixos-hardware</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,300</stars>
-      <forks>974</forks>
+      <stars>3,302</stars>
+      <forks>975</forks>
       <addStars>40</addStars>
       <contributors>
         <contributor>
@@ -138,9 +105,9 @@
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>10,346</stars>
+      <stars>10,353</stars>
       <forks>2,478</forks>
-      <addStars>139</addStars>
+      <addStars>135</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
@@ -177,7 +144,7 @@
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
       <stars>1,788</stars>
-      <forks>265</forks>
+      <forks>266</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -216,7 +183,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>2,947</stars>
       <forks>404</forks>
-      <addStars>39</addStars>
+      <addStars>35</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/33058747?s=40&amp;v=4</avatar>
@@ -236,13 +203,46 @@
       </contributors>
     </item>
     <item>
+      <title>nix-darwin/nix-darwin</title>
+      <link>https://github.com/nix-darwin/nix-darwin</link>
+      <description>Manage your macOS using Nix</description>
+      <guid>https://github.com/nix-darwin/nix-darwin</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>5,935</stars>
+      <forks>659</forks>
+      <addStars>114</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
+          <name>LnL7</name>
+          <url>https://github.com/LnL7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
+          <name>Enzime</name>
+          <url>https://github.com/Enzime</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18535642?s=40&amp;v=4</avatar>
+          <name>emilazy</name>
+          <url>https://github.com/emilazy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
+          <name>domenkozar</name>
+          <url>https://github.com/domenkozar</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>microvm-nix/microvm.nix</title>
       <link>https://github.com/microvm-nix/microvm.nix</link>
       <description>NixOS MicroVMs</description>
       <guid>https://github.com/microvm-nix/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,937</stars>
+      <stars>2,942</stars>
       <forks>231</forks>
       <addStars>88</addStars>
       <contributors>
@@ -275,9 +275,9 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,167</stars>
-      <forks>234</forks>
-      <addStars>65</addStars>
+      <stars>3,169</stars>
+      <forks>235</forks>
+      <addStars>63</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -292,15 +292,71 @@
       </contributors>
     </item>
     <item>
+      <title>nix-community/disko</title>
+      <link>https://github.com/nix-community/disko</link>
+      <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
+      <guid>https://github.com/nix-community/disko</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,325</stars>
+      <forks>331</forks>
+      <addStars>74</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
+          <name>Lassulus</name>
+          <url>https://github.com/Lassulus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9742635?s=40&amp;v=4</avatar>
+          <name>iFreilicht</name>
+          <url>https://github.com/iFreilicht</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>feel-co/hjem</title>
+      <link>https://github.com/feel-co/hjem</link>
+      <description>Streamlined, elegant $HOME management with Nix</description>
+      <guid>https://github.com/feel-co/hjem</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>643</stars>
+      <forks>26</forks>
+      <addStars>48</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62766066?s=40&amp;v=4</avatar>
+          <name>NotAShelf</name>
+          <url>https://github.com/NotAShelf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/848000?s=40&amp;v=4</avatar>
+          <name>eclairevoyant</name>
+          <url>https://github.com/eclairevoyant</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35857948?s=40&amp;v=4</avatar>
+          <name>Lunarnovaa</name>
+          <url>https://github.com/Lunarnovaa</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>nix-community/stylix</title>
       <link>https://github.com/nix-community/stylix</link>
       <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
       <guid>https://github.com/nix-community/stylix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,405</stars>
-      <forks>359</forks>
-      <addStars>48</addStars>
+      <stars>2,406</stars>
+      <forks>361</forks>
+      <addStars>47</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/90870942?s=40&amp;v=4</avatar>
@@ -330,34 +386,6 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/disko</title>
-      <link>https://github.com/nix-community/disko</link>
-      <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
-      <guid>https://github.com/nix-community/disko</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>3,324</stars>
-      <forks>330</forks>
-      <addStars>75</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/621759?s=40&amp;v=4</avatar>
-          <name>Lassulus</name>
-          <url>https://github.com/Lassulus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9742635?s=40&amp;v=4</avatar>
-          <name>iFreilicht</name>
-          <url>https://github.com/iFreilicht</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>nix-community/NixOS-WSL</title>
       <link>https://github.com/nix-community/NixOS-WSL</link>
       <description>NixOS on WSL [maintainer=@nzbr]</description>
@@ -366,7 +394,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>3,095</stars>
       <forks>165</forks>
-      <addStars>50</addStars>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7851175?s=40&amp;v=4</avatar>
