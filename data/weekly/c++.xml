@@ -3,7 +3,7 @@
     <title>GitHub C++ Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of C++ Languages in GitHub</description>
-    <pubDate>Thu, 17 Sep 2026 17:29:19 GMT</pubDate>
+    <pubDate>Thu, 17 Sep 2026 21:59:42 GMT</pubDate>
     <item>
       <title>godotengine/godot</title>
       <link>https://github.com/godotengine/godot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/godotengine/godot</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>117,361</stars>
-      <forks>26,777</forks>
+      <stars>117,372</stars>
+      <forks>26,778</forks>
       <addStars>471</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>200,164</stars>
-      <forks>76,664</forks>
+      <stars>200,161</stars>
+      <forks>76,684</forks>
       <addStars>888</addStars>
       <contributors>
         <contributor>
@@ -81,13 +81,46 @@
       </contributors>
     </item>
     <item>
+      <title>Fincept-Corporation/FinceptTerminal</title>
+      <link>https://github.com/Fincept-Corporation/FinceptTerminal</link>
+      <description>FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.</description>
+      <guid>https://github.com/Fincept-Corporation/FinceptTerminal</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>31,732</stars>
+      <forks>4,491</forks>
+      <addStars>474</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66294702?s=40&amp;v=4</avatar>
+          <name>tilakpatel22</name>
+          <url>https://github.com/tilakpatel22</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/92565248?s=40&amp;v=4</avatar>
+          <name>Jaimin-ptl07</name>
+          <url>https://github.com/Jaimin-ptl07</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/170165924?s=40&amp;v=4</avatar>
+          <name>rudrasheth</name>
+          <url>https://github.com/rudrasheth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>azahar-emu/azahar</title>
       <link>https://github.com/azahar-emu/azahar</link>
       <description>An open-source 3DS emulator project based on Citra.</description>
       <guid>https://github.com/azahar-emu/azahar</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>8,156</stars>
+      <stars>8,157</stars>
       <forks>675</forks>
       <addStars>86</addStars>
       <contributors>
@@ -158,8 +191,8 @@
       <guid>https://github.com/0xShug0/audio.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>2,815</stars>
-      <forks>316</forks>
+      <stars>2,820</stars>
+      <forks>317</forks>
       <addStars>396</addStars>
       <contributors>
         <contributor>
@@ -196,7 +229,7 @@
       <guid>https://github.com/YimMenu/YimMenuV2</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>1,736</stars>
+      <stars>1,737</stars>
       <forks>395</forks>
       <addStars>31</addStars>
       <contributors>
@@ -234,7 +267,7 @@
       <guid>https://github.com/LizardByte/Sunshine</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>41,307</stars>
+      <stars>41,305</stars>
       <forks>2,126</forks>
       <addStars>257</addStars>
       <contributors>
@@ -262,8 +295,8 @@
       <guid>https://github.com/ggml-org/llama.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>128,573</stars>
-      <forks>23,331</forks>
+      <stars>128,587</stars>
+      <forks>23,339</forks>
       <addStars>907</addStars>
       <contributors>
         <contributor>
@@ -300,7 +333,7 @@
       <guid>https://github.com/ggml-org/whisper.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>53,729</stars>
+      <stars>53,731</stars>
       <forks>6,170</forks>
       <addStars>173</addStars>
       <contributors>
@@ -339,7 +372,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>1,682</stars>
-      <forks>688</forks>
+      <forks>691</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>
@@ -371,7 +404,7 @@
       <guid>https://github.com/react/react-native</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>126,636</stars>
+      <stars>126,637</stars>
       <forks>25,279</forks>
       <addStars>126</addStars>
       <contributors>
@@ -409,7 +442,7 @@
       <guid>https://github.com/Atmosphere-NX/Atmosphere</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>19,680</stars>
+      <stars>19,685</stars>
       <forks>1,475</forks>
       <addStars>152</addStars>
       <contributors>
@@ -447,8 +480,8 @@
       <guid>https://github.com/optiscaler/OptiScaler</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>11,131</stars>
-      <forks>490</forks>
+      <stars>11,135</stars>
+      <forks>492</forks>
       <addStars>565</addStars>
       <contributors>
         <contributor>
@@ -556,8 +589,8 @@
       <guid>https://github.com/Neroued/ninfer</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>1,996</stars>
-      <forks>368</forks>
+      <stars>2,007</stars>
+      <forks>370</forks>
       <addStars>425</addStars>
       <contributors>
         <contributor>
@@ -571,14 +604,14 @@
           <url>https://github.com/ARVLab</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/136074657?s=40&amp;v=4</avatar>
-          <name>MichaelDementii</name>
-          <url>https://github.com/MichaelDementii</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58595746?s=40&amp;v=4</avatar>
           <name>MOVIBALE</name>
           <url>https://github.com/MOVIBALE</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/136074657?s=40&amp;v=4</avatar>
+          <name>MichaelDementii</name>
+          <url>https://github.com/MichaelDementii</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
