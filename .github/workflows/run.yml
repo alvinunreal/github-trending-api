@@ -3,9 +3,7 @@ name: Fetch GitHub Trending
 on:
   workflow_dispatch:
   schedule:
-    # Temporary off-peak scheduler registration test; restored after a
-    # schedule-triggered run is observed.
-    - cron: '12 * * * *'
+    - cron: '17 1,7,13,19 * * *'
 
 jobs:
   build:
