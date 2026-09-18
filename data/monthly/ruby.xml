@@ -3,7 +3,7 @@
     <title>GitHub Ruby Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ruby Languages in GitHub</description>
-    <pubDate>Fri, 18 Sep 2026 05:31:13 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 12:08:26 GMT</pubDate>
     <item>
       <title>we-promise/sure</title>
       <link>https://github.com/we-promise/sure</link>
@@ -44,7 +44,7 @@
       <guid>https://github.com/huginn/huginn</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>49,969</stars>
+      <stars>49,971</stars>
       <forks>4,299</forks>
       <addStars>243</addStars>
       <contributors>
@@ -71,156 +71,14 @@
       </contributors>
     </item>
     <item>
-      <title>Homebrew/homebrew-core</title>
-      <link>https://github.com/Homebrew/homebrew-core</link>
-      <description>🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere</description>
-      <guid>https://github.com/Homebrew/homebrew-core</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>15,573</stars>
-      <forks>13,853</forks>
-      <addStars>87</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1589480?s=40&amp;v=4</avatar>
-          <name>BrewTestBot</name>
-          <url>https://github.com/BrewTestBot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1580956?s=40&amp;v=4</avatar>
-          <name>chenrui333</name>
-          <url>https://github.com/chenrui333</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20700669?s=40&amp;v=4</avatar>
-          <name>cho-m</name>
-          <url>https://github.com/cho-m</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1980544?s=40&amp;v=4</avatar>
-          <name>fxcoudert</name>
-          <url>https://github.com/fxcoudert</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30379873?s=40&amp;v=4</avatar>
-          <name>carlocab</name>
-          <url>https://github.com/carlocab</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>freeCodeCamp/devdocs</title>
-      <link>https://github.com/freeCodeCamp/devdocs</link>
-      <description>API Documentation Browser</description>
-      <guid>https://github.com/freeCodeCamp/devdocs</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>39,463</stars>
-      <forks>2,643</forks>
-      <addStars>201</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17579?s=40&amp;v=4</avatar>
-          <name>Thibaut</name>
-          <url>https://github.com/Thibaut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782446?s=40&amp;v=4</avatar>
-          <name>simon04</name>
-          <url>https://github.com/simon04</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14951909?s=40&amp;v=4</avatar>
-          <name>jmerle</name>
-          <url>https://github.com/jmerle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52229226?s=40&amp;v=4</avatar>
-          <name>MasterEnoc</name>
-          <url>https://github.com/MasterEnoc</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>discourse/discourse</title>
-      <link>https://github.com/discourse/discourse</link>
-      <description>A platform for community discussion. Free, open, simple.</description>
-      <guid>https://github.com/discourse/discourse</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>47,854</stars>
-      <forks>9,018</forks>
-      <addStars>227</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5213?s=40&amp;v=4</avatar>
-          <name>SamSaffron</name>
-          <url>https://github.com/SamSaffron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17538?s=40&amp;v=4</avatar>
-          <name>eviltrout</name>
-          <url>https://github.com/eviltrout</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4335742?s=40&amp;v=4</avatar>
-          <name>tgxworld</name>
-          <url>https://github.com/tgxworld</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/362783?s=40&amp;v=4</avatar>
-          <name>ZogStriP</name>
-          <url>https://github.com/ZogStriP</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>opf/openproject</title>
-      <link>https://github.com/opf/openproject</link>
-      <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub</description>
-      <guid>https://github.com/opf/openproject</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>16,137</stars>
-      <forks>3,487</forks>
-      <addStars>291</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/459462?s=40&amp;v=4</avatar>
-          <name>oliverguenther</name>
-          <url>https://github.com/oliverguenther</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/617519?s=40&amp;v=4</avatar>
-          <name>ulferts</name>
-          <url>https://github.com/ulferts</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/755?s=40&amp;v=4</avatar>
-          <name>myabc</name>
-          <url>https://github.com/myabc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7457313?s=40&amp;v=4</avatar>
-          <name>HDinger</name>
-          <url>https://github.com/HDinger</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15835030?s=40&amp;v=4</avatar>
-          <name>openprojectci</name>
-          <url>https://github.com/openprojectci</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>spree/spree</title>
       <link>https://github.com/spree/spree</link>
       <description>Open Source Platform for DTC, B2B Commerce, Marketplaces &amp; Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.</description>
       <guid>https://github.com/spree/spree</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>15,700</stars>
-      <forks>5,302</forks>
+      <stars>15,703</stars>
+      <forks>5,304</forks>
       <addStars>88</addStars>
       <contributors>
         <contributor>
@@ -251,291 +109,144 @@
       </contributors>
     </item>
     <item>
-      <title>github-linguist/linguist</title>
-      <link>https://github.com/github-linguist/linguist</link>
-      <description>Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</description>
-      <guid>https://github.com/github-linguist/linguist</guid>
+      <title>discourse/discourse</title>
+      <link>https://github.com/discourse/discourse</link>
+      <description>A platform for community discussion. Free, open, simple.</description>
+      <guid>https://github.com/discourse/discourse</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>13,690</stars>
-      <forks>5,407</forks>
-      <addStars>75</addStars>
+      <stars>47,857</stars>
+      <forks>9,018</forks>
+      <addStars>227</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4483?s=40&amp;v=4</avatar>
-          <name>arfon</name>
-          <url>https://github.com/arfon</url>
+          <avatar>https://avatars.githubusercontent.com/u/5213?s=40&amp;v=4</avatar>
+          <name>SamSaffron</name>
+          <url>https://github.com/SamSaffron</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/137?s=40&amp;v=4</avatar>
-          <name>josh</name>
-          <url>https://github.com/josh</url>
+          <avatar>https://avatars.githubusercontent.com/u/17538?s=40&amp;v=4</avatar>
+          <name>eviltrout</name>
+          <url>https://github.com/eviltrout</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/627280?s=40&amp;v=4</avatar>
-          <name>lildude</name>
-          <url>https://github.com/lildude</url>
+          <avatar>https://avatars.githubusercontent.com/u/4335742?s=40&amp;v=4</avatar>
+          <name>tgxworld</name>
+          <url>https://github.com/tgxworld</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126905?s=40&amp;v=4</avatar>
-          <name>tnm</name>
-          <url>https://github.com/tnm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1764210?s=40&amp;v=4</avatar>
-          <name>pchaigno</name>
-          <url>https://github.com/pchaigno</url>
+          <avatar>https://avatars.githubusercontent.com/u/362783?s=40&amp;v=4</avatar>
+          <name>ZogStriP</name>
+          <url>https://github.com/ZogStriP</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>rapid7/metasploit-framework</title>
-      <link>https://github.com/rapid7/metasploit-framework</link>
-      <description>Metasploit Framework</description>
-      <guid>https://github.com/rapid7/metasploit-framework</guid>
+      <title>freeCodeCamp/devdocs</title>
+      <link>https://github.com/freeCodeCamp/devdocs</link>
+      <description>API Documentation Browser</description>
+      <guid>https://github.com/freeCodeCamp/devdocs</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>39,020</stars>
-      <forks>14,971</forks>
-      <addStars>251</addStars>
+      <stars>39,464</stars>
+      <forks>2,643</forks>
+      <addStars>201</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1170914?s=40&amp;v=4</avatar>
-          <name>wchen-r7</name>
-          <url>https://github.com/wchen-r7</url>
+          <avatar>https://avatars.githubusercontent.com/u/17579?s=40&amp;v=4</avatar>
+          <name>Thibaut</name>
+          <url>https://github.com/Thibaut</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4551878?s=40&amp;v=4</avatar>
-          <name>wvu</name>
-          <url>https://github.com/wvu</url>
+          <avatar>https://avatars.githubusercontent.com/u/782446?s=40&amp;v=4</avatar>
+          <name>simon04</name>
+          <url>https://github.com/simon04</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5332090?s=40&amp;v=4</avatar>
-          <name>msjenkins-r7</name>
-          <url>https://github.com/msjenkins-r7</url>
+          <avatar>https://avatars.githubusercontent.com/u/14951909?s=40&amp;v=4</avatar>
+          <name>jmerle</name>
+          <url>https://github.com/jmerle</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1742838?s=40&amp;v=4</avatar>
-          <name>jvazquez-r7</name>
-          <url>https://github.com/jvazquez-r7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2058303?s=40&amp;v=4</avatar>
-          <name>zeroSteiner</name>
-          <url>https://github.com/zeroSteiner</url>
+          <avatar>https://avatars.githubusercontent.com/u/52229226?s=40&amp;v=4</avatar>
+          <name>MasterEnoc</name>
+          <url>https://github.com/MasterEnoc</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>jekyll/jekyll</title>
-      <link>https://github.com/jekyll/jekyll</link>
-      <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
-      <guid>https://github.com/jekyll/jekyll</guid>
+      <title>opf/openproject</title>
+      <link>https://github.com/opf/openproject</link>
+      <description>OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub</description>
+      <guid>https://github.com/opf/openproject</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>51,677</stars>
-      <forks>10,299</forks>
-      <addStars>100</addStars>
+      <stars>16,140</stars>
+      <forks>3,489</forks>
+      <addStars>291</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
-          <name>parkr</name>
-          <url>https://github.com/parkr</url>
+          <avatar>https://avatars.githubusercontent.com/u/459462?s=40&amp;v=4</avatar>
+          <name>oliverguenther</name>
+          <url>https://github.com/oliverguenther</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6166343?s=40&amp;v=4</avatar>
-          <name>jekyllbot</name>
-          <url>https://github.com/jekyllbot</url>
+          <avatar>https://avatars.githubusercontent.com/u/617519?s=40&amp;v=4</avatar>
+          <name>ulferts</name>
+          <url>https://github.com/ulferts</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12479464?s=40&amp;v=4</avatar>
-          <name>ashmaroli</name>
-          <url>https://github.com/ashmaroli</url>
+          <avatar>https://avatars.githubusercontent.com/u/755?s=40&amp;v=4</avatar>
+          <name>myabc</name>
+          <url>https://github.com/myabc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77174?s=40&amp;v=4</avatar>
-          <name>mattr-</name>
-          <url>https://github.com/mattr-</url>
+          <avatar>https://avatars.githubusercontent.com/u/7457313?s=40&amp;v=4</avatar>
+          <name>HDinger</name>
+          <url>https://github.com/HDinger</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1?s=40&amp;v=4</avatar>
-          <name>mojombo</name>
-          <url>https://github.com/mojombo</url>
+          <avatar>https://avatars.githubusercontent.com/u/15835030?s=40&amp;v=4</avatar>
+          <name>openprojectci</name>
+          <url>https://github.com/openprojectci</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>basecamp/fizzy</title>
-      <link>https://github.com/basecamp/fizzy</link>
-      <description>Kanban as it should be. Not as it has been.</description>
-      <guid>https://github.com/basecamp/fizzy</guid>
+      <title>Homebrew/homebrew-core</title>
+      <link>https://github.com/Homebrew/homebrew-core</link>
+      <description>🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere</description>
+      <guid>https://github.com/Homebrew/homebrew-core</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>8,205</stars>
-      <forks>1,193</forks>
-      <addStars>149</addStars>
+      <stars>15,573</stars>
+      <forks>13,852</forks>
+      <addStars>87</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/107673?s=40&amp;v=4</avatar>
-          <name>jzimdars</name>
-          <url>https://github.com/jzimdars</url>
+          <avatar>https://avatars.githubusercontent.com/u/1589480?s=40&amp;v=4</avatar>
+          <name>BrewTestBot</name>
+          <url>https://github.com/BrewTestBot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129938?s=40&amp;v=4</avatar>
-          <name>jorgemanrubia</name>
-          <url>https://github.com/jorgemanrubia</url>
+          <avatar>https://avatars.githubusercontent.com/u/1580956?s=40&amp;v=4</avatar>
+          <name>chenrui333</name>
+          <url>https://github.com/chenrui333</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/784440?s=40&amp;v=4</avatar>
-          <name>andyra</name>
-          <url>https://github.com/andyra</url>
+          <avatar>https://avatars.githubusercontent.com/u/20700669?s=40&amp;v=4</avatar>
+          <name>cho-m</name>
+          <url>https://github.com/cho-m</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8207?s=40&amp;v=4</avatar>
-          <name>flavorjones</name>
-          <url>https://github.com/flavorjones</url>
+          <avatar>https://avatars.githubusercontent.com/u/1980544?s=40&amp;v=4</avatar>
+          <name>fxcoudert</name>
+          <url>https://github.com/fxcoudert</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1655218?s=40&amp;v=4</avatar>
-          <name>monorkin</name>
-          <url>https://github.com/monorkin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mastodon/mastodon</title>
-      <link>https://github.com/mastodon/mastodon</link>
-      <description>Your self-hosted, globally interconnected microblogging community</description>
-      <guid>https://github.com/mastodon/mastodon</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>50,299</stars>
-      <forks>7,498</forks>
-      <addStars>156</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184731?s=40&amp;v=4</avatar>
-          <name>Gargron</name>
-          <url>https://github.com/Gargron</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/384364?s=40&amp;v=4</avatar>
-          <name>ClearlyClaire</name>
-          <url>https://github.com/ClearlyClaire</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/225?s=40&amp;v=4</avatar>
-          <name>mjankowski</name>
-          <url>https://github.com/mjankowski</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>dependabot/dependabot-core</title>
-      <link>https://github.com/dependabot/dependabot-core</link>
-      <description>🤖 Dependabot's core logic for creating update PRs.</description>
-      <guid>https://github.com/dependabot/dependabot-core</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>5,774</stars>
-      <forks>1,523</forks>
-      <addStars>65</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1144873?s=40&amp;v=4</avatar>
-          <name>greysteil</name>
-          <url>https://github.com/greysteil</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20165?s=40&amp;v=4</avatar>
-          <name>feelepxyz</name>
-          <url>https://github.com/feelepxyz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1358764?s=40&amp;v=4</avatar>
-          <name>JamieMagee</name>
-          <url>https://github.com/JamieMagee</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/749864?s=40&amp;v=4</avatar>
-          <name>jurre</name>
-          <url>https://github.com/jurre</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zammad/zammad</title>
-      <link>https://github.com/zammad/zammad</link>
-      <description>Zammad is a web based open source helpdesk/customer support system.</description>
-      <guid>https://github.com/zammad/zammad</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>5,924</stars>
-      <forks>1,056</forks>
-      <addStars>82</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110226?s=40&amp;v=4</avatar>
-          <name>martini</name>
-          <url>https://github.com/martini</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/211281?s=40&amp;v=4</avatar>
-          <name>mgruner</name>
-          <url>https://github.com/mgruner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60777?s=40&amp;v=4</avatar>
-          <name>mrflix</name>
-          <url>https://github.com/mrflix</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3873515?s=40&amp;v=4</avatar>
-          <name>thorsteneckel</name>
-          <url>https://github.com/thorsteneckel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5445062?s=40&amp;v=4</avatar>
-          <name>rolfschmidt</name>
-          <url>https://github.com/rolfschmidt</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>basecamp/once-campfire</title>
-      <link>https://github.com/basecamp/once-campfire</link>
-      <description>Super simple group chat, without a subscription</description>
-      <guid>https://github.com/basecamp/once-campfire</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>4,632</stars>
-      <forks>793</forks>
-      <addStars>152</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1655218?s=40&amp;v=4</avatar>
-          <name>monorkin</name>
-          <url>https://github.com/monorkin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8207?s=40&amp;v=4</avatar>
-          <name>flavorjones</name>
-          <url>https://github.com/flavorjones</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199?s=40&amp;v=4</avatar>
-          <name>jeremy</name>
-          <url>https://github.com/jeremy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1186763?s=40&amp;v=4</avatar>
-          <name>kevinmcconnell</name>
-          <url>https://github.com/kevinmcconnell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4</avatar>
-          <name>dhh</name>
-          <url>https://github.com/dhh</url>
+          <avatar>https://avatars.githubusercontent.com/u/30379873?s=40&amp;v=4</avatar>
+          <name>carlocab</name>
+          <url>https://github.com/carlocab</url>
         </contributor>
       </contributors>
     </item>
@@ -578,13 +289,203 @@
       </contributors>
     </item>
     <item>
+      <title>github-linguist/linguist</title>
+      <link>https://github.com/github-linguist/linguist</link>
+      <description>Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</description>
+      <guid>https://github.com/github-linguist/linguist</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>13,691</stars>
+      <forks>5,410</forks>
+      <addStars>75</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4483?s=40&amp;v=4</avatar>
+          <name>arfon</name>
+          <url>https://github.com/arfon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/137?s=40&amp;v=4</avatar>
+          <name>josh</name>
+          <url>https://github.com/josh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/627280?s=40&amp;v=4</avatar>
+          <name>lildude</name>
+          <url>https://github.com/lildude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126905?s=40&amp;v=4</avatar>
+          <name>tnm</name>
+          <url>https://github.com/tnm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1764210?s=40&amp;v=4</avatar>
+          <name>pchaigno</name>
+          <url>https://github.com/pchaigno</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jekyll/jekyll</title>
+      <link>https://github.com/jekyll/jekyll</link>
+      <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
+      <guid>https://github.com/jekyll/jekyll</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>51,676</stars>
+      <forks>10,299</forks>
+      <addStars>100</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
+          <name>parkr</name>
+          <url>https://github.com/parkr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6166343?s=40&amp;v=4</avatar>
+          <name>jekyllbot</name>
+          <url>https://github.com/jekyllbot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12479464?s=40&amp;v=4</avatar>
+          <name>ashmaroli</name>
+          <url>https://github.com/ashmaroli</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/77174?s=40&amp;v=4</avatar>
+          <name>mattr-</name>
+          <url>https://github.com/mattr-</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1?s=40&amp;v=4</avatar>
+          <name>mojombo</name>
+          <url>https://github.com/mojombo</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rapid7/metasploit-framework</title>
+      <link>https://github.com/rapid7/metasploit-framework</link>
+      <description>Metasploit Framework</description>
+      <guid>https://github.com/rapid7/metasploit-framework</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>39,022</stars>
+      <forks>14,971</forks>
+      <addStars>251</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1170914?s=40&amp;v=4</avatar>
+          <name>wchen-r7</name>
+          <url>https://github.com/wchen-r7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4551878?s=40&amp;v=4</avatar>
+          <name>wvu</name>
+          <url>https://github.com/wvu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5332090?s=40&amp;v=4</avatar>
+          <name>msjenkins-r7</name>
+          <url>https://github.com/msjenkins-r7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1742838?s=40&amp;v=4</avatar>
+          <name>jvazquez-r7</name>
+          <url>https://github.com/jvazquez-r7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2058303?s=40&amp;v=4</avatar>
+          <name>zeroSteiner</name>
+          <url>https://github.com/zeroSteiner</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>basecamp/fizzy</title>
+      <link>https://github.com/basecamp/fizzy</link>
+      <description>Kanban as it should be. Not as it has been.</description>
+      <guid>https://github.com/basecamp/fizzy</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>8,208</stars>
+      <forks>1,193</forks>
+      <addStars>149</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/107673?s=40&amp;v=4</avatar>
+          <name>jzimdars</name>
+          <url>https://github.com/jzimdars</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129938?s=40&amp;v=4</avatar>
+          <name>jorgemanrubia</name>
+          <url>https://github.com/jorgemanrubia</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/784440?s=40&amp;v=4</avatar>
+          <name>andyra</name>
+          <url>https://github.com/andyra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8207?s=40&amp;v=4</avatar>
+          <name>flavorjones</name>
+          <url>https://github.com/flavorjones</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1655218?s=40&amp;v=4</avatar>
+          <name>monorkin</name>
+          <url>https://github.com/monorkin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>zammad/zammad</title>
+      <link>https://github.com/zammad/zammad</link>
+      <description>Zammad is a web based open source helpdesk/customer support system.</description>
+      <guid>https://github.com/zammad/zammad</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>5,924</stars>
+      <forks>1,057</forks>
+      <addStars>82</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/110226?s=40&amp;v=4</avatar>
+          <name>martini</name>
+          <url>https://github.com/martini</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/211281?s=40&amp;v=4</avatar>
+          <name>mgruner</name>
+          <url>https://github.com/mgruner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60777?s=40&amp;v=4</avatar>
+          <name>mrflix</name>
+          <url>https://github.com/mrflix</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3873515?s=40&amp;v=4</avatar>
+          <name>thorsteneckel</name>
+          <url>https://github.com/thorsteneckel</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5445062?s=40&amp;v=4</avatar>
+          <name>rolfschmidt</name>
+          <url>https://github.com/rolfschmidt</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>kilimchoi/engineering-blogs</title>
       <link>https://github.com/kilimchoi/engineering-blogs</link>
       <description>A curated list of engineering blogs</description>
       <guid>https://github.com/kilimchoi/engineering-blogs</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>38,675</stars>
+      <stars>38,677</stars>
       <forks>2,043</forks>
       <addStars>189</addStars>
       <contributors>
@@ -616,40 +517,78 @@
       </contributors>
     </item>
     <item>
-      <title>rubocop/rubocop</title>
-      <link>https://github.com/rubocop/rubocop</link>
-      <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
-      <guid>https://github.com/rubocop/rubocop</guid>
+      <title>basecamp/once-campfire</title>
+      <link>https://github.com/basecamp/once-campfire</link>
+      <description>Super simple group chat, without a subscription</description>
+      <guid>https://github.com/basecamp/once-campfire</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>12,903</stars>
-      <forks>3,138</forks>
-      <addStars>19</addStars>
+      <stars>4,633</stars>
+      <forks>793</forks>
+      <addStars>152</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13203?s=40&amp;v=4</avatar>
-          <name>koic</name>
-          <url>https://github.com/koic</url>
+          <avatar>https://avatars.githubusercontent.com/u/1655218?s=40&amp;v=4</avatar>
+          <name>monorkin</name>
+          <url>https://github.com/monorkin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103882?s=40&amp;v=4</avatar>
-          <name>bbatsov</name>
-          <url>https://github.com/bbatsov</url>
+          <avatar>https://avatars.githubusercontent.com/u/8207?s=40&amp;v=4</avatar>
+          <name>flavorjones</name>
+          <url>https://github.com/flavorjones</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/336720?s=40&amp;v=4</avatar>
-          <name>jonas054</name>
-          <url>https://github.com/jonas054</url>
+          <avatar>https://avatars.githubusercontent.com/u/199?s=40&amp;v=4</avatar>
+          <name>jeremy</name>
+          <url>https://github.com/jeremy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57964?s=40&amp;v=4</avatar>
-          <name>dvandersluis</name>
-          <url>https://github.com/dvandersluis</url>
+          <avatar>https://avatars.githubusercontent.com/u/1186763?s=40&amp;v=4</avatar>
+          <name>kevinmcconnell</name>
+          <url>https://github.com/kevinmcconnell</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5259935?s=40&amp;v=4</avatar>
-          <name>Drenmi</name>
-          <url>https://github.com/Drenmi</url>
+          <avatar>https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4</avatar>
+          <name>dhh</name>
+          <url>https://github.com/dhh</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>fastlane/fastlane</title>
+      <link>https://github.com/fastlane/fastlane</link>
+      <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+      <guid>https://github.com/fastlane/fastlane</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>42,125</stars>
+      <forks>6,031</forks>
+      <addStars>172</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/869950?s=40&amp;v=4</avatar>
+          <name>KrauseFx</name>
+          <url>https://github.com/KrauseFx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/343134?s=40&amp;v=4</avatar>
+          <name>mfurtak</name>
+          <url>https://github.com/mfurtak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1848683?s=40&amp;v=4</avatar>
+          <name>asfalcone</name>
+          <url>https://github.com/asfalcone</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2587018?s=40&amp;v=4</avatar>
+          <name>ohayon</name>
+          <url>https://github.com/ohayon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24282?s=40&amp;v=4</avatar>
+          <name>lacostej</name>
+          <url>https://github.com/lacostej</url>
         </contributor>
       </contributors>
     </item>
@@ -692,106 +631,73 @@
       </contributors>
     </item>
     <item>
-      <title>fastlane/fastlane</title>
-      <link>https://github.com/fastlane/fastlane</link>
-      <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
-      <guid>https://github.com/fastlane/fastlane</guid>
+      <title>crmne/ruby_llm</title>
+      <link>https://github.com/crmne/ruby_llm</link>
+      <description>The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.</description>
+      <guid>https://github.com/crmne/ruby_llm</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>42,124</stars>
-      <forks>6,031</forks>
-      <addStars>172</addStars>
+      <stars>4,381</stars>
+      <forks>501</forks>
+      <addStars>86</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/869950?s=40&amp;v=4</avatar>
-          <name>KrauseFx</name>
-          <url>https://github.com/KrauseFx</url>
+          <avatar>https://avatars.githubusercontent.com/u/106617?s=40&amp;v=4</avatar>
+          <name>crmne</name>
+          <url>https://github.com/crmne</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/343134?s=40&amp;v=4</avatar>
-          <name>mfurtak</name>
-          <url>https://github.com/mfurtak</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1848683?s=40&amp;v=4</avatar>
-          <name>asfalcone</name>
-          <url>https://github.com/asfalcone</url>
+          <avatar>https://avatars.githubusercontent.com/u/13948?s=40&amp;v=4</avatar>
+          <name>xymbol</name>
+          <url>https://github.com/xymbol</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2587018?s=40&amp;v=4</avatar>
-          <name>ohayon</name>
-          <url>https://github.com/ohayon</url>
+          <avatar>https://avatars.githubusercontent.com/u/209089?s=40&amp;v=4</avatar>
+          <name>kieranklaassen</name>
+          <url>https://github.com/kieranklaassen</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24282?s=40&amp;v=4</avatar>
-          <name>lacostej</name>
-          <url>https://github.com/lacostej</url>
+          <avatar>https://avatars.githubusercontent.com/u/6375192?s=40&amp;v=4</avatar>
+          <name>afurm</name>
+          <url>https://github.com/afurm</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>endoflife-date/endoflife.date</title>
-      <link>https://github.com/endoflife-date/endoflife.date</link>
-      <description>Informative site with EoL dates of everything</description>
-      <guid>https://github.com/endoflife-date/endoflife.date</guid>
+      <title>dependabot/dependabot-core</title>
+      <link>https://github.com/dependabot/dependabot-core</link>
+      <description>🤖 Dependabot's core logic for creating update PRs.</description>
+      <guid>https://github.com/dependabot/dependabot-core</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>3,380</stars>
-      <forks>1,307</forks>
-      <addStars>27</addStars>
+      <stars>5,776</stars>
+      <forks>1,523</forks>
+      <addStars>65</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2988912?s=40&amp;v=4</avatar>
-          <name>marcwrobel</name>
-          <url>https://github.com/marcwrobel</url>
+          <avatar>https://avatars.githubusercontent.com/u/1144873?s=40&amp;v=4</avatar>
+          <name>greysteil</name>
+          <url>https://github.com/greysteil</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13657422?s=40&amp;v=4</avatar>
-          <name>BiNZGi</name>
-          <url>https://github.com/BiNZGi</url>
+          <avatar>https://avatars.githubusercontent.com/u/20165?s=40&amp;v=4</avatar>
+          <name>feelepxyz</name>
+          <url>https://github.com/feelepxyz</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/584253?s=40&amp;v=4</avatar>
-          <name>captn3m0</name>
-          <url>https://github.com/captn3m0</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>basecamp/kamal</title>
-      <link>https://github.com/basecamp/kamal</link>
-      <description>Deploy web apps anywhere.</description>
-      <guid>https://github.com/basecamp/kamal</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>14,582</stars>
-      <forks>753</forks>
-      <addStars>91</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1734607?s=40&amp;v=4</avatar>
-          <name>djmb</name>
-          <url>https://github.com/djmb</url>
+          <avatar>https://avatars.githubusercontent.com/u/1358764?s=40&amp;v=4</avatar>
+          <name>JamieMagee</name>
+          <url>https://github.com/JamieMagee</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2741?s=40&amp;v=4</avatar>
-          <name>dhh</name>
-          <url>https://github.com/dhh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17698?s=40&amp;v=4</avatar>
-          <name>nickhammond</name>
-          <url>https://github.com/nickhammond</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/100725?s=40&amp;v=4</avatar>
-          <name>igor-alexandrov</name>
-          <url>https://github.com/igor-alexandrov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/480921?s=40&amp;v=4</avatar>
-          <name>calmyournerves</name>
-          <url>https://github.com/calmyournerves</url>
+          <avatar>https://avatars.githubusercontent.com/u/749864?s=40&amp;v=4</avatar>
+          <name>jurre</name>
+          <url>https://github.com/jurre</url>
         </contributor>
       </contributors>
     </item>
@@ -802,8 +708,8 @@
       <guid>https://github.com/Freika/dawarich</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>10,427</stars>
-      <forks>377</forks>
+      <stars>10,429</stars>
+      <forks>376</forks>
       <addStars>347</addStars>
       <contributors>
         <contributor>
@@ -820,6 +726,110 @@
           <avatar>https://avatars.githubusercontent.com/u/73174517?s=40&amp;v=4</avatar>
           <name>sunstep</name>
           <url>https://github.com/sunstep</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rubocop/rubocop</title>
+      <link>https://github.com/rubocop/rubocop</link>
+      <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
+      <guid>https://github.com/rubocop/rubocop</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>12,903</stars>
+      <forks>3,139</forks>
+      <addStars>19</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13203?s=40&amp;v=4</avatar>
+          <name>koic</name>
+          <url>https://github.com/koic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/103882?s=40&amp;v=4</avatar>
+          <name>bbatsov</name>
+          <url>https://github.com/bbatsov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/336720?s=40&amp;v=4</avatar>
+          <name>jonas054</name>
+          <url>https://github.com/jonas054</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/57964?s=40&amp;v=4</avatar>
+          <name>dvandersluis</name>
+          <url>https://github.com/dvandersluis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5259935?s=40&amp;v=4</avatar>
+          <name>Drenmi</name>
+          <url>https://github.com/Drenmi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>mastodon/mastodon</title>
+      <link>https://github.com/mastodon/mastodon</link>
+      <description>Your self-hosted, globally interconnected microblogging community</description>
+      <guid>https://github.com/mastodon/mastodon</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>50,301</stars>
+      <forks>7,498</forks>
+      <addStars>156</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/184731?s=40&amp;v=4</avatar>
+          <name>Gargron</name>
+          <url>https://github.com/Gargron</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/384364?s=40&amp;v=4</avatar>
+          <name>ClearlyClaire</name>
+          <url>https://github.com/ClearlyClaire</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/225?s=40&amp;v=4</avatar>
+          <name>mjankowski</name>
+          <url>https://github.com/mjankowski</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rails/rails</title>
+      <link>https://github.com/rails/rails</link>
+      <description>Ruby on Rails</description>
+      <guid>https://github.com/rails/rails</guid>
+      <language>Ruby</language>
+      <languageColor>#701516</languageColor>
+      <stars>58,774</stars>
+      <forks>22,825</forks>
+      <addStars>170</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47848?s=40&amp;v=4</avatar>
+          <name>rafaelfranca</name>
+          <url>https://github.com/rafaelfranca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12642?s=40&amp;v=4</avatar>
+          <name>kamipo</name>
+          <url>https://github.com/kamipo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199?s=40&amp;v=4</avatar>
+          <name>jeremy</name>
+          <url>https://github.com/jeremy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3124?s=40&amp;v=4</avatar>
+          <name>tenderlove</name>
+          <url>https://github.com/tenderlove</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44640?s=40&amp;v=4</avatar>
+          <name>byroot</name>
+          <url>https://github.com/byroot</url>
         </contributor>
       </contributors>
     </item>
