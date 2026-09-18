@@ -2,7 +2,7 @@
   "title": "GitHub C# Languages Weekly Trending",
   "description": "Weekly Trending of C# Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 16:58:07 GMT",
+  "pubDate": "Fri, 18 Sep 2026 21:31:42 GMT",
   "items": [
     {
       "title": "zephyrproject-rtos/zephyr",
@@ -10,8 +10,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,558",
-      "forks": "9,991",
+      "stars": "16,559",
+      "forks": "9,993",
       "addStars": "9",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "23,061",
+      "stars": "23,068",
       "forks": "1,326",
       "addStars": "15",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "892",
-      "forks": "125",
+      "forks": "126",
       "addStars": "3",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,678",
+      "stars": "31,681",
       "forks": "8,302",
       "addStars": "9",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Unbound is a validating, recursive, and caching DNS resolver.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,910",
+      "stars": "4,911",
       "forks": "453",
       "addStars": "5",
       "contributors": [
@@ -344,7 +344,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "19,046",
-      "forks": "8,489",
+      "forks": "8,490",
       "addStars": "12",
       "contributors": [
         {
@@ -417,8 +417,8 @@
       "description": "Box3D is a 3D physics engine for games",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,385",
-      "forks": "338",
+      "stars": "6,386",
+      "forks": "339",
       "addStars": "15",
       "contributors": [
         {
@@ -471,12 +471,49 @@
       ]
     },
     {
+      "title": "matz/spinel",
+      "url": "https://github.com/matz/spinel",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "1,868",
+      "forks": "97",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30733?s=40&v=4",
+          "name": "matz",
+          "url": "https://github.com/matz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/163873?s=40&v=4",
+          "name": "ryanseys",
+          "url": "https://github.com/ryanseys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4815?s=40&v=4",
+          "name": "rubys",
+          "url": "https://github.com/rubys"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21557?s=40&v=4",
+          "name": "mame",
+          "url": "https://github.com/mame"
+        }
+      ]
+    },
+    {
       "title": "Cyan4973/xxHash",
       "url": "https://github.com/Cyan4973/xxHash",
       "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "11,260",
+      "stars": "11,261",
       "forks": "912",
       "addStars": "8",
       "contributors": [
@@ -508,8 +545,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "30,800",
-      "forks": "11,465",
+      "stars": "30,801",
+      "forks": "11,466",
       "addStars": "9",
       "contributors": [
         {
@@ -545,7 +582,7 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,667",
+      "stars": "34,668",
       "forks": "8,087",
       "addStars": "6",
       "contributors": [
@@ -582,7 +619,7 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "32,279",
+      "stars": "32,282",
       "forks": "2,461",
       "addStars": "13",
       "contributors": [
@@ -604,8 +641,8 @@
       "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,914",
-      "forks": "147",
+      "stars": "1,915",
+      "forks": "148",
       "addStars": "32",
       "contributors": [
         {
@@ -641,7 +678,7 @@
       "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "300",
+      "stars": "302",
       "forks": "62",
       "addStars": "5",
       "contributors": [
@@ -678,8 +715,8 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,617",
-      "forks": "2,034",
+      "stars": "35,618",
+      "forks": "2,068",
       "addStars": "6",
       "contributors": [
         {
@@ -711,7 +748,7 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "4,295",
-      "forks": "1,614",
+      "forks": "1,616",
       "addStars": "2",
       "contributors": [
         {
