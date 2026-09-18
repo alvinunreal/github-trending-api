@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Weekly Trending",
   "description": "Weekly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 12:08:26 GMT",
+  "pubDate": "Fri, 18 Sep 2026 16:58:07 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,180",
-      "forks": "20,122",
+      "stars": "26,183",
+      "forks": "20,125",
       "addStars": "111",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,966",
-      "forks": "253",
+      "stars": "1,968",
+      "forks": "254",
       "addStars": "42",
       "contributors": [
         {
@@ -101,7 +101,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,302",
+      "stars": "3,303",
       "forks": "975",
       "addStars": "7",
       "contributors": [
@@ -133,8 +133,8 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,356",
-      "forks": "2,477",
+      "stars": "10,357",
+      "forks": "2,478",
       "addStars": "24",
       "contributors": [
         {
@@ -203,7 +203,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "1,732",
-      "forks": "60",
+      "forks": "61",
       "addStars": "12",
       "contributors": [
         {
@@ -229,7 +229,7 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,325",
+      "stars": "3,326",
       "forks": "331",
       "addStars": "15",
       "contributors": [
@@ -256,7 +256,7 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,169",
+      "stars": "3,171",
       "forks": "235",
       "addStars": "12",
       "contributors": [
