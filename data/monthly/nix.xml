@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sat, 19 Sep 2026 05:28:10 GMT</pubDate>
+    <pubDate>Sat, 19 Sep 2026 11:50:57 GMT</pubDate>
     <item>
       <title>numtide/llm-agents.nix</title>
       <link>https://github.com/numtide/llm-agents.nix</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>1,972</stars>
+      <stars>1,973</stars>
       <forks>255</forks>
       <addStars>209</addStars>
       <contributors>
@@ -67,8 +67,8 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,188</stars>
-      <forks>20,134</forks>
+      <stars>26,186</stars>
+      <forks>20,136</forks>
       <addStars>413</addStars>
       <contributors>
         <contributor>
@@ -99,35 +99,40 @@
       </contributors>
     </item>
     <item>
-      <title>nix-darwin/nix-darwin</title>
-      <link>https://github.com/nix-darwin/nix-darwin</link>
-      <description>Manage your macOS using Nix</description>
-      <guid>https://github.com/nix-darwin/nix-darwin</guid>
+      <title>nix-community/home-manager</title>
+      <link>https://github.com/nix-community/home-manager</link>
+      <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+      <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>5,938</stars>
-      <forks>659</forks>
-      <addStars>115</addStars>
+      <stars>10,359</stars>
+      <forks>2,478</forks>
+      <addStars>132</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
-          <name>LnL7</name>
-          <url>https://github.com/LnL7</url>
+          <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
+          <name>rycee</name>
+          <url>https://github.com/rycee</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
-          <name>Enzime</name>
-          <url>https://github.com/Enzime</url>
+          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
+          <name>khaneliman</name>
+          <url>https://github.com/khaneliman</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18535642?s=40&amp;v=4</avatar>
-          <name>emilazy</name>
-          <url>https://github.com/emilazy</url>
+          <avatar>https://avatars.githubusercontent.com/u/886074?s=40&amp;v=4</avatar>
+          <name>teto</name>
+          <url>https://github.com/teto</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
-          <name>domenkozar</name>
-          <url>https://github.com/domenkozar</url>
+          <avatar>https://avatars.githubusercontent.com/u/4323933?s=40&amp;v=4</avatar>
+          <name>ncfavier</name>
+          <url>https://github.com/ncfavier</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20448408?s=40&amp;v=4</avatar>
+          <name>berbiche</name>
+          <url>https://github.com/berbiche</url>
         </contributor>
       </contributors>
     </item>
@@ -170,40 +175,25 @@
       </contributors>
     </item>
     <item>
-      <title>nix-community/home-manager</title>
-      <link>https://github.com/nix-community/home-manager</link>
-      <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
-      <guid>https://github.com/nix-community/home-manager</guid>
+      <title>Mic92/sops-nix</title>
+      <link>https://github.com/Mic92/sops-nix</link>
+      <description>Atomic secret provisioning for NixOS based on sops</description>
+      <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>10,361</stars>
-      <forks>2,478</forks>
-      <addStars>132</addStars>
+      <stars>3,172</stars>
+      <forks>236</forks>
+      <addStars>64</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/798147?s=40&amp;v=4</avatar>
-          <name>rycee</name>
-          <url>https://github.com/rycee</url>
+          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
+          <name>Mic92</name>
+          <url>https://github.com/Mic92</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
-          <name>khaneliman</name>
-          <url>https://github.com/khaneliman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/886074?s=40&amp;v=4</avatar>
-          <name>teto</name>
-          <url>https://github.com/teto</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4323933?s=40&amp;v=4</avatar>
-          <name>ncfavier</name>
-          <url>https://github.com/ncfavier</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20448408?s=40&amp;v=4</avatar>
-          <name>berbiche</name>
-          <url>https://github.com/berbiche</url>
+          <avatar>https://avatars.githubusercontent.com/u/4971975?s=40&amp;v=4</avatar>
+          <name>dasJ</name>
+          <url>https://github.com/dasJ</url>
         </contributor>
       </contributors>
     </item>
@@ -214,7 +204,7 @@
       <guid>https://github.com/nix-community/nixvim</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,949</stars>
+      <stars>2,950</stars>
       <forks>404</forks>
       <addStars>31</addStars>
       <contributors>
@@ -242,7 +232,7 @@
       <guid>https://github.com/microvm-nix/microvm.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,943</stars>
+      <stars>2,942</stars>
       <forks>231</forks>
       <addStars>84</addStars>
       <contributors>
@@ -269,25 +259,111 @@
       </contributors>
     </item>
     <item>
-      <title>Mic92/sops-nix</title>
-      <link>https://github.com/Mic92/sops-nix</link>
-      <description>Atomic secret provisioning for NixOS based on sops</description>
-      <guid>https://github.com/Mic92/sops-nix</guid>
+      <title>nix-darwin/nix-darwin</title>
+      <link>https://github.com/nix-darwin/nix-darwin</link>
+      <description>Manage your macOS using Nix</description>
+      <guid>https://github.com/nix-darwin/nix-darwin</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,172</stars>
-      <forks>235</forks>
-      <addStars>64</addStars>
+      <stars>5,938</stars>
+      <forks>659</forks>
+      <addStars>115</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
+          <avatar>https://avatars.githubusercontent.com/u/689294?s=40&amp;v=4</avatar>
+          <name>LnL7</name>
+          <url>https://github.com/LnL7</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4971975?s=40&amp;v=4</avatar>
-          <name>dasJ</name>
-          <url>https://github.com/dasJ</url>
+          <avatar>https://avatars.githubusercontent.com/u/10492681?s=40&amp;v=4</avatar>
+          <name>Enzime</name>
+          <url>https://github.com/Enzime</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18535642?s=40&amp;v=4</avatar>
+          <name>emilazy</name>
+          <url>https://github.com/emilazy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
+          <name>domenkozar</name>
+          <url>https://github.com/domenkozar</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NixOS/nix.dev</title>
+      <link>https://github.com/NixOS/nix.dev</link>
+      <description>Official documentation for getting things done with Nix.</description>
+      <guid>https://github.com/NixOS/nix.dev</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>3,970</stars>
+      <forks>339</forks>
+      <addStars>58</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6599296?s=40&amp;v=4</avatar>
+          <name>fricklerhandwerk</name>
+          <url>https://github.com/fricklerhandwerk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/126339?s=40&amp;v=4</avatar>
+          <name>domenkozar</name>
+          <url>https://github.com/domenkozar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/74747193?s=40&amp;v=4</avatar>
+          <name>proofconstruction</name>
+          <url>https://github.com/proofconstruction</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20525370?s=40&amp;v=4</avatar>
+          <name>infinisil</name>
+          <url>https://github.com/infinisil</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10246891?s=40&amp;v=4</avatar>
+          <name>zmitchell</name>
+          <url>https://github.com/zmitchell</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>nix-community/stylix</title>
+      <link>https://github.com/nix-community/stylix</link>
+      <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
+      <guid>https://github.com/nix-community/stylix</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>2,407</stars>
+      <forks>364</forks>
+      <addStars>48</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/90870942?s=40&amp;v=4</avatar>
+          <name>trueNAHO</name>
+          <url>https://github.com/trueNAHO</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28959268?s=40&amp;v=4</avatar>
+          <name>danth</name>
+          <url>https://github.com/danth</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/153149335?s=40&amp;v=4</avatar>
+          <name>0xda157</name>
+          <url>https://github.com/0xda157</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5046562?s=40&amp;v=4</avatar>
+          <name>MattSturgeon</name>
+          <url>https://github.com/MattSturgeon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64027365?s=40&amp;v=4</avatar>
+          <name>Flameopathic</name>
+          <url>https://github.com/Flameopathic</url>
         </contributor>
       </contributors>
     </item>
@@ -320,31 +396,13 @@
       </contributors>
     </item>
     <item>
-      <title>Mic92/dotfiles</title>
-      <link>https://github.com/Mic92/dotfiles</link>
-      <description>My NixOS dotfiles</description>
-      <guid>https://github.com/Mic92/dotfiles</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>784</stars>
-      <forks>39</forks>
-      <addStars>13</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
-          <name>Mic92</name>
-          <url>https://github.com/Mic92</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>feel-co/hjem</title>
       <link>https://github.com/feel-co/hjem</link>
       <description>Streamlined, elegant $HOME management with Nix</description>
       <guid>https://github.com/feel-co/hjem</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>643</stars>
+      <stars>644</stars>
       <forks>26</forks>
       <addStars>45</addStars>
       <contributors>
@@ -362,44 +420,6 @@
           <avatar>https://avatars.githubusercontent.com/u/35857948?s=40&amp;v=4</avatar>
           <name>Lunarnovaa</name>
           <url>https://github.com/Lunarnovaa</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nix-community/stylix</title>
-      <link>https://github.com/nix-community/stylix</link>
-      <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
-      <guid>https://github.com/nix-community/stylix</guid>
-      <language>Nix</language>
-      <languageColor>#7e7eff</languageColor>
-      <stars>2,407</stars>
-      <forks>363</forks>
-      <addStars>48</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/90870942?s=40&amp;v=4</avatar>
-          <name>trueNAHO</name>
-          <url>https://github.com/trueNAHO</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28959268?s=40&amp;v=4</avatar>
-          <name>danth</name>
-          <url>https://github.com/danth</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/153149335?s=40&amp;v=4</avatar>
-          <name>0xda157</name>
-          <url>https://github.com/0xda157</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5046562?s=40&amp;v=4</avatar>
-          <name>MattSturgeon</name>
-          <url>https://github.com/MattSturgeon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64027365?s=40&amp;v=4</avatar>
-          <name>Flameopathic</name>
-          <url>https://github.com/Flameopathic</url>
         </contributor>
       </contributors>
     </item>

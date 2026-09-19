@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Sat, 19 Sep 2026 05:28:10 GMT</pubDate>
+    <pubDate>Sat, 19 Sep 2026 11:50:57 GMT</pubDate>
     <item>
       <title>E3SM-Project/E3SM</title>
       <link>https://github.com/E3SM-Project/E3SM</link>
@@ -43,13 +43,51 @@
       </contributors>
     </item>
     <item>
+      <title>OpenFAST/openfast</title>
+      <link>https://github.com/OpenFAST/openfast</link>
+      <description>Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
+      <guid>https://github.com/OpenFAST/openfast</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>969</stars>
+      <forks>540</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
+          <name>bjonkman</name>
+          <url>https://github.com/bjonkman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
+          <name>andrew-platt</name>
+          <url>https://github.com/andrew-platt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
+          <name>rafmudaf</name>
+          <url>https://github.com/rafmudaf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
+          <name>deslaughter</name>
+          <url>https://github.com/deslaughter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
+          <name>ebranlard</name>
+          <url>https://github.com/ebranlard</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>firemodels/fds</title>
       <link>https://github.com/firemodels/fds</link>
       <description>Fire Dynamics Simulator</description>
       <guid>https://github.com/firemodels/fds</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>876</stars>
+      <stars>877</stars>
       <forks>689</forks>
       <addStars>4</addStars>
       <contributors>
@@ -77,44 +115,6 @@
           <avatar>https://avatars.githubusercontent.com/u/7450069?s=40&amp;v=4</avatar>
           <name>marcosvanella</name>
           <url>https://github.com/marcosvanella</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OpenFAST/openfast</title>
-      <link>https://github.com/OpenFAST/openfast</link>
-      <description>Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
-      <guid>https://github.com/OpenFAST/openfast</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>970</stars>
-      <forks>541</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6108781?s=40&amp;v=4</avatar>
-          <name>bjonkman</name>
-          <url>https://github.com/bjonkman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2745453?s=40&amp;v=4</avatar>
-          <name>andrew-platt</name>
-          <url>https://github.com/andrew-platt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13797903?s=40&amp;v=4</avatar>
-          <name>rafmudaf</name>
-          <url>https://github.com/rafmudaf</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4530253?s=40&amp;v=4</avatar>
-          <name>deslaughter</name>
-          <url>https://github.com/deslaughter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1318316?s=40&amp;v=4</avatar>
-          <name>ebranlard</name>
-          <url>https://github.com/ebranlard</url>
         </contributor>
       </contributors>
     </item>
@@ -202,7 +202,7 @@
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
       <stars>1,209</stars>
-      <forks>500</forks>
+      <forks>501</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>

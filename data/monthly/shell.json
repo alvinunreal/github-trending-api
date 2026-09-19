@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 05:28:10 GMT",
+  "pubDate": "Sat, 19 Sep 2026 11:50:57 GMT",
   "items": [
     {
       "title": "omacom/omarchy",
@@ -10,8 +10,8 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "41,953",
-      "forks": "4,805",
+      "stars": "41,976",
+      "forks": "4,810",
       "addStars": "15,994",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,581",
-      "forks": "2,006",
+      "stars": "6,617",
+      "forks": "2,012",
       "addStars": "2,865",
       "contributors": [
         {
@@ -79,44 +79,12 @@
       ]
     },
     {
-      "title": "llm-d/llm-d",
-      "url": "https://github.com/llm-d/llm-d",
-      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "4,590",
-      "forks": "778",
-      "addStars": "550",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19876404?s=40&v=4",
-          "name": "Gregory-Pereira",
-          "url": "https://github.com/Gregory-Pereira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40361897?s=40&v=4",
-          "name": "ahg-g",
-          "url": "https://github.com/ahg-g"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6598801?s=40&v=4",
-          "name": "lionelvillard",
-          "url": "https://github.com/lionelvillard"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6902282?s=40&v=4",
-          "name": "liu-cong",
-          "url": "https://github.com/liu-cong"
-        }
-      ]
-    },
-    {
       "title": "SimoneAvogadro/android-reverse-engineering-skill",
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,860",
+      "stars": "7,861",
       "forks": "896",
       "addStars": "1,056",
       "contributors": [
@@ -148,29 +116,34 @@
       ]
     },
     {
-      "title": "community-scripts/ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "title": "llm-d/llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "29,610",
-      "forks": "2,889",
-      "addStars": "373",
+      "stars": "4,593",
+      "forks": "779",
+      "addStars": "550",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21342670?s=40&v=4",
-          "name": "tteck",
-          "url": "https://github.com/tteck"
+          "avatar": "https://avatars.githubusercontent.com/u/19876404?s=40&v=4",
+          "name": "Gregory-Pereira",
+          "url": "https://github.com/Gregory-Pereira"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47820557?s=40&v=4",
-          "name": "MickLesk",
-          "url": "https://github.com/MickLesk"
+          "avatar": "https://avatars.githubusercontent.com/u/40361897?s=40&v=4",
+          "name": "ahg-g",
+          "url": "https://github.com/ahg-g"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58952836?s=40&v=4",
-          "name": "tremor021",
-          "url": "https://github.com/tremor021"
+          "avatar": "https://avatars.githubusercontent.com/u/6598801?s=40&v=4",
+          "name": "lionelvillard",
+          "url": "https://github.com/lionelvillard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6902282?s=40&v=4",
+          "name": "liu-cong",
+          "url": "https://github.com/liu-cong"
         }
       ]
     },
@@ -180,7 +153,7 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,198",
+      "stars": "16,197",
       "forks": "735",
       "addStars": "553",
       "contributors": [
@@ -207,13 +180,40 @@
       ]
     },
     {
+      "title": "community-scripts/ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "29,609",
+      "forks": "2,889",
+      "addStars": "373",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21342670?s=40&v=4",
+          "name": "tteck",
+          "url": "https://github.com/tteck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47820557?s=40&v=4",
+          "name": "MickLesk",
+          "url": "https://github.com/MickLesk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58952836?s=40&v=4",
+          "name": "tremor021",
+          "url": "https://github.com/tremor021"
+        }
+      ]
+    },
+    {
       "title": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,123",
-      "forks": "10,459",
+      "stars": "95,128",
+      "forks": "10,461",
       "addStars": "626",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,421",
-      "forks": "3,153",
+      "stars": "5,422",
+      "forks": "3,155",
       "addStars": "75",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,641",
-      "forks": "122",
+      "stars": "2,656",
+      "forks": "123",
       "addStars": "655",
       "contributors": [
         {
@@ -313,66 +313,12 @@
       ]
     },
     {
-      "title": "ophub/amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "9,810",
-      "forks": "3,145",
-      "addStars": "200",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68696949?s=40&v=4",
-          "name": "ophub",
-          "url": "https://github.com/ophub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25471437?s=40&v=4",
-          "name": "13584452567",
-          "url": "https://github.com/13584452567"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5279290?s=40&v=4",
-          "name": "dy008",
-          "url": "https://github.com/dy008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104582100?s=40&v=4",
-          "name": "livelier",
-          "url": "https://github.com/livelier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/170060165?s=40&v=4",
-          "name": "andyfanybo",
-          "url": "https://github.com/andyfanybo"
-        }
-      ]
-    },
-    {
-      "title": "assafdori/bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "2,354",
-      "forks": "547",
-      "addStars": "247",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83507910?s=40&v=4",
-          "name": "assafdori",
-          "url": "https://github.com/assafdori"
-        }
-      ]
-    },
-    {
       "title": "longhorn/longhorn",
       "url": "https://github.com/longhorn/longhorn",
       "description": "Cloud-Native distributed storage built on and for Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,990",
+      "stars": "7,991",
       "forks": "737",
       "addStars": "76",
       "contributors": [
@@ -399,39 +345,19 @@
       ]
     },
     {
-      "title": "MichaelCade/90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "title": "assafdori/bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "29,759",
-      "forks": "6,757",
-      "addStars": "139",
+      "stars": "2,353",
+      "forks": "547",
+      "addStars": "247",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11822323?s=40&v=4",
-          "name": "MichaelCade",
-          "url": "https://github.com/MichaelCade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62959930?s=40&v=4",
-          "name": "devto-bot",
-          "url": "https://github.com/devto-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86802064?s=40&v=4",
-          "name": "manuelver",
-          "url": "https://github.com/manuelver"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10303945?s=40&v=4",
-          "name": "qmauvnt",
-          "url": "https://github.com/qmauvnt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76844285?s=40&v=4",
-          "name": "Me1e",
-          "url": "https://github.com/Me1e"
+          "avatar": "https://avatars.githubusercontent.com/u/83507910?s=40&v=4",
+          "name": "assafdori",
+          "url": "https://github.com/assafdori"
         }
       ]
     },
@@ -468,29 +394,108 @@
       ]
     },
     {
-      "title": "dockur/windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
+      "title": "ophub/amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "53,325",
-      "forks": "4,831",
-      "addStars": "543",
+      "stars": "9,813",
+      "forks": "3,144",
+      "addStars": "200",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&v=4",
-          "name": "kroese",
-          "url": "https://github.com/kroese"
+          "avatar": "https://avatars.githubusercontent.com/u/68696949?s=40&v=4",
+          "name": "ophub",
+          "url": "https://github.com/ophub"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/46193371?s=40&v=4",
-          "name": "hellodword",
-          "url": "https://github.com/hellodword"
+          "avatar": "https://avatars.githubusercontent.com/u/25471437?s=40&v=4",
+          "name": "13584452567",
+          "url": "https://github.com/13584452567"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/557021?s=40&v=4",
-          "name": "star3am",
-          "url": "https://github.com/star3am"
+          "avatar": "https://avatars.githubusercontent.com/u/5279290?s=40&v=4",
+          "name": "dy008",
+          "url": "https://github.com/dy008"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104582100?s=40&v=4",
+          "name": "livelier",
+          "url": "https://github.com/livelier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170060165?s=40&v=4",
+          "name": "andyfanybo",
+          "url": "https://github.com/andyfanybo"
+        }
+      ]
+    },
+    {
+      "title": "MichaelCade/90DaysOfDevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "29,760",
+      "forks": "6,757",
+      "addStars": "139",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11822323?s=40&v=4",
+          "name": "MichaelCade",
+          "url": "https://github.com/MichaelCade"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/62959930?s=40&v=4",
+          "name": "devto-bot",
+          "url": "https://github.com/devto-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86802064?s=40&v=4",
+          "name": "manuelver",
+          "url": "https://github.com/manuelver"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10303945?s=40&v=4",
+          "name": "qmauvnt",
+          "url": "https://github.com/qmauvnt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76844285?s=40&v=4",
+          "name": "Me1e",
+          "url": "https://github.com/Me1e"
+        }
+      ]
+    },
+    {
+      "title": "awesome-jellyfin/awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "9,324",
+      "forks": "300",
+      "addStars": "373",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71837281?s=40&v=4",
+          "name": "darmiel",
+          "url": "https://github.com/darmiel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/153692280?s=40&v=4",
+          "name": "awesome-jellyfin-bot",
+          "url": "https://github.com/awesome-jellyfin-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60541979?s=40&v=4",
+          "name": "TomRomeo",
+          "url": "https://github.com/TomRomeo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70659424?s=40&v=4",
+          "name": "Druidblack",
+          "url": "https://github.com/Druidblack"
         }
       ]
     },
@@ -500,7 +505,7 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,298",
+      "stars": "33,300",
       "forks": "1,866",
       "addStars": "507",
       "contributors": [
@@ -527,72 +532,13 @@
       ]
     },
     {
-      "title": "awesome-jellyfin/awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "9,322",
-      "forks": "299",
-      "addStars": "373",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71837281?s=40&v=4",
-          "name": "darmiel",
-          "url": "https://github.com/darmiel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153692280?s=40&v=4",
-          "name": "awesome-jellyfin-bot",
-          "url": "https://github.com/awesome-jellyfin-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60541979?s=40&v=4",
-          "name": "TomRomeo",
-          "url": "https://github.com/TomRomeo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70659424?s=40&v=4",
-          "name": "Druidblack",
-          "url": "https://github.com/Druidblack"
-        }
-      ]
-    },
-    {
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "265,374",
-      "forks": "22,375",
-      "addStars": "44,901",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-          "name": "mattpocock",
-          "url": "https://github.com/mattpocock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
-          "name": "gabimoncha",
-          "url": "https://github.com/gabimoncha"
-        }
-      ]
-    },
-    {
       "title": "bin456789/reinstall",
       "url": "https://github.com/bin456789/reinstall",
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,302",
-      "forks": "2,146",
+      "stars": "13,305",
+      "forks": "2,147",
       "addStars": "552",
       "contributors": [
         {
@@ -619,6 +565,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/17424771?s=40&v=4",
           "name": "mrzhiin",
           "url": "https://github.com/mrzhiin"
+        }
+      ]
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "53,326",
+      "forks": "4,829",
+      "addStars": "543",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&v=4",
+          "name": "kroese",
+          "url": "https://github.com/kroese"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46193371?s=40&v=4",
+          "name": "hellodword",
+          "url": "https://github.com/hellodword"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/557021?s=40&v=4",
+          "name": "star3am",
+          "url": "https://github.com/star3am"
         }
       ]
     }

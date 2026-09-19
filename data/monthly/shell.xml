@@ -3,7 +3,7 @@
     <title>GitHub Shell Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Shell Languages in GitHub</description>
-    <pubDate>Sat, 19 Sep 2026 05:28:10 GMT</pubDate>
+    <pubDate>Sat, 19 Sep 2026 11:50:57 GMT</pubDate>
     <item>
       <title>omacom/omarchy</title>
       <link>https://github.com/omacom/omarchy</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/omacom/omarchy</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>41,953</stars>
-      <forks>4,805</forks>
+      <stars>41,976</stars>
+      <forks>4,810</forks>
       <addStars>15,994</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/kunchenguid/firstmate</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>6,581</stars>
-      <forks>2,006</forks>
+      <stars>6,617</stars>
+      <forks>2,012</forks>
       <addStars>2,865</addStars>
       <contributors>
         <contributor>
@@ -81,46 +81,13 @@
       </contributors>
     </item>
     <item>
-      <title>llm-d/llm-d</title>
-      <link>https://github.com/llm-d/llm-d</link>
-      <description>Achieve state of the art inference performance with modern accelerators on Kubernetes</description>
-      <guid>https://github.com/llm-d/llm-d</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>4,590</stars>
-      <forks>778</forks>
-      <addStars>550</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19876404?s=40&amp;v=4</avatar>
-          <name>Gregory-Pereira</name>
-          <url>https://github.com/Gregory-Pereira</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40361897?s=40&amp;v=4</avatar>
-          <name>ahg-g</name>
-          <url>https://github.com/ahg-g</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6598801?s=40&amp;v=4</avatar>
-          <name>lionelvillard</name>
-          <url>https://github.com/lionelvillard</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6902282?s=40&amp;v=4</avatar>
-          <name>liu-cong</name>
-          <url>https://github.com/liu-cong</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>SimoneAvogadro/android-reverse-engineering-skill</title>
       <link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link>
       <description>Claude Code skill to support Android app's reverse engineering</description>
       <guid>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>7,860</stars>
+      <stars>7,861</stars>
       <forks>896</forks>
       <addStars>1,056</addStars>
       <contributors>
@@ -152,30 +119,35 @@
       </contributors>
     </item>
     <item>
-      <title>community-scripts/ProxmoxVE</title>
-      <link>https://github.com/community-scripts/ProxmoxVE</link>
-      <description>Proxmox VE Helper-Scripts (Community Edition)</description>
-      <guid>https://github.com/community-scripts/ProxmoxVE</guid>
+      <title>llm-d/llm-d</title>
+      <link>https://github.com/llm-d/llm-d</link>
+      <description>Achieve state of the art inference performance with modern accelerators on Kubernetes</description>
+      <guid>https://github.com/llm-d/llm-d</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>29,610</stars>
-      <forks>2,889</forks>
-      <addStars>373</addStars>
+      <stars>4,593</stars>
+      <forks>779</forks>
+      <addStars>550</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21342670?s=40&amp;v=4</avatar>
-          <name>tteck</name>
-          <url>https://github.com/tteck</url>
+          <avatar>https://avatars.githubusercontent.com/u/19876404?s=40&amp;v=4</avatar>
+          <name>Gregory-Pereira</name>
+          <url>https://github.com/Gregory-Pereira</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47820557?s=40&amp;v=4</avatar>
-          <name>MickLesk</name>
-          <url>https://github.com/MickLesk</url>
+          <avatar>https://avatars.githubusercontent.com/u/40361897?s=40&amp;v=4</avatar>
+          <name>ahg-g</name>
+          <url>https://github.com/ahg-g</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58952836?s=40&amp;v=4</avatar>
-          <name>tremor021</name>
-          <url>https://github.com/tremor021</url>
+          <avatar>https://avatars.githubusercontent.com/u/6598801?s=40&amp;v=4</avatar>
+          <name>lionelvillard</name>
+          <url>https://github.com/lionelvillard</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6902282?s=40&amp;v=4</avatar>
+          <name>liu-cong</name>
+          <url>https://github.com/liu-cong</url>
         </contributor>
       </contributors>
     </item>
@@ -186,7 +158,7 @@
       <guid>https://github.com/quickemu-project/quickemu</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>16,198</stars>
+      <stars>16,197</stars>
       <forks>735</forks>
       <addStars>553</addStars>
       <contributors>
@@ -213,14 +185,42 @@
       </contributors>
     </item>
     <item>
+      <title>community-scripts/ProxmoxVE</title>
+      <link>https://github.com/community-scripts/ProxmoxVE</link>
+      <description>Proxmox VE Helper-Scripts (Community Edition)</description>
+      <guid>https://github.com/community-scripts/ProxmoxVE</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>29,609</stars>
+      <forks>2,889</forks>
+      <addStars>373</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21342670?s=40&amp;v=4</avatar>
+          <name>tteck</name>
+          <url>https://github.com/tteck</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47820557?s=40&amp;v=4</avatar>
+          <name>MickLesk</name>
+          <url>https://github.com/MickLesk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58952836?s=40&amp;v=4</avatar>
+          <name>tremor021</name>
+          <url>https://github.com/tremor021</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>nvm-sh/nvm</title>
       <link>https://github.com/nvm-sh/nvm</link>
       <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.</description>
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>95,123</stars>
-      <forks>10,459</forks>
+      <stars>95,128</stars>
+      <forks>10,461</forks>
       <addStars>626</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/armbian/build</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>5,421</stars>
-      <forks>3,153</forks>
+      <stars>5,422</stars>
+      <forks>3,155</forks>
       <addStars>75</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/jqssun/android-titanium-browser</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>2,641</stars>
-      <forks>122</forks>
+      <stars>2,656</stars>
+      <forks>123</forks>
       <addStars>655</addStars>
       <contributors>
         <contributor>
@@ -322,69 +322,13 @@
       </contributors>
     </item>
     <item>
-      <title>ophub/amlogic-s9xxx-armbian</title>
-      <link>https://github.com/ophub/amlogic-s9xxx-armbian</link>
-      <description>Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</description>
-      <guid>https://github.com/ophub/amlogic-s9xxx-armbian</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>9,810</stars>
-      <forks>3,145</forks>
-      <addStars>200</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68696949?s=40&amp;v=4</avatar>
-          <name>ophub</name>
-          <url>https://github.com/ophub</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25471437?s=40&amp;v=4</avatar>
-          <name>13584452567</name>
-          <url>https://github.com/13584452567</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5279290?s=40&amp;v=4</avatar>
-          <name>dy008</name>
-          <url>https://github.com/dy008</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104582100?s=40&amp;v=4</avatar>
-          <name>livelier</name>
-          <url>https://github.com/livelier</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/170060165?s=40&amp;v=4</avatar>
-          <name>andyfanybo</name>
-          <url>https://github.com/andyfanybo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>assafdori/bypass-mdm</title>
-      <link>https://github.com/assafdori/bypass-mdm</link>
-      <description>Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3</description>
-      <guid>https://github.com/assafdori/bypass-mdm</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>2,354</stars>
-      <forks>547</forks>
-      <addStars>247</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83507910?s=40&amp;v=4</avatar>
-          <name>assafdori</name>
-          <url>https://github.com/assafdori</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>longhorn/longhorn</title>
       <link>https://github.com/longhorn/longhorn</link>
       <description>Cloud-Native distributed storage built on and for Kubernetes</description>
       <guid>https://github.com/longhorn/longhorn</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>7,990</stars>
+      <stars>7,991</stars>
       <forks>737</forks>
       <addStars>76</addStars>
       <contributors>
@@ -411,40 +355,20 @@
       </contributors>
     </item>
     <item>
-      <title>MichaelCade/90DaysOfDevOps</title>
-      <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
-      <description>This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</description>
-      <guid>https://github.com/MichaelCade/90DaysOfDevOps</guid>
+      <title>assafdori/bypass-mdm</title>
+      <link>https://github.com/assafdori/bypass-mdm</link>
+      <description>Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3</description>
+      <guid>https://github.com/assafdori/bypass-mdm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>29,759</stars>
-      <forks>6,757</forks>
-      <addStars>139</addStars>
+      <stars>2,353</stars>
+      <forks>547</forks>
+      <addStars>247</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11822323?s=40&amp;v=4</avatar>
-          <name>MichaelCade</name>
-          <url>https://github.com/MichaelCade</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62959930?s=40&amp;v=4</avatar>
-          <name>devto-bot</name>
-          <url>https://github.com/devto-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86802064?s=40&amp;v=4</avatar>
-          <name>manuelver</name>
-          <url>https://github.com/manuelver</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10303945?s=40&amp;v=4</avatar>
-          <name>qmauvnt</name>
-          <url>https://github.com/qmauvnt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/76844285?s=40&amp;v=4</avatar>
-          <name>Me1e</name>
-          <url>https://github.com/Me1e</url>
+          <avatar>https://avatars.githubusercontent.com/u/83507910?s=40&amp;v=4</avatar>
+          <name>assafdori</name>
+          <url>https://github.com/assafdori</url>
         </contributor>
       </contributors>
     </item>
@@ -482,30 +406,111 @@
       </contributors>
     </item>
     <item>
-      <title>dockur/windows</title>
-      <link>https://github.com/dockur/windows</link>
-      <description>Windows inside a Docker container.</description>
-      <guid>https://github.com/dockur/windows</guid>
+      <title>ophub/amlogic-s9xxx-armbian</title>
+      <link>https://github.com/ophub/amlogic-s9xxx-armbian</link>
+      <description>Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</description>
+      <guid>https://github.com/ophub/amlogic-s9xxx-armbian</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>53,325</stars>
-      <forks>4,831</forks>
-      <addStars>543</addStars>
+      <stars>9,813</stars>
+      <forks>3,144</forks>
+      <addStars>200</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5763256?s=40&amp;v=4</avatar>
-          <name>kroese</name>
-          <url>https://github.com/kroese</url>
+          <avatar>https://avatars.githubusercontent.com/u/68696949?s=40&amp;v=4</avatar>
+          <name>ophub</name>
+          <url>https://github.com/ophub</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46193371?s=40&amp;v=4</avatar>
-          <name>hellodword</name>
-          <url>https://github.com/hellodword</url>
+          <avatar>https://avatars.githubusercontent.com/u/25471437?s=40&amp;v=4</avatar>
+          <name>13584452567</name>
+          <url>https://github.com/13584452567</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/557021?s=40&amp;v=4</avatar>
-          <name>star3am</name>
-          <url>https://github.com/star3am</url>
+          <avatar>https://avatars.githubusercontent.com/u/5279290?s=40&amp;v=4</avatar>
+          <name>dy008</name>
+          <url>https://github.com/dy008</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104582100?s=40&amp;v=4</avatar>
+          <name>livelier</name>
+          <url>https://github.com/livelier</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/170060165?s=40&amp;v=4</avatar>
+          <name>andyfanybo</name>
+          <url>https://github.com/andyfanybo</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>MichaelCade/90DaysOfDevOps</title>
+      <link>https://github.com/MichaelCade/90DaysOfDevOps</link>
+      <description>This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</description>
+      <guid>https://github.com/MichaelCade/90DaysOfDevOps</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>29,760</stars>
+      <forks>6,757</forks>
+      <addStars>139</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11822323?s=40&amp;v=4</avatar>
+          <name>MichaelCade</name>
+          <url>https://github.com/MichaelCade</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62959930?s=40&amp;v=4</avatar>
+          <name>devto-bot</name>
+          <url>https://github.com/devto-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/86802064?s=40&amp;v=4</avatar>
+          <name>manuelver</name>
+          <url>https://github.com/manuelver</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10303945?s=40&amp;v=4</avatar>
+          <name>qmauvnt</name>
+          <url>https://github.com/qmauvnt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76844285?s=40&amp;v=4</avatar>
+          <name>Me1e</name>
+          <url>https://github.com/Me1e</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>awesome-jellyfin/awesome-jellyfin</title>
+      <link>https://github.com/awesome-jellyfin/awesome-jellyfin</link>
+      <description>A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!</description>
+      <guid>https://github.com/awesome-jellyfin/awesome-jellyfin</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>9,324</stars>
+      <forks>300</forks>
+      <addStars>373</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71837281?s=40&amp;v=4</avatar>
+          <name>darmiel</name>
+          <url>https://github.com/darmiel</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/153692280?s=40&amp;v=4</avatar>
+          <name>awesome-jellyfin-bot</name>
+          <url>https://github.com/awesome-jellyfin-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60541979?s=40&amp;v=4</avatar>
+          <name>TomRomeo</name>
+          <url>https://github.com/TomRomeo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70659424?s=40&amp;v=4</avatar>
+          <name>Druidblack</name>
+          <url>https://github.com/Druidblack</url>
         </contributor>
       </contributors>
     </item>
@@ -516,7 +521,7 @@
       <guid>https://github.com/VSCodium/vscodium</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>33,298</stars>
+      <stars>33,300</stars>
       <forks>1,866</forks>
       <addStars>507</addStars>
       <contributors>
@@ -543,75 +548,14 @@
       </contributors>
     </item>
     <item>
-      <title>awesome-jellyfin/awesome-jellyfin</title>
-      <link>https://github.com/awesome-jellyfin/awesome-jellyfin</link>
-      <description>A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!</description>
-      <guid>https://github.com/awesome-jellyfin/awesome-jellyfin</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>9,322</stars>
-      <forks>299</forks>
-      <addStars>373</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71837281?s=40&amp;v=4</avatar>
-          <name>darmiel</name>
-          <url>https://github.com/darmiel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/153692280?s=40&amp;v=4</avatar>
-          <name>awesome-jellyfin-bot</name>
-          <url>https://github.com/awesome-jellyfin-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60541979?s=40&amp;v=4</avatar>
-          <name>TomRomeo</name>
-          <url>https://github.com/TomRomeo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70659424?s=40&amp;v=4</avatar>
-          <name>Druidblack</name>
-          <url>https://github.com/Druidblack</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>265,374</stars>
-      <forks>22,375</forks>
-      <addStars>44,901</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
-          <name>mattpocock</name>
-          <url>https://github.com/mattpocock</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4</avatar>
-          <name>gabimoncha</name>
-          <url>https://github.com/gabimoncha</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>bin456789/reinstall</title>
       <link>https://github.com/bin456789/reinstall</link>
       <description>一键DD/重装脚本 (One-click reinstall OS on VPS)</description>
       <guid>https://github.com/bin456789/reinstall</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>13,302</stars>
-      <forks>2,146</forks>
+      <stars>13,305</stars>
+      <forks>2,147</forks>
       <addStars>552</addStars>
       <contributors>
         <contributor>
@@ -638,6 +582,34 @@
           <avatar>https://avatars.githubusercontent.com/u/17424771?s=40&amp;v=4</avatar>
           <name>mrzhiin</name>
           <url>https://github.com/mrzhiin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>dockur/windows</title>
+      <link>https://github.com/dockur/windows</link>
+      <description>Windows inside a Docker container.</description>
+      <guid>https://github.com/dockur/windows</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>53,326</stars>
+      <forks>4,829</forks>
+      <addStars>543</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5763256?s=40&amp;v=4</avatar>
+          <name>kroese</name>
+          <url>https://github.com/kroese</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46193371?s=40&amp;v=4</avatar>
+          <name>hellodword</name>
+          <url>https://github.com/hellodword</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/557021?s=40&amp;v=4</avatar>
+          <name>star3am</name>
+          <url>https://github.com/star3am</url>
         </contributor>
       </contributors>
     </item>

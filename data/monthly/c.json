@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Monthly Trending",
   "description": "Monthly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 05:28:10 GMT",
+  "pubDate": "Sat, 19 Sep 2026 11:50:57 GMT",
   "items": [
     {
       "title": "libretro/RetroArch",
@@ -10,8 +10,8 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,049",
-      "forks": "2,235",
+      "stars": "14,050",
+      "forks": "2,236",
       "addStars": "547",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,607",
+      "stars": "13,611",
       "forks": "2,908",
       "addStars": "249",
       "contributors": [
@@ -70,117 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2370088?s=40&v=4",
           "name": "wongwaituck",
           "url": "https://github.com/wongwaituck"
-        }
-      ]
-    },
-    {
-      "title": "facebook/zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "27,894",
-      "forks": "2,606",
-      "addStars": "347",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
-          "name": "Cyan4973",
-          "url": "https://github.com/Cyan4973"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4",
-          "name": "terrelln",
-          "url": "https://github.com/terrelln"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
-          "name": "inikep",
-          "url": "https://github.com/inikep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
-          "name": "felixhandte",
-          "url": "https://github.com/felixhandte"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4",
-          "name": "stellamplau",
-          "url": "https://github.com/stellamplau"
-        }
-      ]
-    },
-    {
-      "title": "curl/curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "42,884",
-      "forks": "7,367",
-      "addStars": "359",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
-          "name": "bagder",
-          "url": "https://github.com/bagder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
-          "name": "vszakats",
-          "url": "https://github.com/vszakats"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
-          "name": "yangtse",
-          "url": "https://github.com/yangtse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
-          "name": "captain-caveman2k",
-          "url": "https://github.com/captain-caveman2k"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
-          "name": "dfandrich",
-          "url": "https://github.com/dfandrich"
-        }
-      ]
-    },
-    {
-      "title": "obsproject/obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "76,390",
-      "forks": "10,233",
-      "addStars": "1,319",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
-          "name": "jp9000",
-          "url": "https://github.com/jp9000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10396506?s=40&v=4",
-          "name": "jpark37",
-          "url": "https://github.com/jpark37"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3123295?s=40&v=4",
-          "name": "derrod",
-          "url": "https://github.com/derrod"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9436503?s=40&v=4",
-          "name": "PatTheMav",
-          "url": "https://github.com/PatTheMav"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/624931?s=40&v=4",
-          "name": "RytoEX",
-          "url": "https://github.com/RytoEX"
         }
       ]
     },
@@ -222,6 +111,117 @@
       ]
     },
     {
+      "title": "facebook/zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "27,899",
+      "forks": "2,607",
+      "addStars": "347",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
+          "name": "Cyan4973",
+          "url": "https://github.com/Cyan4973"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6619134?s=40&v=4",
+          "name": "terrelln",
+          "url": "https://github.com/terrelln"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15112322?s=40&v=4",
+          "name": "inikep",
+          "url": "https://github.com/inikep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1154694?s=40&v=4",
+          "name": "felixhandte",
+          "url": "https://github.com/felixhandte"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7366343?s=40&v=4",
+          "name": "stellamplau",
+          "url": "https://github.com/stellamplau"
+        }
+      ]
+    },
+    {
+      "title": "curl/curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "42,888",
+      "forks": "7,370",
+      "addStars": "359",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
+          "name": "bagder",
+          "url": "https://github.com/bagder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1446897?s=40&v=4",
+          "name": "vszakats",
+          "url": "https://github.com/vszakats"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242954?s=40&v=4",
+          "name": "yangtse",
+          "url": "https://github.com/yangtse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1523871?s=40&v=4",
+          "name": "captain-caveman2k",
+          "url": "https://github.com/captain-caveman2k"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/228259?s=40&v=4",
+          "name": "dfandrich",
+          "url": "https://github.com/dfandrich"
+        }
+      ]
+    },
+    {
+      "title": "obsproject/obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "76,398",
+      "forks": "10,237",
+      "addStars": "1,319",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
+          "name": "jp9000",
+          "url": "https://github.com/jp9000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10396506?s=40&v=4",
+          "name": "jpark37",
+          "url": "https://github.com/jpark37"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3123295?s=40&v=4",
+          "name": "derrod",
+          "url": "https://github.com/derrod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9436503?s=40&v=4",
+          "name": "PatTheMav",
+          "url": "https://github.com/PatTheMav"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/624931?s=40&v=4",
+          "name": "RytoEX",
+          "url": "https://github.com/RytoEX"
+        }
+      ]
+    },
+    {
       "title": "sumatrapdfreader/sumatrapdf",
       "url": "https://github.com/sumatrapdfreader/sumatrapdf",
       "description": "SumatraPDF reader",
@@ -259,12 +259,123 @@
       ]
     },
     {
+      "title": "asmvik/yabai",
+      "url": "https://github.com/asmvik/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "29,631",
+      "forks": "758",
+      "addStars": "202",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6175959?s=40&v=4",
+          "name": "asmvik",
+          "url": "https://github.com/asmvik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4488655?s=40&v=4",
+          "name": "dominiklohmann",
+          "url": "https://github.com/dominiklohmann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184800?s=40&v=4",
+          "name": "tbiehn",
+          "url": "https://github.com/tbiehn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4571498?s=40&v=4",
+          "name": "tsujp",
+          "url": "https://github.com/tsujp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34334994?s=40&v=4",
+          "name": "meseck",
+          "url": "https://github.com/meseck"
+        }
+      ]
+    },
+    {
+      "title": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "16,612",
+      "forks": "2,991",
+      "addStars": "292",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2100061?s=40&v=4",
+          "name": "slouken",
+          "url": "https://github.com/slouken"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/673562?s=40&v=4",
+          "name": "icculus",
+          "url": "https://github.com/icculus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4138939?s=40&v=4",
+          "name": "madebr",
+          "url": "https://github.com/madebr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4222725?s=40&v=4",
+          "name": "sezero",
+          "url": "https://github.com/sezero"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79332339?s=40&v=4",
+          "name": "SDLWikiBot",
+          "url": "https://github.com/SDLWikiBot"
+        }
+      ]
+    },
+    {
+      "title": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "26,805",
+      "forks": "3,562",
+      "addStars": "267",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10434361?s=40&v=4",
+          "name": "jsteube",
+          "url": "https://github.com/jsteube"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15381185?s=40&v=4",
+          "name": "matrix",
+          "url": "https://github.com/matrix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/921533?s=40&v=4",
+          "name": "philsmd",
+          "url": "https://github.com/philsmd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219974596?s=40&v=4",
+          "name": "hashcat-bot",
+          "url": "https://github.com/hashcat-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13440524?s=40&v=4",
+          "name": "Chick3nman",
+          "url": "https://github.com/Chick3nman"
+        }
+      ]
+    },
+    {
       "title": "mpv-player/mpv",
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "37,022",
+      "stars": "37,025",
       "forks": "3,526",
       "addStars": "499",
       "contributors": [
@@ -318,161 +429,13 @@
       ]
     },
     {
-      "title": "libsdl-org/SDL",
-      "url": "https://github.com/libsdl-org/SDL",
-      "description": "Simple DirectMedia Layer",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "16,609",
-      "forks": "2,990",
-      "addStars": "292",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2100061?s=40&v=4",
-          "name": "slouken",
-          "url": "https://github.com/slouken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/673562?s=40&v=4",
-          "name": "icculus",
-          "url": "https://github.com/icculus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4138939?s=40&v=4",
-          "name": "madebr",
-          "url": "https://github.com/madebr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4222725?s=40&v=4",
-          "name": "sezero",
-          "url": "https://github.com/sezero"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79332339?s=40&v=4",
-          "name": "SDLWikiBot",
-          "url": "https://github.com/SDLWikiBot"
-        }
-      ]
-    },
-    {
-      "title": "hashcat/hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "26,804",
-      "forks": "3,561",
-      "addStars": "267",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10434361?s=40&v=4",
-          "name": "jsteube",
-          "url": "https://github.com/jsteube"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15381185?s=40&v=4",
-          "name": "matrix",
-          "url": "https://github.com/matrix"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/921533?s=40&v=4",
-          "name": "philsmd",
-          "url": "https://github.com/philsmd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/219974596?s=40&v=4",
-          "name": "hashcat-bot",
-          "url": "https://github.com/hashcat-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13440524?s=40&v=4",
-          "name": "Chick3nman",
-          "url": "https://github.com/Chick3nman"
-        }
-      ]
-    },
-    {
-      "title": "duixcom/Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "15,521",
-      "forks": "2,633",
-      "addStars": "889",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28629101?s=40&v=4",
-          "name": "whl88",
-          "url": "https://github.com/whl88"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/208416229?s=40&v=4",
-          "name": "suifeng9203",
-          "url": "https://github.com/suifeng9203"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2870096?s=40&v=4",
-          "name": "haol666",
-          "url": "https://github.com/haol666"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15390663?s=40&v=4",
-          "name": "flyingflyfly",
-          "url": "https://github.com/flyingflyfly"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17336101?s=40&v=4",
-          "name": "Samge0",
-          "url": "https://github.com/Samge0"
-        }
-      ]
-    },
-    {
-      "title": "asmvik/yabai",
-      "url": "https://github.com/asmvik/yabai",
-      "description": "A tiling window manager for macOS based on binary space partitioning",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "29,631",
-      "forks": "758",
-      "addStars": "202",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6175959?s=40&v=4",
-          "name": "asmvik",
-          "url": "https://github.com/asmvik"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4488655?s=40&v=4",
-          "name": "dominiklohmann",
-          "url": "https://github.com/dominiklohmann"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184800?s=40&v=4",
-          "name": "tbiehn",
-          "url": "https://github.com/tbiehn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4571498?s=40&v=4",
-          "name": "tsujp",
-          "url": "https://github.com/tsujp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34334994?s=40&v=4",
-          "name": "meseck",
-          "url": "https://github.com/meseck"
-        }
-      ]
-    },
-    {
       "title": "ImageMagick/ImageMagick",
       "url": "https://github.com/ImageMagick/ImageMagick",
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,472",
-      "forks": "1,658",
+      "stars": "17,475",
+      "forks": "1,659",
       "addStars": "318",
       "contributors": [
         {
@@ -498,12 +461,49 @@
       ]
     },
     {
+      "title": "rexglue/rexglue-sdk",
+      "url": "https://github.com/rexglue/rexglue-sdk",
+      "description": "Xbox 360 Recompilation Runtime and Toolkit",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "895",
+      "forks": "126",
+      "addStars": "117",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1568512?s=40&v=4",
+          "name": "tomcl7",
+          "url": "https://github.com/tomcl7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/216443514?s=40&v=4",
+          "name": "Graine25",
+          "url": "https://github.com/Graine25"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/206524406?s=40&v=4",
+          "name": "Loreaxe",
+          "url": "https://github.com/Loreaxe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1862720?s=40&v=4",
+          "name": "sanjay900",
+          "url": "https://github.com/sanjay900"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38879884?s=40&v=4",
+          "name": "Mystixor",
+          "url": "https://github.com/Mystixor"
+        }
+      ]
+    },
+    {
       "title": "OpenVPN/openvpn",
       "url": "https://github.com/OpenVPN/openvpn",
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,571",
+      "stars": "14,573",
       "forks": "3,403",
       "addStars": "198",
       "contributors": [
@@ -535,39 +535,39 @@
       ]
     },
     {
-      "title": "reactos/reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
+      "title": "duixcom/Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "18,095",
-      "forks": "2,218",
-      "addStars": "191",
+      "stars": "15,524",
+      "forks": "2,633",
+      "addStars": "889",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/313067?s=40&v=4",
-          "name": "tkreuzer",
-          "url": "https://github.com/tkreuzer"
+          "avatar": "https://avatars.githubusercontent.com/u/28629101?s=40&v=4",
+          "name": "whl88",
+          "url": "https://github.com/whl88"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/352225?s=40&v=4",
-          "name": "AmineKhaldi",
-          "url": "https://github.com/AmineKhaldi"
+          "avatar": "https://avatars.githubusercontent.com/u/208416229?s=40&v=4",
+          "name": "suifeng9203",
+          "url": "https://github.com/suifeng9203"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32571919?s=40&v=4",
-          "name": "EricKohl",
-          "url": "https://github.com/EricKohl"
+          "avatar": "https://avatars.githubusercontent.com/u/2870096?s=40&v=4",
+          "name": "haol666",
+          "url": "https://github.com/haol666"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1969829?s=40&v=4",
-          "name": "HBelusca",
-          "url": "https://github.com/HBelusca"
+          "avatar": "https://avatars.githubusercontent.com/u/15390663?s=40&v=4",
+          "name": "flyingflyfly",
+          "url": "https://github.com/flyingflyfly"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4",
-          "name": "ThFabba",
-          "url": "https://github.com/ThFabba"
+          "avatar": "https://avatars.githubusercontent.com/u/17336101?s=40&v=4",
+          "name": "Samge0",
+          "url": "https://github.com/Samge0"
         }
       ]
     },
@@ -577,7 +577,7 @@
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,248",
+      "stars": "27,250",
       "forks": "1,315",
       "addStars": "375",
       "contributors": [
@@ -605,6 +605,28 @@
           "avatar": "https://avatars.githubusercontent.com/u/34459052?s=40&v=4",
           "name": "madolson",
           "url": "https://github.com/madolson"
+        }
+      ]
+    },
+    {
+      "title": "voidtools/voidImageViewer",
+      "url": "https://github.com/voidtools/voidImageViewer",
+      "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "2,399",
+      "forks": "154",
+      "addStars": "275",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31149593?s=40&v=4",
+          "name": "voidtools",
+          "url": "https://github.com/voidtools"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88866156?s=40&v=4",
+          "name": "hesphoros",
+          "url": "https://github.com/hesphoros"
         }
       ]
     },
@@ -646,50 +668,13 @@
       ]
     },
     {
-      "title": "zephyrproject-rtos/zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "16,560",
-      "forks": "9,994",
-      "addStars": "345",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4",
-          "name": "nashif",
-          "url": "https://github.com/nashif"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1098415?s=40&v=4",
-          "name": "jukkar",
-          "url": "https://github.com/jukkar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16417047?s=40&v=4",
-          "name": "galak",
-          "url": "https://github.com/galak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128251?s=40&v=4",
-          "name": "kartben",
-          "url": "https://github.com/kartben"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25011557?s=40&v=4",
-          "name": "gmarull",
-          "url": "https://github.com/gmarull"
-        }
-      ]
-    },
-    {
       "title": "openwrt/openwrt",
       "url": "https://github.com/openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,448",
-      "forks": "12,985",
+      "stars": "28,451",
+      "forks": "12,988",
       "addStars": "470",
       "contributors": [
         {
@@ -720,13 +705,50 @@
       ]
     },
     {
+      "title": "reactos/reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "18,095",
+      "forks": "2,218",
+      "addStars": "191",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/313067?s=40&v=4",
+          "name": "tkreuzer",
+          "url": "https://github.com/tkreuzer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/352225?s=40&v=4",
+          "name": "AmineKhaldi",
+          "url": "https://github.com/AmineKhaldi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32571919?s=40&v=4",
+          "name": "EricKohl",
+          "url": "https://github.com/EricKohl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1969829?s=40&v=4",
+          "name": "HBelusca",
+          "url": "https://github.com/HBelusca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18138474?s=40&v=4",
+          "name": "ThFabba",
+          "url": "https://github.com/ThFabba"
+        }
+      ]
+    },
+    {
       "title": "jqlang/jq",
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,621",
-      "forks": "2,107",
+      "stars": "35,622",
+      "forks": "2,106",
       "addStars": "227",
       "contributors": [
         {
@@ -748,43 +770,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1940490?s=40&v=4",
           "name": "dtolnay",
           "url": "https://github.com/dtolnay"
-        }
-      ]
-    },
-    {
-      "title": "git/git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "63,234",
-      "forks": "28,412",
-      "addStars": "696",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54884?s=40&v=4",
-          "name": "gitster",
-          "url": "https://github.com/gitster"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45925?s=40&v=4",
-          "name": "peff",
-          "url": "https://github.com/peff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/127790?s=40&v=4",
-          "name": "dscho",
-          "url": "https://github.com/dscho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4056630?s=40&v=4",
-          "name": "pks-t",
-          "url": "https://github.com/pks-t"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45301?s=40&v=4",
-          "name": "avar",
-          "url": "https://github.com/avar"
         }
       ]
     }
