@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Monthly Trending",
   "description": "Monthly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 11:50:57 GMT",
+  "pubDate": "Sat, 19 Sep 2026 16:14:44 GMT",
   "items": [
     {
       "title": "THU-MAIC/OpenMAIC",
@@ -10,8 +10,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,910",
-      "forks": "5,950",
+      "stars": "37,961",
+      "forks": "5,958",
       "addStars": "17,177",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,148",
+      "stars": "8,161",
       "forks": "746",
       "addStars": "5,182",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,286",
-      "forks": "3,730",
+      "stars": "27,338",
+      "forks": "3,732",
       "addStars": "8,509",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,430",
+      "stars": "6,446",
       "forks": "535",
       "addStars": "1,471",
       "contributors": [
@@ -153,8 +153,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,401",
-      "forks": "2,491",
+      "stars": "19,443",
+      "forks": "2,499",
       "addStars": "6,804",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,253",
-      "forks": "789",
+      "stars": "3,274",
+      "forks": "795",
       "addStars": "2,721",
       "contributors": [
         {
@@ -210,14 +210,14 @@
           "url": "https://github.com/webtecnica"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/48738352?s=40&v=4",
+          "name": "IanCouto",
+          "url": "https://github.com/IanCouto"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/23352109?s=40&v=4",
           "name": "jmpo",
           "url": "https://github.com/jmpo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99059532?s=40&v=4",
-          "name": "JowaniOrantes",
-          "url": "https://github.com/JowaniOrantes"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,595",
+      "stars": "5,593",
       "forks": "517",
       "addStars": "4,259",
       "contributors": [
@@ -264,8 +264,8 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,601",
-      "forks": "389",
+      "stars": "5,674",
+      "forks": "395",
       "addStars": "3,943",
       "contributors": [
         {
@@ -301,8 +301,8 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,762",
-      "forks": "1,152",
+      "stars": "7,767",
+      "forks": "1,154",
       "addStars": "3,636",
       "contributors": [
         {
@@ -338,8 +338,8 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,423",
-      "forks": "9,095",
+      "stars": "33,427",
+      "forks": "9,096",
       "addStars": "2,846",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "The open source AI research agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,685",
-      "forks": "1,079",
+      "stars": "9,691",
+      "forks": "1,081",
       "addStars": "1,196",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "A local multi-agent harness that works with your existing Claude Code, Codex subscriptions, allows you to run an office of agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,640",
-      "forks": "1,004",
+      "stars": "7,659",
+      "forks": "1,006",
       "addStars": "5,866",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,077",
-      "forks": "4,091",
+      "stars": "35,098",
+      "forks": "4,094",
       "addStars": "1,945",
       "contributors": [
         {
@@ -481,8 +481,8 @@
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,460",
-      "forks": "283",
+      "stars": "4,470",
+      "forks": "284",
       "addStars": "2,176",
       "contributors": [
         {
@@ -508,7 +508,7 @@
       "description": "插件化、定制化、无广告的免费音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,966",
+      "stars": "26,975",
       "forks": "1,938",
       "addStars": "890",
       "contributors": [
@@ -545,7 +545,7 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,052",
+      "stars": "36,053",
       "forks": "1,115",
       "addStars": "245",
       "contributors": [
@@ -582,8 +582,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,533",
-      "forks": "4,698",
+      "stars": "51,584",
+      "forks": "4,702",
       "addStars": "10,077",
       "contributors": [
         {

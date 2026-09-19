@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 11:50:57 GMT",
+  "pubDate": "Sat, 19 Sep 2026 16:14:44 GMT",
   "items": [
     {
       "title": "docling-project/docling",
@@ -10,8 +10,8 @@
       "description": "Get your documents ready for gen AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,736",
-      "forks": "4,815",
+      "stars": "66,861",
+      "forks": "4,824",
       "addStars": "94",
       "contributors": [
         {
@@ -42,9 +42,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,979",
-      "forks": "2,979",
-      "addStars": "299",
+      "stars": "25,039",
+      "forks": "2,985",
+      "addStars": "280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -74,8 +74,8 @@
       "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,410",
-      "forks": "727",
+      "stars": "11,500",
+      "forks": "730",
       "addStars": "207",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "An AI Hedge Fund Team",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "63,523",
-      "forks": "11,139",
+      "stars": "63,534",
+      "forks": "11,142",
       "addStars": "92",
       "contributors": [
         {
@@ -148,7 +148,7 @@
       "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,663",
+      "stars": "14,666",
       "forks": "2,761",
       "addStars": "16",
       "contributors": [
@@ -185,8 +185,8 @@
       "description": "The official Python library for the OpenAI API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,649",
-      "forks": "5,731",
+      "stars": "31,652",
+      "forks": "5,754",
       "addStars": "12",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "35,748",
+      "stars": "35,753",
       "forks": "3,152",
       "addStars": "40",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,100",
-      "forks": "451",
+      "stars": "3,109",
+      "forks": "453",
       "addStars": "44",
       "contributors": [
         {
@@ -281,9 +281,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,099",
-      "forks": "432",
-      "addStars": "569",
+      "stars": "4,131",
+      "forks": "441",
+      "addStars": "335",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
@@ -318,8 +318,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,838",
-      "forks": "1,627",
+      "stars": "3,884",
+      "forks": "1,650",
       "addStars": "260",
       "contributors": [
         {
@@ -350,9 +350,9 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,220",
-      "forks": "6,534",
-      "addStars": "230",
+      "stars": "39,229",
+      "forks": "6,537",
+      "addStars": "67",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65760973?s=40&v=4",
@@ -387,8 +387,8 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,238",
-      "forks": "6,697",
+      "stars": "80,253",
+      "forks": "6,696",
       "addStars": "62",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,628",
-      "forks": "7,702",
+      "stars": "65,642",
+      "forks": "7,706",
       "addStars": "75",
       "contributors": [
         {
@@ -456,9 +456,9 @@
       "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "76,417",
-      "forks": "6,977",
-      "addStars": "82",
+      "stars": "76,433",
+      "forks": "6,979",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23090290?s=40&v=4",
@@ -488,8 +488,8 @@
       "description": "Agents that use the browser.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "115,253",
-      "forks": "12,683",
+      "stars": "115,284",
+      "forks": "12,687",
       "addStars": "197",
       "contributors": [
         {
