@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 21:31:42 GMT",
+  "pubDate": "Sat, 19 Sep 2026 05:28:10 GMT",
   "items": [
     {
       "title": "anthropics/claude-code",
@@ -10,9 +10,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "146,249",
-      "forks": "23,767",
-      "addStars": "442",
+      "stars": "146,397",
+      "forks": "23,819",
+      "addStars": "444",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,228",
-      "forks": "363",
-      "addStars": "1,319",
+      "stars": "5,443",
+      "forks": "377",
+      "addStars": "1,306",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,298",
-      "forks": "4,748",
-      "addStars": "298",
+      "stars": "69,438",
+      "forks": "4,757",
+      "addStars": "296",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
@@ -111,8 +111,8 @@
       "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,232",
-      "forks": "2,640",
+      "stars": "30,384",
+      "forks": "2,646",
       "addStars": "140",
       "contributors": [
         {
@@ -148,9 +148,9 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "110,116",
-      "forks": "14,279",
-      "addStars": "128",
+      "stars": "110,205",
+      "forks": "14,331",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Free, simple, fast interactive diagrams for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,431",
-      "forks": "1,254",
-      "addStars": "145",
+      "stars": "16,519",
+      "forks": "1,261",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111161052?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,690",
-      "forks": "7,425",
-      "addStars": "288",
+      "stars": "68,713",
+      "forks": "7,426",
+      "addStars": "242",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "AI coworker with memory and collaboration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,903",
-      "forks": "1,783",
-      "addStars": "48",
+      "stars": "17,904",
+      "forks": "1,784",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,625",
-      "forks": "8,567",
-      "addStars": "38",
+      "stars": "14,632",
+      "forks": "8,569",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,260",
-      "forks": "2,476",
-      "addStars": "183",
+      "stars": "19,354",
+      "forks": "2,490",
+      "addStars": "189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,788",
-      "forks": "660",
-      "addStars": "33",
+      "stars": "8,795",
+      "forks": "661",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,146",
-      "forks": "3,708",
-      "addStars": "261",
+      "stars": "27,218",
+      "forks": "3,716",
+      "addStars": "264",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "71,880",
-      "forks": "4,697",
-      "addStars": "858",
+      "stars": "72,106",
+      "forks": "4,715",
+      "addStars": "831",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "205,276",
-      "forks": "60,776",
-      "addStars": "611",
+      "stars": "205,314",
+      "forks": "60,780",
+      "addStars": "558",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6249596?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "39,140",
-      "forks": "4,537",
-      "addStars": "73",
+      "stars": "39,154",
+      "forks": "4,538",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,105",
-      "forks": "6,859",
-      "addStars": "458",
+      "stars": "55,128",
+      "forks": "6,865",
+      "addStars": "416",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,357",
-      "forks": "4,675",
-      "addStars": "322",
+      "stars": "51,451",
+      "forks": "4,685",
+      "addStars": "333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,052",
-      "forks": "4,210",
-      "addStars": "52",
+      "stars": "26,065",
+      "forks": "4,212",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&v=4",

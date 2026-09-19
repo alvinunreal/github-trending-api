@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 21:31:42 GMT",
+  "pubDate": "Sat, 19 Sep 2026 05:28:10 GMT",
   "items": [
     {
       "title": "apache/arrow",
@@ -10,8 +10,8 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,139",
-      "forks": "4,306",
+      "stars": "17,138",
+      "forks": "4,307",
       "addStars": "11",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "41,506",
-      "forks": "3,802",
-      "addStars": "99",
+      "stars": "41,523",
+      "forks": "3,804",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3978469?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,084",
-      "forks": "382",
-      "addStars": "82",
+      "stars": "2,102",
+      "forks": "386",
+      "addStars": "81",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/142312170?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,001",
+      "stars": "2,002",
       "forks": "159",
-      "addStars": "14",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/69313318?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "31,601",
-      "forks": "1,264",
-      "addStars": "26",
+      "stars": "31,604",
+      "forks": "1,265",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3674760?s=40&v=4",
@@ -191,7 +191,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "16,928",
-      "forks": "2,491",
+      "forks": "2,490",
       "addStars": "15",
       "contributors": [
         {
@@ -227,9 +227,9 @@
       "description": "F´ - A flight software and embedded systems framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,764",
+      "stars": "11,765",
       "forks": "1,821",
-      "addStars": "7",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/995330?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "54,835",
+      "stars": "54,837",
       "forks": "2,458",
-      "addStars": "11",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10835354?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "128,725",
-      "forks": "23,401",
-      "addStars": "148",
+      "stars": "128,759",
+      "forks": "23,415",
+      "addStars": "149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1991296?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "32,955",
-      "forks": "7,219",
-      "addStars": "14",
+      "stars": "32,958",
+      "forks": "7,221",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4",
@@ -375,9 +375,9 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,846",
-      "forks": "1,707",
-      "addStars": "25",
+      "stars": "14,847",
+      "forks": "1,708",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5284924?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "72,040",
-      "forks": "16,290",
-      "addStars": "10",
+      "stars": "72,044",
+      "forks": "16,292",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106703886?s=40&v=4",
@@ -481,7 +481,7 @@
       "description": "Fast C++ logging library.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "29,612",
+      "stars": "29,613",
       "forks": "5,396",
       "addStars": "5",
       "contributors": [
@@ -518,9 +518,9 @@
       "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,608",
-      "forks": "1,242",
-      "addStars": "12",
+      "stars": "6,611",
+      "forks": "1,243",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11641725?s=40&v=4",
@@ -592,9 +592,9 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,728",
+      "stars": "33,730",
       "forks": "1,829",
-      "addStars": "8",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16477878?s=40&v=4",
@@ -624,9 +624,9 @@
       "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "12,758",
+      "stars": "12,759",
       "forks": "2,147",
-      "addStars": "12",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/134307?s=40&v=4",
@@ -661,9 +661,9 @@
       "description": "RealSense SDK",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "9,026",
+      "stars": "9,029",
       "forks": "5,041",
-      "addStars": "6",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54848706?s=40&v=4",
@@ -698,9 +698,9 @@
       "description": "A library for efficient similarity search and clustering of dense vectors.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,931",
+      "stars": "40,934",
       "forks": "4,526",
-      "addStars": "8",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6422482?s=40&v=4",
@@ -731,8 +731,8 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "1,684",
-      "forks": "694",
-      "addStars": "5",
+      "forks": "695",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109366641?s=40&v=4",

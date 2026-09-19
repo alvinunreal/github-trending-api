@@ -3,7 +3,7 @@
     <title>GitHub Lua Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Lua Languages in GitHub</description>
-    <pubDate>Fri, 18 Sep 2026 21:31:42 GMT</pubDate>
+    <pubDate>Sat, 19 Sep 2026 05:28:10 GMT</pubDate>
     <item>
       <title>MeanderingProgrammer/render-markdown.nvim</title>
       <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/MeanderingProgrammer/render-markdown.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>5,077</stars>
+      <stars>5,078</stars>
       <forks>141</forks>
-      <addStars>64</addStars>
+      <addStars>68</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/52591095?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/LazyVim/LazyVim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>27,508</stars>
+      <stars>27,510</stars>
       <forks>1,821</forks>
-      <addStars>76</addStars>
+      <addStars>79</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/292349?s=40&amp;v=4</avatar>
@@ -117,7 +117,7 @@
       <languageColor>#000080</languageColor>
       <stars>9,531</stars>
       <forks>310</forks>
-      <addStars>28</addStars>
+      <addStars>27</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/24854248?s=40&amp;v=4</avatar>
@@ -153,7 +153,7 @@
       <guid>https://github.com/folke/snacks.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>8,081</stars>
+      <stars>8,082</stars>
       <forks>504</forks>
       <addStars>8</addStars>
       <contributors>
@@ -180,15 +180,48 @@
       </contributors>
     </item>
     <item>
+      <title>amzxyz/rime-wanxiang</title>
+      <link>https://github.com/amzxyz/rime-wanxiang</link>
+      <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。</description>
+      <guid>https://github.com/amzxyz/rime-wanxiang</guid>
+      <language>Lua</language>
+      <languageColor>#000080</languageColor>
+      <stars>4,610</stars>
+      <forks>175</forks>
+      <addStars>62</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129564993?s=40&amp;v=4</avatar>
+          <name>amzxyz</name>
+          <url>https://github.com/amzxyz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97453940?s=40&amp;v=4</avatar>
+          <name>ShiningYangYXN</name>
+          <url>https://github.com/ShiningYangYXN</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56880674?s=40&amp;v=4</avatar>
+          <name>yuanz-12</name>
+          <url>https://github.com/yuanz-12</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/295119686?s=40&amp;v=4</avatar>
+          <name>shoudaoshuangpin</name>
+          <url>https://github.com/shoudaoshuangpin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>olimorris/codecompanion.nvim</title>
       <link>https://github.com/olimorris/codecompanion.nvim</link>
       <description>✨ AI Coding, Vim Style</description>
       <guid>https://github.com/olimorris/codecompanion.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>6,863</stars>
+      <stars>6,864</stars>
       <forks>457</forks>
-      <addStars>18</addStars>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9512444?s=40&amp;v=4</avatar>
@@ -249,7 +282,7 @@
       <languageColor>#000080</languageColor>
       <stars>6,581</stars>
       <forks>361</forks>
-      <addStars>18</addStars>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10467983?s=40&amp;v=4</avatar>
@@ -285,9 +318,9 @@
       <guid>https://github.com/ntop/ntopng</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>8,178</stars>
+      <stars>8,182</stars>
       <forks>766</forks>
-      <addStars>26</addStars>
+      <addStars>29</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4493366?s=40&amp;v=4</avatar>
@@ -325,7 +358,7 @@
       <languageColor>#000080</languageColor>
       <stars>4,444</stars>
       <forks>266</forks>
-      <addStars>9</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/59988195?s=40&amp;v=4</avatar>
@@ -361,9 +394,9 @@
       <guid>https://github.com/Footagesus/WindUI</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>359</stars>
+      <stars>360</stars>
       <forks>344</forks>
-      <addStars>9</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/182904030?s=40&amp;v=4</avatar>
@@ -391,7 +424,7 @@
       <languageColor>#000080</languageColor>
       <stars>5,601</stars>
       <forks>305</forks>
-      <addStars>14</addStars>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5160605?s=40&amp;v=4</avatar>
@@ -465,7 +498,7 @@
       <guid>https://github.com/opentibiabr/otclient</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>528</stars>
+      <stars>529</stars>
       <forks>518</forks>
       <addStars>1</addStars>
       <contributors>
@@ -505,7 +538,7 @@
       <languageColor>#000080</languageColor>
       <stars>12,222</stars>
       <forks>954</forks>
-      <addStars>12</addStars>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/151335?s=40&amp;v=4</avatar>
@@ -542,8 +575,8 @@
       <language>Lua</language>
       <languageColor>#000080</languageColor>
       <stars>647</stars>
-      <forks>899</forks>
-      <addStars>5</addStars>
+      <forks>900</forks>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8551443?s=40&amp;v=4</avatar>
@@ -581,7 +614,7 @@
       <languageColor>#000080</languageColor>
       <stars>174</stars>
       <forks>17</forks>
-      <addStars>2</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/221589917?s=40&amp;v=4</avatar>
@@ -617,9 +650,9 @@
       <guid>https://github.com/nickjvandyke/opencode.nvim</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>3,836</stars>
+      <stars>3,837</stars>
       <forks>160</forks>
-      <addStars>24</addStars>
+      <addStars>22</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15321434?s=40&amp;v=4</avatar>
@@ -652,7 +685,7 @@
       <languageColor>#000080</languageColor>
       <stars>3,951</stars>
       <forks>221</forks>
-      <addStars>4</addStars>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/107473453?s=40&amp;v=4</avatar>
@@ -690,7 +723,7 @@
       <languageColor>#000080</languageColor>
       <stars>7,260</stars>
       <forks>264</forks>
-      <addStars>12</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/38700?s=40&amp;v=4</avatar>

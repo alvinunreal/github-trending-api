@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 18 Sep 2026 21:31:42 GMT",
+  "pubDate": "Sat, 19 Sep 2026 05:28:10 GMT",
   "items": [
     {
       "title": "zephyrproject-rtos/zephyr",
@@ -10,8 +10,8 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,559",
-      "forks": "9,993",
+      "stars": "16,560",
+      "forks": "9,994",
       "addStars": "9",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "23,068",
+      "stars": "23,072",
       "forks": "1,326",
-      "addStars": "15",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/220358?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#555555",
       "stars": "892",
       "forks": "126",
-      "addStars": "3",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1568512?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "The official NGINX Open Source repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,681",
-      "forks": "8,302",
+      "stars": "31,683",
+      "forks": "8,304",
       "addStars": "9",
       "contributors": [
         {
@@ -158,9 +158,9 @@
       "description": "Unbound is a validating, recursive, and caching DNS resolver.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,911",
+      "stars": "4,913",
       "forks": "453",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5220559?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,371",
+      "stars": "13,372",
       "forks": "1,178",
-      "addStars": "5",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2171100?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "ClamAV - Documentation is here: https://docs.clamav.net",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,249",
-      "forks": "925",
-      "addStars": "7",
+      "stars": "7,252",
+      "forks": "924",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30635813?s=40&v=4",
@@ -269,7 +269,7 @@
       "description": "Book Reader for Android",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,819",
+      "stars": "4,821",
       "forks": "445",
       "addStars": "11",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "24,761",
+      "stars": "24,763",
       "forks": "5,179",
       "addStars": "1",
       "contributors": [
@@ -343,9 +343,9 @@
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,046",
-      "forks": "8,490",
-      "addStars": "12",
+      "stars": "19,051",
+      "forks": "8,489",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4349050?s=40&v=4",
@@ -380,9 +380,9 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,092",
-      "forks": "2,854",
-      "addStars": "3",
+      "stars": "7,093",
+      "forks": "2,855",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/240717?s=40&v=4",
@@ -417,9 +417,9 @@
       "description": "Box3D is a 3D physics engine for games",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,386",
+      "stars": "6,388",
       "forks": "339",
-      "addStars": "15",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7284063?s=40&v=4",
@@ -441,7 +441,7 @@
       "languageColor": "#555555",
       "stars": "10,125",
       "forks": "3,833",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27528955?s=40&v=4",
@@ -471,51 +471,14 @@
       ]
     },
     {
-      "title": "matz/spinel",
-      "url": "https://github.com/matz/spinel",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "1,868",
-      "forks": "97",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30733?s=40&v=4",
-          "name": "matz",
-          "url": "https://github.com/matz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163873?s=40&v=4",
-          "name": "ryanseys",
-          "url": "https://github.com/ryanseys"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4815?s=40&v=4",
-          "name": "rubys",
-          "url": "https://github.com/rubys"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21557?s=40&v=4",
-          "name": "mame",
-          "url": "https://github.com/mame"
-        }
-      ]
-    },
-    {
       "title": "Cyan4973/xxHash",
       "url": "https://github.com/Cyan4973/xxHash",
       "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "11,261",
+      "stars": "11,262",
       "forks": "912",
-      "addStars": "8",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
@@ -545,8 +508,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "30,801",
-      "forks": "11,466",
+      "stars": "30,803",
+      "forks": "11,468",
       "addStars": "9",
       "contributors": [
         {
@@ -582,9 +545,9 @@
       "description": "stb single-file public domain libraries for C/C++",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "34,668",
+      "stars": "34,669",
       "forks": "8,087",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7525026?s=40&v=4",
@@ -619,9 +582,9 @@
       "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "32,282",
+      "stars": "32,284",
       "forks": "2,461",
-      "addStars": "13",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51009775?s=40&v=4",
@@ -641,9 +604,9 @@
       "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,915",
+      "stars": "1,916",
       "forks": "148",
-      "addStars": "32",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57963363?s=40&v=4",
@@ -678,9 +641,9 @@
       "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "302",
-      "forks": "62",
-      "addStars": "5",
+      "stars": "306",
+      "forks": "63",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109047395?s=40&v=4",
@@ -715,9 +678,9 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,618",
-      "forks": "2,068",
-      "addStars": "6",
+      "stars": "35,621",
+      "forks": "2,107",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79765?s=40&v=4",
