@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 19 Sep 2026 21:22:05 GMT",
+  "pubDate": "Sun, 20 Sep 2026 05:40:40 GMT",
   "items": [
     {
       "title": "kunchenguid/firstmate",
@@ -10,9 +10,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,702",
-      "forks": "2,029",
-      "addStars": "990",
+      "stars": "6,767",
+      "forks": "2,040",
+      "addStars": "1,073",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "153,531",
-      "forks": "24,763",
-      "addStars": "1,754",
+      "stars": "153,586",
+      "forks": "24,776",
+      "addStars": "1,725",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1972242?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "288,805",
-      "forks": "25,832",
-      "addStars": "3,573",
+      "stars": "288,909",
+      "forks": "25,846",
+      "addStars": "3,325",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,662",
-      "forks": "124",
-      "addStars": "277",
+      "stars": "2,669",
+      "forks": "123",
+      "addStars": "288",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195176069?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,354",
-      "forks": "547",
-      "addStars": "70",
+      "stars": "2,358",
+      "forks": "549",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/83507910?s=40&v=4",
@@ -165,41 +165,14 @@
       ]
     },
     {
-      "title": "tw93/Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "67,821",
-      "forks": "2,386",
-      "addStars": "911",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8736212?s=40&v=4",
-          "name": "tw93",
-          "url": "https://github.com/tw93"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/269735352?s=40&v=4",
-          "name": "youxi798",
-          "url": "https://github.com/youxi798"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62109266?s=40&v=4",
-          "name": "sebastianbreguel",
-          "url": "https://github.com/sebastianbreguel"
-        }
-      ]
-    },
-    {
       "title": "expo/skills",
       "url": "https://github.com/expo/skills",
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,583",
-      "forks": "149",
-      "addStars": "39",
+      "stars": "2,585",
+      "forks": "151",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9664363?s=40&v=4",
@@ -234,9 +207,9 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,867",
+      "stars": "2,870",
       "forks": "284",
-      "addStars": "44",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1221592?s=40&v=4",
@@ -271,9 +244,9 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,770",
-      "forks": "289",
-      "addStars": "364",
+      "stars": "2,800",
+      "forks": "297",
+      "addStars": "487",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
@@ -298,9 +271,9 @@
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,994",
-      "forks": "2,251",
-      "addStars": "202",
+      "stars": "27,003",
+      "forks": "2,252",
+      "addStars": "193",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78882424?s=40&v=4",
@@ -323,9 +296,9 @@
           "url": "https://github.com/kaichen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35541198?s=40&v=4",
-          "name": "dylanpulver",
-          "url": "https://github.com/dylanpulver"
+          "avatar": "https://avatars.githubusercontent.com/u/20944449?s=40&v=4",
+          "name": "ShaunLinTW",
+          "url": "https://github.com/ShaunLinTW"
         }
       ]
     },
@@ -335,9 +308,9 @@
       "description": "Higgsfield CLI",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "549",
-      "forks": "121",
-      "addStars": "45",
+      "stars": "552",
+      "forks": "122",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117711781?s=40&v=4",
@@ -372,9 +345,9 @@
       "description": "n8n skillset for Claude Code to build flawless n8n workflows",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,274",
+      "stars": "6,277",
       "forks": "1,033",
-      "addStars": "61",
+      "addStars": "63",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56956555?s=40&v=4",
@@ -410,8 +383,8 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "8,616",
-      "forks": "1,373",
-      "addStars": "26",
+      "forks": "1,374",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5615843?s=40&v=4",
@@ -441,9 +414,9 @@
       "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,290",
+      "stars": "5,291",
       "forks": "428",
-      "addStars": "36",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7896101?s=40&v=4",
@@ -473,9 +446,9 @@
       "description": "Script to create a gaming focused Distrobox with all emulators pre-configured",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "300",
+      "stars": "302",
       "forks": "26",
-      "addStars": "70",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -500,9 +473,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,308",
+      "stars": "33,312",
       "forks": "1,865",
-      "addStars": "120",
+      "addStars": "118",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/587742?s=40&v=4",
@@ -532,9 +505,9 @@
       "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "25,853",
-      "forks": "2,615",
-      "addStars": "112",
+      "stars": "25,863",
+      "forks": "2,616",
+      "addStars": "114",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
@@ -559,9 +532,9 @@
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "60,986",
+      "stars": "60,988",
       "forks": "3,319",
-      "addStars": "143",
+      "addStars": "140",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1998970?s=40&v=4",
