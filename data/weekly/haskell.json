@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 16:41:41 GMT",
+  "pubDate": "Sun, 20 Sep 2026 21:19:34 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,348",
-      "forks": "4,355",
+      "stars": "46,349",
+      "forks": "4,375",
       "addStars": "100",
       "contributors": [
         {
@@ -149,7 +149,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "1,744",
-      "forks": "751",
+      "forks": "752",
       "addStars": "1",
       "contributors": [
         {
@@ -250,7 +250,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "40,059",
-      "forks": "1,945",
+      "forks": "1,946",
       "addStars": "36",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,818",
+      "stars": "1,819",
       "forks": "75",
       "addStars": "55",
       "contributors": [

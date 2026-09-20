@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 16:41:41 GMT",
+  "pubDate": "Sun, 20 Sep 2026 21:19:34 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,196",
-      "forks": "20,142",
+      "stars": "26,200",
+      "forks": "20,144",
       "addStars": "8",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,304",
-      "forks": "977",
+      "stars": "3,305",
+      "forks": "978",
       "addStars": "1",
       "contributors": [
         {
@@ -261,7 +261,7 @@
       "description": "Streamlined, elegant $HOME management with Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "645",
+      "stars": "646",
       "forks": "26",
       "addStars": "1",
       "contributors": [

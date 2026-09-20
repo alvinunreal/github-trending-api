@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Monthly Trending",
   "description": "Monthly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 16:41:41 GMT",
+  "pubDate": "Sun, 20 Sep 2026 21:19:34 GMT",
   "items": [
     {
       "title": "LazyVim/LazyVim",
@@ -10,7 +10,7 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "27,515",
+      "stars": "27,516",
       "forks": "1,822",
       "addStars": "367",
       "contributors": [
@@ -111,7 +111,7 @@
       "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "9,532",
+      "stars": "9,533",
       "forks": "310",
       "addStars": "105",
       "contributors": [
@@ -148,8 +148,8 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "31,493",
-      "forks": "46,564",
+      "stars": "31,494",
+      "forks": "46,563",
       "addStars": "275",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,814",
-      "forks": "1,912",
+      "stars": "29,820",
+      "forks": "1,913",
       "addStars": "727",
       "contributors": [
         {
@@ -237,14 +237,14 @@
           "url": "https://github.com/chrox"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/111974?s=40&v=4",
-          "name": "NiLuJe",
-          "url": "https://github.com/NiLuJe"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/202757?s=40&v=4",
           "name": "Frenzie",
           "url": "https://github.com/Frenzie"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111974?s=40&v=4",
+          "name": "NiLuJe",
+          "url": "https://github.com/NiLuJe"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/24273478?s=40&v=4",
@@ -259,7 +259,7 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "44,160",
+      "stars": "44,162",
       "forks": "5,210",
       "addStars": "184",
       "contributors": [
@@ -297,7 +297,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": "648",
-      "forks": "900",
+      "forks": "902",
       "addStars": "20",
       "contributors": [
         {
@@ -333,7 +333,7 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "13,960",
+      "stars": "13,961",
       "forks": "2,497",
       "addStars": "109",
       "contributors": [
@@ -392,7 +392,7 @@
       "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,081",
+      "stars": "5,083",
       "forks": "141",
       "addStars": "169",
       "contributors": [
@@ -451,7 +451,7 @@
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,888",
+      "stars": "1,889",
       "forks": "452",
       "addStars": "42",
       "contributors": [
@@ -483,7 +483,7 @@
       "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "8,086",
+      "stars": "8,088",
       "forks": "504",
       "addStars": "110",
       "contributors": [
@@ -515,7 +515,7 @@
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "880",
+      "stars": "882",
       "forks": "36",
       "addStars": "225",
       "contributors": [
