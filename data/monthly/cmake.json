@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Monthly Trending",
   "description": "Monthly Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 05:40:40 GMT",
+  "pubDate": "Sun, 20 Sep 2026 12:08:00 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "27,470",
-      "forks": "7,731",
+      "stars": "27,471",
+      "forks": "7,732",
       "addStars": "125",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,754",
-      "forks": "254",
+      "stars": "1,755",
+      "forks": "255",
       "addStars": "51",
       "contributors": [
         {
@@ -75,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/41094733?s=40&v=4",
           "name": "hooke007",
           "url": "https://github.com/hooke007"
+        }
+      ]
+    },
+    {
+      "title": "corrosion-rs/corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "1,497",
+      "forks": "150",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55576758?s=40&v=4",
+          "name": "jschwe",
+          "url": "https://github.com/jschwe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2292643?s=40&v=4",
+          "name": "AndrewGaspar",
+          "url": "https://github.com/AndrewGaspar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1486?s=40&v=4",
+          "name": "tronical",
+          "url": "https://github.com/tronical"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4",
+          "name": "ogoffart",
+          "url": "https://github.com/ogoffart"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60313747?s=40&v=4",
+          "name": "yuval-nextsilicon",
+          "url": "https://github.com/yuval-nextsilicon"
         }
       ]
     },
@@ -112,43 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/112986054?s=40&v=4",
           "name": "ashleylee-dwa",
           "url": "https://github.com/ashleylee-dwa"
-        }
-      ]
-    },
-    {
-      "title": "corrosion-rs/corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "1,498",
-      "forks": "150",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55576758?s=40&v=4",
-          "name": "jschwe",
-          "url": "https://github.com/jschwe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2292643?s=40&v=4",
-          "name": "AndrewGaspar",
-          "url": "https://github.com/AndrewGaspar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1486?s=40&v=4",
-          "name": "tronical",
-          "url": "https://github.com/tronical"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/959326?s=40&v=4",
-          "name": "ogoffart",
-          "url": "https://github.com/ogoffart"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60313747?s=40&v=4",
-          "name": "yuval-nextsilicon",
-          "url": "https://github.com/yuval-nextsilicon"
         }
       ]
     },
@@ -259,43 +259,6 @@
       ]
     },
     {
-      "title": "arsenm/sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": "413",
-      "forks": "74",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6250567?s=40&v=4",
-          "name": "alehaa",
-          "url": "https://github.com/alehaa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
-          "name": "arsenm",
-          "url": "https://github.com/arsenm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45819833?s=40&v=4",
-          "name": "MiguelBarro",
-          "url": "https://github.com/MiguelBarro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/775309?s=40&v=4",
-          "name": "smspillaz",
-          "url": "https://github.com/smspillaz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30975249?s=40&v=4",
-          "name": "purple-lazy",
-          "url": "https://github.com/purple-lazy"
-        }
-      ]
-    },
-    {
       "title": "ecmwf/ecbuild",
       "url": "https://github.com/ecmwf/ecbuild",
       "description": "A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems",
@@ -333,29 +296,39 @@
       ]
     },
     {
-      "title": "steinbergmedia/vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
+      "title": "arsenm/sanitizers-cmake",
+      "url": "https://github.com/arsenm/sanitizers-cmake",
+      "description": "CMake modules to help use sanitizers",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "2,359",
-      "forks": "228",
-      "addStars": "29",
+      "stars": "413",
+      "forks": "74",
+      "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16340258?s=40&v=4",
-          "name": "ygrabit",
-          "url": "https://github.com/ygrabit"
+          "avatar": "https://avatars.githubusercontent.com/u/6250567?s=40&v=4",
+          "name": "alehaa",
+          "url": "https://github.com/alehaa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5485512?s=40&v=4",
-          "name": "scheffle",
-          "url": "https://github.com/scheffle"
+          "avatar": "https://avatars.githubusercontent.com/u/138339?s=40&v=4",
+          "name": "arsenm",
+          "url": "https://github.com/arsenm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/22274925?s=40&v=4",
-          "name": "Msixty7",
-          "url": "https://github.com/Msixty7"
+          "avatar": "https://avatars.githubusercontent.com/u/45819833?s=40&v=4",
+          "name": "MiguelBarro",
+          "url": "https://github.com/MiguelBarro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/775309?s=40&v=4",
+          "name": "smspillaz",
+          "url": "https://github.com/smspillaz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30975249?s=40&v=4",
+          "name": "purple-lazy",
+          "url": "https://github.com/purple-lazy"
         }
       ]
     },
@@ -383,6 +356,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/232347?s=40&v=4",
           "name": "wkpark",
           "url": "https://github.com/wkpark"
+        }
+      ]
+    },
+    {
+      "title": "steinbergmedia/vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "2,359",
+      "forks": "228",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16340258?s=40&v=4",
+          "name": "ygrabit",
+          "url": "https://github.com/ygrabit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5485512?s=40&v=4",
+          "name": "scheffle",
+          "url": "https://github.com/scheffle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22274925?s=40&v=4",
+          "name": "Msixty7",
+          "url": "https://github.com/Msixty7"
         }
       ]
     },
@@ -420,6 +420,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/778707?s=40&v=4",
           "name": "jorisv",
           "url": "https://github.com/jorisv"
+        }
+      ]
+    },
+    {
+      "title": "boostorg/cmake",
+      "url": "https://github.com/boostorg/cmake",
+      "description": "CMake support infrastructure Boost submodule",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": "120",
+      "forks": "37",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3116174?s=40&v=4",
+          "name": "pdimov",
+          "url": "https://github.com/pdimov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/309017?s=40&v=4",
+          "name": "Flamefire",
+          "url": "https://github.com/Flamefire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30894796?s=40&v=4",
+          "name": "Neumann-A",
+          "url": "https://github.com/Neumann-A"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10316270?s=40&v=4",
+          "name": "k3DW",
+          "url": "https://github.com/k3DW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75637426?s=40&v=4",
+          "name": "Pansysk75",
+          "url": "https://github.com/Pansysk75"
         }
       ]
     },
