@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Weekly Trending",
   "description": "Weekly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Sep 2026 05:51:13 GMT",
+  "pubDate": "Mon, 21 Sep 2026 13:46:41 GMT",
   "items": [
     {
       "title": "Rdatatable/data.table",
@@ -10,7 +10,7 @@
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "3,919",
+      "stars": "3,918",
       "forks": "1,053",
       "addStars": "1",
       "contributors": [
@@ -75,7 +75,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "892",
-      "forks": "143,329",
+      "forks": "143,322",
       "addStars": "1",
       "contributors": [
         {
@@ -128,6 +128,43 @@
       ]
     },
     {
+      "title": "tidyverse/dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "5,068",
+      "forks": "2,114",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2625526?s=40&v=4",
+          "name": "romainfrancois",
+          "url": "https://github.com/romainfrancois"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
+          "name": "hadley",
+          "url": "https://github.com/hadley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1741643?s=40&v=4",
+          "name": "krlmlr",
+          "url": "https://github.com/krlmlr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19150088?s=40&v=4",
+          "name": "DavisVaughan",
+          "url": "https://github.com/DavisVaughan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4465050?s=40&v=4",
+          "name": "lionel-",
+          "url": "https://github.com/lionel-"
+        }
+      ]
+    },
+    {
       "title": "tidyverse/ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
       "description": "An implementation of the Grammar of Graphics in R",
@@ -161,43 +198,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/227097?s=40&v=4",
           "name": "kohske",
           "url": "https://github.com/kohske"
-        }
-      ]
-    },
-    {
-      "title": "tidyverse/dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "5,067",
-      "forks": "2,114",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2625526?s=40&v=4",
-          "name": "romainfrancois",
-          "url": "https://github.com/romainfrancois"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4196?s=40&v=4",
-          "name": "hadley",
-          "url": "https://github.com/hadley"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1741643?s=40&v=4",
-          "name": "krlmlr",
-          "url": "https://github.com/krlmlr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19150088?s=40&v=4",
-          "name": "DavisVaughan",
-          "url": "https://github.com/DavisVaughan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4465050?s=40&v=4",
-          "name": "lionel-",
-          "url": "https://github.com/lionel-"
         }
       ]
     },

@@ -3,7 +3,7 @@
     <title>GitHub R Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of R Languages in GitHub</description>
-    <pubDate>Mon, 21 Sep 2026 05:51:13 GMT</pubDate>
+    <pubDate>Mon, 21 Sep 2026 13:46:41 GMT</pubDate>
     <item>
       <title>rdpeng/ProgrammingAssignment2</title>
       <link>https://github.com/rdpeng/ProgrammingAssignment2</link>
@@ -12,7 +12,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>892</stars>
-      <forks>143,329</forks>
+      <forks>143,322</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -214,7 +214,7 @@
       <guid>https://github.com/tidyverse/dplyr</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>5,067</stars>
+      <stars>5,068</stars>
       <forks>2,114</forks>
       <addStars>13</addStars>
       <contributors>
@@ -284,6 +284,44 @@
       </contributors>
     </item>
     <item>
+      <title>Rdatatable/data.table</title>
+      <link>https://github.com/Rdatatable/data.table</link>
+      <description>R's data.table package extends data.frame:</description>
+      <guid>https://github.com/Rdatatable/data.table</guid>
+      <language>R</language>
+      <languageColor>#198CE7</languageColor>
+      <stars>3,918</stars>
+      <forks>1,053</forks>
+      <addStars>12</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2779998?s=40&amp;v=4</avatar>
+          <name>mattdowle</name>
+          <url>https://github.com/mattdowle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3102045?s=40&amp;v=4</avatar>
+          <name>arunsrinivasan</name>
+          <url>https://github.com/arunsrinivasan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7606389?s=40&amp;v=4</avatar>
+          <name>MichaelChirico</name>
+          <url>https://github.com/MichaelChirico</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3627377?s=40&amp;v=4</avatar>
+          <name>jangorecki</name>
+          <url>https://github.com/jangorecki</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52290390?s=40&amp;v=4</avatar>
+          <name>ben-schwen</name>
+          <url>https://github.com/ben-schwen</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>rstudio/shiny</title>
       <link>https://github.com/rstudio/shiny</link>
       <description>Easy interactive web applications with R</description>
@@ -322,51 +360,13 @@
       </contributors>
     </item>
     <item>
-      <title>Rdatatable/data.table</title>
-      <link>https://github.com/Rdatatable/data.table</link>
-      <description>R's data.table package extends data.frame:</description>
-      <guid>https://github.com/Rdatatable/data.table</guid>
-      <language>R</language>
-      <languageColor>#198CE7</languageColor>
-      <stars>3,919</stars>
-      <forks>1,053</forks>
-      <addStars>12</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2779998?s=40&amp;v=4</avatar>
-          <name>mattdowle</name>
-          <url>https://github.com/mattdowle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3102045?s=40&amp;v=4</avatar>
-          <name>arunsrinivasan</name>
-          <url>https://github.com/arunsrinivasan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7606389?s=40&amp;v=4</avatar>
-          <name>MichaelChirico</name>
-          <url>https://github.com/MichaelChirico</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3627377?s=40&amp;v=4</avatar>
-          <name>jangorecki</name>
-          <url>https://github.com/jangorecki</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52290390?s=40&amp;v=4</avatar>
-          <name>ben-schwen</name>
-          <url>https://github.com/ben-schwen</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>r-spatial/sf</title>
       <link>https://github.com/r-spatial/sf</link>
       <description>Simple Features for R</description>
       <guid>https://github.com/r-spatial/sf</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>1,447</stars>
+      <stars>1,446</stars>
       <forks>304</forks>
       <addStars>5</addStars>
       <contributors>

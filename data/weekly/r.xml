@@ -3,7 +3,7 @@
     <title>GitHub R Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of R Languages in GitHub</description>
-    <pubDate>Mon, 21 Sep 2026 05:51:13 GMT</pubDate>
+    <pubDate>Mon, 21 Sep 2026 13:46:41 GMT</pubDate>
     <item>
       <title>Rdatatable/data.table</title>
       <link>https://github.com/Rdatatable/data.table</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/Rdatatable/data.table</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>3,919</stars>
+      <stars>3,918</stars>
       <forks>1,053</forks>
       <addStars>1</addStars>
       <contributors>
@@ -78,7 +78,7 @@
       <language>R</language>
       <languageColor>#198CE7</languageColor>
       <stars>892</stars>
-      <forks>143,329</forks>
+      <forks>143,322</forks>
       <addStars>1</addStars>
       <contributors>
         <contributor>
@@ -132,6 +132,44 @@
       </contributors>
     </item>
     <item>
+      <title>tidyverse/dplyr</title>
+      <link>https://github.com/tidyverse/dplyr</link>
+      <description>dplyr: A grammar of data manipulation</description>
+      <guid>https://github.com/tidyverse/dplyr</guid>
+      <language>R</language>
+      <languageColor>#198CE7</languageColor>
+      <stars>5,068</stars>
+      <forks>2,114</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2625526?s=40&amp;v=4</avatar>
+          <name>romainfrancois</name>
+          <url>https://github.com/romainfrancois</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4196?s=40&amp;v=4</avatar>
+          <name>hadley</name>
+          <url>https://github.com/hadley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1741643?s=40&amp;v=4</avatar>
+          <name>krlmlr</name>
+          <url>https://github.com/krlmlr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19150088?s=40&amp;v=4</avatar>
+          <name>DavisVaughan</name>
+          <url>https://github.com/DavisVaughan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4465050?s=40&amp;v=4</avatar>
+          <name>lionel-</name>
+          <url>https://github.com/lionel-</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>tidyverse/ggplot2</title>
       <link>https://github.com/tidyverse/ggplot2</link>
       <description>An implementation of the Grammar of Graphics in R</description>
@@ -166,44 +204,6 @@
           <avatar>https://avatars.githubusercontent.com/u/227097?s=40&amp;v=4</avatar>
           <name>kohske</name>
           <url>https://github.com/kohske</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>tidyverse/dplyr</title>
-      <link>https://github.com/tidyverse/dplyr</link>
-      <description>dplyr: A grammar of data manipulation</description>
-      <guid>https://github.com/tidyverse/dplyr</guid>
-      <language>R</language>
-      <languageColor>#198CE7</languageColor>
-      <stars>5,067</stars>
-      <forks>2,114</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2625526?s=40&amp;v=4</avatar>
-          <name>romainfrancois</name>
-          <url>https://github.com/romainfrancois</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4196?s=40&amp;v=4</avatar>
-          <name>hadley</name>
-          <url>https://github.com/hadley</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1741643?s=40&amp;v=4</avatar>
-          <name>krlmlr</name>
-          <url>https://github.com/krlmlr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19150088?s=40&amp;v=4</avatar>
-          <name>DavisVaughan</name>
-          <url>https://github.com/DavisVaughan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4465050?s=40&amp;v=4</avatar>
-          <name>lionel-</name>
-          <url>https://github.com/lionel-</url>
         </contributor>
       </contributors>
     </item>
