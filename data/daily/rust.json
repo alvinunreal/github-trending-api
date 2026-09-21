@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Sep 2026 13:46:41 GMT",
+  "pubDate": "Mon, 21 Sep 2026 18:29:37 GMT",
   "items": [
     {
       "title": "akitaonrails/ai-memory",
@@ -10,9 +10,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,469",
-      "forks": "513",
-      "addStars": "114",
+      "stars": "7,579",
+      "forks": "517",
+      "addStars": "217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,194",
-      "forks": "1,125",
-      "addStars": "242",
+      "stars": "12,277",
+      "forks": "1,129",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,610",
-      "forks": "455",
-      "addStars": "210",
+      "stars": "3,644",
+      "forks": "458",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/139136586?s=40&v=4",
@@ -101,8 +101,8 @@
       "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "39,997",
-      "forks": "3,950",
+      "stars": "40,008",
+      "forks": "3,951",
       "addStars": "74",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,779",
-      "forks": "666",
+      "stars": "15,789",
+      "forks": "667",
       "addStars": "70",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "39,822",
+      "stars": "39,826",
       "forks": "3,121",
       "addStars": "13",
       "contributors": [
@@ -207,8 +207,8 @@
       "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "61,568",
-      "forks": "12,691",
+      "stars": "61,575",
+      "forks": "12,693",
       "addStars": "29",
       "contributors": [
         {
@@ -234,14 +234,46 @@
       ]
     },
     {
+      "title": "nklmilojevic/sofka",
+      "url": "https://github.com/nklmilojevic/sofka",
+      "description": "A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "1,365",
+      "forks": "62",
+      "addStars": "83",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9573356?s=40&v=4",
+          "name": "nklmilojevic",
+          "url": "https://github.com/nklmilojevic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1192062?s=40&v=4",
+          "name": "vyrti",
+          "url": "https://github.com/vyrti"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76095?s=40&v=4",
+          "name": "caseycs",
+          "url": "https://github.com/caseycs"
+        }
+      ]
+    },
+    {
       "title": "apache/datafusion",
       "url": "https://github.com/apache/datafusion",
       "description": "Apache DataFusion SQL Query Engine",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,340",
+      "stars": "9,343",
       "forks": "2,426",
-      "addStars": "5",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/490673?s=40&v=4",
@@ -271,9 +303,9 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,327",
-      "forks": "5,408",
-      "addStars": "29",
+      "stars": "33,337",
+      "forks": "5,409",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -298,9 +330,9 @@
       "description": "NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,443",
+      "stars": "1,449",
       "forks": "50",
-      "addStars": "67",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46400566?s=40&v=4",
@@ -325,7 +357,7 @@
       "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,450",
+      "stars": "1,454",
       "forks": "152",
       "addStars": "46",
       "contributors": [
@@ -362,8 +394,8 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,585",
-      "forks": "904",
+      "stars": "14,595",
+      "forks": "907",
       "addStars": "19",
       "contributors": [
         {
@@ -399,9 +431,9 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,230",
+      "stars": "29,236",
       "forks": "3,861",
-      "addStars": "64",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22510164?s=40&v=4",
@@ -436,9 +468,9 @@
       "description": "Give cloud AI agents a real development environment on your own machines.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,593",
-      "forks": "201",
-      "addStars": "99",
+      "stars": "1,623",
+      "forks": "205",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51790758?s=40&v=4",
@@ -473,8 +505,8 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "146,093",
-      "forks": "10,491",
+      "stars": "146,151",
+      "forks": "10,494",
       "addStars": "418",
       "contributors": [
         {
@@ -505,7 +537,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,027",
+      "stars": "6,030",
       "forks": "246",
       "addStars": "11",
       "contributors": [
@@ -532,7 +564,7 @@
       "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,163",
+      "stars": "2,166",
       "forks": "236",
       "addStars": "31",
       "contributors": [
@@ -559,8 +591,8 @@
       "description": "A self-paced course to learn Rust, one exercise at a time.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,582",
-      "forks": "2,182",
+      "stars": "9,587",
+      "forks": "2,181",
       "addStars": "19",
       "contributors": [
         {
@@ -596,7 +628,7 @@
       "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,589",
+      "stars": "36,593",
       "forks": "1,743",
       "addStars": "7",
       "contributors": [

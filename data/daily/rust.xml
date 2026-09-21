@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 21 Sep 2026 13:46:41 GMT</pubDate>
+    <pubDate>Mon, 21 Sep 2026 18:29:37 GMT</pubDate>
     <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>7,469</stars>
-      <forks>513</forks>
-      <addStars>114</addStars>
+      <stars>7,579</stars>
+      <forks>517</forks>
+      <addStars>217</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/cloudflare/quiche</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,194</stars>
-      <forks>1,125</forks>
-      <addStars>242</addStars>
+      <stars>12,277</stars>
+      <forks>1,129</forks>
+      <addStars>69</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/117643?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/yynxxxxx/Codex-X</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,610</stars>
-      <forks>455</forks>
-      <addStars>210</addStars>
+      <stars>3,644</stars>
+      <forks>458</forks>
+      <addStars>79</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/139136586?s=40&amp;v=4</avatar>
@@ -105,8 +105,8 @@
       <guid>https://github.com/tinyhumansai/openhuman</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>39,997</stars>
-      <forks>3,950</forks>
+      <stars>40,008</stars>
+      <forks>3,951</forks>
       <addStars>74</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/Automattic/harper</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,779</stars>
-      <forks>666</forks>
+      <stars>15,789</stars>
+      <forks>667</forks>
       <addStars>70</addStars>
       <contributors>
         <contributor>
@@ -176,7 +176,7 @@
       <guid>https://github.com/pola-rs/polars</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>39,822</stars>
+      <stars>39,826</stars>
       <forks>3,121</forks>
       <addStars>13</addStars>
       <contributors>
@@ -214,8 +214,8 @@
       <guid>https://github.com/tw93/Pake</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>61,568</stars>
-      <forks>12,691</forks>
+      <stars>61,575</stars>
+      <forks>12,693</forks>
       <addStars>29</addStars>
       <contributors>
         <contributor>
@@ -241,15 +241,48 @@
       </contributors>
     </item>
     <item>
+      <title>nklmilojevic/sofka</title>
+      <link>https://github.com/nklmilojevic/sofka</link>
+      <description>A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.</description>
+      <guid>https://github.com/nklmilojevic/sofka</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>1,365</stars>
+      <forks>62</forks>
+      <addStars>83</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9573356?s=40&amp;v=4</avatar>
+          <name>nklmilojevic</name>
+          <url>https://github.com/nklmilojevic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1192062?s=40&amp;v=4</avatar>
+          <name>vyrti</name>
+          <url>https://github.com/vyrti</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76095?s=40&amp;v=4</avatar>
+          <name>caseycs</name>
+          <url>https://github.com/caseycs</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>apache/datafusion</title>
       <link>https://github.com/apache/datafusion</link>
       <description>Apache DataFusion SQL Query Engine</description>
       <guid>https://github.com/apache/datafusion</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,340</stars>
+      <stars>9,343</stars>
       <forks>2,426</forks>
-      <addStars>5</addStars>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/490673?s=40&amp;v=4</avatar>
@@ -280,9 +313,9 @@
       <guid>https://github.com/xai-org/x-algorithm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>33,327</stars>
-      <forks>5,408</forks>
-      <addStars>29</addStars>
+      <stars>33,337</stars>
+      <forks>5,409</forks>
+      <addStars>45</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -308,9 +341,9 @@
       <guid>https://github.com/eval-exec/neomacs</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,443</stars>
+      <stars>1,449</stars>
       <forks>50</forks>
-      <addStars>67</addStars>
+      <addStars>47</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46400566?s=40&amp;v=4</avatar>
@@ -336,7 +369,7 @@
       <guid>https://github.com/feigeCode/navop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,450</stars>
+      <stars>1,454</stars>
       <forks>152</forks>
       <addStars>46</addStars>
       <contributors>
@@ -374,8 +407,8 @@
       <guid>https://github.com/longbridge/gpui-kit</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,585</stars>
-      <forks>904</forks>
+      <stars>14,595</stars>
+      <forks>907</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -412,9 +445,9 @@
       <guid>https://github.com/nautechsystems/nautilus_trader</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>29,230</stars>
+      <stars>29,236</stars>
       <forks>3,861</forks>
-      <addStars>64</addStars>
+      <addStars>45</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22510164?s=40&amp;v=4</avatar>
@@ -450,9 +483,9 @@
       <guid>https://github.com/yyjeqhc/webcodex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,593</stars>
-      <forks>201</forks>
-      <addStars>99</addStars>
+      <stars>1,623</stars>
+      <forks>205</forks>
+      <addStars>109</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51790758?s=40&amp;v=4</avatar>
@@ -488,8 +521,8 @@
       <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>146,093</stars>
-      <forks>10,491</forks>
+      <stars>146,151</stars>
+      <forks>10,494</forks>
       <addStars>418</addStars>
       <contributors>
         <contributor>
@@ -521,7 +554,7 @@
       <guid>https://github.com/Dicklesworthstone/destructive_command_guard</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,027</stars>
+      <stars>6,030</stars>
       <forks>246</forks>
       <addStars>11</addStars>
       <contributors>
@@ -549,7 +582,7 @@
       <guid>https://github.com/mesamirh/MovieBox-Tui</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,163</stars>
+      <stars>2,166</stars>
       <forks>236</forks>
       <addStars>31</addStars>
       <contributors>
@@ -577,8 +610,8 @@
       <guid>https://github.com/mainmatter/100-exercises-to-learn-rust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,582</stars>
-      <forks>2,182</forks>
+      <stars>9,587</stars>
+      <forks>2,181</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -615,7 +648,7 @@
       <guid>https://github.com/pnpm/pnpm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>36,589</stars>
+      <stars>36,593</stars>
       <forks>1,743</forks>
       <addStars>7</addStars>
       <contributors>
