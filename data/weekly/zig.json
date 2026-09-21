@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 21:19:34 GMT",
+  "pubDate": "Mon, 21 Sep 2026 05:51:13 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,9 +10,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,432",
-      "forks": "131",
-      "addStars": "175",
+      "stars": "1,439",
+      "forks": "132",
+      "addStars": "182",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,357",
-      "forks": "3,484",
-      "addStars": "335",
+      "stars": "61,375",
+      "forks": "3,486",
+      "addStars": "347",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,723",
+      "stars": "2,726",
       "forks": "160",
-      "addStars": "54",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42089082?s=40&v=4",
@@ -113,7 +113,7 @@
       "languageColor": "#ec915c",
       "stars": "43,301",
       "forks": "3,203",
-      "addStars": "24",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
@@ -149,8 +149,8 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "1,143",
-      "forks": "91",
-      "addStars": "29",
+      "forks": "93",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40698010?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,407",
+      "stars": "2,408",
       "forks": "118",
-      "addStars": "186",
+      "addStars": "188",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1552770?s=40&v=4",
@@ -224,7 +224,7 @@
       "languageColor": "#ec915c",
       "stars": "4,071",
       "forks": "184",
-      "addStars": "38",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,140",
+      "stars": "5,141",
       "forks": "447",
-      "addStars": "18",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
@@ -298,7 +298,7 @@
       "languageColor": "#ec915c",
       "stars": "8,103",
       "forks": "944",
-      "addStars": "22",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5755838?s=40&v=4",
@@ -335,7 +335,7 @@
       "languageColor": "#ec915c",
       "stars": "263",
       "forks": "29",
-      "addStars": "4",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87761073?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "a modern tui library written in zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,009",
+      "stars": "2,010",
       "forks": "156",
-      "addStars": "11",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/476352?s=40&v=4",
@@ -408,8 +408,8 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "264",
-      "forks": "23",
-      "addStars": "26",
+      "forks": "24",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54503978?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "35,462",
+      "stars": "35,475",
       "forks": "1,684",
-      "addStars": "173",
+      "addStars": "175",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -518,7 +518,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,055",
+      "stars": "17,056",
       "forks": "902",
       "addStars": "41",
       "contributors": [

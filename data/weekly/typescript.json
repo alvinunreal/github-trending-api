@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 20 Sep 2026 21:19:34 GMT",
+  "pubDate": "Mon, 21 Sep 2026 05:51:13 GMT",
   "items": [
     {
       "title": "anthropics/claude-code",
@@ -10,9 +10,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "147,065",
-      "forks": "24,036",
-      "addStars": "1,999",
+      "stars": "147,262",
+      "forks": "24,085",
+      "addStars": "2,342",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,765",
-      "forks": "1,715",
-      "addStars": "1,359",
+      "stars": "23,799",
+      "forks": "1,717",
+      "addStars": "1,242",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "73,505",
-      "forks": "4,816",
-      "addStars": "5,404",
+      "stars": "73,880",
+      "forks": "4,843",
+      "addStars": "5,841",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,930",
-      "forks": "4,729",
-      "addStars": "2,498",
+      "stars": "52,009",
+      "forks": "4,739",
+      "addStars": "2,546",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,485",
-      "forks": "9,135",
-      "addStars": "1,573",
+      "stars": "44,515",
+      "forks": "9,141",
+      "addStars": "1,600",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "68,881",
-      "forks": "7,461",
-      "addStars": "1,118",
+      "stars": "68,909",
+      "forks": "7,466",
+      "addStars": "1,167",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "110,422",
-      "forks": "14,466",
-      "addStars": "1,389",
+      "stars": "110,458",
+      "forks": "14,492",
+      "addStars": "1,484",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,807",
-      "forks": "1,159",
-      "addStars": "3,530",
+      "stars": "7,813",
+      "forks": "1,161",
+      "addStars": "3,262",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41804588?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,541",
+      "stars": "6,558",
       "forks": "537",
-      "addStars": "1,256",
+      "addStars": "1,161",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99354371?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,026",
-      "forks": "429",
-      "addStars": "3,998",
+      "stars": "6,137",
+      "forks": "439",
+      "addStars": "4,077",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,716",
-      "forks": "2,131",
-      "addStars": "1,636",
+      "stars": "17,032",
+      "forks": "2,147",
+      "addStars": "2,391",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,845",
-      "forks": "1,080",
-      "addStars": "1,190",
+      "stars": "8,853",
+      "forks": "1,083",
+      "addStars": "1,131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64375473?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,665",
-      "forks": "4,772",
-      "addStars": "1,537",
+      "stars": "69,702",
+      "forks": "4,773",
+      "addStars": "1,593",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,692",
-      "forks": "396",
-      "addStars": "1,478",
+      "stars": "4,784",
+      "forks": "407",
+      "addStars": "1,457",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48862574?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,366",
-      "forks": "816",
-      "addStars": "1,745",
+      "stars": "3,383",
+      "forks": "822",
+      "addStars": "1,417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -518,14 +518,14 @@
           "url": "https://github.com/webtecnica"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/37987074?s=40&v=4",
+          "name": "joaopaulomirandamatias",
+          "url": "https://github.com/joaopaulomirandamatias"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/48738352?s=40&v=4",
           "name": "IanCouto",
           "url": "https://github.com/IanCouto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23352109?s=40&v=4",
-          "name": "jmpo",
-          "url": "https://github.com/jmpo"
         }
       ]
     },
@@ -535,9 +535,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,284",
-      "forks": "6,894",
-      "addStars": "2,304",
+      "stars": "55,312",
+      "forks": "6,903",
+      "addStars": "2,346",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "better agentic engineering",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,264",
-      "forks": "589",
-      "addStars": "412",
+      "stars": "4,265",
+      "forks": "591",
+      "addStars": "367",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20464460?s=40&v=4",
@@ -594,9 +594,9 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,729",
-      "forks": "282",
-      "addStars": "1,561",
+      "stars": "4,732",
+      "forks": "283",
+      "addStars": "1,556",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32670628?s=40&v=4",
@@ -631,9 +631,9 @@
       "description": "Build product integrations with AI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,269",
+      "stars": "12,273",
       "forks": "1,361",
-      "addStars": "479",
+      "addStars": "445",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1724137?s=40&v=4",
