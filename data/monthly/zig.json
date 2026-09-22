@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 22 Sep 2026 17:32:01 GMT",
+  "pubDate": "Tue, 22 Sep 2026 21:53:50 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,8 +10,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,486",
-      "forks": "140",
+      "stars": "1,489",
+      "forks": "141",
       "addStars": "705",
       "contributors": [
         {
@@ -43,7 +43,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "35,516",
-      "forks": "1,687",
+      "forks": "1,686",
       "addStars": "1,427",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,736",
+      "stars": "2,737",
       "forks": "160",
       "addStars": "228",
       "contributors": [
@@ -116,7 +116,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,073",
+      "stars": "17,076",
       "forks": "902",
       "addStars": "209",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,075",
+      "stars": "4,076",
       "forks": "185",
       "addStars": "81",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,418",
-      "forks": "119",
+      "stars": "2,419",
+      "forks": "120",
       "addStars": "239",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,430",
-      "forks": "3,489",
+      "stars": "61,432",
+      "forks": "3,491",
       "addStars": "1,522",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,147",
+      "stars": "1,148",
       "forks": "93",
       "addStars": "121",
       "contributors": [
@@ -435,7 +435,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "5,145",
-      "forks": "447",
+      "forks": "448",
       "addStars": "71",
       "contributors": [
         {
@@ -582,7 +582,7 @@
       "description": "Better GitHub statistics images for your profile, with stats from private repos too",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,556",
+      "stars": "3,557",
       "forks": "806",
       "addStars": "26",
       "contributors": [
