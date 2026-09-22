@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Tue, 22 Sep 2026 05:49:12 GMT</pubDate>
+    <pubDate>Tue, 22 Sep 2026 12:29:12 GMT</pubDate>
     <item>
       <title>goldbergyoni/nodebestpractices</title>
       <link>https://github.com/goldbergyoni/nodebestpractices</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/goldbergyoni/nodebestpractices</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>105,630</stars>
+      <stars>105,632</stars>
       <forks>10,724</forks>
       <addStars>158</addStars>
       <contributors>
@@ -72,7 +72,7 @@
       <guid>https://github.com/dotnet/dotnet-docker</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>4,876</stars>
+      <stars>4,877</stars>
       <forks>1,977</forks>
       <addStars>9</addStars>
       <contributors>
@@ -110,7 +110,7 @@
       <guid>https://github.com/oxsecurity/megalinter</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>2,598</stars>
+      <stars>2,599</stars>
       <forks>311</forks>
       <addStars>33</addStars>
       <contributors>
@@ -127,42 +127,14 @@
       </contributors>
     </item>
     <item>
-      <title>autowarefoundation/autoware</title>
-      <link>https://github.com/autowarefoundation/autoware</link>
-      <description>Autoware - the world's leading open-source software project for autonomous driving</description>
-      <guid>https://github.com/autowarefoundation/autoware</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>12,080</stars>
-      <forks>3,718</forks>
-      <addStars>89</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/579333?s=40&amp;v=4</avatar>
-          <name>youtalk</name>
-          <url>https://github.com/youtalk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10751153?s=40&amp;v=4</avatar>
-          <name>xmfcx</name>
-          <url>https://github.com/xmfcx</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31987104?s=40&amp;v=4</avatar>
-          <name>kenji-miyake</name>
-          <url>https://github.com/kenji-miyake</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>vulhub/vulhub</title>
       <link>https://github.com/vulhub/vulhub</link>
       <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
       <guid>https://github.com/vulhub/vulhub</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>21,260</stars>
-      <forks>4,810</forks>
+      <stars>21,263</stars>
+      <forks>4,811</forks>
       <addStars>135</addStars>
       <contributors>
         <contributor>
@@ -189,6 +161,34 @@
           <avatar>https://avatars.githubusercontent.com/u/83867734?s=40&amp;v=4</avatar>
           <name>D3vil0p3r</name>
           <url>https://github.com/D3vil0p3r</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>autowarefoundation/autoware</title>
+      <link>https://github.com/autowarefoundation/autoware</link>
+      <description>Autoware - the world's leading open-source software project for autonomous driving</description>
+      <guid>https://github.com/autowarefoundation/autoware</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>12,082</stars>
+      <forks>3,718</forks>
+      <addStars>89</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/579333?s=40&amp;v=4</avatar>
+          <name>youtalk</name>
+          <url>https://github.com/youtalk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10751153?s=40&amp;v=4</avatar>
+          <name>xmfcx</name>
+          <url>https://github.com/xmfcx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31987104?s=40&amp;v=4</avatar>
+          <name>kenji-miyake</name>
+          <url>https://github.com/kenji-miyake</url>
         </contributor>
       </contributors>
     </item>
@@ -231,39 +231,6 @@
       </contributors>
     </item>
     <item>
-      <title>laradock/laradock</title>
-      <link>https://github.com/laradock/laradock</link>
-      <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
-      <guid>https://github.com/laradock/laradock</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>12,675</stars>
-      <forks>4,341</forks>
-      <addStars>14</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1983984?s=40&amp;v=4</avatar>
-          <name>Mahmoudz</name>
-          <url>https://github.com/Mahmoudz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4023909?s=40&amp;v=4</avatar>
-          <name>bestlong</name>
-          <url>https://github.com/bestlong</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
-          <name>traviscibot</name>
-          <url>https://github.com/traviscibot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/756956?s=40&amp;v=4</avatar>
-          <name>winfried-van-loon</name>
-          <url>https://github.com/winfried-van-loon</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>MicrosoftDocs/windows-powershell-docs</title>
       <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
       <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
@@ -302,6 +269,95 @@
       </contributors>
     </item>
     <item>
+      <title>laradock/laradock</title>
+      <link>https://github.com/laradock/laradock</link>
+      <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
+      <guid>https://github.com/laradock/laradock</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>12,675</stars>
+      <forks>4,341</forks>
+      <addStars>14</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1983984?s=40&amp;v=4</avatar>
+          <name>Mahmoudz</name>
+          <url>https://github.com/Mahmoudz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4023909?s=40&amp;v=4</avatar>
+          <name>bestlong</name>
+          <url>https://github.com/bestlong</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
+          <name>traviscibot</name>
+          <url>https://github.com/traviscibot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/756956?s=40&amp;v=4</avatar>
+          <name>winfried-van-loon</name>
+          <url>https://github.com/winfried-van-loon</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>nordquant/dbt-student-repo</title>
+      <link>https://github.com/nordquant/dbt-student-repo</link>
+      <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
+      <guid>https://github.com/nordquant/dbt-student-repo</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>24</stars>
+      <forks>3,393</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/445752?s=40&amp;v=4</avatar>
+          <name>zoltanctoth</name>
+          <url>https://github.com/zoltanctoth</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>docker-library/python</title>
+      <link>https://github.com/docker-library/python</link>
+      <description>Docker Official Image packaging for Python</description>
+      <guid>https://github.com/docker-library/python</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>2,779</stars>
+      <forks>1,107</forks>
+      <addStars>9</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11618900?s=40&amp;v=4</avatar>
+          <name>docker-library-bot</name>
+          <url>https://github.com/docker-library-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/161631?s=40&amp;v=4</avatar>
+          <name>tianon</name>
+          <url>https://github.com/tianon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/896423?s=40&amp;v=4</avatar>
+          <name>yosifkit</name>
+          <url>https://github.com/yosifkit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1748643?s=40&amp;v=4</avatar>
+          <name>JayH5</name>
+          <url>https://github.com/JayH5</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45041769?s=40&amp;v=4</avatar>
+          <name>jnoordsij</name>
+          <url>https://github.com/jnoordsij</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>xhyphertech/Pretty-md</title>
       <link>https://github.com/xhyphertech/Pretty-md</link>
       <description>𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑</description>
@@ -335,107 +391,13 @@
       </contributors>
     </item>
     <item>
-      <title>docker-library/python</title>
-      <link>https://github.com/docker-library/python</link>
-      <description>Docker Official Image packaging for Python</description>
-      <guid>https://github.com/docker-library/python</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>2,779</stars>
-      <forks>1,108</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11618900?s=40&amp;v=4</avatar>
-          <name>docker-library-bot</name>
-          <url>https://github.com/docker-library-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/161631?s=40&amp;v=4</avatar>
-          <name>tianon</name>
-          <url>https://github.com/tianon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/896423?s=40&amp;v=4</avatar>
-          <name>yosifkit</name>
-          <url>https://github.com/yosifkit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1748643?s=40&amp;v=4</avatar>
-          <name>JayH5</name>
-          <url>https://github.com/JayH5</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45041769?s=40&amp;v=4</avatar>
-          <name>jnoordsij</name>
-          <url>https://github.com/jnoordsij</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>nordquant/dbt-student-repo</title>
-      <link>https://github.com/nordquant/dbt-student-repo</link>
-      <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
-      <guid>https://github.com/nordquant/dbt-student-repo</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>24</stars>
-      <forks>3,388</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/445752?s=40&amp;v=4</avatar>
-          <name>zoltanctoth</name>
-          <url>https://github.com/zoltanctoth</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>redhat-openshift-ecosystem/certified-operators</title>
-      <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
-      <description>Production catalog for Red Hat Certified Operator Bundles</description>
-      <guid>https://github.com/redhat-openshift-ecosystem/certified-operators</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>82</stars>
-      <forks>665</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88447997?s=40&amp;v=4</avatar>
-          <name>rh-operator-bundle-bot</name>
-          <url>https://github.com/rh-operator-bundle-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/109753337?s=40&amp;v=4</avatar>
-          <name>turbodeploy</name>
-          <url>https://github.com/turbodeploy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84674?s=40&amp;v=4</avatar>
-          <name>razvan</name>
-          <url>https://github.com/razvan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/186472763?s=40&amp;v=4</avatar>
-          <name>scaleops-bot</name>
-          <url>https://github.com/scaleops-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17576476?s=40&amp;v=4</avatar>
-          <name>jfrancin</name>
-          <url>https://github.com/jfrancin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>nodejs/docker-node</title>
       <link>https://github.com/nodejs/docker-node</link>
       <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
       <guid>https://github.com/nodejs/docker-node</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>8,595</stars>
+      <stars>8,593</stars>
       <forks>1,979</forks>
       <addStars>16</addStars>
       <contributors>

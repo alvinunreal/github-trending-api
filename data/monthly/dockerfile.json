@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 22 Sep 2026 05:49:12 GMT",
+  "pubDate": "Tue, 22 Sep 2026 12:29:12 GMT",
   "items": [
     {
       "title": "goldbergyoni/nodebestpractices",
@@ -10,7 +10,7 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,630",
+      "stars": "105,632",
       "forks": "10,724",
       "addStars": "158",
       "contributors": [
@@ -69,7 +69,7 @@
       "description": "Official container images for .NET",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,876",
+      "stars": "4,877",
       "forks": "1,977",
       "addStars": "9",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,598",
+      "stars": "2,599",
       "forks": "311",
       "addStars": "33",
       "contributors": [
@@ -123,40 +123,13 @@
       ]
     },
     {
-      "title": "autowarefoundation/autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "12,080",
-      "forks": "3,718",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
-          "name": "youtalk",
-          "url": "https://github.com/youtalk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10751153?s=40&v=4",
-          "name": "xmfcx",
-          "url": "https://github.com/xmfcx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
-          "name": "kenji-miyake",
-          "url": "https://github.com/kenji-miyake"
-        }
-      ]
-    },
-    {
       "title": "vulhub/vulhub",
       "url": "https://github.com/vulhub/vulhub",
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "21,260",
-      "forks": "4,810",
+      "stars": "21,263",
+      "forks": "4,811",
       "addStars": "135",
       "contributors": [
         {
@@ -183,6 +156,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/83867734?s=40&v=4",
           "name": "D3vil0p3r",
           "url": "https://github.com/D3vil0p3r"
+        }
+      ]
+    },
+    {
+      "title": "autowarefoundation/autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "12,082",
+      "forks": "3,718",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
+          "name": "youtalk",
+          "url": "https://github.com/youtalk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10751153?s=40&v=4",
+          "name": "xmfcx",
+          "url": "https://github.com/xmfcx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
+          "name": "kenji-miyake",
+          "url": "https://github.com/kenji-miyake"
         }
       ]
     },
@@ -224,38 +224,6 @@
       ]
     },
     {
-      "title": "laradock/laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "12,675",
-      "forks": "4,341",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1983984?s=40&v=4",
-          "name": "Mahmoudz",
-          "url": "https://github.com/Mahmoudz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4023909?s=40&v=4",
-          "name": "bestlong",
-          "url": "https://github.com/bestlong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
-          "name": "traviscibot",
-          "url": "https://github.com/traviscibot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/756956?s=40&v=4",
-          "name": "winfried-van-loon",
-          "url": "https://github.com/winfried-van-loon"
-        }
-      ]
-    },
-    {
       "title": "MicrosoftDocs/windows-powershell-docs",
       "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
       "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
@@ -293,6 +261,92 @@
       ]
     },
     {
+      "title": "laradock/laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "12,675",
+      "forks": "4,341",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1983984?s=40&v=4",
+          "name": "Mahmoudz",
+          "url": "https://github.com/Mahmoudz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4023909?s=40&v=4",
+          "name": "bestlong",
+          "url": "https://github.com/bestlong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
+          "name": "traviscibot",
+          "url": "https://github.com/traviscibot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/756956?s=40&v=4",
+          "name": "winfried-van-loon",
+          "url": "https://github.com/winfried-van-loon"
+        }
+      ]
+    },
+    {
+      "title": "nordquant/dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "24",
+      "forks": "3,393",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/445752?s=40&v=4",
+          "name": "zoltanctoth",
+          "url": "https://github.com/zoltanctoth"
+        }
+      ]
+    },
+    {
+      "title": "docker-library/python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "2,779",
+      "forks": "1,107",
+      "addStars": "9",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
+          "name": "docker-library-bot",
+          "url": "https://github.com/docker-library-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
+          "name": "tianon",
+          "url": "https://github.com/tianon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
+          "name": "yosifkit",
+          "url": "https://github.com/yosifkit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1748643?s=40&v=4",
+          "name": "JayH5",
+          "url": "https://github.com/JayH5"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45041769?s=40&v=4",
+          "name": "jnoordsij",
+          "url": "https://github.com/jnoordsij"
+        }
+      ]
+    },
+    {
       "title": "xhyphertech/Pretty-md",
       "url": "https://github.com/xhyphertech/Pretty-md",
       "description": "𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑",
@@ -325,103 +379,12 @@
       ]
     },
     {
-      "title": "docker-library/python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "2,779",
-      "forks": "1,108",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
-          "name": "docker-library-bot",
-          "url": "https://github.com/docker-library-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161631?s=40&v=4",
-          "name": "tianon",
-          "url": "https://github.com/tianon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/896423?s=40&v=4",
-          "name": "yosifkit",
-          "url": "https://github.com/yosifkit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1748643?s=40&v=4",
-          "name": "JayH5",
-          "url": "https://github.com/JayH5"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45041769?s=40&v=4",
-          "name": "jnoordsij",
-          "url": "https://github.com/jnoordsij"
-        }
-      ]
-    },
-    {
-      "title": "nordquant/dbt-student-repo",
-      "url": "https://github.com/nordquant/dbt-student-repo",
-      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "24",
-      "forks": "3,388",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/445752?s=40&v=4",
-          "name": "zoltanctoth",
-          "url": "https://github.com/zoltanctoth"
-        }
-      ]
-    },
-    {
-      "title": "redhat-openshift-ecosystem/certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "82",
-      "forks": "665",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88447997?s=40&v=4",
-          "name": "rh-operator-bundle-bot",
-          "url": "https://github.com/rh-operator-bundle-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109753337?s=40&v=4",
-          "name": "turbodeploy",
-          "url": "https://github.com/turbodeploy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84674?s=40&v=4",
-          "name": "razvan",
-          "url": "https://github.com/razvan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/186472763?s=40&v=4",
-          "name": "scaleops-bot",
-          "url": "https://github.com/scaleops-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17576476?s=40&v=4",
-          "name": "jfrancin",
-          "url": "https://github.com/jfrancin"
-        }
-      ]
-    },
-    {
       "title": "nodejs/docker-node",
       "url": "https://github.com/nodejs/docker-node",
       "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,595",
+      "stars": "8,593",
       "forks": "1,979",
       "addStars": "16",
       "contributors": [
