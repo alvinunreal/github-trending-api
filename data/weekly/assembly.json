@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Weekly Trending",
   "description": "Weekly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Sep 2026 22:31:38 GMT",
+  "pubDate": "Tue, 22 Sep 2026 05:49:12 GMT",
   "items": [
     {
       "title": "aws/aws-lc",
@@ -49,7 +49,7 @@
       "languageColor": "#6E4C13",
       "stars": "433",
       "forks": "406",
-      "addStars": "5",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31079890?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "72,414",
+      "stars": "72,415",
       "forks": "8,004",
-      "addStars": "74",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3440094?s=40&v=4",
@@ -113,7 +113,7 @@
       "languageColor": "#6E4C13",
       "stars": "3,125",
       "forks": "1,027",
-      "addStars": "17",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199415?s=40&v=4",
@@ -139,43 +139,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/110232072?s=40&v=4",
           "name": "AyoubJalali",
           "url": "https://github.com/AyoubJalali"
-        }
-      ]
-    },
-    {
-      "title": "tectijuana/interfaz",
-      "url": "https://github.com/tectijuana/interfaz",
-      "description": "Lenguajes de Interfaz (Assembly Language for ARM / RISCV)",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "23",
-      "forks": "201",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2523851?s=40&v=4",
-          "name": "IoTeacher",
-          "url": "https://github.com/IoTeacher"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/229663641?s=40&v=4",
-          "name": "l23210542-lab",
-          "url": "https://github.com/l23210542-lab"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/321571110?s=40&v=4",
-          "name": "l23211974-maker",
-          "url": "https://github.com/l23211974-maker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/147448792?s=40&v=4",
-          "name": "AnthonyOR05",
-          "url": "https://github.com/AnthonyOR05"
         }
       ]
     },
@@ -261,7 +224,7 @@
       "languageColor": "#6E4C13",
       "stars": "544",
       "forks": "1,711",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11613311?s=40&v=4",
@@ -296,9 +259,9 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "18,743",
+      "stars": "18,742",
       "forks": "2,099",
-      "addStars": "30",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
@@ -333,9 +296,9 @@
       "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "3,968",
+      "stars": "3,969",
       "forks": "131",
-      "addStars": "23",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10792661?s=40&v=4",
@@ -371,8 +334,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "4,936",
-      "forks": "1,309",
-      "addStars": "19",
+      "forks": "1,310",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
@@ -446,7 +409,7 @@
       "languageColor": "#6E4C13",
       "stars": "1,147",
       "forks": "226",
-      "addStars": "7",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/141144261?s=40&v=4",
@@ -515,7 +478,7 @@
       "languageColor": "#6E4C13",
       "stars": "119",
       "forks": "12",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68615940?s=40&v=4",
@@ -621,7 +584,7 @@
       "languageColor": "#6E4C13",
       "stars": "5,369",
       "forks": "431",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1429315?s=40&v=4",
@@ -657,8 +620,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "6,442",
-      "forks": "482",
-      "addStars": "15",
+      "forks": "483",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/860932?s=40&v=4",
@@ -695,7 +658,7 @@
       "languageColor": "#6E4C13",
       "stars": "2,505",
       "forks": "980",
-      "addStars": "5",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
@@ -731,8 +694,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "1,645",
-      "forks": "343",
-      "addStars": "3",
+      "forks": "344",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",

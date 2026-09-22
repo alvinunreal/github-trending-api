@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Weekly Trending",
   "description": "Weekly Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 21 Sep 2026 22:31:38 GMT",
+  "pubDate": "Tue, 22 Sep 2026 05:49:12 GMT",
   "items": [
     {
       "title": "noah-nuebling/mac-mouse-fix",
@@ -10,9 +10,9 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "10,979",
+      "stars": "10,981",
       "forks": "433",
-      "addStars": "136",
+      "addStars": "140",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40808343?s=40&v=4",
@@ -32,43 +32,6 @@
       ]
     },
     {
-      "title": "Mininglamp-OSS/octo-ios",
-      "url": "https://github.com/Mininglamp-OSS/octo-ios",
-      "description": "OCTO iOS Client — Open-source enterprise IM",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": "950",
-      "forks": "127",
-      "addStars": "145",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16283410?s=40&v=4",
-          "name": "DeveKing7",
-          "url": "https://github.com/DeveKing7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7678334?s=40&v=4",
-          "name": "yujiawei",
-          "url": "https://github.com/yujiawei"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/318198218?s=40&v=4",
-          "name": "swrswr-cloud",
-          "url": "https://github.com/swrswr-cloud"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39320777?s=40&v=4",
-          "name": "lml2468",
-          "url": "https://github.com/lml2468"
-        }
-      ]
-    },
-    {
       "title": "LiveContainer/LiveExec32",
       "url": "https://github.com/LiveContainer/LiveExec32",
       "description": "Run 32-bit binaries on 64-bit iOS by passing through syscalls",
@@ -76,7 +39,7 @@
       "languageColor": "#438eff",
       "stars": "275",
       "forks": "17",
-      "addStars": "23",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40482367?s=40&v=4",
@@ -103,7 +66,7 @@
       "languageColor": "#438eff",
       "stars": "15,122",
       "forks": "578",
-      "addStars": "24",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/378648?s=40&v=4",
@@ -140,7 +103,7 @@
       "languageColor": "#438eff",
       "stars": "13,220",
       "forks": "600",
-      "addStars": "42",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11327812?s=40&v=4",
@@ -175,7 +138,7 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "16,156",
+      "stars": "16,157",
       "forks": "719",
       "addStars": "54",
       "contributors": [
@@ -214,7 +177,7 @@
       "languageColor": "#438eff",
       "stars": "16,610",
       "forks": "2,241",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/408944?s=40&v=4",
@@ -505,7 +468,7 @@
       "languageColor": "#438eff",
       "stars": "2,032",
       "forks": "867",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/445150?s=40&v=4",
@@ -523,14 +486,14 @@
           "url": "https://github.com/julienbodet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4029922?s=40&v=4",
-          "name": "mdmathias",
-          "url": "https://github.com/mdmathias"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/115107835?s=40&v=4",
           "name": "w-goog",
           "url": "https://github.com/w-goog"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4029922?s=40&v=4",
+          "name": "mdmathias",
+          "url": "https://github.com/mdmathias"
         }
       ]
     },
@@ -542,7 +505,7 @@
       "languageColor": "#438eff",
       "stars": "752",
       "forks": "282",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/102201?s=40&v=4",
@@ -560,14 +523,14 @@
           "url": "https://github.com/w-goog"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9356545?s=40&v=4",
-          "name": "Alex-4-Git",
-          "url": "https://github.com/Alex-4-Git"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/74382627?s=40&v=4",
           "name": "brnnmrls",
           "url": "https://github.com/brnnmrls"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9356545?s=40&v=4",
+          "name": "Alex-4-Git",
+          "url": "https://github.com/Alex-4-Git"
         }
       ]
     },
@@ -616,7 +579,7 @@
       "languageColor": "#438eff",
       "stars": "12,123",
       "forks": "1,498",
-      "addStars": "6",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/627915?s=40&v=4",
