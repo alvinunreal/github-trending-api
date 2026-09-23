@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 17:43:46 GMT",
+  "pubDate": "Wed, 23 Sep 2026 22:08:23 GMT",
   "items": [
     {
       "title": "BuilderIO/agent-native",
@@ -10,8 +10,8 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,460",
-      "forks": "579",
+      "stars": "6,506",
+      "forks": "584",
       "addStars": "135",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,201",
-      "forks": "1,429",
+      "stars": "16,280",
+      "forks": "1,432",
       "addStars": "1,140",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,691",
-      "forks": "2,278",
+      "stars": "18,780",
+      "forks": "2,283",
       "addStars": "379",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "MiMo Code: Where Models and Agents Co-Evolve",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,438",
+      "stars": "13,439",
       "forks": "1,391",
       "addStars": "87",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,324",
+      "stars": "69,329",
       "forks": "5,715",
       "addStars": "47",
       "contributors": [
@@ -175,8 +175,8 @@
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,977",
-      "forks": "3,498",
+      "stars": "33,005",
+      "forks": "3,503",
       "addStars": "405",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,318",
-      "forks": "1,728",
+      "stars": "25,324",
+      "forks": "1,729",
       "addStars": "322",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Make it yours. A customizable key viewer for DJMAX RESPECT V and any game.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,668",
-      "forks": "74",
+      "stars": "1,673",
+      "forks": "75",
       "addStars": "100",
       "contributors": [
         {
@@ -271,12 +271,39 @@
       ]
     },
     {
+      "title": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "2,216",
+      "forks": "176",
+      "addStars": "34",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15789670?s=40&v=4",
+          "name": "djamaile",
+          "url": "https://github.com/djamaile"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1685068?s=40&v=4",
+          "name": "sorantis",
+          "url": "https://github.com/sorantis"
+        }
+      ]
+    },
+    {
       "title": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,506",
+      "stars": "37,509",
       "forks": "4,655",
       "addStars": "37",
       "contributors": [
@@ -313,8 +340,8 @@
       "description": "🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,190",
-      "forks": "160",
+      "stars": "1,201",
+      "forks": "161",
       "addStars": "96",
       "contributors": [
         {
@@ -350,8 +377,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,614",
-      "forks": "815",
+      "stars": "7,616",
+      "forks": "817",
       "addStars": "42",
       "contributors": [
         {
@@ -377,8 +404,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,543",
-      "forks": "8,360",
+      "stars": "94,561",
+      "forks": "8,361",
       "addStars": "96",
       "contributors": [
         {
@@ -409,8 +436,8 @@
       "description": "Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,599",
-      "forks": "191",
+      "stars": "1,606",
+      "forks": "190",
       "addStars": "30",
       "contributors": [
         {
