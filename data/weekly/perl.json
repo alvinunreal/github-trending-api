@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Weekly Trending",
   "description": "Weekly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 05:28:10 GMT",
+  "pubDate": "Wed, 23 Sep 2026 12:39:29 GMT",
   "items": [
     {
       "title": "exiftool/exiftool",
@@ -23,43 +23,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/26515643?s=40&v=4",
           "name": "r-downing",
           "url": "https://github.com/r-downing"
-        }
-      ]
-    },
-    {
-      "title": "holzschu/a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,933",
-      "forks": "214",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1814380?s=40&v=4",
-          "name": "N-Holzschuch",
-          "url": "https://github.com/N-Holzschuch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8070736?s=40&v=4",
-          "name": "holzschu",
-          "url": "https://github.com/holzschu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46334387?s=40&v=4",
-          "name": "personalizedrefrigerator",
-          "url": "https://github.com/personalizedrefrigerator"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/601636?s=40&v=4",
-          "name": "kkebo",
-          "url": "https://github.com/kkebo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54460050?s=40&v=4",
-          "name": "HeavySnowJakarta",
-          "url": "https://github.com/HeavySnowJakarta"
         }
       ]
     },
@@ -101,6 +64,43 @@
       ]
     },
     {
+      "title": "holzschu/a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,936",
+      "forks": "214",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1814380?s=40&v=4",
+          "name": "N-Holzschuch",
+          "url": "https://github.com/N-Holzschuch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8070736?s=40&v=4",
+          "name": "holzschu",
+          "url": "https://github.com/holzschu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46334387?s=40&v=4",
+          "name": "personalizedrefrigerator",
+          "url": "https://github.com/personalizedrefrigerator"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/601636?s=40&v=4",
+          "name": "kkebo",
+          "url": "https://github.com/kkebo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54460050?s=40&v=4",
+          "name": "HeavySnowJakarta",
+          "url": "https://github.com/HeavySnowJakarta"
+        }
+      ]
+    },
+    {
       "title": "Perl/perl5",
       "url": "https://github.com/Perl/perl5",
       "description": "🐪 The Perl programming language",
@@ -138,43 +138,6 @@
       ]
     },
     {
-      "title": "inverse-inc/packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "1,692",
-      "forks": "329",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2727473?s=40&v=4",
-          "name": "jrouzierinverse",
-          "url": "https://github.com/jrouzierinverse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3857942?s=40&v=4",
-          "name": "julsemaan",
-          "url": "https://github.com/julsemaan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1553962?s=40&v=4",
-          "name": "fdurand",
-          "url": "https://github.com/fdurand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3904468?s=40&v=4",
-          "name": "satkunas",
-          "url": "https://github.com/satkunas"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10830260?s=40&v=4",
-          "name": "nqb",
-          "url": "https://github.com/nqb"
-        }
-      ]
-    },
-    {
       "title": "glpi-project/glpi-agent",
       "url": "https://github.com/glpi-project/glpi-agent",
       "description": "GLPI Agent",
@@ -208,6 +171,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/5585133?s=40&v=4",
           "name": "devtom30",
           "url": "https://github.com/devtom30"
+        }
+      ]
+    },
+    {
+      "title": "inverse-inc/packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "1,692",
+      "forks": "330",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2727473?s=40&v=4",
+          "name": "jrouzierinverse",
+          "url": "https://github.com/jrouzierinverse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3857942?s=40&v=4",
+          "name": "julsemaan",
+          "url": "https://github.com/julsemaan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1553962?s=40&v=4",
+          "name": "fdurand",
+          "url": "https://github.com/fdurand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3904468?s=40&v=4",
+          "name": "satkunas",
+          "url": "https://github.com/satkunas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10830260?s=40&v=4",
+          "name": "nqb",
+          "url": "https://github.com/nqb"
+        }
+      ]
+    },
+    {
+      "title": "netdisco/netdisco",
+      "url": "https://github.com/netdisco/netdisco",
+      "description": "A web-based network management tool.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "920",
+      "forks": "105",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29653?s=40&v=4",
+          "name": "ollyg",
+          "url": "https://github.com/ollyg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1408894?s=40&v=4",
+          "name": "jeneric",
+          "url": "https://github.com/jeneric"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39005454?s=40&v=4",
+          "name": "inphobia",
+          "url": "https://github.com/inphobia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1247031?s=40&v=4",
+          "name": "rc9000",
+          "url": "https://github.com/rc9000"
         }
       ]
     },
@@ -291,8 +323,8 @@
       "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "3,421",
-      "forks": "380",
+      "stars": "3,420",
+      "forks": "381",
       "addStars": "4",
       "contributors": [
         {
@@ -329,7 +361,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": "3,115",
-      "forks": "225",
+      "forks": "226",
       "addStars": "9",
       "contributors": [
         {
@@ -393,80 +425,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/23263315?s=40&v=4",
           "name": "sctnightcore",
           "url": "https://github.com/sctnightcore"
-        }
-      ]
-    },
-    {
-      "title": "AlDanial/cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "23,555",
-      "forks": "1,125",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1459933?s=40&v=4",
-          "name": "AlDanial",
-          "url": "https://github.com/AlDanial"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7748385?s=40&v=4",
-          "name": "stsnel",
-          "url": "https://github.com/stsnel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1958551?s=40&v=4",
-          "name": "wonderbird",
-          "url": "https://github.com/wonderbird"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3129230?s=40&v=4",
-          "name": "jolkdarr",
-          "url": "https://github.com/jolkdarr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31558169?s=40&v=4",
-          "name": "DecimalTurn",
-          "url": "https://github.com/DecimalTurn"
-        }
-      ]
-    },
-    {
-      "title": "manwar/perlweeklychallenge-club",
-      "url": "https://github.com/manwar/perlweeklychallenge-club",
-      "description": "Knowledge base for The Weekly Challenge club members using Perl, Raku, Ada, APL, Awk, Bash, BASIC, Bc, Befunge-93, Bourne Shell, BQN, Brainfuck, C3, C, CESIL, C++, C#, Clojure, COBOL, Coconut, Crystal, D, Dart, Dc, Elm, Emacs Lisp, Erlang, Excel VBA, Fennel, Fish, Forth, Fortran, Gembase, GNAT, Go, Haskell, Haxe, HTML, Idris, IO, J, Janet, Java,…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "220",
-      "forks": "352",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/681195?s=40&v=4",
-          "name": "manwar",
-          "url": "https://github.com/manwar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6222212?s=40&v=4",
-          "name": "drbaggy",
-          "url": "https://github.com/drbaggy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28217714?s=40&v=4",
-          "name": "jo-37",
-          "url": "https://github.com/jo-37"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53903062?s=40&v=4",
-          "name": "andemark",
-          "url": "https://github.com/andemark"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/813664?s=40&v=4",
-          "name": "fluca1978",
-          "url": "https://github.com/fluca1978"
         }
       ]
     }

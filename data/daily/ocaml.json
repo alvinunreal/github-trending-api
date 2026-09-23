@@ -2,45 +2,8 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 05:28:10 GMT",
+  "pubDate": "Wed, 23 Sep 2026 12:39:29 GMT",
   "items": [
-    {
-      "title": "ocaml/ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "6,571",
-      "forks": "1,411",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3845810?s=40&v=4",
-          "name": "xavierleroy",
-          "url": "https://github.com/xavierleroy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/426238?s=40&v=4",
-          "name": "gasche",
-          "url": "https://github.com/gasche"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5250680?s=40&v=4",
-          "name": "dra27",
-          "url": "https://github.com/dra27"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3305274?s=40&v=4",
-          "name": "alainfrisch",
-          "url": "https://github.com/alainfrisch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7689388?s=40&v=4",
-          "name": "Octachron",
-          "url": "https://github.com/Octachron"
-        }
-      ]
-    },
     {
       "title": "opengrep/opengrep",
       "url": "https://github.com/opengrep/opengrep",
@@ -79,6 +42,117 @@
       ]
     },
     {
+      "title": "stategraph/stategraph",
+      "url": "https://github.com/stategraph/stategraph",
+      "description": "Terraform without the state file bottleneck",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "1,284",
+      "forks": "78",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75299?s=40&v=4",
+          "name": "orbitz",
+          "url": "https://github.com/orbitz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75546?s=40&v=4",
+          "name": "joshpollara",
+          "url": "https://github.com/joshpollara"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/791758?s=40&v=4",
+          "name": "arr2036",
+          "url": "https://github.com/arr2036"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165169475?s=40&v=4",
+          "name": "bender2352",
+          "url": "https://github.com/bender2352"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254410394?s=40&v=4",
+          "name": "tamiyasigmar",
+          "url": "https://github.com/tamiyasigmar"
+        }
+      ]
+    },
+    {
+      "title": "AeneasVerif/aeneas",
+      "url": "https://github.com/AeneasVerif/aeneas",
+      "description": "A verification toolchain for Rust programs",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "980",
+      "forks": "108",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14029289?s=40&v=4",
+          "name": "sonmarcho",
+          "url": "https://github.com/sonmarcho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6783654?s=40&v=4",
+          "name": "Nadrieril",
+          "url": "https://github.com/Nadrieril"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6841566?s=40&v=4",
+          "name": "R1kM",
+          "url": "https://github.com/R1kM"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43295942?s=40&v=4",
+          "name": "ayhon",
+          "url": "https://github.com/ayhon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10673049?s=40&v=4",
+          "name": "msprotz",
+          "url": "https://github.com/msprotz"
+        }
+      ]
+    },
+    {
+      "title": "facebook/infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "15,707",
+      "forks": "2,101",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1083541?s=40&v=4",
+          "name": "jvillard",
+          "url": "https://github.com/jvillard"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1466830?s=40&v=4",
+          "name": "jberdine",
+          "url": "https://github.com/jberdine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7913252?s=40&v=4",
+          "name": "dulmarod",
+          "url": "https://github.com/dulmarod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1977549?s=40&v=4",
+          "name": "skcho",
+          "url": "https://github.com/skcho"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3513142?s=40&v=4",
+          "name": "sblackshear",
+          "url": "https://github.com/sblackshear"
+        }
+      ]
+    },
+    {
       "title": "bcpierce00/unison",
       "url": "https://github.com/bcpierce00/unison",
       "description": "Unison file synchronizer",
@@ -112,43 +186,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/956926?s=40&v=4",
           "name": "ben-willmore",
           "url": "https://github.com/ben-willmore"
-        }
-      ]
-    },
-    {
-      "title": "AeneasVerif/aeneas",
-      "url": "https://github.com/AeneasVerif/aeneas",
-      "description": "A verification toolchain for Rust programs",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "979",
-      "forks": "108",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14029289?s=40&v=4",
-          "name": "sonmarcho",
-          "url": "https://github.com/sonmarcho"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6783654?s=40&v=4",
-          "name": "Nadrieril",
-          "url": "https://github.com/Nadrieril"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6841566?s=40&v=4",
-          "name": "R1kM",
-          "url": "https://github.com/R1kM"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43295942?s=40&v=4",
-          "name": "ayhon",
-          "url": "https://github.com/ayhon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10673049?s=40&v=4",
-          "name": "msprotz",
-          "url": "https://github.com/msprotz"
         }
       ]
     }

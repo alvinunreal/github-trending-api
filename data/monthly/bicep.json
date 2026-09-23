@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Monthly Trending",
   "description": "Monthly Trending of Bicep Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 05:28:10 GMT",
+  "pubDate": "Wed, 23 Sep 2026 12:39:29 GMT",
   "items": [
     {
       "title": "microsoft-foundry/foundry-samples",
@@ -37,44 +37,12 @@
       ]
     },
     {
-      "title": "Azure/bicep",
-      "url": "https://github.com/Azure/bicep",
-      "description": "Bicep is a declarative language for describing and deploying Azure resources",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": "3,646",
-      "forks": "831",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38542602?s=40&v=4",
-          "name": "anthony-c-martin",
-          "url": "https://github.com/anthony-c-martin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6913354?s=40&v=4",
-          "name": "StephenWeatherford",
-          "url": "https://github.com/StephenWeatherford"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16367959?s=40&v=4",
-          "name": "shenglol",
-          "url": "https://github.com/shenglol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22460039?s=40&v=4",
-          "name": "majastrz",
-          "url": "https://github.com/majastrz"
-        }
-      ]
-    },
-    {
       "title": "Azure/bicep-registry-modules",
       "url": "https://github.com/Azure/bicep-registry-modules",
       "description": "Bicep registry modules",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": "738",
+      "stars": "739",
       "forks": "565",
       "addStars": "3",
       "contributors": [
@@ -143,6 +111,38 @@
       ]
     },
     {
+      "title": "Azure/bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": "3,646",
+      "forks": "831",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38542602?s=40&v=4",
+          "name": "anthony-c-martin",
+          "url": "https://github.com/anthony-c-martin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6913354?s=40&v=4",
+          "name": "StephenWeatherford",
+          "url": "https://github.com/StephenWeatherford"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16367959?s=40&v=4",
+          "name": "shenglol",
+          "url": "https://github.com/shenglol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22460039?s=40&v=4",
+          "name": "majastrz",
+          "url": "https://github.com/majastrz"
+        }
+      ]
+    },
+    {
       "title": "microsoft/azure-container-apps",
       "url": "https://github.com/microsoft/azure-container-apps",
       "description": "Roadmap and issues for Azure Container Apps",
@@ -181,7 +181,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": "281",
-      "forks": "405",
+      "forks": "406",
       "addStars": "3",
       "contributors": [
         {
