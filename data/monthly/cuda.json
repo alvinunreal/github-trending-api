@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 12:37:37 GMT",
+  "pubDate": "Thu, 24 Sep 2026 17:45:14 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,8 +10,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,503",
-      "forks": "1,496",
+      "stars": "6,502",
+      "forks": "1,495",
       "addStars": "291",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,936",
+      "stars": "3,940",
       "forks": "517",
       "addStars": "252",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,865",
+      "stars": "7,867",
       "forks": "1,276",
       "addStars": "158",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,051",
+      "stars": "31,052",
       "forks": "3,766",
       "addStars": "233",
       "contributors": [
@@ -306,7 +306,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,200",
+      "stars": "10,201",
       "forks": "1,450",
       "addStars": "153",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,512",
+      "stars": "2,513",
       "forks": "257",
       "addStars": "70",
       "contributors": [
@@ -454,7 +454,7 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,289",
+      "stars": "3,290",
       "forks": "292",
       "addStars": "80",
       "contributors": [
