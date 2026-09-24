@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 22:08:23 GMT",
+  "pubDate": "Thu, 24 Sep 2026 05:50:00 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "40,175",
-      "forks": "2,885",
-      "addStars": "18,836",
+      "stars": "40,316",
+      "forks": "2,900",
+      "addStars": "19,196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,328",
-      "forks": "3,945",
-      "addStars": "8,734",
+      "stars": "29,458",
+      "forks": "3,963",
+      "addStars": "9,078",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,371",
-      "forks": "945",
-      "addStars": "1,531",
+      "stars": "11,373",
+      "forks": "946",
+      "addStars": "1,540",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1644696?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,621",
-      "forks": "239",
-      "addStars": "3,579",
+      "stars": "5,635",
+      "forks": "241",
+      "addStars": "3,298",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20240?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,453",
-      "forks": "409",
-      "addStars": "1,268",
+      "stars": "3,575",
+      "forks": "420",
+      "addStars": "1,726",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
@@ -180,7 +180,7 @@
       "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,131",
+      "stars": "2,132",
       "forks": "386",
       "addStars": "189",
       "contributors": [
@@ -212,9 +212,9 @@
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "37,181",
+      "stars": "37,187",
       "forks": "1,464",
-      "addStars": "736",
+      "addStars": "725",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7613769?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,311",
-      "forks": "289",
-      "addStars": "900",
+      "stars": "4,317",
+      "forks": "290",
+      "addStars": "869",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1419214?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Cloudflare Tunnel client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,885",
+      "stars": "15,892",
       "forks": "1,453",
-      "addStars": "556",
+      "addStars": "565",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7826979?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,403",
+      "stars": "8,409",
       "forks": "446",
-      "addStars": "563",
+      "addStars": "561",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42989099?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "A next-generation crawling and spidering framework.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,553",
-      "forks": "1,186",
-      "addStars": "242",
+      "stars": "17,558",
+      "forks": "1,187",
+      "addStars": "245",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13421144?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,977",
-      "forks": "136",
-      "addStars": "3,839",
+      "stars": "5,024",
+      "forks": "138",
+      "addStars": "3,999",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56594084?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,658",
-      "forks": "1,581",
-      "addStars": "2,533",
+      "stars": "16,664",
+      "forks": "1,582",
+      "addStars": "2,586",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7122116?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,677",
-      "forks": "1,036",
-      "addStars": "1,152",
+      "stars": "25,692",
+      "forks": "1,038",
+      "addStars": "1,155",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8519632?s=40&v=4",
@@ -485,7 +485,7 @@
       "languageColor": "#00ADD8",
       "stars": "37,009",
       "forks": "3,361",
-      "addStars": "481",
+      "addStars": "485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31820853?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,336",
+      "stars": "7,337",
       "forks": "622",
-      "addStars": "1,322",
+      "addStars": "1,319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4",
@@ -557,9 +557,9 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,920",
-      "forks": "3,001",
-      "addStars": "783",
+      "stars": "34,930",
+      "forks": "3,004",
+      "addStars": "784",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1543151?s=40&v=4",
@@ -584,9 +584,9 @@
       "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,249",
+      "stars": "38,255",
       "forks": "4,644",
-      "addStars": "1,159",
+      "addStars": "1,178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56506714?s=40&v=4",
@@ -616,9 +616,9 @@
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,065",
+      "stars": "29,069",
       "forks": "1,490",
-      "addStars": "457",
+      "addStars": "453",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3903683?s=40&v=4",
@@ -648,9 +648,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,906",
-      "forks": "3,207",
-      "addStars": "3,035",
+      "stars": "24,917",
+      "forks": "3,206",
+      "addStars": "3,053",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -687,7 +687,7 @@
       "languageColor": "#00ADD8",
       "stars": "7,283",
       "forks": "1,519",
-      "addStars": "223",
+      "addStars": "225",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
@@ -722,9 +722,9 @@
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "44,052",
+      "stars": "44,053",
       "forks": "4,280",
-      "addStars": "630",
+      "addStars": "631",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50654?s=40&v=4",
@@ -754,9 +754,9 @@
       "description": "Container runtimes on macOS (and Linux) with minimal setup",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,962",
+      "stars": "30,966",
       "forks": "620",
-      "addStars": "504",
+      "addStars": "507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/240448?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 23 Sep 2026 22:08:23 GMT</pubDate>
+    <pubDate>Thu, 24 Sep 2026 05:50:00 GMT</pubDate>
     <item>
       <title>google/ax</title>
       <link>https://github.com/google/ax</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/google/ax</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,959</stars>
-      <forks>427</forks>
-      <addStars>1,542</addStars>
+      <stars>9,355</stars>
+      <forks>452</forks>
+      <addStars>1,543</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/108380?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,453</stars>
-      <forks>409</forks>
-      <addStars>560</addStars>
+      <stars>3,574</stars>
+      <forks>420</forks>
+      <addStars>558</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/917931?s=40&amp;v=4</avatar>
@@ -89,7 +89,7 @@
       <languageColor>#00ADD8</languageColor>
       <stars>675</stars>
       <forks>43</forks>
-      <addStars>7</addStars>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/205931037?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/weave-os/router</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,977</stars>
-      <forks>136</forks>
-      <addStars>188</addStars>
+      <stars>5,024</stars>
+      <forks>138</forks>
+      <addStars>185</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/56594084?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/mostlygeek/llama-swap</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,738</stars>
+      <stars>5,741</stars>
       <forks>481</forks>
-      <addStars>18</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/83972?s=40&amp;v=4</avatar>
@@ -190,52 +190,14 @@
       </contributors>
     </item>
     <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness self-improving memory layer for AI agents.</description>
-      <guid>https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>1,288</stars>
-      <forks>99</forks>
-      <addStars>186</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13512741?s=40&amp;v=4</avatar>
-          <name>jqdsouza</name>
-          <url>https://github.com/jqdsouza</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21977216?s=40&amp;v=4</avatar>
-          <name>shukieshah</name>
-          <url>https://github.com/shukieshah</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7275943?s=40&amp;v=4</avatar>
-          <name>AnandSundar</name>
-          <url>https://github.com/AnandSundar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>opentofu/opentofu</title>
       <link>https://github.com/opentofu/opentofu</link>
       <description>OpenTofu lets you declaratively manage your cloud infrastructure.</description>
       <guid>https://github.com/opentofu/opentofu</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>30,270</stars>
-      <forks>1,375</forks>
+      <stars>30,272</stars>
+      <forks>1,377</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -274,7 +236,7 @@
       <languageColor>#00ADD8</languageColor>
       <stars>1,723</stars>
       <forks>162</forks>
-      <addStars>71</addStars>
+      <addStars>37</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/510788?s=40&amp;v=4</avatar>
@@ -305,9 +267,9 @@
       <guid>https://github.com/flexprice/flexprice</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,930</stars>
-      <forks>995</forks>
-      <addStars>157</addStars>
+      <stars>6,932</stars>
+      <forks>996</forks>
+      <addStars>617</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57660189?s=40&amp;v=4</avatar>
@@ -343,9 +305,9 @@
       <guid>https://github.com/chenyme/grok2api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,730</stars>
-      <forks>2,308</forks>
-      <addStars>11</addStars>
+      <stars>7,732</stars>
+      <forks>2,309</forks>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/118253778?s=40&amp;v=4</avatar>
@@ -381,8 +343,8 @@
       <guid>https://github.com/router-for-me/CLIProxyAPI</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>53,027</stars>
-      <forks>8,007</forks>
+      <stars>53,061</stars>
+      <forks>8,013</forks>
       <addStars>179</addStars>
       <contributors>
         <contributor>
@@ -419,9 +381,9 @@
       <guid>https://github.com/bjarneo/cliamp</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,311</stars>
-      <forks>289</forks>
-      <addStars>30</addStars>
+      <stars>4,317</stars>
+      <forks>290</forks>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1419214?s=40&amp;v=4</avatar>
@@ -457,9 +419,9 @@
       <guid>https://github.com/grafana/mcp-grafana</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,486</stars>
-      <forks>453</forks>
-      <addStars>5</addStars>
+      <stars>3,488</stars>
+      <forks>454</forks>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5464991?s=40&amp;v=4</avatar>
@@ -485,8 +447,8 @@
       <guid>https://github.com/github/gh-stack</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,534</stars>
-      <forks>74</forks>
+      <stars>1,550</stars>
+      <forks>75</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -503,9 +465,9 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>66,195</stars>
-      <forks>10,850</forks>
-      <addStars>24</addStars>
+      <stars>66,196</stars>
+      <forks>10,852</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4</avatar>
@@ -536,9 +498,9 @@
       <guid>https://github.com/hashicorp/terraform</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>49,714</stars>
-      <forks>10,624</forks>
-      <addStars>13</addStars>
+      <stars>49,715</stars>
+      <forks>10,625</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/35067?s=40&amp;v=4</avatar>
@@ -574,9 +536,9 @@
       <guid>https://github.com/kubernetes-sigs/karpenter</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,201</stars>
+      <stars>2,202</stars>
       <forks>582</forks>
-      <addStars>3</addStars>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26334334?s=40&amp;v=4</avatar>
@@ -607,9 +569,9 @@
       <guid>https://github.com/projectdiscovery/nuclei</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>31,464</stars>
-      <forks>3,887</forks>
-      <addStars>37</addStars>
+      <stars>31,475</stars>
+      <forks>3,888</forks>
+      <addStars>33</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13421144?s=40&amp;v=4</avatar>
@@ -640,9 +602,9 @@
       <guid>https://github.com/alibaba/skill-up</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,051</stars>
-      <forks>85</forks>
-      <addStars>14</addStars>
+      <stars>1,059</stars>
+      <forks>86</forks>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4339349?s=40&amp;v=4</avatar>
@@ -673,9 +635,9 @@
       <guid>https://github.com/maximhq/bifrost</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,286</stars>
-      <forks>1,272</forks>
-      <addStars>34</addStars>
+      <stars>8,301</stars>
+      <forks>1,275</forks>
+      <addStars>48</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1050029?s=40&amp;v=4</avatar>
@@ -706,9 +668,9 @@
       <guid>https://github.com/github/github-mcp-server</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>33,153</stars>
-      <forks>5,040</forks>
-      <addStars>20</addStars>
+      <stars>33,162</stars>
+      <forks>5,043</forks>
+      <addStars>24</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4811358?s=40&amp;v=4</avatar>

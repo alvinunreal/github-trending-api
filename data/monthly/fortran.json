@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 22:08:23 GMT",
+  "pubDate": "Thu, 24 Sep 2026 05:50:00 GMT",
   "items": [
     {
       "title": "E3SM-Project/E3SM",
@@ -10,8 +10,8 @@
       "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "441",
-      "forks": "482",
+      "stars": "442",
+      "forks": "483",
       "addStars": "4",
       "contributors": [
         {
@@ -306,9 +306,9 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,710",
+      "stars": "1,711",
       "forks": "399",
-      "addStars": "42",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
@@ -343,9 +343,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,767",
+      "stars": "1,768",
       "forks": "885",
-      "addStars": "33",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
@@ -491,8 +491,8 @@
       "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "422",
-      "forks": "172",
+      "stars": "423",
+      "forks": "173",
       "addStars": "11",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 22:08:23 GMT",
+  "pubDate": "Thu, 24 Sep 2026 05:50:00 GMT",
   "items": [
     {
       "title": "omacom/omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "42,860",
-      "forks": "4,962",
-      "addStars": "15,075",
+      "stars": "42,912",
+      "forks": "4,973",
+      "addStars": "14,577",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,070",
-      "forks": "2,193",
-      "addStars": "3,103",
+      "stars": "7,081",
+      "forks": "2,198",
+      "addStars": "3,121",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,641",
-      "forks": "789",
-      "addStars": "531",
+      "stars": "4,646",
+      "forks": "790",
+      "addStars": "534",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19876404?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "53,384",
-      "forks": "4,857",
-      "addStars": "519",
+      "stars": "53,387",
+      "forks": "4,861",
+      "addStars": "523",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5763256?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Bonsai Demo",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,057",
-      "forks": "327",
-      "addStars": "772",
+      "stars": "3,071",
+      "forks": "329",
+      "addStars": "818",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,236",
-      "forks": "735",
-      "addStars": "564",
+      "stars": "16,245",
+      "forks": "736",
+      "addStars": "561",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/304639?s=40&v=4",
@@ -204,7 +204,7 @@
       "languageColor": "#89e051",
       "stars": "29,651",
       "forks": "2,901",
-      "addStars": "361",
+      "addStars": "358",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21342670?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,703",
-      "forks": "127",
-      "addStars": "610",
+      "stars": "2,705",
+      "forks": "128",
+      "addStars": "600",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195176069?s=40&v=4",
@@ -261,9 +261,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,169",
-      "forks": "10,470",
-      "addStars": "628",
+      "stars": "95,170",
+      "forks": "10,468",
+      "addStars": "620",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -299,8 +299,8 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "2,372",
-      "forks": "553",
-      "addStars": "217",
+      "forks": "554",
+      "addStars": "220",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/83507910?s=40&v=4",
@@ -315,9 +315,9 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,440",
-      "forks": "3,172",
-      "addStars": "77",
+      "stars": "5,441",
+      "forks": "3,173",
+      "addStars": "90",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6281704?s=40&v=4",
@@ -352,9 +352,9 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "17,022",
-      "forks": "4,410",
-      "addStars": "213",
+      "stars": "17,024",
+      "forks": "4,412",
+      "addStars": "211",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99250145?s=40&v=4",
@@ -389,9 +389,9 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "9,909",
-      "forks": "3,151",
-      "addStars": "196",
+      "stars": "9,946",
+      "forks": "3,155",
+      "addStars": "233",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68696949?s=40&v=4",
@@ -426,9 +426,9 @@
       "description": "Cloud-Native distributed storage built on and for Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,999",
-      "forks": "736",
-      "addStars": "80",
+      "stars": "8,001",
+      "forks": "737",
+      "addStars": "78",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12527233?s=40&v=4",
@@ -458,9 +458,9 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,890",
+      "stars": "7,892",
       "forks": "897",
-      "addStars": "1,058",
+      "addStars": "1,020",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3911167?s=40&v=4",
@@ -495,9 +495,9 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "9,376",
+      "stars": "9,377",
       "forks": "304",
-      "addStars": "381",
+      "addStars": "374",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71837281?s=40&v=4",
@@ -527,9 +527,9 @@
       "description": "Higgsfield CLI",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "578",
+      "stars": "579",
       "forks": "128",
-      "addStars": "114",
+      "addStars": "115",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117711781?s=40&v=4",
@@ -564,9 +564,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,344",
+      "stars": "13,350",
       "forks": "2,158",
-      "addStars": "560",
+      "addStars": "561",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7548515?s=40&v=4",
@@ -601,9 +601,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,353",
+      "stars": "33,355",
       "forks": "1,864",
-      "addStars": "493",
+      "addStars": "485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/587742?s=40&v=4",

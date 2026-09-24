@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 23 Sep 2026 22:08:23 GMT",
+  "pubDate": "Thu, 24 Sep 2026 05:50:00 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "40,174",
-      "forks": "2,885",
-      "addStars": "12,590",
+      "stars": "40,314",
+      "forks": "2,900",
+      "addStars": "9,833",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "147,797",
-      "forks": "24,218",
-      "addStars": "2,754",
+      "stars": "147,839",
+      "forks": "24,246",
+      "addStars": "2,762",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,897",
-      "forks": "5,374",
-      "addStars": "1,238",
+      "stars": "37,057",
+      "forks": "5,387",
+      "addStars": "1,895",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,327",
-      "forks": "3,945",
-      "addStars": "5,303",
+      "stars": "29,455",
+      "forks": "3,963",
+      "addStars": "4,522",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "266,144",
-      "forks": "39,774",
-      "addStars": "6,904",
+      "stars": "266,305",
+      "forks": "39,801",
+      "addStars": "6,695",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "98,694",
-      "forks": "10,366",
-      "addStars": "4,224",
+      "stars": "98,749",
+      "forks": "10,372",
+      "addStars": "3,867",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,492",
+      "stars": "25,511",
       "forks": "3,024",
-      "addStars": "1,403",
+      "addStars": "1,358",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "37,337",
-      "forks": "4,037",
-      "addStars": "4,036",
+      "stars": "37,385",
+      "forks": "4,043",
+      "addStars": "2,739",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13022503?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,750",
-      "forks": "559",
-      "addStars": "2,148",
+      "stars": "4,793",
+      "forks": "566",
+      "addStars": "1,877",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,525",
-      "forks": "5,016",
-      "addStars": "6,205",
+      "stars": "76,783",
+      "forks": "5,028",
+      "addStars": "6,435",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,462",
-      "forks": "3,573",
-      "addStars": "577",
+      "stars": "31,584",
+      "forks": "3,586",
+      "addStars": "613",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,531",
-      "forks": "1,145",
-      "addStars": "661",
+      "stars": "12,542",
+      "forks": "1,146",
+      "addStars": "707",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
@@ -414,14 +414,14 @@
       ]
     },
     {
-      "title": "danny-avila/LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
+      "title": "LibreChat-AI/LibreChat",
+      "url": "https://github.com/LibreChat-AI/LibreChat",
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,785",
-      "forks": "9,187",
-      "addStars": "1,262",
+      "stars": "44,814",
+      "forks": "9,186",
+      "addStars": "949",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110412045?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,167",
-      "forks": "7,497",
-      "addStars": "1,188",
+      "stars": "69,195",
+      "forks": "7,502",
+      "addStars": "1,177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,210",
-      "forks": "30,094",
-      "addStars": "194",
+      "stars": "103,228",
+      "forks": "30,112",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
@@ -525,9 +525,9 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "25,489",
+      "stars": "25,503",
       "forks": "4,098",
-      "addStars": "431",
+      "addStars": "447",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5714066?s=40&v=4",
@@ -562,9 +562,9 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "70,035",
-      "forks": "4,791",
-      "addStars": "1,558",
+      "stars": "70,088",
+      "forks": "4,795",
+      "addStars": "1,538",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
@@ -589,9 +589,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,852",
-      "forks": "1,188",
-      "addStars": "15,381",
+      "stars": "21,000",
+      "forks": "1,203",
+      "addStars": "15,280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -616,9 +616,9 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,774",
-      "forks": "2,283",
-      "addStars": "4,009",
+      "stars": "18,943",
+      "forks": "2,304",
+      "addStars": "4,356",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/148683640?s=40&v=4",
@@ -648,9 +648,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,668",
-      "forks": "240",
-      "addStars": "1,023",
+      "stars": "2,823",
+      "forks": "244",
+      "addStars": "1,067",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
