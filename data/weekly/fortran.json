@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Weekly Trending",
   "description": "Weekly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 05:50:00 GMT",
+  "pubDate": "Thu, 24 Sep 2026 12:37:37 GMT",
   "items": [
     {
       "title": "wrf-model/WRF",
@@ -85,7 +85,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "1,212",
-      "forks": "503",
+      "forks": "504",
       "addStars": "5",
       "contributors": [
         {
@@ -112,6 +112,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
           "name": "juerghutter",
           "url": "https://github.com/juerghutter"
+        }
+      ]
+    },
+    {
+      "title": "firemodels/fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "880",
+      "forks": "690",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
+          "name": "gforney",
+          "url": "https://github.com/gforney"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
+          "name": "mcgratta",
+          "url": "https://github.com/mcgratta"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
+          "name": "rmcdermo",
+          "url": "https://github.com/rmcdermo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
+          "name": "drjfloyd",
+          "url": "https://github.com/drjfloyd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
+          "name": "marcosvanella",
+          "url": "https://github.com/marcosvanella"
         }
       ]
     },
@@ -153,39 +190,39 @@
       ]
     },
     {
-      "title": "firemodels/fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "ESCOMP/CTSM",
+      "url": "https://github.com/ESCOMP/CTSM",
+      "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "879",
-      "forks": "690",
-      "addStars": "4",
+      "stars": "352",
+      "forks": "361",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
-          "name": "gforney",
-          "url": "https://github.com/gforney"
+          "avatar": "https://avatars.githubusercontent.com/u/11545792?s=40&v=4",
+          "name": "ekluzek",
+          "url": "https://github.com/ekluzek"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
-          "name": "mcgratta",
-          "url": "https://github.com/mcgratta"
+          "avatar": "https://avatars.githubusercontent.com/u/10454527?s=40&v=4",
+          "name": "samsrabin",
+          "url": "https://github.com/samsrabin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
-          "name": "rmcdermo",
-          "url": "https://github.com/rmcdermo"
+          "avatar": "https://avatars.githubusercontent.com/u/35322900?s=40&v=4",
+          "name": "slevis-lmwg",
+          "url": "https://github.com/slevis-lmwg"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
-          "name": "drjfloyd",
-          "url": "https://github.com/drjfloyd"
+          "avatar": "https://avatars.githubusercontent.com/u/6266741?s=40&v=4",
+          "name": "billsacks",
+          "url": "https://github.com/billsacks"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
-          "name": "marcosvanella",
-          "url": "https://github.com/marcosvanella"
+          "avatar": "https://avatars.githubusercontent.com/u/7565064?s=40&v=4",
+          "name": "glemieux",
+          "url": "https://github.com/glemieux"
         }
       ]
     },
@@ -223,43 +260,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
           "name": "vchuravy",
           "url": "https://github.com/vchuravy"
-        }
-      ]
-    },
-    {
-      "title": "ESCOMP/CTSM",
-      "url": "https://github.com/ESCOMP/CTSM",
-      "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "352",
-      "forks": "361",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11545792?s=40&v=4",
-          "name": "ekluzek",
-          "url": "https://github.com/ekluzek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10454527?s=40&v=4",
-          "name": "samsrabin",
-          "url": "https://github.com/samsrabin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35322900?s=40&v=4",
-          "name": "slevis-lmwg",
-          "url": "https://github.com/slevis-lmwg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6266741?s=40&v=4",
-          "name": "billsacks",
-          "url": "https://github.com/billsacks"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7565064?s=40&v=4",
-          "name": "glemieux",
-          "url": "https://github.com/glemieux"
         }
       ]
     },
