@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Sep 2026 12:39:04 GMT",
+  "pubDate": "Fri, 25 Sep 2026 17:46:55 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "83,472",
-      "forks": "15,134",
+      "stars": "84,237",
+      "forks": "15,186",
       "addStars": "1,853",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,758",
-      "forks": "4,147",
+      "stars": "36,834",
+      "forks": "4,149",
       "addStars": "62",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,588",
-      "forks": "2,868",
+      "stars": "29,536",
+      "forks": "3,108",
       "addStars": "1,652",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "291,434",
-      "forks": "26,074",
+      "stars": "291,549",
+      "forks": "26,095",
       "addStars": "465",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "269,403",
-      "forks": "22,708",
+      "stars": "269,576",
+      "forks": "22,719",
       "addStars": "671",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,139",
-      "forks": "1,551",
+      "stars": "18,292",
+      "forks": "1,557",
       "addStars": "1,048",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "178,084",
-      "forks": "21,097",
-      "addStars": "155",
+      "stars": "178,189",
+      "forks": "21,104",
+      "addStars": "231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "297",
-      "forks": "73",
-      "addStars": "113",
+      "stars": "380",
+      "forks": "81",
+      "addStars": "118",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/224686490?s=40&v=4",
@@ -276,8 +276,8 @@
       "description": "Wifite but USB-only & cross-platform.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "695",
-      "forks": "76",
+      "stars": "805",
+      "forks": "78",
       "addStars": "168",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Bootstrap Kubernetes the hard way. No scripts.",
       "language": "",
       "languageColor": "",
-      "stars": "50,017",
-      "forks": "15,906",
+      "stars": "50,072",
+      "forks": "15,913",
       "addStars": "105",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,107",
-      "forks": "9,986",
+      "stars": "57,304",
+      "forks": "10,008",
       "addStars": "1,181",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,041",
-      "forks": "1,245",
+      "stars": "5,094",
+      "forks": "1,252",
       "addStars": "31",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,090",
-      "forks": "534",
+      "stars": "11,302",
+      "forks": "544",
       "addStars": "1,386",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,255",
-      "forks": "640",
+      "stars": "4,362",
+      "forks": "644",
       "addStars": "360",
       "contributors": [
         {
@@ -493,9 +493,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,934",
-      "forks": "4,306",
-      "addStars": "527",
+      "stars": "71,064",
+      "forks": "4,308",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -525,8 +525,8 @@
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,527",
-      "forks": "580",
+      "stars": "7,623",
+      "forks": "581",
       "addStars": "16",
       "contributors": [
         {
