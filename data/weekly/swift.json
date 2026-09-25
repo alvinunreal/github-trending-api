@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Weekly Trending",
   "description": "Weekly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 22:09:18 GMT",
+  "pubDate": "Fri, 25 Sep 2026 05:45:00 GMT",
   "items": [
     {
       "title": "dwarvesf/hidden",
@@ -10,9 +10,9 @@
       "description": "An ultra-light MacOS utility that helps hide menu bar icons",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "14,963",
+      "stars": "14,966",
       "forks": "506",
-      "addStars": "170",
+      "addStars": "162",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14150687?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "An an app that installs Sidestore on iOS 27, fully on-device",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "832",
-      "forks": "71",
-      "addStars": "73",
+      "stars": "834",
+      "forks": "72",
+      "addStars": "78",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/182496942?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,424",
-      "forks": "362",
-      "addStars": "1,845",
+      "stars": "7,433",
+      "forks": "365",
+      "addStars": "1,352",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14371506?s=40&v=4",
@@ -89,14 +89,14 @@
           "url": "https://github.com/list-jonas"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
-          "name": "mathieusouflis",
-          "url": "https://github.com/mathieusouflis"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/319949436?s=40&v=4",
           "name": "notsoshu",
           "url": "https://github.com/notsoshu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39670015?s=40&v=4",
+          "name": "mathieusouflis",
+          "url": "https://github.com/mathieusouflis"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/11879201?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "10,845",
+      "stars": "10,852",
       "forks": "1,040",
-      "addStars": "102",
+      "addStars": "104",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "114,766",
-      "forks": "8,967",
-      "addStars": "740",
+      "stars": "114,796",
+      "forks": "8,968",
+      "addStars": "775",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,883",
-      "forks": "432",
-      "addStars": "94",
+      "stars": "2,887",
+      "forks": "433",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36247722?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "The best command-line tool to install and switch between multiple versions of Xcode.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,832",
+      "stars": "4,833",
       "forks": "185",
-      "addStars": "24",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/594059?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "📺 Homebrew's official macOS GUI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,236",
+      "stars": "2,243",
       "forks": "66",
-      "addStars": "454",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2030310?s=40&v=4",
@@ -282,7 +282,7 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "42,419",
-      "forks": "7,656",
+      "forks": "7,660",
       "addStars": "10",
       "contributors": [
         {
@@ -313,9 +313,9 @@
       "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "42,089",
+      "stars": "42,098",
       "forks": "1,554",
-      "addStars": "218",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13332412?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "6,736",
-      "forks": "379",
-      "addStars": "196",
+      "stars": "6,748",
+      "forks": "382",
+      "addStars": "218",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8724766?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,236",
+      "stars": "2,238",
       "forks": "200",
-      "addStars": "120",
+      "addStars": "123",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16201837?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Powerful menu bar manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "29,700",
+      "stars": "29,703",
       "forks": "954",
-      "addStars": "91",
+      "addStars": "82",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/90936861?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "11,797",
-      "forks": "995",
-      "addStars": "46",
+      "stars": "11,798",
+      "forks": "996",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42140194?s=40&v=4",
@@ -495,7 +495,7 @@
       "languageColor": "#F05138",
       "stars": "34,310",
       "forks": "1,013",
-      "addStars": "111",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37590873?s=40&v=4",
@@ -530,8 +530,8 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "21,879",
-      "forks": "2,001",
+      "stars": "21,886",
+      "forks": "2,003",
       "addStars": "340",
       "contributors": [
         {
@@ -567,7 +567,7 @@
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,763",
+      "stars": "4,766",
       "forks": "423",
       "addStars": "49",
       "contributors": [
@@ -604,9 +604,9 @@
       "description": "The Swift Programming Language",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "70,395",
-      "forks": "10,824",
-      "addStars": "58",
+      "stars": "70,397",
+      "forks": "10,825",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15467072?s=40&v=4",
@@ -641,9 +641,9 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "46,475",
+      "stars": "46,478",
       "forks": "2,926",
-      "addStars": "116",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8478049?s=40&v=4",

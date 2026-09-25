@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 22:09:18 GMT",
+  "pubDate": "Fri, 25 Sep 2026 05:45:00 GMT",
   "items": [
     {
       "title": "tigerbeetle/tigerbeetle",
@@ -10,9 +10,9 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,083",
+      "stars": "17,084",
       "forks": "905",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,512",
-      "forks": "3,512",
-      "addStars": "46",
+      "stars": "61,522",
+      "forks": "3,514",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A very fast SIMD-first image comparison library (with nodejs API)",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,212",
+      "stars": "3,213",
       "forks": "115",
-      "addStars": "7",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "35,554",
+      "stars": "35,559",
       "forks": "1,690",
-      "addStars": "28",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,167",
-      "forks": "153",
+      "stars": "2,168",
+      "forks": "154",
       "addStars": "1",
       "contributors": [
         {
@@ -192,7 +192,7 @@
       "languageColor": "#ec915c",
       "stars": "6,070",
       "forks": "418",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1094080?s=40&v=4",
@@ -229,7 +229,7 @@
       "languageColor": "#ec915c",
       "stars": "43,304",
       "forks": "3,200",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,536",
-      "forks": "145",
-      "addStars": "21",
+      "stars": "1,541",
+      "forks": "147",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
@@ -333,7 +333,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,148",
+      "stars": "5,149",
       "forks": "451",
       "addStars": "1",
       "contributors": [

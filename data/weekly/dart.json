@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Weekly Trending",
   "description": "Weekly Trending of Dart Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 24 Sep 2026 22:09:18 GMT",
+  "pubDate": "Fri, 25 Sep 2026 05:45:00 GMT",
   "items": [
     {
       "title": "chen08209/FlClash",
@@ -10,9 +10,9 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "53,288",
-      "forks": "3,375",
-      "addStars": "833",
+      "stars": "53,314",
+      "forks": "3,378",
+      "addStars": "834",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66918471?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "179,077",
-      "forks": "31,992",
-      "addStars": "137",
+      "stars": "179,081",
+      "forks": "32,061",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "15,069",
-      "forks": "1,263",
+      "stars": "15,077",
+      "forks": "1,264",
       "addStars": "169",
       "contributors": [
         {
@@ -116,9 +116,9 @@
       "description": "Minimal, private, ad-free habit tracker built with Flutter — track habits, build streaks, all offline.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "505",
-      "forks": "32",
-      "addStars": "90",
+      "stars": "525",
+      "forks": "34",
+      "addStars": "138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/193412982?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "9,510",
+      "stars": "9,509",
       "forks": "591",
-      "addStars": "160",
+      "addStars": "178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167741400?s=40&v=4",
@@ -192,7 +192,7 @@
       "languageColor": "#00B4AB",
       "stars": "2,992",
       "forks": "182",
-      "addStars": "37",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1063596?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "1,231",
-      "forks": "285",
-      "addStars": "39",
+      "stars": "1,233",
+      "forks": "286",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54399984?s=40&v=4",
@@ -256,7 +256,7 @@
       "languageColor": "#00B4AB",
       "stars": "16,038",
       "forks": "11,044",
-      "addStars": "62",
+      "addStars": "63",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6346213?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "26,510",
+      "stars": "26,515",
       "forks": "1,733",
-      "addStars": "174",
+      "addStars": "180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13160176?s=40&v=4",
@@ -318,39 +318,34 @@
       ]
     },
     {
-      "title": "sdegenaar/liquid_glass_widgets",
-      "url": "https://github.com/sdegenaar/liquid_glass_widgets",
-      "description": "Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box.",
+      "title": "CyrilPeng/Venera-Next",
+      "url": "https://github.com/CyrilPeng/Venera-Next",
+      "description": "VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "672",
-      "forks": "100",
-      "addStars": "44",
+      "stars": "1,036",
+      "forks": "33",
+      "addStars": "190",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2247107?s=40&v=4",
-          "name": "sdegenaar",
-          "url": "https://github.com/sdegenaar"
+          "avatar": "https://avatars.githubusercontent.com/u/48341401?s=40&v=4",
+          "name": "CyrilPeng",
+          "url": "https://github.com/CyrilPeng"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/70036307?s=40&v=4",
+          "name": "enximi",
+          "url": "https://github.com/enximi"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10269289?s=40&v=4",
-          "name": "JakeThomson",
-          "url": "https://github.com/JakeThomson"
+          "avatar": "https://avatars.githubusercontent.com/u/5670103?s=40&v=4",
+          "name": "xj90512",
+          "url": "https://github.com/xj90512"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3504893?s=40&v=4",
-          "name": "jfhair",
-          "url": "https://github.com/jfhair"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/246373445?s=40&v=4",
-          "name": "yukinoaruu",
-          "url": "https://github.com/yukinoaruu"
+          "avatar": "https://avatars.githubusercontent.com/u/136884931?s=40&v=4",
+          "name": "Qing-Novel",
+          "url": "https://github.com/Qing-Novel"
         }
       ]
     },
@@ -360,9 +355,9 @@
       "description": "💸 An app created to help users manage a budget and purchases",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "4,659",
-      "forks": "795",
-      "addStars": "22",
+      "stars": "4,661",
+      "forks": "798",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50821962?s=40&v=4",
@@ -382,9 +377,9 @@
       "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "12,921",
+      "stars": "12,924",
       "forks": "487",
-      "addStars": "60",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16934707?s=40&v=4",
@@ -488,9 +483,9 @@
       "description": "Flutter 开发的酷狗音乐客户端",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "583",
+      "stars": "584",
       "forks": "44",
-      "addStars": "50",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99536828?s=40&v=4",
@@ -557,9 +552,9 @@
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "18,647",
-      "forks": "1,371",
-      "addStars": "208",
+      "stars": "18,660",
+      "forks": "1,374",
+      "addStars": "205",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114972867?s=40&v=4",
