@@ -3,7 +3,7 @@
     <title>GitHub Dockerfile Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Dockerfile Languages in GitHub</description>
-    <pubDate>Fri, 25 Sep 2026 05:45:00 GMT</pubDate>
+    <pubDate>Fri, 25 Sep 2026 12:39:04 GMT</pubDate>
     <item>
       <title>vulhub/vulhub</title>
       <link>https://github.com/vulhub/vulhub</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/vulhub/vulhub</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>21,276</stars>
+      <stars>21,277</stars>
       <forks>4,810</forks>
       <addStars>39</addStars>
       <contributors>
@@ -39,100 +39,6 @@
           <avatar>https://avatars.githubusercontent.com/u/83867734?s=40&amp;v=4</avatar>
           <name>D3vil0p3r</name>
           <url>https://github.com/D3vil0p3r</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>datawhalechina/vibe-vibe</title>
-      <link>https://github.com/datawhalechina/vibe-vibe</link>
-      <description>AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn</description>
-      <guid>https://github.com/datawhalechina/vibe-vibe</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>6,081</stars>
-      <forks>490</forks>
-      <addStars>37</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98458308?s=40&amp;v=4</avatar>
-          <name>Eyre921</name>
-          <url>https://github.com/Eyre921</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/228831800?s=40&amp;v=4</avatar>
-          <name>happy-otter</name>
-          <url>https://github.com/happy-otter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92302656?s=40&amp;v=4</avatar>
-          <name>Barca0412</name>
-          <url>https://github.com/Barca0412</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2700910?s=40&amp;v=4</avatar>
-          <name>cnb</name>
-          <url>https://github.com/cnb</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>freeCodeCamp/rdb-alpha</title>
-      <link>https://github.com/freeCodeCamp/rdb-alpha</link>
-      <description/>
-      <guid>https://github.com/freeCodeCamp/rdb-alpha</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>173</stars>
-      <forks>1,152</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2051070?s=40&amp;v=4</avatar>
-          <name>scissorsneedfoodtoo</name>
-          <url>https://github.com/scissorsneedfoodtoo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20648924?s=40&amp;v=4</avatar>
-          <name>moT01</name>
-          <url>https://github.com/moT01</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>kubernetes-sigs/contributor-playground</title>
-      <link>https://github.com/kubernetes-sigs/contributor-playground</link>
-      <description/>
-      <guid>https://github.com/kubernetes-sigs/contributor-playground</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>288</stars>
-      <forks>2,117</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4</avatar>
-          <name>k8s-ci-robot</name>
-          <url>https://github.com/k8s-ci-robot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/748740?s=40&amp;v=4</avatar>
-          <name>atoato88</name>
-          <url>https://github.com/atoato88</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12838129?s=40&amp;v=4</avatar>
-          <name>shu-mutou</name>
-          <url>https://github.com/shu-mutou</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86868255?s=40&amp;v=4</avatar>
-          <name>Okabe-Junya</name>
-          <url>https://github.com/Okabe-Junya</url>
         </contributor>
       </contributors>
     </item>
@@ -175,40 +81,157 @@
       </contributors>
     </item>
     <item>
-      <title>MicrosoftDocs/windows-powershell-docs</title>
-      <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
-      <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
-      <guid>https://github.com/MicrosoftDocs/windows-powershell-docs</guid>
+      <title>kubernetes-sigs/contributor-playground</title>
+      <link>https://github.com/kubernetes-sigs/contributor-playground</link>
+      <description/>
+      <guid>https://github.com/kubernetes-sigs/contributor-playground</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>505</stars>
-      <forks>635</forks>
-      <addStars>2</addStars>
+      <stars>288</stars>
+      <forks>2,118</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54688693?s=40&amp;v=4</avatar>
-          <name>tiburd</name>
-          <url>https://github.com/tiburd</url>
+          <avatar>https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4</avatar>
+          <name>k8s-ci-robot</name>
+          <url>https://github.com/k8s-ci-robot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16143421?s=40&amp;v=4</avatar>
-          <name>brianlic-msft</name>
-          <url>https://github.com/brianlic-msft</url>
+          <avatar>https://avatars.githubusercontent.com/u/748740?s=40&amp;v=4</avatar>
+          <name>atoato88</name>
+          <url>https://github.com/atoato88</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45987684?s=40&amp;v=4</avatar>
-          <name>msbemba</name>
-          <url>https://github.com/msbemba</url>
+          <avatar>https://avatars.githubusercontent.com/u/12838129?s=40&amp;v=4</avatar>
+          <name>shu-mutou</name>
+          <url>https://github.com/shu-mutou</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10958657?s=40&amp;v=4</avatar>
-          <name>velkovb</name>
-          <url>https://github.com/velkovb</url>
+          <avatar>https://avatars.githubusercontent.com/u/86868255?s=40&amp;v=4</avatar>
+          <name>Okabe-Junya</name>
+          <url>https://github.com/Okabe-Junya</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Dark-Xploit/CypherX</title>
+      <link>https://github.com/Dark-Xploit/CypherX</link>
+      <description>𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.</description>
+      <guid>https://github.com/Dark-Xploit/CypherX</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>2,948</stars>
+      <forks>7,802</forks>
+      <addStars>16</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/185170039?s=40&amp;v=4</avatar>
+          <name>Dark-Xploit</name>
+          <url>https://github.com/Dark-Xploit</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19415881?s=40&amp;v=4</avatar>
-          <name>sdwheeler</name>
-          <url>https://github.com/sdwheeler</url>
+          <avatar>https://avatars.githubusercontent.com/u/236496610?s=40&amp;v=4</avatar>
+          <name>TristanCage</name>
+          <url>https://github.com/TristanCage</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>redhat-openshift-ecosystem/certified-operators</title>
+      <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
+      <description>Production catalog for Red Hat Certified Operator Bundles</description>
+      <guid>https://github.com/redhat-openshift-ecosystem/certified-operators</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>83</stars>
+      <forks>666</forks>
+      <addStars>1</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88447997?s=40&amp;v=4</avatar>
+          <name>rh-operator-bundle-bot</name>
+          <url>https://github.com/rh-operator-bundle-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/109753337?s=40&amp;v=4</avatar>
+          <name>turbodeploy</name>
+          <url>https://github.com/turbodeploy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84674?s=40&amp;v=4</avatar>
+          <name>razvan</name>
+          <url>https://github.com/razvan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/186472763?s=40&amp;v=4</avatar>
+          <name>scaleops-bot</name>
+          <url>https://github.com/scaleops-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17576476?s=40&amp;v=4</avatar>
+          <name>jfrancin</name>
+          <url>https://github.com/jfrancin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>datawhalechina/vibe-vibe</title>
+      <link>https://github.com/datawhalechina/vibe-vibe</link>
+      <description>AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn</description>
+      <guid>https://github.com/datawhalechina/vibe-vibe</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>6,082</stars>
+      <forks>490</forks>
+      <addStars>37</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/98458308?s=40&amp;v=4</avatar>
+          <name>Eyre921</name>
+          <url>https://github.com/Eyre921</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/228831800?s=40&amp;v=4</avatar>
+          <name>happy-otter</name>
+          <url>https://github.com/happy-otter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/92302656?s=40&amp;v=4</avatar>
+          <name>Barca0412</name>
+          <url>https://github.com/Barca0412</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2700910?s=40&amp;v=4</avatar>
+          <name>cnb</name>
+          <url>https://github.com/cnb</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>freeCodeCamp/rdb-alpha</title>
+      <link>https://github.com/freeCodeCamp/rdb-alpha</link>
+      <description/>
+      <guid>https://github.com/freeCodeCamp/rdb-alpha</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>173</stars>
+      <forks>1,154</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2051070?s=40&amp;v=4</avatar>
+          <name>scissorsneedfoodtoo</name>
+          <url>https://github.com/scissorsneedfoodtoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20648924?s=40&amp;v=4</avatar>
+          <name>moT01</name>
+          <url>https://github.com/moT01</url>
         </contributor>
       </contributors>
     </item>
@@ -251,36 +274,13 @@
       </contributors>
     </item>
     <item>
-      <title>Dark-Xploit/CypherX</title>
-      <link>https://github.com/Dark-Xploit/CypherX</link>
-      <description>𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.</description>
-      <guid>https://github.com/Dark-Xploit/CypherX</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>2,945</stars>
-      <forks>7,801</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/185170039?s=40&amp;v=4</avatar>
-          <name>Dark-Xploit</name>
-          <url>https://github.com/Dark-Xploit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/236496610?s=40&amp;v=4</avatar>
-          <name>TristanCage</name>
-          <url>https://github.com/TristanCage</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Vinpink2/June-Ultra</title>
       <link>https://github.com/Vinpink2/June-Ultra</link>
       <description>June Ultra (Official) Repository.</description>
       <guid>https://github.com/Vinpink2/June-Ultra</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>730</stars>
+      <stars>731</stars>
       <forks>2,061</forks>
       <addStars>4</addStars>
       <contributors>
@@ -307,13 +307,51 @@
       </contributors>
     </item>
     <item>
+      <title>MicrosoftDocs/windows-powershell-docs</title>
+      <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
+      <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+      <guid>https://github.com/MicrosoftDocs/windows-powershell-docs</guid>
+      <language>Dockerfile</language>
+      <languageColor>#384d54</languageColor>
+      <stars>505</stars>
+      <forks>635</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54688693?s=40&amp;v=4</avatar>
+          <name>tiburd</name>
+          <url>https://github.com/tiburd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16143421?s=40&amp;v=4</avatar>
+          <name>brianlic-msft</name>
+          <url>https://github.com/brianlic-msft</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45987684?s=40&amp;v=4</avatar>
+          <name>msbemba</name>
+          <url>https://github.com/msbemba</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10958657?s=40&amp;v=4</avatar>
+          <name>velkovb</name>
+          <url>https://github.com/velkovb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19415881?s=40&amp;v=4</avatar>
+          <name>sdwheeler</name>
+          <url>https://github.com/sdwheeler</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>iggredible/Learn-Vim</title>
       <link>https://github.com/iggredible/Learn-Vim</link>
       <description>Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</description>
       <guid>https://github.com/iggredible/Learn-Vim</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>15,233</stars>
+      <stars>15,234</stars>
       <forks>1,136</forks>
       <addStars>15</addStars>
       <contributors>
@@ -345,52 +383,14 @@
       </contributors>
     </item>
     <item>
-      <title>compose-spec/compose-spec</title>
-      <link>https://github.com/compose-spec/compose-spec</link>
-      <description>The Compose specification</description>
-      <guid>https://github.com/compose-spec/compose-spec</guid>
-      <language>Dockerfile</language>
-      <languageColor>#384d54</languageColor>
-      <stars>2,729</stars>
-      <forks>787</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
-          <name>ndeloof</name>
-          <url>https://github.com/ndeloof</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/705411?s=40&amp;v=4</avatar>
-          <name>glours</name>
-          <url>https://github.com/glours</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/707679?s=40&amp;v=4</avatar>
-          <name>EricHripko</name>
-          <url>https://github.com/EricHripko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102604716?s=40&amp;v=4</avatar>
-          <name>aevesdocker</name>
-          <url>https://github.com/aevesdocker</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2938470?s=40&amp;v=4</avatar>
-          <name>nebuk89</name>
-          <url>https://github.com/nebuk89</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>autowarefoundation/autoware</title>
       <link>https://github.com/autowarefoundation/autoware</link>
       <description>Autoware - the world's leading open-source software project for autonomous driving</description>
       <guid>https://github.com/autowarefoundation/autoware</guid>
       <language>Dockerfile</language>
       <languageColor>#384d54</languageColor>
-      <stars>12,089</stars>
-      <forks>3,718</forks>
+      <stars>12,093</stars>
+      <forks>3,720</forks>
       <addStars>22</addStars>
       <contributors>
         <contributor>
