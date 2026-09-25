@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Go Languages in GitHub</description>
-    <pubDate>Fri, 25 Sep 2026 17:46:55 GMT</pubDate>
+    <pubDate>Fri, 25 Sep 2026 22:06:59 GMT</pubDate>
     <item>
       <title>google/ax</title>
       <link>https://github.com/google/ax</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/google/ax</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,306</stars>
-      <forks>544</forks>
+      <stars>11,434</stars>
+      <forks>551</forks>
       <addStars>1,386</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/openbao/openbao</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,624</stars>
-      <forks>581</forks>
+      <stars>7,700</stars>
+      <forks>583</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/vshulcz/deja-vu</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>1,009</stars>
+      <stars>1,015</stars>
       <forks>100</forks>
       <addStars>48</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/kubernetes/kubernetes</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>127,982</stars>
-      <forks>45,138</forks>
+      <stars>127,995</stars>
+      <forks>45,165</forks>
       <addStars>38</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,614</stars>
+      <stars>2,617</stars>
       <forks>479</forks>
       <addStars>35</addStars>
       <contributors>
@@ -201,7 +201,7 @@
       <guid>https://github.com/DataDog/datadog-agent</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,750</stars>
+      <stars>3,751</stars>
       <forks>1,497</forks>
       <addStars>9</addStars>
       <contributors>
@@ -228,52 +228,14 @@
       </contributors>
     </item>
     <item>
-      <title>Asymptote-Labs/agent-beacon</title>
-      <link>https://github.com/Asymptote-Labs/agent-beacon</link>
-      <description>The cross-harness self-improving memory layer for AI agents.</description>
-      <guid>https://github.com/Asymptote-Labs/agent-beacon</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>1,549</stars>
-      <forks>125</forks>
-      <addStars>77</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13512741?s=40&amp;v=4</avatar>
-          <name>jqdsouza</name>
-          <url>https://github.com/jqdsouza</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21977216?s=40&amp;v=4</avatar>
-          <name>shukieshah</name>
-          <url>https://github.com/shukieshah</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7275943?s=40&amp;v=4</avatar>
-          <name>AnandSundar</name>
-          <url>https://github.com/AnandSundar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>microsoft/TypeScript</title>
       <link>https://github.com/microsoft/TypeScript</link>
       <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
       <guid>https://github.com/microsoft/TypeScript</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>111,200</stars>
-      <forks>14,829</forks>
+      <stars>111,205</stars>
+      <forks>14,862</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
@@ -310,8 +272,8 @@
       <guid>https://github.com/seaweedfs/seaweedfs</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>34,975</stars>
-      <forks>3,009</forks>
+      <stars>34,978</stars>
+      <forks>3,010</forks>
       <addStars>33</addStars>
       <contributors>
         <contributor>
@@ -338,7 +300,7 @@
       <guid>https://github.com/akuity/kargo</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,680</stars>
+      <stars>3,682</stars>
       <forks>439</forks>
       <addStars>4</addStars>
       <contributors>
@@ -371,7 +333,7 @@
       <guid>https://github.com/safing/portmaster</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>13,812</stars>
+      <stars>13,813</stars>
       <forks>580</forks>
       <addStars>20</addStars>
       <contributors>
@@ -409,7 +371,7 @@
       <guid>https://github.com/SagerNet/sing-box</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>38,294</stars>
+      <stars>38,300</stars>
       <forks>4,651</forks>
       <addStars>32</addStars>
       <contributors>
@@ -447,7 +409,7 @@
       <guid>https://github.com/GoogleCloudPlatform/microservices-demo</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>20,999</stars>
+      <stars>21,000</stars>
       <forks>10,501</forks>
       <addStars>12</addStars>
       <contributors>
@@ -480,8 +442,8 @@
       <guid>https://github.com/Gentleman-Programming/gentle-ai</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,288</stars>
-      <forks>794</forks>
+      <stars>7,294</stars>
+      <forks>797</forks>
       <addStars>56</addStars>
       <contributors>
         <contributor>
@@ -495,14 +457,14 @@
           <url>https://github.com/dnlrsls</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/88510389?s=40&amp;v=4</avatar>
-          <name>ElCaaarnal</name>
-          <url>https://github.com/ElCaaarnal</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9351115?s=40&amp;v=4</avatar>
           <name>decode2</name>
           <url>https://github.com/decode2</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/88510389?s=40&amp;v=4</avatar>
+          <name>ElCaaarnal</name>
+          <url>https://github.com/ElCaaarnal</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19401953?s=40&amp;v=4</avatar>
@@ -518,8 +480,8 @@
       <guid>https://github.com/golang/go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>139,001</stars>
-      <forks>20,410</forks>
+      <stars>139,014</stars>
+      <forks>20,436</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -556,7 +518,7 @@
       <guid>https://github.com/ArvinLovegood/go-stock</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,707</stars>
+      <stars>7,708</stars>
       <forks>1,347</forks>
       <addStars>15</addStars>
       <contributors>
@@ -584,7 +546,7 @@
       <guid>https://github.com/Gentleman-Programming/engram</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,832</stars>
+      <stars>6,841</stars>
       <forks>703</forks>
       <addStars>36</addStars>
       <contributors>
@@ -622,9 +584,9 @@
       <guid>https://github.com/traefik/traefik</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>64,966</stars>
-      <forks>6,204</forks>
-      <addStars>16</addStars>
+      <stars>64,968</stars>
+      <forks>6,205</forks>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5674651?s=40&amp;v=4</avatar>
@@ -660,7 +622,7 @@
       <guid>https://github.com/gosom/google-maps-scraper</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,110</stars>
+      <stars>6,113</stars>
       <forks>968</forks>
       <addStars>44</addStars>
       <contributors>
@@ -699,7 +661,7 @@
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
       <stars>16,011</stars>
-      <forks>1,602</forks>
+      <forks>1,636</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -726,8 +688,8 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>181,706</stars>
-      <forks>18,003</forks>
+      <stars>181,725</stars>
+      <forks>18,004</forks>
       <addStars>119</addStars>
       <contributors>
         <contributor>
