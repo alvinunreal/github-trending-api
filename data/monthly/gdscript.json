@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Sep 2026 22:06:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 05:48:53 GMT",
   "items": [
     {
       "title": "hi-godot/godot-ai",
@@ -10,8 +10,8 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,605",
-      "forks": "155",
+      "stars": "2,609",
+      "forks": "156",
       "addStars": "706",
       "contributors": [
         {
@@ -42,9 +42,9 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,169",
+      "stars": "3,171",
       "forks": "308",
-      "addStars": "136",
+      "addStars": "138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97353363?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "10,375",
+      "stars": "10,377",
       "forks": "552",
-      "addStars": "208",
+      "addStars": "203",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35376950?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "9,569",
-      "forks": "2,240",
-      "addStars": "183",
+      "stars": "9,570",
+      "forks": "2,241",
+      "addStars": "180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,017",
+      "stars": "6,018",
       "forks": "351",
-      "addStars": "89",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2206700?s=40&v=4",
@@ -192,7 +192,7 @@
       "languageColor": "#355570",
       "stars": "1,254",
       "forks": "58",
-      "addStars": "78",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49224759?s=40&v=4",
@@ -266,7 +266,7 @@
       "languageColor": "#355570",
       "stars": "3,573",
       "forks": "137",
-      "addStars": "58",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5159399?s=40&v=4",
@@ -296,51 +296,14 @@
       ]
     },
     {
-      "title": "cherriesandmochi/gdmaim",
-      "url": "https://github.com/cherriesandmochi/gdmaim",
-      "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "1,279",
-      "forks": "72",
-      "addStars": "61",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/153237709?s=40&v=4",
-          "name": "CodeNameTwister",
-          "url": "https://github.com/CodeNameTwister"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5922740?s=40&v=4",
-          "name": "cherriesandmochi",
-          "url": "https://github.com/cherriesandmochi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10585157?s=40&v=4",
-          "name": "jabiddle",
-          "url": "https://github.com/jabiddle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78945904?s=40&v=4",
-          "name": "Kaleb-Reid",
-          "url": "https://github.com/Kaleb-Reid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99041020?s=40&v=4",
-          "name": "kastomd",
-          "url": "https://github.com/kastomd"
-        }
-      ]
-    },
-    {
       "title": "bitwes/Gut",
       "url": "https://github.com/bitwes/Gut",
       "description": "Godot Unit Test. Unit testing tool for Godot Game Engine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "2,739",
+      "stars": "2,738",
       "forks": "150",
-      "addStars": "46",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1156520?s=40&v=4",
@@ -412,9 +375,9 @@
       "description": "An Open-source PNGTubing app :D",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "383",
+      "stars": "385",
       "forks": "55",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/94318023?s=40&v=4",
@@ -449,7 +412,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "5,942",
+      "stars": "5,943",
       "forks": "379",
       "addStars": "97",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Bitbake Languages Monthly Trending",
   "description": "Monthly Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Sep 2026 22:06:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 05:48:53 GMT",
   "items": [
     {
       "title": "qualcomm-linux/meta-qcom",
@@ -10,7 +10,7 @@
       "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "162",
+      "stars": "164",
       "forks": "368",
       "addStars": "6",
       "contributors": [
@@ -47,9 +47,9 @@
       "description": "Layer containing NXP hardware support metadata",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "218",
+      "stars": "219",
       "forks": "295",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25278?s=40&v=4",
@@ -136,6 +136,11 @@
           "url": "https://github.com/fbertux"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/279736432?s=40&v=4",
+          "name": "lucianogdittgen",
+          "url": "https://github.com/lucianogdittgen"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/9402633?s=40&v=4",
           "name": "MaxKrummenacher",
           "url": "https://github.com/MaxKrummenacher"
@@ -144,11 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1485212?s=40&v=4",
           "name": "ericnelsonaz",
           "url": "https://github.com/ericnelsonaz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8184161?s=40&v=4",
-          "name": "iancoolidge89",
-          "url": "https://github.com/iancoolidge89"
         }
       ]
     },
@@ -306,7 +306,7 @@
       "description": "",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "501",
+      "stars": "502",
       "forks": "854",
       "addStars": "4",
       "contributors": [
@@ -380,7 +380,7 @@
       "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "197",
+      "stars": "198",
       "forks": "253",
       "addStars": "0",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "BSP layer for NVIDIA Jetson platforms, based on L4T",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "579",
+      "stars": "580",
       "forks": "318",
       "addStars": "9",
       "contributors": [
@@ -454,7 +454,7 @@
       "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "184",
+      "stars": "185",
       "forks": "127",
       "addStars": "1",
       "contributors": [
@@ -523,9 +523,9 @@
       "description": "OpenBMC Distribution",
       "language": "BitBake",
       "languageColor": "#00bce4",
-      "stars": "2,573",
-      "forks": "1,181",
-      "addStars": "35",
+      "stars": "2,575",
+      "forks": "1,182",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/105009?s=40&v=4",

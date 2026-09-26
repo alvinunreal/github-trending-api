@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Monthly Trending",
   "description": "Monthly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 25 Sep 2026 22:06:59 GMT",
+  "pubDate": "Sat, 26 Sep 2026 05:48:53 GMT",
   "items": [
     {
       "title": "facebook/zstd",
@@ -12,7 +12,7 @@
       "languageColor": "#555555",
       "stars": "27,937",
       "forks": "2,614",
-      "addStars": "341",
+      "addStars": "340",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
@@ -48,8 +48,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "5,191",
-      "forks": "587",
-      "addStars": "1,166",
+      "forks": "588",
+      "addStars": "1,172",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,104",
-      "forks": "2,243",
-      "addStars": "573",
+      "stars": "14,107",
+      "forks": "2,244",
+      "addStars": "570",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1075274?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "A tiling window manager for macOS based on binary space partitioning",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,658",
+      "stars": "29,661",
       "forks": "768",
-      "addStars": "201",
+      "addStars": "202",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6175959?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,692",
-      "forks": "2,643",
-      "addStars": "257",
+      "stars": "35,693",
+      "forks": "2,711",
+      "addStars": "261",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79765?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Simple DirectMedia Layer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,666",
+      "stars": "16,669",
       "forks": "3,017",
-      "addStars": "297",
+      "addStars": "290",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2100061?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "150,406",
-      "forks": "13,814",
-      "addStars": "2,355",
+      "stars": "150,420",
+      "forks": "13,815",
+      "addStars": "2,347",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,604",
+      "stars": "14,606",
       "forks": "3,407",
-      "addStars": "206",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1038539?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "76,626",
-      "forks": "10,311",
-      "addStars": "1,329",
+      "stars": "76,632",
+      "forks": "10,313",
+      "addStars": "1,314",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,480",
-      "forks": "861",
-      "addStars": "208",
+      "stars": "5,483",
+      "forks": "862",
+      "addStars": "205",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/159546?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "42,931",
+      "stars": "42,927",
       "forks": "7,380",
-      "addStars": "356",
+      "addStars": "361",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
@@ -407,9 +407,9 @@
       "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,854",
+      "stars": "4,855",
       "forks": "385",
-      "addStars": "134",
+      "addStars": "132",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29988?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,526",
-      "forks": "13,024",
-      "addStars": "469",
+      "stars": "28,530",
+      "forks": "13,025",
+      "addStars": "473",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
@@ -481,9 +481,9 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "17,514",
-      "forks": "1,661",
-      "addStars": "314",
+      "stars": "17,516",
+      "forks": "1,662",
+      "addStars": "313",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10426229?s=40&v=4",
@@ -513,9 +513,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,676",
+      "stars": "7,679",
       "forks": "1,378",
-      "addStars": "163",
+      "addStars": "161",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3520734?s=40&v=4",
@@ -551,8 +551,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "13,733",
-      "forks": "15,481",
-      "addStars": "160",
+      "forks": "15,483",
+      "addStars": "167",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3472254?s=40&v=4",
@@ -589,7 +589,7 @@
       "languageColor": "#555555",
       "stars": "27,293",
       "forks": "1,331",
-      "addStars": "371",
+      "addStars": "365",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
@@ -624,9 +624,9 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,670",
+      "stars": "13,673",
       "forks": "2,909",
-      "addStars": "250",
+      "addStars": "243",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/768278?s=40&v=4",
@@ -661,9 +661,9 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "26,863",
+      "stars": "26,866",
       "forks": "3,565",
-      "addStars": "280",
+      "addStars": "284",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10434361?s=40&v=4",
@@ -698,7 +698,7 @@
       "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,278",
+      "stars": "2,279",
       "forks": "325",
       "addStars": "1,272",
       "contributors": [
@@ -735,9 +735,9 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,096",
+      "stars": "16,100",
       "forks": "1,790",
-      "addStars": "430",
+      "addStars": "431",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1306177?s=40&v=4",
@@ -772,9 +772,9 @@
       "description": "Xv6 for RISC-V",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "10,518",
-      "forks": "4,324",
-      "addStars": "276",
+      "stars": "10,521",
+      "forks": "4,326",
+      "addStars": "277",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1111495?s=40&v=4",
