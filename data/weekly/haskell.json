@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Weekly Trending",
   "description": "Weekly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 26 Sep 2026 16:53:14 GMT",
+  "pubDate": "Sat, 26 Sep 2026 21:54:48 GMT",
   "items": [
     {
       "title": "hadolint/hadolint",
@@ -10,7 +10,7 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "12,431",
+      "stars": "12,430",
       "forks": "503",
       "addStars": "16",
       "contributors": [
@@ -43,7 +43,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "46,417",
-      "forks": "4,878",
+      "forks": "4,919",
       "addStars": "92",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,089",
+      "stars": "40,090",
       "forks": "1,950",
       "addStars": "44",
       "contributors": [
