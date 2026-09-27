@@ -2,17 +2,39 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Sep 2026 17:31:46 GMT",
+  "pubDate": "Sun, 27 Sep 2026 21:56:03 GMT",
   "items": [
+    {
+      "title": "ChrisMack32/Locus",
+      "url": "https://github.com/ChrisMack32/Locus",
+      "description": "Free open-source iPhone location teleport (MIT)",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "511",
+      "forks": "70",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87084058?s=40&v=4",
+          "name": "ChrisMack32",
+          "url": "https://github.com/ChrisMack32"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
     {
       "title": "seemoo-lab/openhaystack",
       "url": "https://github.com/seemoo-lab/openhaystack",
       "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,692",
+      "stars": "13,693",
       "forks": "689",
-      "addStars": "47",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5541715?s=40&v=4",
@@ -47,7 +69,7 @@
       "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,441",
+      "stars": "9,445",
       "forks": "353",
       "addStars": "30",
       "contributors": [
@@ -116,9 +138,9 @@
       "description": "A tweak to enhance Spotify experience",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "2,412",
-      "forks": "11,385",
-      "addStars": "3",
+      "stars": "2,414",
+      "forks": "11,389",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/94960726?s=40&v=4",
@@ -153,7 +175,7 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "35,658",
+      "stars": "35,661",
       "forks": "1,835",
       "addStars": "17",
       "contributors": [
@@ -190,7 +212,7 @@
       "description": "Dynamic Island for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,788",
+      "stars": "4,789",
       "forks": "324",
       "addStars": "15",
       "contributors": [
@@ -227,7 +249,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "50,279",
+      "stars": "50,308",
       "forks": "1,803",
       "addStars": "72",
       "contributors": [
@@ -264,7 +286,7 @@
       "description": "Beautiful native macOS download manager for direct links, magnets, and torrents.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "524",
+      "stars": "527",
       "forks": "28",
       "addStars": "41",
       "contributors": [
@@ -301,7 +323,7 @@
       "description": "Privacy oriented video player for iOS, tvOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,709",
+      "stars": "3,711",
       "forks": "172",
       "addStars": "3",
       "contributors": [
@@ -333,8 +355,8 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "9,003",
-      "forks": "2,945",
+      "stars": "9,005",
+      "forks": "2,946",
       "addStars": "4",
       "contributors": [
         {
@@ -370,7 +392,7 @@
       "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "29,995",
+      "stars": "29,996",
       "forks": "1,002",
       "addStars": "6",
       "contributors": [
@@ -407,8 +429,8 @@
       "description": "The modern video player for macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "46,513",
-      "forks": "2,929",
+      "stars": "46,514",
+      "forks": "2,930",
       "addStars": "16",
       "contributors": [
         {
@@ -444,7 +466,7 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "21,974",
+      "stars": "21,980",
       "forks": "2,018",
       "addStars": "40",
       "contributors": [
