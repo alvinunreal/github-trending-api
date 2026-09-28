@@ -3,7 +3,7 @@
     <title>GitHub Scss Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Scss Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 06:17:21 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 15:08:04 GMT</pubDate>
     <item>
       <title>academicpages/academicpages.github.io</title>
       <link>https://github.com/academicpages/academicpages.github.io</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/academicpages/academicpages.github.io</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>17,671</stars>
-      <forks>9,441</forks>
+      <stars>17,673</stars>
+      <forks>9,451</forks>
       <addStars>48</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/just-the-docs/just-the-docs</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>9,183</stars>
+      <stars>9,185</stars>
       <forks>3,787</forks>
       <addStars>19</addStars>
       <contributors>
@@ -115,7 +115,7 @@
       <guid>https://github.com/material-components/material-web</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>11,282</stars>
+      <stars>11,283</stars>
       <forks>1,144</forks>
       <addStars>28</addStars>
       <contributors>
@@ -143,6 +143,44 @@
           <avatar>https://avatars.githubusercontent.com/u/48894?s=40&amp;v=4</avatar>
           <name>aomarks</name>
           <url>https://github.com/aomarks</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>vinceliuice/MacTahoe-gtk-theme</title>
+      <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
+      <description>MacOS Tahoe theme for gtk desktops</description>
+      <guid>https://github.com/vinceliuice/MacTahoe-gtk-theme</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>1,615</stars>
+      <forks>93</forks>
+      <addStars>22</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7604295?s=40&amp;v=4</avatar>
+          <name>vinceliuice</name>
+          <url>https://github.com/vinceliuice</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/119421047?s=40&amp;v=4</avatar>
+          <name>vinnytherobot</name>
+          <url>https://github.com/vinnytherobot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/113182591?s=40&amp;v=4</avatar>
+          <name>Octopustank</name>
+          <url>https://github.com/Octopustank</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/163449566?s=40&amp;v=4</avatar>
+          <name>choc1024</name>
+          <url>https://github.com/choc1024</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82888216?s=40&amp;v=4</avatar>
+          <name>OliverChase2003</name>
+          <url>https://github.com/OliverChase2003</url>
         </contributor>
       </contributors>
     </item>
@@ -185,52 +223,14 @@
       </contributors>
     </item>
     <item>
-      <title>vinceliuice/MacTahoe-gtk-theme</title>
-      <link>https://github.com/vinceliuice/MacTahoe-gtk-theme</link>
-      <description>MacOS Tahoe theme for gtk desktops</description>
-      <guid>https://github.com/vinceliuice/MacTahoe-gtk-theme</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>1,614</stars>
-      <forks>93</forks>
-      <addStars>22</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7604295?s=40&amp;v=4</avatar>
-          <name>vinceliuice</name>
-          <url>https://github.com/vinceliuice</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/119421047?s=40&amp;v=4</avatar>
-          <name>vinnytherobot</name>
-          <url>https://github.com/vinnytherobot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113182591?s=40&amp;v=4</avatar>
-          <name>Octopustank</name>
-          <url>https://github.com/Octopustank</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/163449566?s=40&amp;v=4</avatar>
-          <name>choc1024</name>
-          <url>https://github.com/choc1024</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/155487881?s=40&amp;v=4</avatar>
-          <name>Slim-Hady</name>
-          <url>https://github.com/Slim-Hady</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>cobiwave/simplefolio</title>
       <link>https://github.com/cobiwave/simplefolio</link>
       <description>⚡️ A minimal portfolio template for Developers</description>
       <guid>https://github.com/cobiwave/simplefolio</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>14,224</stars>
-      <forks>6,091</forks>
+      <stars>14,223</stars>
+      <forks>6,090</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -295,6 +295,82 @@
           <avatar>https://avatars.githubusercontent.com/u/1696148?s=40&amp;v=4</avatar>
           <name>bgcngm</name>
           <url>https://github.com/bgcngm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>opensearch-project/documentation-website</title>
+      <link>https://github.com/opensearch-project/documentation-website</link>
+      <description>The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.</description>
+      <guid>https://github.com/opensearch-project/documentation-website</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>113</stars>
+      <forks>713</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105444904?s=40&amp;v=4</avatar>
+          <name>kolchfa-aws</name>
+          <url>https://github.com/kolchfa-aws</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102320899?s=40&amp;v=4</avatar>
+          <name>natebower</name>
+          <url>https://github.com/natebower</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97990722?s=40&amp;v=4</avatar>
+          <name>Naarcha-AWS</name>
+          <url>https://github.com/Naarcha-AWS</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12404772?s=40&amp;v=4</avatar>
+          <name>keithhc2</name>
+          <url>https://github.com/keithhc2</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105296784?s=40&amp;v=4</avatar>
+          <name>vagimeli</name>
+          <url>https://github.com/vagimeli</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>Minimal is a Jekyll theme for GitHub Pages</description>
+      <guid>https://github.com/pages-themes/minimal</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>1,818</stars>
+      <forks>6,401</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/282759?s=40&amp;v=4</avatar>
+          <name>benbalter</name>
+          <url>https://github.com/benbalter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
+          <name>parkr</name>
+          <url>https://github.com/parkr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27039604?s=40&amp;v=4</avatar>
+          <name>tsusdere</name>
+          <url>https://github.com/tsusdere</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/615115?s=40&amp;v=4</avatar>
+          <name>Jmuccigr</name>
+          <url>https://github.com/Jmuccigr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3324775?s=40&amp;v=4</avatar>
+          <name>EricFromCanada</name>
+          <url>https://github.com/EricFromCanada</url>
         </contributor>
       </contributors>
     </item>

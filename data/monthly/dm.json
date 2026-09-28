@@ -2,7 +2,7 @@
   "title": "GitHub Dm Languages Monthly Trending",
   "description": "Monthly Trending of Dm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
+  "pubDate": "Mon, 28 Sep 2026 15:08:04 GMT",
   "items": [
     {
       "title": "vgstation-coders/vgstation13",
@@ -42,13 +42,40 @@
       ]
     },
     {
+      "title": "cmss13-devs/cmss13",
+      "url": "https://github.com/cmss13-devs/cmss13",
+      "description": "Contains the code for CM-SS13",
+      "language": "DM",
+      "languageColor": "#447265",
+      "stars": "171",
+      "forks": "945",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/128137806?s=40&v=4",
+          "name": "cm13-github",
+          "url": "https://github.com/cm13-github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66756236?s=40&v=4",
+          "name": "stanalbatross",
+          "url": "https://github.com/stanalbatross"
+        }
+      ]
+    },
+    {
       "title": "ParadiseSS13/Paradise",
       "url": "https://github.com/ParadiseSS13/Paradise",
       "description": "Paradise Station's GitHub main repository.",
       "language": "DM",
       "languageColor": "#447265",
       "stars": "447",
-      "forks": "1,329",
+      "forks": "1,328",
       "addStars": "1",
       "contributors": [
         {
@@ -111,40 +138,13 @@
       ]
     },
     {
-      "title": "cmss13-devs/cmss13",
-      "url": "https://github.com/cmss13-devs/cmss13",
-      "description": "Contains the code for CM-SS13",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": "171",
-      "forks": "945",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/128137806?s=40&v=4",
-          "name": "cm13-github",
-          "url": "https://github.com/cm13-github"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
-          "name": "actions-user",
-          "url": "https://github.com/actions-user"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66756236?s=40&v=4",
-          "name": "stanalbatross",
-          "url": "https://github.com/stanalbatross"
-        }
-      ]
-    },
-    {
       "title": "TauCetiStation/TauCetiClassic",
       "url": "https://github.com/TauCetiStation/TauCetiClassic",
       "description": "Франкенштейн жив",
       "language": "DM",
       "languageColor": "#447265",
       "stars": "161",
-      "forks": "444",
+      "forks": "443",
       "addStars": "1",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "The /tg/station branch of SS13.",
       "language": "DM",
       "languageColor": "#447265",
-      "stars": "1,938",
+      "stars": "1,937",
       "forks": "5,322",
       "addStars": "13",
       "contributors": [
@@ -277,43 +277,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/3827314?s=40&v=4",
           "name": "Cheridan",
           "url": "https://github.com/Cheridan"
-        }
-      ]
-    },
-    {
-      "title": "ChaoticOnyx/OnyxBay",
-      "url": "https://github.com/ChaoticOnyx/OnyxBay",
-      "description": "Main repository with actual Space Station 13 sources. Branch of Baystation 12.",
-      "language": "DM",
-      "languageColor": "#447265",
-      "stars": "100",
-      "forks": "223",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/496895?s=40&v=4",
-          "name": "PsiOmegaDelta",
-          "url": "https://github.com/PsiOmegaDelta"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1300258?s=40&v=4",
-          "name": "comma",
-          "url": "https://github.com/comma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2468979?s=40&v=4",
-          "name": "MistakeNot4892",
-          "url": "https://github.com/MistakeNot4892"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242428?s=40&v=4",
-          "name": "mwerezak",
-          "url": "https://github.com/mwerezak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17480338?s=40&v=4",
-          "name": "wishmandible",
-          "url": "https://github.com/wishmandible"
         }
       ]
     },

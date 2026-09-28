@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
+  "pubDate": "Mon, 28 Sep 2026 15:08:04 GMT",
   "items": [
     {
       "title": "jakubkrehel/skills",
@@ -10,8 +10,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "7,277",
-      "forks": "269",
+      "stars": "7,295",
+      "forks": "271",
       "addStars": "2,763",
       "contributors": [
         {
@@ -32,8 +32,8 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "63,764",
-      "forks": "5,425",
+      "stars": "63,771",
+      "forks": "5,429",
       "addStars": "416",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "37,011",
-      "forks": "6,598",
+      "stars": "37,015",
+      "forks": "6,597",
       "addStars": "357",
       "contributors": [
         {
@@ -97,7 +97,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "4,661",
-      "forks": "8,491",
+      "forks": "8,493",
       "addStars": "26",
       "contributors": [
         {
@@ -134,7 +134,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "11,010",
-      "forks": "23,254",
+      "forks": "23,250",
       "addStars": "71",
       "contributors": [
         {
@@ -165,49 +165,12 @@
       ]
     },
     {
-      "title": "swiftlang/swift-evolution",
-      "url": "https://github.com/swiftlang/swift-evolution",
-      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "15,882",
-      "forks": "2,477",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/989428?s=40&v=4",
-          "name": "DougGregor",
-          "url": "https://github.com/DougGregor"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/793869?s=40&v=4",
-          "name": "rjmccall",
-          "url": "https://github.com/rjmccall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/889638?s=40&v=4",
-          "name": "benrimmington",
-          "url": "https://github.com/benrimmington"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
-          "name": "lattner",
-          "url": "https://github.com/lattner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/147281?s=40&v=4",
-          "name": "jckarter",
-          "url": "https://github.com/jckarter"
-        }
-      ]
-    },
-    {
       "title": "OAI/OpenAPI-Specification",
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "31,238",
+      "stars": "31,239",
       "forks": "9,158",
       "addStars": "85",
       "contributors": [
@@ -244,7 +207,7 @@
       "description": "🎮 📝 A list of Game Development resources to make magic happen.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "17,375",
+      "stars": "17,377",
       "forks": "1,242",
       "addStars": "189",
       "contributors": [
@@ -281,7 +244,7 @@
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "3,146",
+      "stars": "3,148",
       "forks": "313",
       "addStars": "73",
       "contributors": [
@@ -309,43 +272,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/112943652?s=40&v=4",
           "name": "MitkoVtori",
           "url": "https://github.com/MitkoVtori"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/vscode-docs",
-      "url": "https://github.com/microsoft/vscode-docs",
-      "description": "Public documentation for Visual Studio Code",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "6,646",
-      "forks": "5,759",
-      "addStars": "61",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1908215?s=40&v=4",
-          "name": "ntrogh",
-          "url": "https://github.com/ntrogh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&v=4",
-          "name": "Tyriar",
-          "url": "https://github.com/Tyriar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/312252?s=40&v=4",
-          "name": "Chuxel",
-          "url": "https://github.com/Chuxel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44654695?s=40&v=4",
-          "name": "ornelladotcom",
-          "url": "https://github.com/ornelladotcom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29464607?s=40&v=4",
-          "name": "meganrogge",
-          "url": "https://github.com/meganrogge"
         }
       ]
     },
@@ -382,13 +308,50 @@
       ]
     },
     {
+      "title": "swiftlang/swift-evolution",
+      "url": "https://github.com/swiftlang/swift-evolution",
+      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "15,882",
+      "forks": "2,476",
+      "addStars": "25",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/989428?s=40&v=4",
+          "name": "DougGregor",
+          "url": "https://github.com/DougGregor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/793869?s=40&v=4",
+          "name": "rjmccall",
+          "url": "https://github.com/rjmccall"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/889638?s=40&v=4",
+          "name": "benrimmington",
+          "url": "https://github.com/benrimmington"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
+          "name": "lattner",
+          "url": "https://github.com/lattner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/147281?s=40&v=4",
+          "name": "jckarter",
+          "url": "https://github.com/jckarter"
+        }
+      ]
+    },
+    {
       "title": "mdn/translated-content",
       "url": "https://github.com/mdn/translated-content",
       "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "2,033",
-      "forks": "8,305",
+      "forks": "8,303",
       "addStars": "14",
       "contributors": [
         {
@@ -419,24 +382,76 @@
       ]
     },
     {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "Free domain registration and practical DNS learning resources for everyone.",
+      "title": "microsoft/vscode-docs",
+      "url": "https://github.com/microsoft/vscode-docs",
+      "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "201,425",
-      "forks": "4,426",
-      "addStars": "6,273",
+      "stars": "6,645",
+      "forks": "5,760",
+      "addStars": "61",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/39870096?s=40&v=4",
-          "name": "EdwardLab",
-          "url": "https://github.com/EdwardLab"
+          "avatar": "https://avatars.githubusercontent.com/u/1908215?s=40&v=4",
+          "name": "ntrogh",
+          "url": "https://github.com/ntrogh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67411716?s=40&v=4",
-          "name": "AnkitKrYadav",
-          "url": "https://github.com/AnkitKrYadav"
+          "avatar": "https://avatars.githubusercontent.com/u/2193314?s=40&v=4",
+          "name": "Tyriar",
+          "url": "https://github.com/Tyriar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/312252?s=40&v=4",
+          "name": "Chuxel",
+          "url": "https://github.com/Chuxel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44654695?s=40&v=4",
+          "name": "ornelladotcom",
+          "url": "https://github.com/ornelladotcom"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29464607?s=40&v=4",
+          "name": "meganrogge",
+          "url": "https://github.com/meganrogge"
+        }
+      ]
+    },
+    {
+      "title": "SAP/styleguides",
+      "url": "https://github.com/SAP/styleguides",
+      "description": "This repository provides SAP style guides for coding and coding-related topics.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "2,018",
+      "forks": "505",
+      "addStars": "19",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24736032?s=40&v=4",
+          "name": "HrFlorianHoffmann",
+          "url": "https://github.com/HrFlorianHoffmann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45201794?s=40&v=4",
+          "name": "jwigert",
+          "url": "https://github.com/jwigert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5888506?s=40&v=4",
+          "name": "larshp",
+          "url": "https://github.com/larshp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25539927?s=40&v=4",
+          "name": "pokrakam",
+          "url": "https://github.com/pokrakam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46083627?s=40&v=4",
+          "name": "thomham",
+          "url": "https://github.com/thomham"
         }
       ]
     }

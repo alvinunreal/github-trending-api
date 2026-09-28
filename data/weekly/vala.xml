@@ -3,7 +3,7 @@
     <title>GitHub Vala Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Vala Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 06:17:21 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 15:08:04 GMT</pubDate>
     <item>
       <title>Vysp3r/ProtonPlus</title>
       <link>https://github.com/Vysp3r/ProtonPlus</link>
@@ -12,7 +12,7 @@
       <language>Vala</language>
       <languageColor>#a56de2</languageColor>
       <stars>1,811</stars>
-      <forks>58</forks>
+      <forks>57</forks>
       <addStars>19</addStars>
       <contributors>
         <contributor>
@@ -39,6 +39,82 @@
           <avatar>https://avatars.githubusercontent.com/u/3518684?s=40&amp;v=4</avatar>
           <name>ChrisLauinger77</name>
           <url>https://github.com/ChrisLauinger77</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>BuddiesOfBudgie/budgie-desktop</title>
+      <link>https://github.com/BuddiesOfBudgie/budgie-desktop</link>
+      <description>Budgie Desktop is a familiar, modern desktop environment.</description>
+      <guid>https://github.com/BuddiesOfBudgie/budgie-desktop</guid>
+      <language>Vala</language>
+      <languageColor>#a56de2</languageColor>
+      <stars>1,335</stars>
+      <forks>67</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/164489?s=40&amp;v=4</avatar>
+          <name>ikeydoherty</name>
+          <url>https://github.com/ikeydoherty</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/156574?s=40&amp;v=4</avatar>
+          <name>JoshStrobl</name>
+          <url>https://github.com/JoshStrobl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/996240?s=40&amp;v=4</avatar>
+          <name>fossfreedom</name>
+          <url>https://github.com/fossfreedom</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12981608?s=40&amp;v=4</avatar>
+          <name>serebit</name>
+          <url>https://github.com/serebit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5157277?s=40&amp;v=4</avatar>
+          <name>EbonJaeger</name>
+          <url>https://github.com/EbonJaeger</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>alainm23/planify</title>
+      <link>https://github.com/alainm23/planify</link>
+      <description>Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME</description>
+      <guid>https://github.com/alainm23/planify</guid>
+      <language>Vala</language>
+      <languageColor>#a56de2</languageColor>
+      <stars>5,709</stars>
+      <forks>341</forks>
+      <addStars>19</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33765137?s=40&amp;v=4</avatar>
+          <name>alainm23</name>
+          <url>https://github.com/alainm23</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43657314?s=40&amp;v=4</avatar>
+          <name>milotype</name>
+          <url>https://github.com/milotype</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32410361?s=40&amp;v=4</avatar>
+          <name>byquanton</name>
+          <url>https://github.com/byquanton</url>
         </contributor>
       </contributors>
     </item>
@@ -77,82 +153,6 @@
           <avatar>https://avatars.githubusercontent.com/u/126771125?s=40&amp;v=4</avatar>
           <name>finettt</name>
           <url>https://github.com/finettt</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>alainm23/planify</title>
-      <link>https://github.com/alainm23/planify</link>
-      <description>Task manager with Todoist, Nextcloud &amp; CalDAV support designed for GNOME</description>
-      <guid>https://github.com/alainm23/planify</guid>
-      <language>Vala</language>
-      <languageColor>#a56de2</languageColor>
-      <stars>5,708</stars>
-      <forks>342</forks>
-      <addStars>19</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33765137?s=40&amp;v=4</avatar>
-          <name>alainm23</name>
-          <url>https://github.com/alainm23</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
-          <name>weblate</name>
-          <url>https://github.com/weblate</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43657314?s=40&amp;v=4</avatar>
-          <name>milotype</name>
-          <url>https://github.com/milotype</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32410361?s=40&amp;v=4</avatar>
-          <name>byquanton</name>
-          <url>https://github.com/byquanton</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>BuddiesOfBudgie/budgie-desktop</title>
-      <link>https://github.com/BuddiesOfBudgie/budgie-desktop</link>
-      <description>Budgie Desktop is a familiar, modern desktop environment.</description>
-      <guid>https://github.com/BuddiesOfBudgie/budgie-desktop</guid>
-      <language>Vala</language>
-      <languageColor>#a56de2</languageColor>
-      <stars>1,334</stars>
-      <forks>67</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/164489?s=40&amp;v=4</avatar>
-          <name>ikeydoherty</name>
-          <url>https://github.com/ikeydoherty</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/156574?s=40&amp;v=4</avatar>
-          <name>JoshStrobl</name>
-          <url>https://github.com/JoshStrobl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/996240?s=40&amp;v=4</avatar>
-          <name>fossfreedom</name>
-          <url>https://github.com/fossfreedom</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12981608?s=40&amp;v=4</avatar>
-          <name>serebit</name>
-          <url>https://github.com/serebit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5157277?s=40&amp;v=4</avatar>
-          <name>EbonJaeger</name>
-          <url>https://github.com/EbonJaeger</url>
         </contributor>
       </contributors>
     </item>

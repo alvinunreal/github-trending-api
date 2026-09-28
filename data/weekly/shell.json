@@ -2,117 +2,16 @@
   "title": "GitHub Shell Languages Weekly Trending",
   "description": "Weekly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
+  "pubDate": "Mon, 28 Sep 2026 15:08:04 GMT",
   "items": [
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "292,247",
-      "forks": "26,158",
-      "addStars": "3,220",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
-          "name": "obra",
-          "url": "https://github.com/obra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
-          "name": "arittr",
-          "url": "https://github.com/arittr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
-          "name": "clkao",
-          "url": "https://github.com/clkao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12824278?s=40&v=4",
-          "name": "gaurav0107",
-          "url": "https://github.com/gaurav0107"
-        }
-      ]
-    },
-    {
-      "title": "PrismML-Eng/Bonsai-demo",
-      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-      "description": "Bonsai Demo",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "3,169",
-      "forks": "346",
-      "addStars": "320",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
-          "name": "khosravipasha",
-          "url": "https://github.com/khosravipasha"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/288398250?s=40&v=4",
-          "name": "bri-prism",
-          "url": "https://github.com/bri-prism"
-        }
-      ]
-    },
-    {
-      "title": "ophub/amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "10,068",
-      "forks": "3,173",
-      "addStars": "248",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68696949?s=40&v=4",
-          "name": "ophub",
-          "url": "https://github.com/ophub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25471437?s=40&v=4",
-          "name": "13584452567",
-          "url": "https://github.com/13584452567"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5279290?s=40&v=4",
-          "name": "dy008",
-          "url": "https://github.com/dy008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104582100?s=40&v=4",
-          "name": "livelier",
-          "url": "https://github.com/livelier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/170060165?s=40&v=4",
-          "name": "andyfanybo",
-          "url": "https://github.com/andyfanybo"
-        }
-      ]
-    },
     {
       "title": "InfinityLoop1308/PipePipe",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,685",
-      "forks": "225",
+      "stars": "6,778",
+      "forks": "229",
       "addStars": "464",
       "contributors": [
         {
@@ -143,12 +42,113 @@
       ]
     },
     {
+      "title": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "3,178",
+      "forks": "346",
+      "addStars": "320",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2780093?s=40&v=4",
+          "name": "khosravipasha",
+          "url": "https://github.com/khosravipasha"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/288398250?s=40&v=4",
+          "name": "bri-prism",
+          "url": "https://github.com/bri-prism"
+        }
+      ]
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "292,417",
+      "forks": "26,173",
+      "addStars": "3,220",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
+          "name": "obra",
+          "url": "https://github.com/obra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5742859?s=40&v=4",
+          "name": "arittr",
+          "url": "https://github.com/arittr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69736?s=40&v=4",
+          "name": "clkao",
+          "url": "https://github.com/clkao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12824278?s=40&v=4",
+          "name": "gaurav0107",
+          "url": "https://github.com/gaurav0107"
+        }
+      ]
+    },
+    {
+      "title": "ophub/amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "10,068",
+      "forks": "3,176",
+      "addStars": "248",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68696949?s=40&v=4",
+          "name": "ophub",
+          "url": "https://github.com/ophub"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25471437?s=40&v=4",
+          "name": "13584452567",
+          "url": "https://github.com/13584452567"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5279290?s=40&v=4",
+          "name": "dy008",
+          "url": "https://github.com/dy008"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104582100?s=40&v=4",
+          "name": "livelier",
+          "url": "https://github.com/livelier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/170060165?s=40&v=4",
+          "name": "andyfanybo",
+          "url": "https://github.com/andyfanybo"
+        }
+      ]
+    },
+    {
       "title": "0xNyk/council-of-high-intelligence",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,526",
+      "stars": "4,528",
       "forks": "428",
       "addStars": "179",
       "contributors": [
@@ -175,140 +175,12 @@
       ]
     },
     {
-      "title": "eugr/spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "2,326",
-      "forks": "407",
-      "addStars": "35",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2192184?s=40&v=4",
-          "name": "eugr",
-          "url": "https://github.com/eugr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85888?s=40&v=4",
-          "name": "raphaelamorim",
-          "url": "https://github.com/raphaelamorim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6953152?s=40&v=4",
-          "name": "dbotwinick",
-          "url": "https://github.com/dbotwinick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/160543?s=40&v=4",
-          "name": "SeraphimSerapis",
-          "url": "https://github.com/SeraphimSerapis"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/674503?s=40&v=4",
-          "name": "ericlewis",
-          "url": "https://github.com/ericlewis"
-        }
-      ]
-    },
-    {
-      "title": "ohmyzsh/ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "189,964",
-      "forks": "27,925",
-      "addStars": "162",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1441704?s=40&v=4",
-          "name": "mcornella",
-          "url": "https://github.com/mcornella"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/257?s=40&v=4",
-          "name": "robbyrussell",
-          "url": "https://github.com/robbyrussell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66907184?s=40&v=4",
-          "name": "carlosala",
-          "url": "https://github.com/carlosala"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2618447?s=40&v=4",
-          "name": "apjanke",
-          "url": "https://github.com/apjanke"
-        }
-      ]
-    },
-    {
-      "title": "pi-hole/docker-pi-hole",
-      "url": "https://github.com/pi-hole/docker-pi-hole",
-      "description": "The official Pi-hole Docker image from pi-hole.net",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "11,627",
-      "forks": "1,243",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1998970?s=40&v=4",
-          "name": "PromoFaux",
-          "url": "https://github.com/PromoFaux"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/868002?s=40&v=4",
-          "name": "diginc",
-          "url": "https://github.com/diginc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26622301?s=40&v=4",
-          "name": "yubiuser",
-          "url": "https://github.com/yubiuser"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2782850?s=40&v=4",
-          "name": "dschaper",
-          "url": "https://github.com/dschaper"
-        }
-      ]
-    },
-    {
-      "title": "github/copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "11,216",
-      "forks": "1,942",
-      "addStars": "37",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1682753?s=40&v=4",
-          "name": "devm33",
-          "url": "https://github.com/devm33"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5344055?s=40&v=4",
-          "name": "RyanHecht",
-          "url": "https://github.com/RyanHecht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75402236?s=40&v=4",
-          "name": "tidy-dev",
-          "url": "https://github.com/tidy-dev"
-        }
-      ]
-    },
-    {
       "title": "bivlked/amneziawg-installer",
       "url": "https://github.com/bivlked/amneziawg-installer",
       "description": "One-command AmneziaWG 2.0 / 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,323",
+      "stars": "1,324",
       "forks": "107",
       "addStars": "46",
       "contributors": [
@@ -335,49 +207,12 @@
       ]
     },
     {
-      "title": "cloudflare/skills",
-      "url": "https://github.com/cloudflare/skills",
-      "description": "Skills for teaching agents how to build on Cloudflare.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "2,919",
-      "forks": "295",
-      "addStars": "48",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1221592?s=40&v=4",
-          "name": "irvinebroque",
-          "url": "https://github.com/irvinebroque"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18544?s=40&v=4",
-          "name": "elithrar",
-          "url": "https://github.com/elithrar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18808?s=40&v=4",
-          "name": "threepointone",
-          "url": "https://github.com/threepointone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8017908?s=40&v=4",
-          "name": "whoiskatrin",
-          "url": "https://github.com/whoiskatrin"
-        }
-      ]
-    },
-    {
       "title": "termux/termux-packages",
       "url": "https://github.com/termux/termux-packages",
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "17,041",
+      "stars": "17,046",
       "forks": "4,417",
       "addStars": "50",
       "contributors": [
@@ -409,13 +244,50 @@
       ]
     },
     {
+      "title": "cloudflare/skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "2,927",
+      "forks": "295",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1221592?s=40&v=4",
+          "name": "irvinebroque",
+          "url": "https://github.com/irvinebroque"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18544?s=40&v=4",
+          "name": "elithrar",
+          "url": "https://github.com/elithrar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18808?s=40&v=4",
+          "name": "threepointone",
+          "url": "https://github.com/threepointone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8017908?s=40&v=4",
+          "name": "whoiskatrin",
+          "url": "https://github.com/whoiskatrin"
+        }
+      ]
+    },
+    {
       "title": "czlonkowski/n8n-skills",
       "url": "https://github.com/czlonkowski/n8n-skills",
       "description": "n8n skillset for Claude Code to build flawless n8n workflows",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "6,340",
-      "forks": "1,044",
+      "stars": "6,343",
+      "forks": "1,045",
       "addStars": "60",
       "contributors": [
         {
@@ -446,12 +318,177 @@
       ]
     },
     {
+      "title": "anthropics/claude-agent-sdk-typescript",
+      "url": "https://github.com/anthropics/claude-agent-sdk-typescript",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "1,779",
+      "forks": "232",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/178951676?s=40&v=4",
+          "name": "ashwin-ant",
+          "url": "https://github.com/ashwin-ant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23151373?s=40&v=4",
+          "name": "OctavianGuzu",
+          "url": "https://github.com/OctavianGuzu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254777657?s=40&v=4",
+          "name": "qing-ant",
+          "url": "https://github.com/qing-ant"
+        }
+      ]
+    },
+    {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "271,152",
+      "forks": "22,830",
+      "addStars": "4,446",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
+          "name": "mattpocock",
+          "url": "https://github.com/mattpocock"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
+          "name": "gabimoncha",
+          "url": "https://github.com/gabimoncha"
+        }
+      ]
+    },
+    {
+      "title": "armbian/build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "5,451",
+      "forks": "3,180",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6281704?s=40&v=4",
+          "name": "igorpecovnik",
+          "url": "https://github.com/igorpecovnik"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/639959?s=40&v=4",
+          "name": "rpardini",
+          "url": "https://github.com/rpardini"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14262690?s=40&v=4",
+          "name": "zador-blood-stained",
+          "url": "https://github.com/zador-blood-stained"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3305006?s=40&v=4",
+          "name": "EvilOlaf",
+          "url": "https://github.com/EvilOlaf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9724344?s=40&v=4",
+          "name": "martinayotte",
+          "url": "https://github.com/martinayotte"
+        }
+      ]
+    },
+    {
+      "title": "github/copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "11,218",
+      "forks": "1,943",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1682753?s=40&v=4",
+          "name": "devm33",
+          "url": "https://github.com/devm33"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5344055?s=40&v=4",
+          "name": "RyanHecht",
+          "url": "https://github.com/RyanHecht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75402236?s=40&v=4",
+          "name": "tidy-dev",
+          "url": "https://github.com/tidy-dev"
+        }
+      ]
+    },
+    {
+      "title": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "95,204",
+      "forks": "10,478",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
+          "name": "ljharb",
+          "url": "https://github.com/ljharb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3691490?s=40&v=4",
+          "name": "PeterDaveHello",
+          "url": "https://github.com/PeterDaveHello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89353?s=40&v=4",
+          "name": "creationix",
+          "url": "https://github.com/creationix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/351038?s=40&v=4",
+          "name": "koenpunt",
+          "url": "https://github.com/koenpunt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2123375?s=40&v=4",
+          "name": "lukechilds",
+          "url": "https://github.com/lukechilds"
+        }
+      ]
+    },
+    {
       "title": "mack-a/v2ray-agent",
       "url": "https://github.com/mack-a/v2ray-agent",
       "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "21,955",
+      "stars": "21,964",
       "forks": "5,554",
       "addStars": "99",
       "contributors": [
@@ -479,70 +516,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/42965600?s=40&v=4",
           "name": "demo0102",
           "url": "https://github.com/demo0102"
-        }
-      ]
-    },
-    {
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "270,843",
-      "forks": "22,811",
-      "addStars": "4,446",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
-          "name": "mattpocock",
-          "url": "https://github.com/mattpocock"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39256258?s=40&v=4",
-          "name": "gabimoncha",
-          "url": "https://github.com/gabimoncha"
-        }
-      ]
-    },
-    {
-      "title": "kunchenguid/firstmate",
-      "url": "https://github.com/kunchenguid/firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "7,257",
-      "forks": "2,298",
-      "addStars": "404",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3233006?s=40&v=4",
-          "name": "kunchenguid",
-          "url": "https://github.com/kunchenguid"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1987829?s=40&v=4",
-          "name": "tiago-peixoto",
-          "url": "https://github.com/tiago-peixoto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101884182?s=40&v=4",
-          "name": "karotkriss",
-          "url": "https://github.com/karotkriss"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86736?s=40&v=4",
-          "name": "mremond",
-          "url": "https://github.com/mremond"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
         }
       ]
     }
