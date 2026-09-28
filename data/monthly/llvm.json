@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Monthly Trending",
   "description": "Monthly Trending of Llvm Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Sep 2026 21:56:03 GMT",
+  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
   "items": [
     {
       "title": "llvm/llvm-project",
@@ -10,9 +10,9 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": "40,810",
-      "forks": "18,835",
-      "addStars": "877",
+      "stars": "40,815",
+      "forks": "18,841",
+      "addStars": "916",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15152540?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": "626",
+      "stars": "627",
       "forks": "280",
       "addStars": "4",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Sep 2026 21:56:03 GMT",
+  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
   "items": [
     {
       "title": "Homebrew/brew",
@@ -10,9 +10,9 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "49,795",
-      "forks": "11,370",
-      "addStars": "590",
+      "stars": "49,797",
+      "forks": "11,371",
+      "addStars": "591",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,263",
-      "forks": "558",
-      "addStars": "485",
+      "stars": "10,288",
+      "forks": "560",
+      "addStars": "667",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,552",
-      "forks": "385",
-      "addStars": "371",
+      "stars": "10,553",
+      "forks": "386",
+      "addStars": "370",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "A curated list of engineering blogs",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "38,712",
+      "stars": "38,713",
       "forks": "2,043",
-      "addStars": "185",
+      "addStars": "187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1356007?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,224",
+      "stars": "16,233",
       "forks": "3,515",
-      "addStars": "283",
+      "addStars": "287",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/459462?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,000",
+      "stars": "50,001",
       "forks": "4,301",
-      "addStars": "227",
+      "addStars": "224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10236?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,709",
+      "stars": "13,708",
       "forks": "5,439",
-      "addStars": "76",
+      "addStars": "74",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4483?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,730",
+      "stars": "15,735",
       "forks": "5,306",
-      "addStars": "89",
+      "addStars": "92",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55154?s=40&v=4",
@@ -288,7 +288,7 @@
       "languageColor": "#701516",
       "stars": "42,170",
       "forks": "6,039",
-      "addStars": "189",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,760",
-      "forks": "5,650",
-      "addStars": "97",
+      "stars": "23,762",
+      "forks": "5,652",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4",
@@ -362,7 +362,7 @@
       "languageColor": "#701516",
       "stars": "5,789",
       "forks": "1,532",
-      "addStars": "65",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1144873?s=40&v=4",
@@ -387,12 +387,49 @@
       ]
     },
     {
+      "title": "crmne/ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "4,419",
+      "forks": "507",
+      "addStars": "100",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
+          "name": "crmne",
+          "url": "https://github.com/crmne"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38976?s=40&v=4",
+          "name": "yorzi",
+          "url": "https://github.com/yorzi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4",
+          "name": "kieranklaassen",
+          "url": "https://github.com/kieranklaassen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13948?s=40&v=4",
+          "name": "xymbol",
+          "url": "https://github.com/xymbol"
+        }
+      ]
+    },
+    {
       "title": "postalserver/postal",
       "url": "https://github.com/postalserver/postal",
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,830",
+      "stars": "16,831",
       "forks": "1,295",
       "addStars": "77",
       "contributors": [
@@ -420,7 +457,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "8,235",
-      "forks": "1,198",
+      "forks": "1,199",
       "addStars": "128",
       "contributors": [
         {
@@ -456,9 +493,9 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,492",
+      "stars": "39,495",
       "forks": "2,646",
-      "addStars": "150",
+      "addStars": "147",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17579?s=40&v=4",
@@ -488,8 +525,8 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,960",
-      "forks": "1,065",
+      "stars": "5,962",
+      "forks": "1,066",
       "addStars": "98",
       "contributors": [
         {
@@ -527,7 +564,7 @@
       "languageColor": "#701516",
       "stars": "39,064",
       "forks": "14,984",
-      "addStars": "236",
+      "addStars": "228",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
@@ -564,7 +601,7 @@
       "languageColor": "#701516",
       "stars": "51,694",
       "forks": "10,298",
-      "addStars": "92",
+      "addStars": "91",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
@@ -599,9 +636,9 @@
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,233",
-      "forks": "11,944",
-      "addStars": "86",
+      "stars": "22,234",
+      "forks": "11,943",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -637,8 +674,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "15,594",
-      "forks": "13,873",
-      "addStars": "80",
+      "forks": "13,874",
+      "addStars": "82",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -700,9 +737,9 @@
       "description": "The open LMS by Instructure, Inc.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "6,842",
+      "stars": "6,843",
       "forks": "3,032",
-      "addStars": "71",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/191320?s=40&v=4",

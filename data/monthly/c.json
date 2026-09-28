@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Monthly Trending",
   "description": "Monthly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Sep 2026 21:56:03 GMT",
+  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
   "items": [
     {
       "title": "armory3d/armorpaint",
@@ -10,9 +10,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,199",
-      "forks": "588",
-      "addStars": "1,177",
+      "stars": "5,228",
+      "forks": "591",
+      "addStars": "1,181",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3685704?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#555555",
       "stars": "2,294",
       "forks": "325",
-      "addStars": "1,271",
+      "addStars": "1,285",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5190964?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,950",
+      "stars": "27,949",
       "forks": "2,614",
-      "addStars": "340",
+      "addStars": "332",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/750081?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "14,139",
+      "stars": "14,148",
       "forks": "2,246",
-      "addStars": "577",
+      "addStars": "593",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1075274?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "A tiling window manager for macOS based on binary space partitioning",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "29,665",
-      "forks": "771",
-      "addStars": "201",
+      "stars": "29,667",
+      "forks": "772",
+      "addStars": "194",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6175959?s=40&v=4",
@@ -192,7 +192,7 @@
       "languageColor": "#555555",
       "stars": "14,612",
       "forks": "3,410",
-      "addStars": "197",
+      "addStars": "199",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1038539?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "5,495",
-      "forks": "864",
-      "addStars": "209",
+      "stars": "5,497",
+      "forks": "866",
+      "addStars": "215",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/159546?s=40&v=4",
@@ -259,51 +259,14 @@
       ]
     },
     {
-      "title": "mit-pdos/xv6-riscv",
-      "url": "https://github.com/mit-pdos/xv6-riscv",
-      "description": "Xv6 for RISC-V",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "10,534",
-      "forks": "4,334",
-      "addStars": "282",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1111495?s=40&v=4",
-          "name": "kaashoek",
-          "url": "https://github.com/kaashoek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/828308?s=40&v=4",
-          "name": "zeldovich",
-          "url": "https://github.com/zeldovich"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25902862?s=40&v=4",
-          "name": "segfauIt",
-          "url": "https://github.com/segfauIt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28621075?s=40&v=4",
-          "name": "4ge32",
-          "url": "https://github.com/4ge32"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3526486?s=40&v=4",
-          "name": "anishathalye",
-          "url": "https://github.com/anishathalye"
-        }
-      ]
-    },
-    {
       "title": "obsproject/obs-studio",
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "76,695",
-      "forks": "10,341",
-      "addStars": "1,313",
+      "stars": "76,710",
+      "forks": "10,346",
+      "addStars": "1,312",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
@@ -338,9 +301,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "150,517",
-      "forks": "13,822",
-      "addStars": "2,327",
+      "stars": "150,536",
+      "forks": "13,824",
+      "addStars": "2,323",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
@@ -375,7 +338,7 @@
       "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,858",
+      "stars": "4,860",
       "forks": "385",
       "addStars": "130",
       "contributors": [
@@ -412,8 +375,8 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,679",
-      "forks": "2,908",
+      "stars": "13,681",
+      "forks": "2,909",
       "addStars": "239",
       "contributors": [
         {
@@ -449,9 +412,9 @@
       "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,740",
+      "stars": "13,742",
       "forks": "15,489",
-      "addStars": "169",
+      "addStars": "167",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3472254?s=40&v=4",
@@ -486,9 +449,9 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,545",
-      "forks": "13,033",
-      "addStars": "469",
+      "stars": "28,550",
+      "forks": "13,036",
+      "addStars": "468",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19352056?s=40&v=4",
@@ -523,7 +486,7 @@
       "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,113",
+      "stars": "16,116",
       "forks": "1,791",
       "addStars": "432",
       "contributors": [
@@ -561,8 +524,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "42,956",
-      "forks": "7,386",
-      "addStars": "369",
+      "forks": "7,385",
+      "addStars": "373",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
@@ -597,9 +560,9 @@
       "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,056",
-      "forks": "270",
-      "addStars": "351",
+      "stars": "1,058",
+      "forks": "272",
+      "addStars": "355",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/175369445?s=40&v=4",
@@ -624,9 +587,9 @@
       "description": "UNIX-like reverse engineering framework and command-line toolset",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "24,881",
-      "forks": "3,331",
-      "addStars": "271",
+      "stars": "24,882",
+      "forks": "3,332",
+      "addStars": "265",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917142?s=40&v=4",
@@ -661,9 +624,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,629",
-      "forks": "10,057",
-      "addStars": "331",
+      "stars": "16,634",
+      "forks": "10,059",
+      "addStars": "333",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4",
@@ -698,8 +661,8 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "26,880",
-      "forks": "3,566",
+      "stars": "26,885",
+      "forks": "3,569",
       "addStars": "280",
       "contributors": [
         {
@@ -735,9 +698,9 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,705",
-      "forks": "2,935",
-      "addStars": "261",
+      "stars": "35,709",
+      "forks": "2,984",
+      "addStars": "263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79765?s=40&v=4",
@@ -767,9 +730,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,682",
+      "stars": "7,683",
       "forks": "1,378",
-      "addStars": "160",
+      "addStars": "159",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3520734?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Javascript Languages in GitHub</description>
-    <pubDate>Sun, 27 Sep 2026 21:56:03 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 06:17:21 GMT</pubDate>
     <item>
       <title>nodejs/node</title>
       <link>https://github.com/nodejs/node</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/nodejs/node</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>122,140</stars>
-      <forks>38,178</forks>
-      <addStars>28</addStars>
+      <stars>122,146</stars>
+      <forks>38,218</forks>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/718899?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>142,794</stars>
-      <forks>33,284</forks>
-      <addStars>317</addStars>
+      <stars>142,815</stars>
+      <forks>33,319</forks>
+      <addStars>276</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22380829?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/androoAGI/starnet</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>673</stars>
-      <forks>112</forks>
-      <addStars>58</addStars>
+      <stars>685</stars>
+      <forks>113</forks>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/224686490?s=40&amp;v=4</avatar>
@@ -110,8 +110,8 @@
       <guid>https://github.com/mlmvpn/mlmvpn_windows</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>151</stars>
-      <forks>24</forks>
+      <stars>153</stars>
+      <forks>25</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -138,9 +138,9 @@
       <guid>https://github.com/mrdoob/three.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>115,991</stars>
-      <forks>36,579</forks>
-      <addStars>50</addStars>
+      <stars>116,003</stars>
+      <forks>36,580</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97088?s=40&amp;v=4</avatar>
@@ -170,13 +170,51 @@
       </contributors>
     </item>
     <item>
+      <title>huilang-me/CF-Server-Monitor</title>
+      <link>https://github.com/huilang-me/CF-Server-Monitor</link>
+      <description>一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。</description>
+      <guid>https://github.com/huilang-me/CF-Server-Monitor</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>2,289</stars>
+      <forks>2,138</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7547987?s=40&amp;v=4</avatar>
+          <name>huilang-me</name>
+          <url>https://github.com/huilang-me</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54269955?s=40&amp;v=4</avatar>
+          <name>Windyskr</name>
+          <url>https://github.com/Windyskr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35359254?s=40&amp;v=4</avatar>
+          <name>ukuq</name>
+          <url>https://github.com/ukuq</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27012268?s=40&amp;v=4</avatar>
+          <name>FIFCOM</name>
+          <url>https://github.com/FIFCOM</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/113907404?s=40&amp;v=4</avatar>
+          <name>Ideenaster</name>
+          <url>https://github.com/Ideenaster</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>fishjar/kiss-translator</title>
       <link>https://github.com/fishjar/kiss-translator</link>
       <description>A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)</description>
       <guid>https://github.com/fishjar/kiss-translator</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>12,657</stars>
+      <stars>12,662</stars>
       <forks>617</forks>
       <addStars>21</addStars>
       <contributors>
@@ -214,9 +252,9 @@
       <guid>https://github.com/darkzOGx/youtube-automation-agent</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,874</stars>
-      <forks>1,171</forks>
-      <addStars>45</addStars>
+      <stars>3,883</stars>
+      <forks>1,174</forks>
+      <addStars>52</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -237,9 +275,9 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>146,884</stars>
-      <forks>7,890</forks>
-      <addStars>520</addStars>
+      <stars>147,045</stars>
+      <forks>7,901</forks>
+      <addStars>511</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
@@ -276,8 +314,8 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>38,892</stars>
-      <forks>3,155</forks>
-      <addStars>2</addStars>
+      <forks>3,186</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1062408?s=40&amp;v=4</avatar>
@@ -313,9 +351,9 @@
       <guid>https://github.com/qist/tvbox</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,510</stars>
-      <forks>4,114</forks>
-      <addStars>24</addStars>
+      <stars>11,518</stars>
+      <forks>4,119</forks>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58679624?s=40&amp;v=4</avatar>
@@ -341,9 +379,9 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>20,959</stars>
-      <forks>1,270</forks>
-      <addStars>48</addStars>
+      <stars>20,977</stars>
+      <forks>1,272</forks>
+      <addStars>53</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98228280?s=40&amp;v=4</avatar>
@@ -379,9 +417,9 @@
       <guid>https://github.com/expressjs/express</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>69,494</stars>
-      <forks>25,084</forks>
-      <addStars>7</addStars>
+      <stars>69,495</stars>
+      <forks>25,088</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25254?s=40&amp;v=4</avatar>
@@ -417,9 +455,9 @@
       <guid>https://github.com/ulsklyc/yuvomi</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,592</stars>
-      <forks>152</forks>
-      <addStars>13</addStars>
+      <stars>1,597</stars>
+      <forks>153</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/108589275?s=40&amp;v=4</avatar>
@@ -455,9 +493,9 @@
       <guid>https://github.com/chuspeeism/dashi-ppt-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,882</stars>
-      <forks>799</forks>
-      <addStars>46</addStars>
+      <stars>8,905</stars>
+      <forks>800</forks>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22310591?s=40&amp;v=4</avatar>

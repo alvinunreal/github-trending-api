@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Weekly Trending",
   "description": "Weekly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 27 Sep 2026 21:56:03 GMT",
+  "pubDate": "Mon, 28 Sep 2026 06:17:21 GMT",
   "items": [
     {
       "title": "Kong/kong",
@@ -10,9 +10,9 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "44,203",
+      "stars": "44,204",
       "forks": "5,219",
-      "addStars": "55",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1125431?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "✨ AI Coding, Vim Style",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,876",
+      "stars": "6,879",
       "forks": "459",
-      "addStars": "19",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9512444?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "827",
+      "stars": "829",
       "forks": "98",
       "addStars": "87",
       "contributors": [
@@ -116,9 +116,9 @@
       "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,788",
+      "stars": "3,790",
       "forks": "329",
-      "addStars": "100",
+      "addStars": "98",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/116906279?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "951",
+      "stars": "955",
       "forks": "37",
-      "addStars": "69",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/517731?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,600",
+      "stars": "6,599",
       "forks": "361",
-      "addStars": "22",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10467983?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "532",
-      "forks": "524",
-      "addStars": "3",
+      "stars": "533",
+      "forks": "525",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2267386?s=40&v=4",
@@ -261,7 +261,7 @@
       "languageColor": "#000080",
       "stars": "9,549",
       "forks": "311",
-      "addStars": "22",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/24854248?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "7,120",
+      "stars": "7,121",
       "forks": "296",
-      "addStars": "15",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7904185?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "8,211",
+      "stars": "8,213",
       "forks": "766",
-      "addStars": "28",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4493366?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "13,958",
+      "stars": "13,957",
       "forks": "2,500",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,950",
+      "stars": "3,949",
       "forks": "221",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/107473453?s=40&v=4",
@@ -431,7 +431,7 @@
       "languageColor": "#000080",
       "stars": "2,723",
       "forks": "240",
-      "addStars": "7",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1505378?s=40&v=4",
@@ -463,7 +463,7 @@
       "languageColor": "#000080",
       "stars": "1,287",
       "forks": "30",
-      "addStars": "2",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3751019?s=40&v=4",
@@ -500,7 +500,7 @@
       "languageColor": "#000080",
       "stars": "3,853",
       "forks": "160",
-      "addStars": "15",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15321434?s=40&v=4",
@@ -562,9 +562,9 @@
       "description": "Improved fzf.vim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,451",
+      "stars": "4,452",
       "forks": "267",
-      "addStars": "10",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59988195?s=40&v=4",
@@ -601,7 +601,7 @@
       "languageColor": "#000080",
       "stars": "155",
       "forks": "85",
-      "addStars": "5",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26726709?s=40&v=4",
@@ -636,9 +636,9 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "29,957",
+      "stars": "29,965",
       "forks": "1,929",
-      "addStars": "151",
+      "addStars": "149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/670302?s=40&v=4",
