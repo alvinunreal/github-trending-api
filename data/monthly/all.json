@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 15:08:04 GMT",
+  "pubDate": "Mon, 28 Sep 2026 20:00:09 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,599",
-      "forks": "1,313",
+      "stars": "22,678",
+      "forks": "1,319",
       "addStars": "19,427",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "44,387",
-      "forks": "9,018",
+      "stars": "44,492",
+      "forks": "9,041",
       "addStars": "37,567",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,402",
-      "forks": "984",
+      "stars": "12,475",
+      "forks": "989",
       "addStars": "10,481",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "42,181",
-      "forks": "3,028",
+      "stars": "42,247",
+      "forks": "3,030",
       "addStars": "20,657",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "73,319",
-      "forks": "4,951",
+      "stars": "73,460",
+      "forks": "4,960",
       "addStars": "51,711",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,668",
-      "forks": "299",
+      "stars": "3,710",
+      "forks": "300",
       "addStars": "2,945",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,466",
-      "forks": "4,989",
+      "stars": "43,471",
+      "forks": "5,057",
       "addStars": "27,329",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AMD, or nothing but a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,349",
-      "forks": "381",
+      "stars": "5,380",
+      "forks": "382",
       "addStars": "3,743",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "37,996",
-      "forks": "5,479",
+      "stars": "38,025",
+      "forks": "5,478",
       "addStars": "3,340",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "39,376",
-      "forks": "6,116",
+      "stars": "39,398",
+      "forks": "6,118",
       "addStars": "18,484",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,953",
+      "stars": "6,970",
       "forks": "558",
       "addStars": "1,954",
       "contributors": [
@@ -392,8 +392,8 @@
       "description": "RL training environments for Microduck (mjlab)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,314",
-      "forks": "499",
+      "stars": "2,322",
+      "forks": "501",
       "addStars": "2,276",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,873",
-      "forks": "4,125",
+      "stars": "30,919",
+      "forks": "4,131",
       "addStars": "9,985",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,797",
-      "forks": "2,984",
+      "stars": "51,855",
+      "forks": "2,986",
       "addStars": "26,939",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,865",
-      "forks": "832",
+      "stars": "8,886",
+      "forks": "833",
       "addStars": "3,379",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,909",
-      "forks": "3,262",
+      "stars": "33,925",
+      "forks": "3,263",
       "addStars": "5,681",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,682",
-      "forks": "549",
+      "stars": "7,718",
+      "forks": "550",
       "addStars": "6,144",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,498",
-      "forks": "2,763",
+      "stars": "21,538",
+      "forks": "2,764",
       "addStars": "7,792",
       "contributors": [
         {
@@ -646,8 +646,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "147,318",
-      "forks": "7,915",
+      "stars": "147,470",
+      "forks": "7,919",
       "addStars": "33,812",
       "contributors": [
         {

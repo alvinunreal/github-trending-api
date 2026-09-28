@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Elixir Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 15:08:04 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 20:00:09 GMT</pubDate>
     <item>
       <title>plausible/analytics</title>
       <link>https://github.com/plausible/analytics</link>
@@ -12,7 +12,7 @@
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
       <stars>29,243</stars>
-      <forks>1,880</forks>
+      <forks>1,878</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -143,6 +143,34 @@
           <avatar>https://avatars.githubusercontent.com/u/5434875?s=40&amp;v=4</avatar>
           <name>PixelJonas</name>
           <url>https://github.com/PixelJonas</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>agentjido/req_llm</title>
+      <link>https://github.com/agentjido/req_llm</link>
+      <description>Composable Elixir library for LLM interactions built on Req and Finch</description>
+      <guid>https://github.com/agentjido/req_llm</guid>
+      <language>Elixir</language>
+      <languageColor>#6e4a7e</languageColor>
+      <stars>589</stars>
+      <forks>204</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84222?s=40&amp;v=4</avatar>
+          <name>mikehostetler</name>
+          <url>https://github.com/mikehostetler</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37657?s=40&amp;v=4</avatar>
+          <name>neilberkman</name>
+          <url>https://github.com/neilberkman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
