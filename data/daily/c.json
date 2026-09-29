@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 23:46:37 GMT",
+  "pubDate": "Tue, 29 Sep 2026 06:33:23 GMT",
   "items": [
     {
       "title": "willfaust/Madeira",
@@ -10,9 +10,9 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "992",
-      "forks": "172",
-      "addStars": "266",
+      "stars": "1,004",
+      "forks": "179",
+      "addStars": "229",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39139570?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "19,222",
-      "forks": "1,789",
-      "addStars": "22",
+      "stars": "19,226",
+      "forks": "1,792",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11407071?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "6,773",
+      "stars": "6,777",
       "forks": "6,295",
-      "addStars": "28",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18235760?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#555555",
       "stars": "10,566",
       "forks": "1,325",
-      "addStars": "3",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79169168?s=40&v=4",
@@ -148,14 +148,46 @@
       ]
     },
     {
+      "title": "YuKongA/ghostlock-app",
+      "url": "https://github.com/YuKongA/ghostlock-app",
+      "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "1,183",
+      "forks": "352",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/72794669?s=40&v=4",
+          "name": "NickJi2019",
+          "url": "https://github.com/NickJi2019"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70465933?s=40&v=4",
+          "name": "YuKongA",
+          "url": "https://github.com/YuKongA"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188340668?s=40&v=4",
+          "name": "chisewaguri",
+          "url": "https://github.com/chisewaguri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1093323?s=40&v=4",
+          "name": "rabits",
+          "url": "https://github.com/rabits"
+        }
+      ]
+    },
+    {
       "title": "reactos/reactos",
       "url": "https://github.com/reactos/reactos",
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "18,140",
+      "stars": "18,141",
       "forks": "2,224",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/313067?s=40&v=4",
@@ -190,7 +222,7 @@
       "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "13,750",
+      "stars": "13,752",
       "forks": "15,492",
       "addStars": "7",
       "contributors": [
@@ -264,9 +296,9 @@
       "description": "Next-Generation of Chiaki (the open-source remote play client for PlayStation)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,762",
+      "stars": "2,763",
       "forks": "273",
-      "addStars": "3",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111307688?s=40&v=4",
@@ -301,7 +333,7 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "26,892",
+      "stars": "26,893",
       "forks": "3,569",
       "addStars": "9",
       "contributors": [
@@ -338,9 +370,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,179",
+      "stars": "27,184",
       "forks": "716",
-      "addStars": "33",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49278135?s=40&v=4",
@@ -375,9 +407,9 @@
       "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "22,384",
-      "forks": "1,950",
-      "addStars": "11",
+      "stars": "22,388",
+      "forks": "1,951",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10697207?s=40&v=4",
@@ -412,7 +444,7 @@
       "description": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,509",
+      "stars": "7,512",
       "forks": "1,168",
       "addStars": "10",
       "contributors": [
@@ -439,8 +471,8 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "76,744",
-      "forks": "10,354",
+      "stars": "76,753",
+      "forks": "10,360",
       "addStars": "52",
       "contributors": [
         {
@@ -476,7 +508,7 @@
       "description": "Termux X-server add-on.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,856",
+      "stars": "4,857",
       "forks": "750",
       "addStars": "6",
       "contributors": [
@@ -503,9 +535,9 @@
       "description": "Emulator of x86-based machines.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,849",
+      "stars": "4,851",
       "forks": "606",
-      "addStars": "7",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10365853?s=40&v=4",
