@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Mon, 28 Sep 2026 20:00:09 GMT</pubDate>
+    <pubDate>Mon, 28 Sep 2026 23:46:37 GMT</pubDate>
     <item>
       <title>ash-project/ash</title>
       <link>https://github.com/ash-project/ash</link>
@@ -114,34 +114,6 @@
       </contributors>
     </item>
     <item>
-      <title>agentjido/req_llm</title>
-      <link>https://github.com/agentjido/req_llm</link>
-      <description>Composable Elixir library for LLM interactions built on Req and Finch</description>
-      <guid>https://github.com/agentjido/req_llm</guid>
-      <language>Elixir</language>
-      <languageColor>#6e4a7e</languageColor>
-      <stars>589</stars>
-      <forks>204</forks>
-      <addStars>8</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84222?s=40&amp;v=4</avatar>
-          <name>mikehostetler</name>
-          <url>https://github.com/mikehostetler</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37657?s=40&amp;v=4</avatar>
-          <name>neilberkman</name>
-          <url>https://github.com/neilberkman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>teslamate-org/teslamate</title>
       <link>https://github.com/teslamate-org/teslamate</link>
       <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
@@ -247,7 +219,7 @@
       <guid>https://github.com/openai/symphony</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>27,456</stars>
+      <stars>27,459</stars>
       <forks>2,844</forks>
       <addStars>136</addStars>
       <contributors>
@@ -395,7 +367,7 @@
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
       <stars>216</stars>
-      <forks>43</forks>
+      <forks>44</forks>
       <addStars>13</addStars>
       <contributors>
         <contributor>
@@ -498,7 +470,7 @@
       <guid>https://github.com/plausible/analytics</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>29,243</stars>
+      <stars>29,244</stars>
       <forks>1,878</forks>
       <addStars>76</addStars>
       <contributors>
