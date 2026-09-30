@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 06:16:08 GMT",
+  "pubDate": "Wed, 30 Sep 2026 18:16:58 GMT",
   "items": [
     {
       "title": "bilawalsidhu/gods-eye-view",
@@ -10,8 +10,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "45,204",
-      "forks": "9,225",
+      "stars": "45,560",
+      "forks": "9,304",
       "addStars": "33,308",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "269,761",
-      "forks": "40,311",
+      "stars": "270,095",
+      "forks": "40,358",
       "addStars": "26,837",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "74,484",
-      "forks": "5,003",
+      "stars": "75,089",
+      "forks": "5,048",
       "addStars": "45,168",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "148,391",
-      "forks": "7,981",
+      "stars": "148,945",
+      "forks": "8,009",
       "addStars": "32,714",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,859",
-      "forks": "1,095",
+      "stars": "8,883",
+      "forks": "1,099",
       "addStars": "3,062",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "23,258",
-      "forks": "1,359",
+      "stars": "23,395",
+      "forks": "1,372",
       "addStars": "20,316",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,015",
-      "forks": "1,069",
+      "stars": "4,057",
+      "forks": "1,079",
       "addStars": "1,722",
       "contributors": [
         {
@@ -249,50 +249,13 @@
       ]
     },
     {
-      "title": "WorldFlowAI/everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "3,754",
-      "forks": "582",
-      "addStars": "1,903",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
-          "name": "affaan-m",
-          "url": "https://github.com/affaan-m"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55176411?s=40&v=4",
-          "name": "gzb1128",
-          "url": "https://github.com/gzb1128"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19748368?s=40&v=4",
-          "name": "zbennett10",
-          "url": "https://github.com/zbennett10"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/161401688?s=40&v=4",
-          "name": "zerx-lab",
-          "url": "https://github.com/zerx-lab"
-        }
-      ]
-    },
-    {
       "title": "conorbronsdon/avoid-ai-writing",
       "url": "https://github.com/conorbronsdon/avoid-ai-writing",
       "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,784",
-      "forks": "419",
+      "stars": "4,793",
+      "forks": "420",
       "addStars": "1,026",
       "contributors": [
         {
@@ -323,12 +286,81 @@
       ]
     },
     {
+      "title": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "3,776",
+      "forks": "584",
+      "addStars": "1,903",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
+          "name": "affaan-m",
+          "url": "https://github.com/affaan-m"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55176411?s=40&v=4",
+          "name": "gzb1128",
+          "url": "https://github.com/gzb1128"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19748368?s=40&v=4",
+          "name": "zbennett10",
+          "url": "https://github.com/zbennett10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/161401688?s=40&v=4",
+          "name": "zerx-lab",
+          "url": "https://github.com/zerx-lab"
+        }
+      ]
+    },
+    {
+      "title": "mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "List of Permanent Free LLM API (API Keys)",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "8,731",
+      "forks": "873",
+      "addStars": "1,498",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11723962?s=40&v=4",
+          "name": "SebConejo",
+          "url": "https://github.com/SebConejo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6626184?s=40&v=4",
+          "name": "brunobuddy",
+          "url": "https://github.com/brunobuddy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75412910?s=40&v=4",
+          "name": "codeusb",
+          "url": "https://github.com/codeusb"
+        }
+      ]
+    },
+    {
       "title": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,276",
+      "stars": "11,285",
       "forks": "1,118",
       "addStars": "2,361",
       "contributors": [
@@ -360,77 +392,13 @@
       ]
     },
     {
-      "title": "JoeanAmier/TikTokDownloader",
-      "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "description": "抖音 / TikTok 平台作品下载/数据采集工具",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "16,414",
-      "forks": "2,787",
-      "addStars": "928",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49263334?s=40&v=4",
-          "name": "JoeanAmier",
-          "url": "https://github.com/JoeanAmier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20411337?s=40&v=4",
-          "name": "yjagh",
-          "url": "https://github.com/yjagh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40727745?s=40&v=4",
-          "name": "Johnserf-Seed",
-          "url": "https://github.com/Johnserf-Seed"
-        }
-      ]
-    },
-    {
-      "title": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "description": "List of Permanent Free LLM API (API Keys)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "8,683",
-      "forks": "870",
-      "addStars": "1,498",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11723962?s=40&v=4",
-          "name": "SebConejo",
-          "url": "https://github.com/SebConejo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6626184?s=40&v=4",
-          "name": "brunobuddy",
-          "url": "https://github.com/brunobuddy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75412910?s=40&v=4",
-          "name": "codeusb",
-          "url": "https://github.com/codeusb"
-        }
-      ]
-    },
-    {
       "title": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "13,976",
-      "forks": "1,600",
+      "stars": "13,981",
+      "forks": "1,599",
       "addStars": "1,120",
       "contributors": [
         {
@@ -461,39 +429,56 @@
       ]
     },
     {
-      "title": "playcanvas/engine",
-      "url": "https://github.com/playcanvas/engine",
-      "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+      "title": "JoeanAmier/TikTokDownloader",
+      "url": "https://github.com/JoeanAmier/TikTokDownloader",
+      "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,955",
-      "forks": "2,011",
-      "addStars": "435",
+      "stars": "16,432",
+      "forks": "2,788",
+      "addStars": "928",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/697563?s=40&v=4",
-          "name": "willeastcott",
-          "url": "https://github.com/willeastcott"
+          "avatar": "https://avatars.githubusercontent.com/u/49263334?s=40&v=4",
+          "name": "JoeanAmier",
+          "url": "https://github.com/JoeanAmier"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/59932779?s=40&v=4",
-          "name": "mvaligursky",
-          "url": "https://github.com/mvaligursky"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/504980?s=40&v=4",
-          "name": "daredevildave",
-          "url": "https://github.com/daredevildave"
+          "avatar": "https://avatars.githubusercontent.com/u/20411337?s=40&v=4",
+          "name": "yjagh",
+          "url": "https://github.com/yjagh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7008423?s=40&v=4",
-          "name": "guycalledfrank",
-          "url": "https://github.com/guycalledfrank"
+          "avatar": "https://avatars.githubusercontent.com/u/40727745?s=40&v=4",
+          "name": "Johnserf-Seed",
+          "url": "https://github.com/Johnserf-Seed"
+        }
+      ]
+    },
+    {
+      "title": "darkzOGx/youtube-automation-agent",
+      "url": "https://github.com/darkzOGx/youtube-automation-agent",
+      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "3,950",
+      "forks": "1,214",
+      "addStars": "1,426",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/850969?s=40&v=4",
-          "name": "vkalpias",
-          "url": "https://github.com/vkalpias"
+          "avatar": "https://avatars.githubusercontent.com/u/128010917?s=40&v=4",
+          "name": "darkzOGx",
+          "url": "https://github.com/darkzOGx"
         }
       ]
     },
@@ -503,8 +488,8 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,429",
-      "forks": "30,789",
+      "stars": "11,434",
+      "forks": "30,875",
       "addStars": "358",
       "contributors": [
         {
@@ -535,24 +520,61 @@
       ]
     },
     {
-      "title": "darkzOGx/youtube-automation-agent",
-      "url": "https://github.com/darkzOGx/youtube-automation-agent",
-      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
+      "title": "pdone/lx-music-source",
+      "url": "https://github.com/pdone/lx-music-source",
+      "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,936",
-      "forks": "1,208",
-      "addStars": "1,426",
+      "stars": "9,388",
+      "forks": "795",
+      "addStars": "1,095",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/34151215?s=40&v=4",
+          "name": "pdone",
+          "url": "https://github.com/pdone"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/128010917?s=40&v=4",
-          "name": "darkzOGx",
-          "url": "https://github.com/darkzOGx"
+          "avatar": "https://avatars.githubusercontent.com/u/197331664?s=40&v=4",
+          "name": "Meo597",
+          "url": "https://github.com/Meo597"
+        }
+      ]
+    },
+    {
+      "title": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "250,841",
+      "forks": "51,417",
+      "addStars": "2,940",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
+          "name": "sebmarkbage",
+          "url": "https://github.com/sebmarkbage"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8445?s=40&v=4",
+          "name": "zpao",
+          "url": "https://github.com/zpao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&v=4",
+          "name": "gaearon",
+          "url": "https://github.com/gaearon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3624098?s=40&v=4",
+          "name": "acdlite",
+          "url": "https://github.com/acdlite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6820?s=40&v=4",
+          "name": "sophiebits",
+          "url": "https://github.com/sophiebits"
         }
       ]
     }
