@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Weekly Trending",
   "description": "Weekly Trending of Mlir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 29 Sep 2026 22:53:19 GMT",
+  "pubDate": "Wed, 30 Sep 2026 06:16:08 GMT",
   "items": [
     {
       "title": "triton-lang/triton",
@@ -10,7 +10,7 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "20,263",
+      "stars": "20,269",
       "forks": "3,236",
       "addStars": "55",
       "contributors": [
@@ -47,9 +47,9 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "177",
-      "forks": "244",
-      "addStars": "6",
+      "stars": "178",
+      "forks": "247",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27532842?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "OpenAI Triton backend for Intel® GPUs",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": "274",
+      "stars": "273",
       "forks": "114",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54643204?s=40&v=4",
