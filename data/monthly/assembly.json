@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Monthly Trending",
   "description": "Monthly Trending of Assembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 06:16:08 GMT",
+  "pubDate": "Wed, 30 Sep 2026 13:27:34 GMT",
   "items": [
     {
       "title": "ebitengine/purego",
@@ -47,7 +47,7 @@
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "4,959",
+      "stars": "4,960",
       "forks": "1,328",
       "addStars": "73",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "3,137",
+      "stars": "3,138",
       "forks": "1,031",
       "addStars": "52",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Decompilation of Pokemon HeartGold/SoulSilver",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "600",
+      "stars": "601",
       "forks": "205",
       "addStars": "28",
       "contributors": [
@@ -186,43 +186,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/27587845?s=40&v=4",
           "name": "Pixelstyx",
           "url": "https://github.com/Pixelstyx"
-        }
-      ]
-    },
-    {
-      "title": "z88dk/z88dk",
-      "url": "https://github.com/z88dk/z88dk",
-      "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "1,139",
-      "forks": "209",
-      "addStars": "9",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/394721?s=40&v=4",
-          "name": "suborb",
-          "url": "https://github.com/suborb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10224992?s=40&v=4",
-          "name": "zx70",
-          "url": "https://github.com/zx70"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13653828?s=40&v=4",
-          "name": "aralbrec",
-          "url": "https://github.com/aralbrec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/70773?s=40&v=4",
-          "name": "pauloscustodio",
-          "url": "https://github.com/pauloscustodio"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3955592?s=40&v=4",
-          "name": "feilipu",
-          "url": "https://github.com/feilipu"
         }
       ]
     },
@@ -264,39 +227,76 @@
       ]
     },
     {
-      "title": "kanaka/mal",
-      "url": "https://github.com/kanaka/mal",
-      "description": "mal - Make a Lisp",
+      "title": "z88dk/z88dk",
+      "url": "https://github.com/z88dk/z88dk",
+      "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "10,741",
-      "forks": "2,709",
-      "addStars": "30",
+      "stars": "1,139",
+      "forks": "209",
+      "addStars": "9",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70127?s=40&v=4",
-          "name": "kanaka",
-          "url": "https://github.com/kanaka"
+          "avatar": "https://avatars.githubusercontent.com/u/394721?s=40&v=4",
+          "name": "suborb",
+          "url": "https://github.com/suborb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14112787?s=40&v=4",
-          "name": "asarhaddon",
-          "url": "https://github.com/asarhaddon"
+          "avatar": "https://avatars.githubusercontent.com/u/10224992?s=40&v=4",
+          "name": "zx70",
+          "url": "https://github.com/zx70"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/631010?s=40&v=4",
-          "name": "bjh21",
-          "url": "https://github.com/bjh21"
+          "avatar": "https://avatars.githubusercontent.com/u/13653828?s=40&v=4",
+          "name": "aralbrec",
+          "url": "https://github.com/aralbrec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9211?s=40&v=4",
-          "name": "dubek",
-          "url": "https://github.com/dubek"
+          "avatar": "https://avatars.githubusercontent.com/u/70773?s=40&v=4",
+          "name": "pauloscustodio",
+          "url": "https://github.com/pauloscustodio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3588994?s=40&v=4",
-          "name": "wasamasa",
-          "url": "https://github.com/wasamasa"
+          "avatar": "https://avatars.githubusercontent.com/u/3955592?s=40&v=4",
+          "name": "feilipu",
+          "url": "https://github.com/feilipu"
+        }
+      ]
+    },
+    {
+      "title": "cirosantilli/x86-bare-metal-examples",
+      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "5,374",
+      "forks": "432",
+      "addStars": "33",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1429315?s=40&v=4",
+          "name": "cirosantilli",
+          "url": "https://github.com/cirosantilli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11829057?s=40&v=4",
+          "name": "liujunming",
+          "url": "https://github.com/liujunming"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8661784?s=40&v=4",
+          "name": "mpetch",
+          "url": "https://github.com/mpetch"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/762988?s=40&v=4",
+          "name": "davidbilge",
+          "url": "https://github.com/davidbilge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1664036?s=40&v=4",
+          "name": "antekone",
+          "url": "https://github.com/antekone"
         }
       ]
     },
@@ -306,8 +306,8 @@
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "438",
-      "forks": "180",
+      "stars": "439",
+      "forks": "181",
       "addStars": "2",
       "contributors": [
         {
@@ -375,103 +375,39 @@
       ]
     },
     {
-      "title": "vxunderground/MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "title": "kanaka/mal",
+      "url": "https://github.com/kanaka/mal",
+      "description": "mal - Make a Lisp",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "18,755",
-      "forks": "2,101",
-      "addStars": "104",
+      "stars": "10,741",
+      "forks": "2,709",
+      "addStars": "30",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
-          "name": "vxunderground",
-          "url": "https://github.com/vxunderground"
+          "avatar": "https://avatars.githubusercontent.com/u/70127?s=40&v=4",
+          "name": "kanaka",
+          "url": "https://github.com/kanaka"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
-          "name": "TheDuchy",
-          "url": "https://github.com/TheDuchy"
+          "avatar": "https://avatars.githubusercontent.com/u/14112787?s=40&v=4",
+          "name": "asarhaddon",
+          "url": "https://github.com/asarhaddon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
-          "name": "f0wl",
-          "url": "https://github.com/f0wl"
+          "avatar": "https://avatars.githubusercontent.com/u/631010?s=40&v=4",
+          "name": "bjh21",
+          "url": "https://github.com/bjh21"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
-          "name": "luca364",
-          "url": "https://github.com/luca364"
+          "avatar": "https://avatars.githubusercontent.com/u/9211?s=40&v=4",
+          "name": "dubek",
+          "url": "https://github.com/dubek"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
-          "name": "EduApps-CDG",
-          "url": "https://github.com/EduApps-CDG"
-        }
-      ]
-    },
-    {
-      "title": "cirosantilli/x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "5,374",
-      "forks": "432",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1429315?s=40&v=4",
-          "name": "cirosantilli",
-          "url": "https://github.com/cirosantilli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11829057?s=40&v=4",
-          "name": "liujunming",
-          "url": "https://github.com/liujunming"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8661784?s=40&v=4",
-          "name": "mpetch",
-          "url": "https://github.com/mpetch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/762988?s=40&v=4",
-          "name": "davidbilge",
-          "url": "https://github.com/davidbilge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1664036?s=40&v=4",
-          "name": "antekone",
-          "url": "https://github.com/antekone"
-        }
-      ]
-    },
-    {
-      "title": "ROCm/rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": "441",
-      "forks": "416",
-      "addStars": "29",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31079890?s=40&v=4",
-          "name": "ntrost57",
-          "url": "https://github.com/ntrost57"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63608002?s=40&v=4",
-          "name": "cgmillette",
-          "url": "https://github.com/cgmillette"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2676255?s=40&v=4",
-          "name": "KKyang",
-          "url": "https://github.com/KKyang"
+          "avatar": "https://avatars.githubusercontent.com/u/3588994?s=40&v=4",
+          "name": "wasamasa",
+          "url": "https://github.com/wasamasa"
         }
       ]
     },
@@ -509,6 +445,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/1895773?s=40&v=4",
           "name": "PikalaxALT",
           "url": "https://github.com/PikalaxALT"
+        }
+      ]
+    },
+    {
+      "title": "ROCm/rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "441",
+      "forks": "417",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31079890?s=40&v=4",
+          "name": "ntrost57",
+          "url": "https://github.com/ntrost57"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63608002?s=40&v=4",
+          "name": "cgmillette",
+          "url": "https://github.com/cgmillette"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2676255?s=40&v=4",
+          "name": "KKyang",
+          "url": "https://github.com/KKyang"
         }
       ]
     },
@@ -582,13 +545,50 @@
       ]
     },
     {
+      "title": "vxunderground/MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": "18,757",
+      "forks": "2,101",
+      "addStars": "104",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57078196?s=40&v=4",
+          "name": "vxunderground",
+          "url": "https://github.com/vxunderground"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25308360?s=40&v=4",
+          "name": "TheDuchy",
+          "url": "https://github.com/TheDuchy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7806106?s=40&v=4",
+          "name": "f0wl",
+          "url": "https://github.com/f0wl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26669887?s=40&v=4",
+          "name": "luca364",
+          "url": "https://github.com/luca364"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32627482?s=40&v=4",
+          "name": "EduApps-CDG",
+          "url": "https://github.com/EduApps-CDG"
+        }
+      ]
+    },
+    {
       "title": "BLAKE3-team/BLAKE3",
       "url": "https://github.com/BLAKE3-team/BLAKE3",
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": "6,454",
-      "forks": "483",
+      "forks": "484",
       "addStars": "65",
       "contributors": [
         {
@@ -619,108 +619,108 @@
       ]
     },
     {
-      "title": "Rangi42/polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "title": "riscv/riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "1,649",
-      "forks": "340",
-      "addStars": "21",
+      "stars": "796",
+      "forks": "369",
+      "addStars": "24",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1761576?s=40&v=4",
-          "name": "roukaour",
-          "url": "https://github.com/roukaour"
+          "avatar": "https://avatars.githubusercontent.com/u/25440394?s=40&v=4",
+          "name": "jordancarlin",
+          "url": "https://github.com/jordancarlin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35663410?s=40&v=4",
-          "name": "Rangi42",
-          "url": "https://github.com/Rangi42"
+          "avatar": "https://avatars.githubusercontent.com/u/74973295?s=40&v=4",
+          "name": "davidharrishmc",
+          "url": "https://github.com/davidharrishmc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5430027?s=40&v=4",
-          "name": "FredrIQ",
-          "url": "https://github.com/FredrIQ"
+          "avatar": "https://avatars.githubusercontent.com/u/55623682?s=40&v=4",
+          "name": "UmerShahidengr",
+          "url": "https://github.com/UmerShahidengr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1654211?s=40&v=4",
-          "name": "yenatch",
-          "url": "https://github.com/yenatch"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101238?s=40&v=4",
-          "name": "kanzure",
-          "url": "https://github.com/kanzure"
+          "avatar": "https://avatars.githubusercontent.com/u/5221573?s=40&v=4",
+          "name": "neelgala",
+          "url": "https://github.com/neelgala"
         }
       ]
     },
     {
-      "title": "NightFox-YT/Realix",
-      "url": "https://github.com/NightFox-YT/Realix",
-      "description": "Light hybrid OS (NASM x86 & Rust) with Russian codebase",
+      "title": "cemu-project/cemu_graphic_packs",
+      "url": "https://github.com/cemu-project/cemu_graphic_packs",
+      "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "56",
-      "forks": "14",
-      "addStars": "10",
+      "stars": "1,473",
+      "forks": "600",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/113231797?s=40&v=4",
-          "name": "NightFox-YT",
-          "url": "https://github.com/NightFox-YT"
+          "avatar": "https://avatars.githubusercontent.com/u/15317421?s=40&v=4",
+          "name": "RagdollClash",
+          "url": "https://github.com/RagdollClash"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/214972874?s=40&v=4",
-          "name": "Atimenka",
-          "url": "https://github.com/Atimenka"
+          "avatar": "https://avatars.githubusercontent.com/u/25286924?s=40&v=4",
+          "name": "getdls",
+          "url": "https://github.com/getdls"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/187098978?s=40&v=4",
-          "name": "Dimaslav",
-          "url": "https://github.com/Dimaslav"
+          "avatar": "https://avatars.githubusercontent.com/u/26669564?s=40&v=4",
+          "name": "Crementif",
+          "url": "https://github.com/Crementif"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/281353107?s=40&v=4",
-          "name": "Jeksonkd",
-          "url": "https://github.com/Jeksonkd"
+          "avatar": "https://avatars.githubusercontent.com/u/1132278?s=40&v=4",
+          "name": "JamieeLee",
+          "url": "https://github.com/JamieeLee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6061770?s=40&v=4",
+          "name": "alexkiri",
+          "url": "https://github.com/alexkiri"
         }
       ]
     },
     {
-      "title": "aws/aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "title": "bitdump/BLHeli",
+      "url": "https://github.com/bitdump/BLHeli",
+      "description": "BLHeli for brushless ESC firmware",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": "837",
-      "forks": "223",
-      "addStars": "14",
+      "stars": "2,233",
+      "forks": "1,153",
+      "addStars": "13",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109690?s=40&v=4",
-          "name": "davidben",
-          "url": "https://github.com/davidben"
+          "avatar": "https://avatars.githubusercontent.com/u/1584497?s=40&v=4",
+          "name": "sskaug",
+          "url": "https://github.com/sskaug"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21203?s=40&v=4",
-          "name": "agl",
-          "url": "https://github.com/agl"
+          "avatar": "https://avatars.githubusercontent.com/u/1628451?s=40&v=4",
+          "name": "4712",
+          "url": "https://github.com/4712"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/103147162?s=40&v=4",
-          "name": "justsmth",
-          "url": "https://github.com/justsmth"
+          "avatar": "https://avatars.githubusercontent.com/u/4254701?s=40&v=4",
+          "name": "Nick-HZ",
+          "url": "https://github.com/Nick-HZ"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/78765052?s=40&v=4",
-          "name": "jargh",
-          "url": "https://github.com/jargh"
+          "avatar": "https://avatars.githubusercontent.com/u/9960403?s=40&v=4",
+          "name": "JazzMaverick",
+          "url": "https://github.com/JazzMaverick"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11924508?s=40&v=4",
-          "name": "samuel40791765",
-          "url": "https://github.com/samuel40791765"
+          "avatar": "https://avatars.githubusercontent.com/u/55472?s=40&v=4",
+          "name": "adamhope",
+          "url": "https://github.com/adamhope"
         }
       ]
     }
