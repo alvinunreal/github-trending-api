@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 18:16:58 GMT",
+  "pubDate": "Wed, 30 Sep 2026 22:53:08 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -11,7 +11,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "6,525",
-      "forks": "1,513",
+      "forks": "1,515",
       "addStars": "255",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,229",
+      "stars": "10,231",
       "forks": "1,456",
       "addStars": "168",
       "contributors": [
@@ -85,7 +85,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "1,054",
-      "forks": "238",
+      "forks": "239",
       "addStars": "26",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,905",
-      "forks": "1,283",
+      "stars": "7,906",
+      "forks": "1,284",
       "addStars": "150",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,079",
+      "stars": "31,078",
       "forks": "3,767",
       "addStars": "233",
       "contributors": [
@@ -269,7 +269,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,524",
+      "stars": "2,525",
       "forks": "259",
       "addStars": "65",
       "contributors": [
@@ -417,7 +417,7 @@
       "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,240",
+      "stars": "2,239",
       "forks": "368",
       "addStars": "16",
       "contributors": [
