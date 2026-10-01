@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 22:53:08 GMT",
+  "pubDate": "Thu, 01 Oct 2026 06:47:44 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,525",
-      "forks": "1,515",
-      "addStars": "43",
+      "stars": "6,526",
+      "forks": "1,516",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#3A4E3A",
       "stars": "10,231",
       "forks": "1,456",
-      "addStars": "42",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,956",
-      "forks": "520",
-      "addStars": "60",
+      "stars": "3,957",
+      "forks": "521",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,257",
+      "stars": "1,258",
       "forks": "109",
-      "addStars": "44",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#3A4E3A",
       "stars": "17,565",
       "forks": "2,070",
-      "addStars": "11",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4923655?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,906",
-      "forks": "1,284",
-      "addStars": "42",
+      "stars": "7,907",
+      "forks": "1,285",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,054",
       "forks": "239",
-      "addStars": "11",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Weekly Trending",
   "description": "Weekly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 22:53:08 GMT",
+  "pubDate": "Thu, 01 Oct 2026 06:47:44 GMT",
   "items": [
     {
       "title": "harry7557558/spirula-studio",
@@ -10,9 +10,9 @@
       "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,304",
-      "forks": "105",
-      "addStars": "645",
+      "stars": "1,320",
+      "forks": "107",
+      "addStars": "622",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44143868?s=40&v=4",
@@ -35,9 +35,9 @@
           "url": "https://github.com/tutudoudou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3869356?s=40&v=4",
-          "name": "ev5unleash",
-          "url": "https://github.com/ev5unleash"
+          "avatar": "https://avatars.githubusercontent.com/u/169281683?s=40&v=4",
+          "name": "Niloux",
+          "url": "https://github.com/Niloux"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,479",
-      "forks": "840",
-      "addStars": "384",
+      "stars": "7,481",
+      "forks": "842",
+      "addStars": "360",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31925346?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "5,341",
-      "forks": "338",
-      "addStars": "282",
+      "stars": "5,345",
+      "forks": "339",
+      "addStars": "313",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87016106?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "200,644",
-      "forks": "77,989",
-      "addStars": "435",
+      "stars": "200,645",
+      "forks": "77,990",
+      "addStars": "428",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "19,983",
+      "stars": "19,986",
       "forks": "1,494",
-      "addStars": "186",
+      "addStars": "165",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8676005?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,033",
-      "forks": "2,590",
-      "addStars": "112",
+      "stars": "33,035",
+      "forks": "2,591",
+      "addStars": "110",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4313123?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,461",
+      "stars": "1,464",
       "forks": "175",
-      "addStars": "61",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87139854?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "FlatBuffers: Memory Efficient Serialization Library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,534",
-      "forks": "3,682",
-      "addStars": "48",
+      "stars": "26,537",
+      "forks": "3,681",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1477247?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "Mesh optimization library that makes meshes smaller and faster to render",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "8,480",
+      "stars": "8,482",
       "forks": "751",
-      "addStars": "118",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1106629?s=40&v=4",
@@ -343,9 +343,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "50,168",
-      "forks": "9,036",
-      "addStars": "146",
+      "stars": "50,178",
+      "forks": "9,038",
+      "addStars": "147",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4",
@@ -380,8 +380,8 @@
       "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "14,443",
-      "forks": "3,533",
+      "stars": "14,445",
+      "forks": "3,535",
       "addStars": "30",
       "contributors": [
         {
@@ -417,9 +417,9 @@
       "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,163",
-      "forks": "3,317",
-      "addStars": "41",
+      "stars": "15,164",
+      "forks": "3,318",
+      "addStars": "40",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67867444?s=40&v=4",
@@ -454,9 +454,9 @@
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,756",
-      "forks": "5,676",
-      "addStars": "34",
+      "stars": "11,758",
+      "forks": "5,675",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/663432?s=40&v=4",
@@ -486,9 +486,9 @@
       "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,754",
-      "forks": "1,799",
-      "addStars": "32",
+      "stars": "6,787",
+      "forks": "1,800",
+      "addStars": "63",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73870?s=40&v=4",

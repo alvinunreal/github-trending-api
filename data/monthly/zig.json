@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 22:53:08 GMT",
+  "pubDate": "Thu, 01 Oct 2026 06:47:44 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,9 +10,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,666",
+      "stars": "1,671",
       "forks": "172",
-      "addStars": "792",
+      "addStars": "679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#ec915c",
       "stars": "2,767",
       "forks": "163",
-      "addStars": "221",
+      "addStars": "214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42089082?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,118",
+      "stars": "2,122",
       "forks": "104",
-      "addStars": "738",
+      "addStars": "679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33665156?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "35,666",
+      "stars": "35,671",
       "forks": "1,694",
-      "addStars": "1,461",
+      "addStars": "1,445",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,453",
+      "stars": "2,454",
       "forks": "121",
-      "addStars": "265",
+      "addStars": "266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1552770?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "a dynamic language for the joy of programming",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "456",
+      "stars": "457",
       "forks": "18",
-      "addStars": "197",
+      "addStars": "160",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62560250?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,162",
+      "stars": "1,163",
       "forks": "93",
-      "addStars": "94",
+      "addStars": "91",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40698010?s=40&v=4",
@@ -256,7 +256,7 @@
       "languageColor": "#ec915c",
       "stars": "17,120",
       "forks": "909",
-      "addStars": "191",
+      "addStars": "193",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,740",
-      "forks": "3,548",
-      "addStars": "1,396",
+      "stars": "61,750",
+      "forks": "3,550",
+      "addStars": "1,354",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -324,8 +324,8 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "984",
-      "forks": "76",
-      "addStars": "60",
+      "forks": "77",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,151",
+      "stars": "5,152",
       "forks": "451",
-      "addStars": "61",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,118",
-      "forks": "188",
-      "addStars": "91",
+      "stars": "4,122",
+      "forks": "189",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137467?s=40&v=4",
