@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 06:47:44 GMT",
+  "pubDate": "Thu, 01 Oct 2026 14:19:44 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,7 +10,7 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,671",
+      "stars": "1,675",
       "forks": "172",
       "addStars": "154",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "61,750",
-      "forks": "3,550",
+      "stars": "61,764",
+      "forks": "3,551",
       "addStars": "300",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,733",
+      "stars": "7,734",
       "forks": "323",
       "addStars": "31",
       "contributors": [
@@ -102,43 +102,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
           "name": "Railly",
           "url": "https://github.com/Railly"
-        }
-      ]
-    },
-    {
-      "title": "tigerbeetle/tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "17,120",
-      "forks": "909",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
-          "name": "sentientwaffle",
-          "url": "https://github.com/sentientwaffle"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
-          "name": "matklad",
-          "url": "https://github.com/matklad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5728002?s=40&v=4",
-          "name": "batiati",
-          "url": "https://github.com/batiati"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/413206?s=40&v=4",
-          "name": "jorangreef",
-          "url": "https://github.com/jorangreef"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&v=4",
-          "name": "cb22",
-          "url": "https://github.com/cb22"
         }
       ]
     },
@@ -180,70 +143,6 @@
       ]
     },
     {
-      "title": "sleep3r/mtproto.zig",
-      "url": "https://github.com/sleep3r/mtproto.zig",
-      "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "2,122",
-      "forks": "104",
-      "addStars": "173",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33665156?s=40&v=4",
-          "name": "sleep3r",
-          "url": "https://github.com/sleep3r"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9842424?s=40&v=4",
-          "name": "va4st",
-          "url": "https://github.com/va4st"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64381618?s=40&v=4",
-          "name": "ishad0w",
-          "url": "https://github.com/ishad0w"
-        }
-      ]
-    },
-    {
-      "title": "tonybanters/oxwm",
-      "url": "https://github.com/tonybanters/oxwm",
-      "description": "",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "984",
-      "forks": "77",
-      "addStars": "23",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
-          "name": "tonybanters",
-          "url": "https://github.com/tonybanters"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
-          "name": "emzywastaken",
-          "url": "https://github.com/emzywastaken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
-          "name": "Mr-Emacs",
-          "url": "https://github.com/Mr-Emacs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
-          "name": "ScottADeJong",
-          "url": "https://github.com/ScottADeJong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
-          "name": "Iziram",
-          "url": "https://github.com/Iziram"
-        }
-      ]
-    },
-    {
       "title": "zml/zml",
       "url": "https://github.com/zml/zml",
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
@@ -281,39 +180,103 @@
       ]
     },
     {
-      "title": "PixelGuys/Cubyz",
-      "url": "https://github.com/PixelGuys/Cubyz",
-      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+      "title": "tigerbeetle/tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,678",
-      "forks": "244",
-      "addStars": "10",
+      "stars": "17,122",
+      "forks": "910",
+      "addStars": "40",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/43880493?s=40&v=4",
-          "name": "IntegratedQuantum",
-          "url": "https://github.com/IntegratedQuantum"
+          "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
+          "name": "sentientwaffle",
+          "url": "https://github.com/sentientwaffle"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/122191047?s=40&v=4",
-          "name": "careeoki",
-          "url": "https://github.com/careeoki"
+          "avatar": "https://avatars.githubusercontent.com/u/1711539?s=40&v=4",
+          "name": "matklad",
+          "url": "https://github.com/matklad"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56170852?s=40&v=4",
-          "name": "Argmaster",
-          "url": "https://github.com/Argmaster"
+          "avatar": "https://avatars.githubusercontent.com/u/5728002?s=40&v=4",
+          "name": "batiati",
+          "url": "https://github.com/batiati"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56411012?s=40&v=4",
-          "name": "Wunka",
-          "url": "https://github.com/Wunka"
+          "avatar": "https://avatars.githubusercontent.com/u/413206?s=40&v=4",
+          "name": "jorangreef",
+          "url": "https://github.com/jorangreef"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69110900?s=40&v=4",
-          "name": "codemob-dev",
-          "url": "https://github.com/codemob-dev"
+          "avatar": "https://avatars.githubusercontent.com/u/703017?s=40&v=4",
+          "name": "cb22",
+          "url": "https://github.com/cb22"
+        }
+      ]
+    },
+    {
+      "title": "tonybanters/oxwm",
+      "url": "https://github.com/tonybanters/oxwm",
+      "description": "",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "985",
+      "forks": "77",
+      "addStars": "23",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
+          "name": "tonybanters",
+          "url": "https://github.com/tonybanters"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
+          "name": "emzywastaken",
+          "url": "https://github.com/emzywastaken"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
+          "name": "Mr-Emacs",
+          "url": "https://github.com/Mr-Emacs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
+          "name": "ScottADeJong",
+          "url": "https://github.com/ScottADeJong"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
+          "name": "Iziram",
+          "url": "https://github.com/Iziram"
+        }
+      ]
+    },
+    {
+      "title": "sleep3r/mtproto.zig",
+      "url": "https://github.com/sleep3r/mtproto.zig",
+      "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": "2,122",
+      "forks": "103",
+      "addStars": "173",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33665156?s=40&v=4",
+          "name": "sleep3r",
+          "url": "https://github.com/sleep3r"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9842424?s=40&v=4",
+          "name": "va4st",
+          "url": "https://github.com/va4st"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64381618?s=40&v=4",
+          "name": "ishad0w",
+          "url": "https://github.com/ishad0w"
         }
       ]
     },
@@ -323,8 +286,8 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,305",
-      "forks": "3,194",
+      "stars": "43,307",
+      "forks": "3,193",
       "addStars": "21",
       "contributors": [
         {
@@ -360,8 +323,8 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,767",
-      "forks": "163",
+      "stars": "2,768",
+      "forks": "164",
       "addStars": "31",
       "contributors": [
         {

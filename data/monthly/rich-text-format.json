@@ -2,8 +2,45 @@
   "title": "GitHub Rich-text-format Languages Monthly Trending",
   "description": "Monthly Trending of Rich-text-format Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 06:47:44 GMT",
+  "pubDate": "Thu, 01 Oct 2026 14:19:44 GMT",
   "items": [
+    {
+      "title": "pzqpzq/Principia",
+      "url": "https://github.com/pzqpzq/Principia",
+      "description": "Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect why an idea may be worth testing.",
+      "language": "Rich Text Format",
+      "languageColor": "#ccc",
+      "stars": "947",
+      "forks": "49",
+      "addStars": "263",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20227945?s=40&v=4",
+          "name": "pzqpzq",
+          "url": "https://github.com/pzqpzq"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152078576?s=40&v=4",
+          "name": "Super-nova2",
+          "url": "https://github.com/Super-nova2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/156801807?s=40&v=4",
+          "name": "CatalpaXtra",
+          "url": "https://github.com/CatalpaXtra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/214975157?s=40&v=4",
+          "name": "GCXGH",
+          "url": "https://github.com/GCXGH"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104754325?s=40&v=4",
+          "name": "zhangwei-1999",
+          "url": "https://github.com/zhangwei-1999"
+        }
+      ]
+    },
     {
       "title": "MacDownApp/macdown",
       "url": "https://github.com/MacDownApp/macdown",
@@ -38,43 +75,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/251087?s=40&v=4",
           "name": "adamwulf",
           "url": "https://github.com/adamwulf"
-        }
-      ]
-    },
-    {
-      "title": "pzqpzq/Principia",
-      "url": "https://github.com/pzqpzq/Principia",
-      "description": "Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect why an idea may be worth testing.",
-      "language": "Rich Text Format",
-      "languageColor": "#ccc",
-      "stars": "944",
-      "forks": "48",
-      "addStars": "263",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20227945?s=40&v=4",
-          "name": "pzqpzq",
-          "url": "https://github.com/pzqpzq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152078576?s=40&v=4",
-          "name": "Super-nova2",
-          "url": "https://github.com/Super-nova2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/156801807?s=40&v=4",
-          "name": "CatalpaXtra",
-          "url": "https://github.com/CatalpaXtra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/214975157?s=40&v=4",
-          "name": "GCXGH",
-          "url": "https://github.com/GCXGH"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104754325?s=40&v=4",
-          "name": "zhangwei-1999",
-          "url": "https://github.com/zhangwei-1999"
         }
       ]
     },
@@ -116,7 +116,7 @@
       "description": "Simulate DLSS Upscaler and DLSS-G Frame Generation features on any DirectX 12 compatible GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
       "language": "Rich Text Format",
       "languageColor": "#ccc",
-      "stars": "1,365",
+      "stars": "1,366",
       "forks": "41",
       "addStars": "77",
       "contributors": [
@@ -139,7 +139,7 @@
       "language": "Rich Text Format",
       "languageColor": "#ccc",
       "stars": "1,166",
-      "forks": "41,836",
+      "forks": "41,841",
       "addStars": "2",
       "contributors": [
         {

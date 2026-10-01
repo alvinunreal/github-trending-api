@@ -3,7 +3,45 @@
     <title>GitHub Haskell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Haskell Languages in GitHub</description>
-    <pubDate>Thu, 01 Oct 2026 06:47:44 GMT</pubDate>
+    <pubDate>Thu, 01 Oct 2026 14:19:44 GMT</pubDate>
+    <item>
+      <title>jgm/pandoc</title>
+      <link>https://github.com/jgm/pandoc</link>
+      <description>Universal markup converter</description>
+      <guid>https://github.com/jgm/pandoc</guid>
+      <language>Haskell</language>
+      <languageColor>#5e5086</languageColor>
+      <stars>46,470</stars>
+      <forks>5,270</forks>
+      <addStars>92</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3044?s=40&amp;v=4</avatar>
+          <name>jgm</name>
+          <url>https://github.com/jgm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/507994?s=40&amp;v=4</avatar>
+          <name>tarleb</name>
+          <url>https://github.com/tarleb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/835121?s=40&amp;v=4</avatar>
+          <name>jkr</name>
+          <url>https://github.com/jkr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1216657?s=40&amp;v=4</avatar>
+          <name>mpickering</name>
+          <url>https://github.com/mpickering</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>hadolint/hadolint</title>
       <link>https://github.com/hadolint/hadolint</link>
@@ -38,40 +76,35 @@
       </contributors>
     </item>
     <item>
-      <title>jgm/pandoc</title>
-      <link>https://github.com/jgm/pandoc</link>
-      <description>Universal markup converter</description>
-      <guid>https://github.com/jgm/pandoc</guid>
+      <title>haskell/cabal</title>
+      <link>https://github.com/haskell/cabal</link>
+      <description>Official upstream development repository for Cabal and cabal-install</description>
+      <guid>https://github.com/haskell/cabal</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>46,463</stars>
-      <forks>5,270</forks>
-      <addStars>92</addStars>
+      <stars>1,744</stars>
+      <forks>753</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3044?s=40&amp;v=4</avatar>
-          <name>jgm</name>
-          <url>https://github.com/jgm</url>
+          <avatar>https://avatars.githubusercontent.com/u/47439?s=40&amp;v=4</avatar>
+          <name>23Skidoo</name>
+          <url>https://github.com/23Skidoo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/507994?s=40&amp;v=4</avatar>
-          <name>tarleb</name>
-          <url>https://github.com/tarleb</url>
+          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
+          <name>dcoutts</name>
+          <url>https://github.com/dcoutts</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/835121?s=40&amp;v=4</avatar>
-          <name>jkr</name>
-          <url>https://github.com/jkr</url>
+          <avatar>https://avatars.githubusercontent.com/u/51087?s=40&amp;v=4</avatar>
+          <name>phadej</name>
+          <url>https://github.com/phadej</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1216657?s=40&amp;v=4</avatar>
-          <name>mpickering</name>
-          <url>https://github.com/mpickering</url>
+          <avatar>https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4</avatar>
+          <name>ezyang</name>
+          <url>https://github.com/ezyang</url>
         </contributor>
       </contributors>
     </item>
@@ -82,8 +115,8 @@
       <guid>https://github.com/koalaman/shellcheck</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>40,109</stars>
-      <forks>1,953</forks>
+      <stars>40,108</stars>
+      <forks>1,954</forks>
       <addStars>31</addStars>
       <contributors>
         <contributor>
@@ -114,35 +147,35 @@
       </contributors>
     </item>
     <item>
-      <title>haskell/cabal</title>
-      <link>https://github.com/haskell/cabal</link>
-      <description>Official upstream development repository for Cabal and cabal-install</description>
-      <guid>https://github.com/haskell/cabal</guid>
+      <title>digital-asset/daml</title>
+      <link>https://github.com/digital-asset/daml</link>
+      <description>The Daml smart contract language</description>
+      <guid>https://github.com/digital-asset/daml</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>1,744</stars>
-      <forks>753</forks>
+      <stars>917</stars>
+      <forks>263</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47439?s=40&amp;v=4</avatar>
-          <name>23Skidoo</name>
-          <url>https://github.com/23Skidoo</url>
+          <avatar>https://avatars.githubusercontent.com/u/1313584?s=40&amp;v=4</avatar>
+          <name>cocreature</name>
+          <url>https://github.com/cocreature</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
+          <avatar>https://avatars.githubusercontent.com/u/45566104?s=40&amp;v=4</avatar>
+          <name>remyhaemmerle-da</name>
+          <url>https://github.com/remyhaemmerle-da</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51087?s=40&amp;v=4</avatar>
-          <name>phadej</name>
-          <url>https://github.com/phadej</url>
+          <avatar>https://avatars.githubusercontent.com/u/45561385?s=40&amp;v=4</avatar>
+          <name>garyverhaegen-da</name>
+          <url>https://github.com/garyverhaegen-da</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13564?s=40&amp;v=4</avatar>
-          <name>ezyang</name>
-          <url>https://github.com/ezyang</url>
+          <avatar>https://avatars.githubusercontent.com/u/43749967?s=40&amp;v=4</avatar>
+          <name>stefanobaghino-da</name>
+          <url>https://github.com/stefanobaghino-da</url>
         </contributor>
       </contributors>
     </item>
@@ -223,79 +256,13 @@
       </contributors>
     </item>
     <item>
-      <title>IntersectMBO/cardano-node</title>
-      <link>https://github.com/IntersectMBO/cardano-node</link>
-      <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
-      <guid>https://github.com/IntersectMBO/cardano-node</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>3,178</stars>
-      <forks>757</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9418537?s=40&amp;v=4</avatar>
-          <name>Jimbo4350</name>
-          <url>https://github.com/Jimbo4350</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63014?s=40&amp;v=4</avatar>
-          <name>newhoggy</name>
-          <url>https://github.com/newhoggy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1339423?s=40&amp;v=4</avatar>
-          <name>dcoutts</name>
-          <url>https://github.com/dcoutts</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/452652?s=40&amp;v=4</avatar>
-          <name>deepfire</name>
-          <url>https://github.com/deepfire</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>digital-asset/daml</title>
-      <link>https://github.com/digital-asset/daml</link>
-      <description>The Daml smart contract language</description>
-      <guid>https://github.com/digital-asset/daml</guid>
-      <language>Haskell</language>
-      <languageColor>#5e5086</languageColor>
-      <stars>917</stars>
-      <forks>263</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1313584?s=40&amp;v=4</avatar>
-          <name>cocreature</name>
-          <url>https://github.com/cocreature</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45566104?s=40&amp;v=4</avatar>
-          <name>remyhaemmerle-da</name>
-          <url>https://github.com/remyhaemmerle-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45561385?s=40&amp;v=4</avatar>
-          <name>garyverhaegen-da</name>
-          <url>https://github.com/garyverhaegen-da</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43749967?s=40&amp;v=4</avatar>
-          <name>stefanobaghino-da</name>
-          <url>https://github.com/stefanobaghino-da</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>simplex-chat/simplex-chat</title>
       <link>https://github.com/simplex-chat/simplex-chat</link>
       <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
       <guid>https://github.com/simplex-chat/simplex-chat</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>19,508</stars>
+      <stars>19,510</stars>
       <forks>1,360</forks>
       <addStars>54</addStars>
       <contributors>
@@ -366,7 +333,7 @@
       <guid>https://github.com/PostgREST/postgrest</guid>
       <language>Haskell</language>
       <languageColor>#5e5086</languageColor>
-      <stars>27,691</stars>
+      <stars>27,692</stars>
       <forks>1,229</forks>
       <addStars>18</addStars>
       <contributors>
