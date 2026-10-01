@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 14:19:44 GMT",
+  "pubDate": "Thu, 01 Oct 2026 18:42:21 GMT",
   "items": [
     {
       "title": "peazip/PeaZip",
@@ -47,7 +47,7 @@
       "description": "Goverlay is an easy graphical interface to configure linux gaming applications",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,514",
+      "stars": "1,515",
       "forks": "68",
       "addStars": "18",
       "contributors": [
@@ -122,7 +122,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "16,890",
-      "forks": "4,056",
+      "forks": "4,055",
       "addStars": "13",
       "contributors": [
         {
@@ -334,43 +334,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/2236426?s=40&v=4",
           "name": "Hugues92",
           "url": "https://github.com/Hugues92"
-        }
-      ]
-    },
-    {
-      "title": "GDKsoftware/Markdown4D",
-      "url": "https://github.com/GDKsoftware/Markdown4D",
-      "description": "Native Delphi Markdown library: CommonMark/GFM parser with public AST, incremental/streaming parsing, HTML renderer, markdown writer, and custom-drawn VCL & FMX viewer/editor components",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "64",
-      "forks": "14",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22293897?s=40&v=4",
-          "name": "cmgeuze",
-          "url": "https://github.com/cmgeuze"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/138818?s=40&v=4",
-          "name": "bero",
-          "url": "https://github.com/bero"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2305126?s=40&v=4",
-          "name": "panjunbiao",
-          "url": "https://github.com/panjunbiao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1037262?s=40&v=4",
-          "name": "vincentparrett",
-          "url": "https://github.com/vincentparrett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10000781?s=40&v=4",
-          "name": "quarkz-de",
-          "url": "https://github.com/quarkz-de"
         }
       ]
     }
