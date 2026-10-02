@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Monthly Trending",
   "description": "Monthly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 06:38:47 GMT",
+  "pubDate": "Fri, 02 Oct 2026 13:41:34 GMT",
   "items": [
     {
       "title": "NationalSecurityAgency/ghidra",
@@ -10,8 +10,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "80,268",
-      "forks": "8,939",
+      "stars": "80,301",
+      "forks": "8,942",
       "addStars": "6,128",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "61,799",
-      "forks": "7,731",
+      "stars": "61,815",
+      "forks": "7,732",
       "addStars": "1,770",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "A fork of NagramX with additional features.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "912",
+      "stars": "914",
       "forks": "61",
       "addStars": "219",
       "contributors": [
@@ -107,75 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/56506714?s=40&v=4",
           "name": "nekohasekai",
           "url": "https://github.com/nekohasekai"
-        }
-      ]
-    },
-    {
-      "title": "GeyserMC/Geyser",
-      "url": "https://github.com/GeyserMC/Geyser",
-      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "5,852",
-      "forks": "896",
-      "addStars": "89",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20743703?s=40&v=4",
-          "name": "Camotoy",
-          "url": "https://github.com/Camotoy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105284508?s=40&v=4",
-          "name": "onebeastchris",
-          "url": "https://github.com/onebeastchris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29153871?s=40&v=4",
-          "name": "Redned235",
-          "url": "https://github.com/Redned235"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5401186?s=40&v=4",
-          "name": "rtm516",
-          "url": "https://github.com/rtm516"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116838833?s=40&v=4",
-          "name": "eclipseisoffline",
-          "url": "https://github.com/eclipseisoffline"
-        }
-      ]
-    },
-    {
-      "title": "keycloak/keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "37,092",
-      "forks": "9,001",
-      "addStars": "587",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
-          "name": "stianst",
-          "url": "https://github.com/stianst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4",
-          "name": "patriot1burke",
-          "url": "https://github.com/patriot1burke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4",
-          "name": "mposolda",
-          "url": "https://github.com/mposolda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4",
-          "name": "edewit",
-          "url": "https://github.com/edewit"
         }
       ]
     },
@@ -217,13 +148,136 @@
       ]
     },
     {
+      "title": "GeyserMC/Geyser",
+      "url": "https://github.com/GeyserMC/Geyser",
+      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "5,853",
+      "forks": "896",
+      "addStars": "89",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20743703?s=40&v=4",
+          "name": "Camotoy",
+          "url": "https://github.com/Camotoy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105284508?s=40&v=4",
+          "name": "onebeastchris",
+          "url": "https://github.com/onebeastchris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29153871?s=40&v=4",
+          "name": "Redned235",
+          "url": "https://github.com/Redned235"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5401186?s=40&v=4",
+          "name": "rtm516",
+          "url": "https://github.com/rtm516"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116838833?s=40&v=4",
+          "name": "eclipseisoffline",
+          "url": "https://github.com/eclipseisoffline"
+        }
+      ]
+    },
+    {
+      "title": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "37,099",
+      "forks": "9,002",
+      "addStars": "587",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2271511?s=40&v=4",
+          "name": "stianst",
+          "url": "https://github.com/stianst"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/704239?s=40&v=4",
+          "name": "patriot1burke",
+          "url": "https://github.com/patriot1burke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1223965?s=40&v=4",
+          "name": "mposolda",
+          "url": "https://github.com/mposolda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51133?s=40&v=4",
+          "name": "edewit",
+          "url": "https://github.com/edewit"
+        }
+      ]
+    },
+    {
+      "title": "00-Evan/shattered-pixel-dungeon",
+      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "6,595",
+      "forks": "1,645",
+      "addStars": "130",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2347603?s=40&v=4",
+          "name": "00-Evan",
+          "url": "https://github.com/00-Evan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/594670?s=40&v=4",
+          "name": "watabou",
+          "url": "https://github.com/watabou"
+        }
+      ]
+    },
+    {
+      "title": "Suwayomi/Suwayomi-Server",
+      "url": "https://github.com/Suwayomi/Suwayomi-Server",
+      "description": "A rewrite of Tachiyomi for the Desktop",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "7,787",
+      "forks": "465",
+      "addStars": "278",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8719233?s=40&v=4",
+          "name": "AriaMoradi",
+          "url": "https://github.com/AriaMoradi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6090655?s=40&v=4",
+          "name": "Syer10",
+          "url": "https://github.com/Syer10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50052685?s=40&v=4",
+          "name": "schroda",
+          "url": "https://github.com/schroda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59023762?s=40&v=4",
+          "name": "cpiber",
+          "url": "https://github.com/cpiber"
+        }
+      ]
+    },
+    {
       "title": "AntennaPod/AntennaPod",
       "url": "https://github.com/AntennaPod/AntennaPod",
       "description": "A podcast manager for Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,198",
-      "forks": "1,807",
+      "stars": "8,199",
+      "forks": "1,808",
       "addStars": "90",
       "contributors": [
         {
@@ -254,24 +308,34 @@
       ]
     },
     {
-      "title": "00-Evan/shattered-pixel-dungeon",
-      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
-      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+      "title": "quarkusio/quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,593",
-      "forks": "1,644",
-      "addStars": "130",
+      "stars": "15,917",
+      "forks": "3,322",
+      "addStars": "86",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2347603?s=40&v=4",
-          "name": "00-Evan",
-          "url": "https://github.com/00-Evan"
+          "avatar": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
+          "name": "gsmet",
+          "url": "https://github.com/gsmet"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/594670?s=40&v=4",
-          "name": "watabou",
-          "url": "https://github.com/watabou"
+          "avatar": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
+          "name": "geoand",
+          "url": "https://github.com/geoand"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54133?s=40&v=4",
+          "name": "gastaldi",
+          "url": "https://github.com/gastaldi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/328571?s=40&v=4",
+          "name": "stuartwdouglas",
+          "url": "https://github.com/stuartwdouglas"
         }
       ]
     },
@@ -281,7 +345,7 @@
       "description": "Modern super user interface implementation on Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,250",
+      "stars": "4,249",
       "forks": "463",
       "addStars": "84",
       "contributors": [
@@ -318,7 +382,7 @@
       "description": "Termux add-on app which exposes device functionality as API to command line programs.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,400",
+      "stars": "4,403",
       "forks": "940",
       "addStars": "168",
       "contributors": [
@@ -355,7 +419,7 @@
       "description": "开源 AI CRM，Salesforce 开源替代 + ChatGPT 式 AI 助手：客户管理、知识库查询、任务执行，全程对话完成。Open-source AI CRM and Salesforce alternative powered by conversational AI.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "2,000",
+      "stars": "2,003",
       "forks": "319",
       "addStars": "687",
       "contributors": [
@@ -387,82 +451,13 @@
       ]
     },
     {
-      "title": "quarkusio/quarkus",
-      "url": "https://github.com/quarkusio/quarkus",
-      "description": "Quarkus: Supersonic Subatomic Java.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "15,918",
-      "forks": "3,321",
-      "addStars": "86",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
-          "name": "gsmet",
-          "url": "https://github.com/gsmet"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4374975?s=40&v=4",
-          "name": "geoand",
-          "url": "https://github.com/geoand"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54133?s=40&v=4",
-          "name": "gastaldi",
-          "url": "https://github.com/gastaldi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/328571?s=40&v=4",
-          "name": "stuartwdouglas",
-          "url": "https://github.com/stuartwdouglas"
-        }
-      ]
-    },
-    {
-      "title": "karma9874/AndroRAT",
-      "url": "https://github.com/karma9874/AndroRAT",
-      "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "5,165",
-      "forks": "1,661",
-      "addStars": "114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33444666?s=40&v=4",
-          "name": "karma9874",
-          "url": "https://github.com/karma9874"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54432616?s=40&v=4",
-          "name": "graysuit",
-          "url": "https://github.com/graysuit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17449596?s=40&v=4",
-          "name": "Inv3nt0r1",
-          "url": "https://github.com/Inv3nt0r1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1448245?s=40&v=4",
-          "name": "marcio-codes",
-          "url": "https://github.com/marcio-codes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35833124?s=40&v=4",
-          "name": "HyperL0gL0g",
-          "url": "https://github.com/HyperL0gL0g"
-        }
-      ]
-    },
-    {
       "title": "AndroidIDEOfficial/AndroidIDE",
       "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
       "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,182",
-      "forks": "667",
+      "stars": "3,184",
+      "forks": "668",
       "addStars": "105",
       "contributors": [
         {
@@ -479,6 +474,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/75083264?s=40&v=4",
           "name": "deepkrg",
           "url": "https://github.com/deepkrg"
+        }
+      ]
+    },
+    {
+      "title": "thingsboard/thingsboard",
+      "url": "https://github.com/thingsboard/thingsboard",
+      "description": "All-in-one IoT Platform - Device management, data collection, processing and visualization.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "22,503",
+      "forks": "6,488",
+      "addStars": "196",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8308069?s=40&v=4",
+          "name": "ikulikov",
+          "url": "https://github.com/ikulikov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5016373?s=40&v=4",
+          "name": "ashvayka",
+          "url": "https://github.com/ashvayka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56742475?s=40&v=4",
+          "name": "ViacheslavKlimov",
+          "url": "https://github.com/ViacheslavKlimov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18036670?s=40&v=4",
+          "name": "vvlladd28",
+          "url": "https://github.com/vvlladd28"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3466101?s=40&v=4",
+          "name": "volodymyr-babak",
+          "url": "https://github.com/volodymyr-babak"
+        }
+      ]
+    },
+    {
+      "title": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "93,433",
+      "forks": "10,071",
+      "addStars": "2,539",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
+          "name": "Frooodle",
+          "url": "https://github.com/Frooodle"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
+          "name": "Ludy87",
+          "url": "https://github.com/Ludy87"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
+          "name": "jbrunton96",
+          "url": "https://github.com/jbrunton96"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40631091?s=40&v=4",
+          "name": "ConnorYoh",
+          "url": "https://github.com/ConnorYoh"
         }
       ]
     },
@@ -515,34 +579,39 @@
       ]
     },
     {
-      "title": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "title": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "93,417",
-      "forks": "10,037",
-      "addStars": "2,539",
+      "stars": "78,182",
+      "forks": "26,105",
+      "addStars": "402",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/77850077?s=40&v=4",
-          "name": "Frooodle",
-          "url": "https://github.com/Frooodle"
+          "avatar": "https://avatars.githubusercontent.com/u/58790826?s=40&v=4",
+          "name": "elasticsearchmachine",
+          "url": "https://github.com/elasticsearchmachine"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4592558?s=40&v=4",
-          "name": "Ludy87",
-          "url": "https://github.com/Ludy87"
+          "avatar": "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
+          "name": "kimchy",
+          "url": "https://github.com/kimchy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15197528?s=40&v=4",
-          "name": "jbrunton96",
-          "url": "https://github.com/jbrunton96"
+          "avatar": "https://avatars.githubusercontent.com/u/215970?s=40&v=4",
+          "name": "nik9000",
+          "url": "https://github.com/nik9000"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/40631091?s=40&v=4",
-          "name": "ConnorYoh",
-          "url": "https://github.com/ConnorYoh"
+          "avatar": "https://avatars.githubusercontent.com/u/580421?s=40&v=4",
+          "name": "martijnvg",
+          "url": "https://github.com/martijnvg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/973334?s=40&v=4",
+          "name": "s1monw",
+          "url": "https://github.com/s1monw"
         }
       ]
     },
@@ -552,8 +621,8 @@
       "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,901",
-      "forks": "1,102",
+      "stars": "8,903",
+      "forks": "1,103",
       "addStars": "75",
       "contributors": [
         {
@@ -584,39 +653,76 @@
       ]
     },
     {
-      "title": "thingsboard/thingsboard",
-      "url": "https://github.com/thingsboard/thingsboard",
-      "description": "All-in-one IoT Platform - Device management, data collection, processing and visualization.",
+      "title": "spring-projects/spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "22,501",
-      "forks": "6,488",
-      "addStars": "196",
+      "stars": "81,549",
+      "forks": "43,735",
+      "addStars": "276",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8308069?s=40&v=4",
-          "name": "ikulikov",
-          "url": "https://github.com/ikulikov"
+          "avatar": "https://avatars.githubusercontent.com/u/914682?s=40&v=4",
+          "name": "wilkinsona",
+          "url": "https://github.com/wilkinsona"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5016373?s=40&v=4",
-          "name": "ashvayka",
-          "url": "https://github.com/ashvayka"
+          "avatar": "https://avatars.githubusercontent.com/u/490484?s=40&v=4",
+          "name": "snicoll",
+          "url": "https://github.com/snicoll"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56742475?s=40&v=4",
-          "name": "ViacheslavKlimov",
-          "url": "https://github.com/ViacheslavKlimov"
+          "avatar": "https://avatars.githubusercontent.com/u/519772?s=40&v=4",
+          "name": "philwebb",
+          "url": "https://github.com/philwebb"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/18036670?s=40&v=4",
-          "name": "vvlladd28",
-          "url": "https://github.com/vvlladd28"
+          "avatar": "https://avatars.githubusercontent.com/u/98899556?s=40&v=4",
+          "name": "mhalbritter",
+          "url": "https://github.com/mhalbritter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3466101?s=40&v=4",
-          "name": "volodymyr-babak",
-          "url": "https://github.com/volodymyr-babak"
+          "avatar": "https://avatars.githubusercontent.com/u/1761408?s=40&v=4",
+          "name": "mbhave",
+          "url": "https://github.com/mbhave"
+        }
+      ]
+    },
+    {
+      "title": "jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "48,060",
+      "forks": "16,199",
+      "addStars": "535",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3162115?s=40&v=4",
+          "name": "zhangdaiscott",
+          "url": "https://github.com/zhangdaiscott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8199499?s=40&v=4",
+          "name": "liaozhiyang",
+          "url": "https://github.com/liaozhiyang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73815154?s=40&v=4",
+          "name": "xlh12306",
+          "url": "https://github.com/xlh12306"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39980681?s=40&v=4",
+          "name": "yann0001",
+          "url": "https://github.com/yann0001"
         }
       ]
     },
@@ -649,117 +755,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/106383?s=40&v=4",
           "name": "JesusFreke",
           "url": "https://github.com/JesusFreke"
-        }
-      ]
-    },
-    {
-      "title": "elastic/elasticsearch",
-      "url": "https://github.com/elastic/elasticsearch",
-      "description": "Free and Open Source, Distributed, RESTful Search Engine",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "78,188",
-      "forks": "26,103",
-      "addStars": "402",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58790826?s=40&v=4",
-          "name": "elasticsearchmachine",
-          "url": "https://github.com/elasticsearchmachine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41300?s=40&v=4",
-          "name": "kimchy",
-          "url": "https://github.com/kimchy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/215970?s=40&v=4",
-          "name": "nik9000",
-          "url": "https://github.com/nik9000"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/580421?s=40&v=4",
-          "name": "martijnvg",
-          "url": "https://github.com/martijnvg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/973334?s=40&v=4",
-          "name": "s1monw",
-          "url": "https://github.com/s1monw"
-        }
-      ]
-    },
-    {
-      "title": "jeecgboot/JeecgBoot",
-      "url": "https://github.com/jeecgboot/JeecgBoot",
-      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "48,053",
-      "forks": "16,199",
-      "addStars": "535",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3162115?s=40&v=4",
-          "name": "zhangdaiscott",
-          "url": "https://github.com/zhangdaiscott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8199499?s=40&v=4",
-          "name": "liaozhiyang",
-          "url": "https://github.com/liaozhiyang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/73815154?s=40&v=4",
-          "name": "xlh12306",
-          "url": "https://github.com/xlh12306"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39980681?s=40&v=4",
-          "name": "yann0001",
-          "url": "https://github.com/yann0001"
-        }
-      ]
-    },
-    {
-      "title": "RikkaApps/Shizuku-API",
-      "url": "https://github.com/RikkaApps/Shizuku-API",
-      "description": "The API and the developer guide for Shizuku and Sui.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "2,602",
-      "forks": "1,218",
-      "addStars": "107",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
-          "name": "RikkaW",
-          "url": "https://github.com/RikkaW"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26996262?s=40&v=4",
-          "name": "vvb2060",
-          "url": "https://github.com/vvb2060"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5022927?s=40&v=4",
-          "name": "yujincheng08",
-          "url": "https://github.com/yujincheng08"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13131972?s=40&v=4",
-          "name": "haruue",
-          "url": "https://github.com/haruue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22442525?s=40&v=4",
-          "name": "ryuunoakaihitomi",
-          "url": "https://github.com/ryuunoakaihitomi"
         }
       ]
     }

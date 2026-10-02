@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 06:38:47 GMT",
+  "pubDate": "Fri, 02 Oct 2026 13:41:34 GMT",
   "items": [
     {
       "title": "lyogavin/airllm",
@@ -10,8 +10,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "35,285",
-      "forks": "3,732",
+      "stars": "35,293",
+      "forks": "3,734",
       "addStars": "546",
       "contributors": [
         {
@@ -42,14 +42,14 @@
       ]
     },
     {
-      "title": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
+      "title": "microsoft/IoT-For-Beginners",
+      "url": "https://github.com/microsoft/IoT-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, IoT for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "76,323",
-      "forks": "25,064",
-      "addStars": "753",
+      "stars": "17,111",
+      "forks": "2,921",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
@@ -57,19 +57,14 @@
           "url": "https://github.com/leestott"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
+          "avatar": "https://avatars.githubusercontent.com/u/54956390?s=40&v=4",
+          "name": "Iftu119",
+          "url": "https://github.com/Iftu119"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
-          "name": "koreyspace",
-          "url": "https://github.com/koreyspace"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
-          "name": "hyoshioka0128",
-          "url": "https://github.com/hyoshioka0128"
+          "avatar": "https://avatars.githubusercontent.com/u/17089114?s=40&v=4",
+          "name": "WirelessLife",
+          "url": "https://github.com/WirelessLife"
         }
       ]
     },
@@ -79,7 +74,7 @@
       "description": "FinRL®: Financial Reinforcement Learning. 🔥",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,531",
+      "stars": "16,534",
       "forks": "3,538",
       "addStars": "142",
       "contributors": [
@@ -111,39 +106,34 @@
       ]
     },
     {
-      "title": "wesm/pydata-book",
-      "url": "https://github.com/wesm/pydata-book",
-      "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+      "title": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,985",
-      "forks": "15,696",
-      "addStars": "48",
+      "stars": "76,338",
+      "forks": "25,068",
+      "addStars": "753",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
-          "name": "wesm",
-          "url": "https://github.com/wesm"
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11050032?s=40&v=4",
-          "name": "kmather73",
-          "url": "https://github.com/kmather73"
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4737336?s=40&v=4",
-          "name": "thisizkp",
-          "url": "https://github.com/thisizkp"
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/638797?s=40&v=4",
-          "name": "crwilcox",
-          "url": "https://github.com/crwilcox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1448859?s=40&v=4",
-          "name": "betatim",
-          "url": "https://github.com/betatim"
+          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
+          "name": "hyoshioka0128",
+          "url": "https://github.com/hyoshioka0128"
         }
       ]
     },
@@ -153,8 +143,8 @@
       "description": "量化研究-券商金工研报复现",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "6,381",
-      "forks": "1,481",
+      "stars": "6,386",
+      "forks": "1,482",
       "addStars": "130",
       "contributors": [
         {
@@ -170,88 +160,39 @@
       ]
     },
     {
-      "title": "microsoft/ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "91,201",
-      "forks": "22,534",
-      "addStars": "286",
+      "stars": "69,379",
+      "forks": "13,442",
+      "addStars": "386",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
           "name": "jlooper",
           "url": "https://github.com/jlooper"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
+          "avatar": "https://avatars.githubusercontent.com/u/2892110?s=40&v=4",
+          "name": "shwars",
+          "url": "https://github.com/shwars"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-          "name": "leestott",
-          "url": "https://github.com/leestott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&v=4",
-          "name": "hereje",
-          "url": "https://github.com/hereje"
-        }
-      ]
-    },
-    {
-      "title": "romanmichaelpaolucci/Quant-Guild-Library",
-      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
-      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "1,500",
-      "forks": "353",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17343675?s=40&v=4",
-          "name": "romanmichaelpaolucci",
-          "url": "https://github.com/romanmichaelpaolucci"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "17,379",
-      "forks": "5,634",
-      "addStars": "92",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-          "name": "leestott",
-          "url": "https://github.com/leestott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&v=4",
-          "name": "softchris",
-          "url": "https://github.com/softchris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
-          "name": "hyoshioka0128",
-          "url": "https://github.com/hyoshioka0128"
+          "avatar": "https://avatars.githubusercontent.com/u/44121227?s=40&v=4",
+          "name": "BethanyJep",
+          "url": "https://github.com/BethanyJep"
         }
       ]
     },
@@ -261,7 +202,7 @@
       "description": "The fastai book, published as Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,357",
+      "stars": "25,358",
       "forks": "9,481",
       "addStars": "42",
       "contributors": [
@@ -293,61 +234,93 @@
       ]
     },
     {
-      "title": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+      "title": "microsoft/ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,778",
-      "forks": "4,479",
-      "addStars": "30",
+      "stars": "91,206",
+      "forks": "22,535",
+      "addStars": "286",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13262395?s=40&v=4",
-          "name": "holtskinner",
-          "url": "https://github.com/holtskinner"
+          "avatar": "https://avatars.githubusercontent.com/u/1450004?s=40&v=4",
+          "name": "jlooper",
+          "url": "https://github.com/jlooper"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/106993205?s=40&v=4",
-          "name": "gericdong",
-          "url": "https://github.com/gericdong"
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
         },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
-          "name": "renovate-bot",
-          "url": "https://github.com/renovate-bot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/88703814?s=40&v=4",
-          "name": "inardini",
-          "url": "https://github.com/inardini"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/IoT-For-Beginners",
-      "url": "https://github.com/microsoft/IoT-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, IoT for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "17,112",
-      "forks": "2,921",
-      "addStars": "70",
-      "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
           "name": "leestott",
           "url": "https://github.com/leestott"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54956390?s=40&v=4",
-          "name": "Iftu119",
-          "url": "https://github.com/Iftu119"
+          "avatar": "https://avatars.githubusercontent.com/u/3022824?s=40&v=4",
+          "name": "hereje",
+          "url": "https://github.com/hereje"
+        }
+      ]
+    },
+    {
+      "title": "karpathy/nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "24,615",
+      "forks": "3,587",
+      "addStars": "99",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17089114?s=40&v=4",
-          "name": "WirelessLife",
-          "url": "https://github.com/WirelessLife"
+          "avatar": "https://avatars.githubusercontent.com/u/216141?s=40&v=4",
+          "name": "edvenson",
+          "url": "https://github.com/edvenson"
+        }
+      ]
+    },
+    {
+      "title": "wesm/pydata-book",
+      "url": "https://github.com/wesm/pydata-book",
+      "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "24,989",
+      "forks": "15,696",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/329591?s=40&v=4",
+          "name": "wesm",
+          "url": "https://github.com/wesm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11050032?s=40&v=4",
+          "name": "kmather73",
+          "url": "https://github.com/kmather73"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4737336?s=40&v=4",
+          "name": "thisizkp",
+          "url": "https://github.com/thisizkp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/638797?s=40&v=4",
+          "name": "crwilcox",
+          "url": "https://github.com/crwilcox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1448859?s=40&v=4",
+          "name": "betatim",
+          "url": "https://github.com/betatim"
         }
       ]
     },
@@ -357,8 +330,8 @@
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "120,923",
-      "forks": "63,597",
+      "stars": "120,940",
+      "forks": "63,606",
       "addStars": "488",
       "contributors": [
         {
@@ -384,13 +357,50 @@
       ]
     },
     {
+      "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "29,426",
+      "forks": "6,713",
+      "addStars": "157",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25746895?s=40&v=4",
+          "name": "MaartenGr",
+          "url": "https://github.com/MaartenGr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/148525245?s=40&v=4",
+          "name": "negativenagesh",
+          "url": "https://github.com/negativenagesh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1007956?s=40&v=4",
+          "name": "jalammar",
+          "url": "https://github.com/jalammar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4090894?s=40&v=4",
+          "name": "dkapitan",
+          "url": "https://github.com/dkapitan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6709785?s=40&v=4",
+          "name": "dcarpintero",
+          "url": "https://github.com/dcarpintero"
+        }
+      ]
+    },
+    {
       "title": "microsoft/Data-Science-For-Beginners",
       "url": "https://github.com/microsoft/Data-Science-For-Beginners",
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,460",
-      "forks": "7,562",
+      "stars": "37,465",
+      "forks": "7,561",
       "addStars": "174",
       "contributors": [
         {
@@ -416,13 +426,35 @@
       ]
     },
     {
+      "title": "romanmichaelpaolucci/Quant-Guild-Library",
+      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
+      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "1,501",
+      "forks": "353",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17343675?s=40&v=4",
+          "name": "romanmichaelpaolucci",
+          "url": "https://github.com/romanmichaelpaolucci"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
       "title": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "17,695",
-      "forks": "2,580",
+      "stars": "17,699",
+      "forks": "2,581",
       "addStars": "155",
       "contributors": [
         {
@@ -453,61 +485,24 @@
       ]
     },
     {
-      "title": "karpathy/nn-zero-to-hero",
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
+      "title": "shsarv/Machine-Learning-Projects",
+      "url": "https://github.com/shsarv/Machine-Learning-Projects",
+      "description": "This repository showcases a selection of machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practical scenarios, demonstrating proficiency in machine learning techniques and tools.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "24,614",
-      "forks": "3,587",
-      "addStars": "99",
+      "stars": "1,935",
+      "forks": "595",
+      "addStars": "29",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
+          "avatar": "https://avatars.githubusercontent.com/u/55739302?s=40&v=4",
+          "name": "shsarv",
+          "url": "https://github.com/shsarv"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/216141?s=40&v=4",
-          "name": "edvenson",
-          "url": "https://github.com/edvenson"
-        }
-      ]
-    },
-    {
-      "title": "udlbook/udlbook",
-      "url": "https://github.com/udlbook/udlbook",
-      "description": "Understanding Deep Learning - Simon J.D. Prince",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "9,970",
-      "forks": "2,351",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110402648?s=40&v=4",
-          "name": "udlbook",
-          "url": "https://github.com/udlbook"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50220137?s=40&v=4",
-          "name": "tomheaton",
-          "url": "https://github.com/tomheaton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38562595?s=40&v=4",
-          "name": "pitmonticone",
-          "url": "https://github.com/pitmonticone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10063907?s=40&v=4",
-          "name": "yrahal",
-          "url": "https://github.com/yrahal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/111278851?s=40&v=4",
-          "name": "aleksandrskoselevs",
-          "url": "https://github.com/aleksandrskoselevs"
+          "avatar": "https://avatars.githubusercontent.com/u/166940544?s=40&v=4",
+          "name": "Adbhutsh",
+          "url": "https://github.com/Adbhutsh"
         }
       ]
     },
@@ -545,6 +540,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/19530191?s=40&v=4",
           "name": "t46",
           "url": "https://github.com/t46"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,382",
+      "forks": "5,635",
+      "addStars": "92",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&v=4",
+          "name": "softchris",
+          "url": "https://github.com/softchris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
+          "name": "hyoshioka0128",
+          "url": "https://github.com/hyoshioka0128"
         }
       ]
     }

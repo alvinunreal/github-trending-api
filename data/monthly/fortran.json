@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 06:38:47 GMT",
+  "pubDate": "Fri, 02 Oct 2026 13:41:34 GMT",
   "items": [
     {
       "title": "E3SM-Project/E3SM",
@@ -42,50 +42,13 @@
       ]
     },
     {
-      "title": "OpenFAST/openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "976",
-      "forks": "543",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
-          "name": "bjonkman",
-          "url": "https://github.com/bjonkman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
-          "name": "andrew-platt",
-          "url": "https://github.com/andrew-platt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
-          "name": "rafmudaf",
-          "url": "https://github.com/rafmudaf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4530253?s=40&v=4",
-          "name": "deslaughter",
-          "url": "https://github.com/deslaughter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
-          "name": "ebranlard",
-          "url": "https://github.com/ebranlard"
-        }
-      ]
-    },
-    {
       "title": "cp2k/cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "1,213",
-      "forks": "505",
+      "forks": "506",
       "addStars": "16",
       "contributors": [
         {
@@ -116,39 +79,39 @@
       ]
     },
     {
-      "title": "wrf-model/WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "OpenFAST/openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "1,771",
-      "forks": "886",
-      "addStars": "26",
+      "stars": "975",
+      "forks": "543",
+      "addStars": "17",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
-          "name": "davegill",
-          "url": "https://github.com/davegill"
+          "avatar": "https://avatars.githubusercontent.com/u/6108781?s=40&v=4",
+          "name": "bjonkman",
+          "url": "https://github.com/bjonkman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
-          "name": "weiwangncar",
-          "url": "https://github.com/weiwangncar"
+          "avatar": "https://avatars.githubusercontent.com/u/2745453?s=40&v=4",
+          "name": "andrew-platt",
+          "url": "https://github.com/andrew-platt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
-          "name": "dudhia",
-          "url": "https://github.com/dudhia"
+          "avatar": "https://avatars.githubusercontent.com/u/13797903?s=40&v=4",
+          "name": "rafmudaf",
+          "url": "https://github.com/rafmudaf"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
-          "name": "mkavulich",
-          "url": "https://github.com/mkavulich"
+          "avatar": "https://avatars.githubusercontent.com/u/4530253?s=40&v=4",
+          "name": "deslaughter",
+          "url": "https://github.com/deslaughter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
-          "name": "jamiebresch",
-          "url": "https://github.com/jamiebresch"
+          "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
+          "name": "ebranlard",
+          "url": "https://github.com/ebranlard"
         }
       ]
     },
@@ -190,13 +153,50 @@
       ]
     },
     {
+      "title": "wrf-model/WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,772",
+      "forks": "886",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12666234?s=40&v=4",
+          "name": "davegill",
+          "url": "https://github.com/davegill"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705680?s=40&v=4",
+          "name": "weiwangncar",
+          "url": "https://github.com/weiwangncar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932284?s=40&v=4",
+          "name": "dudhia",
+          "url": "https://github.com/dudhia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12705538?s=40&v=4",
+          "name": "mkavulich",
+          "url": "https://github.com/mkavulich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17932506?s=40&v=4",
+          "name": "jamiebresch",
+          "url": "https://github.com/jamiebresch"
+        }
+      ]
+    },
+    {
       "title": "JuliaPackaging/Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": "406",
-      "forks": "766",
+      "forks": "767",
       "addStars": "3",
       "contributors": [
         {
@@ -223,43 +223,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/145258?s=40&v=4",
           "name": "vchuravy",
           "url": "https://github.com/vchuravy"
-        }
-      ]
-    },
-    {
-      "title": "firemodels/fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "883",
-      "forks": "693",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12403014?s=40&v=4",
-          "name": "gforney",
-          "url": "https://github.com/gforney"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11333911?s=40&v=4",
-          "name": "mcgratta",
-          "url": "https://github.com/mcgratta"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4418497?s=40&v=4",
-          "name": "rmcdermo",
-          "url": "https://github.com/rmcdermo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12799217?s=40&v=4",
-          "name": "drjfloyd",
-          "url": "https://github.com/drjfloyd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7450069?s=40&v=4",
-          "name": "marcosvanella",
-          "url": "https://github.com/marcosvanella"
         }
       ]
     }

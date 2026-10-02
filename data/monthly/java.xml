@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Java Languages in GitHub</description>
-    <pubDate>Fri, 02 Oct 2026 06:38:47 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 13:41:34 GMT</pubDate>
     <item>
       <title>NationalSecurityAgency/ghidra</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>80,268</stars>
-      <forks>8,939</forks>
+      <stars>80,301</stars>
+      <forks>8,942</forks>
       <addStars>6,128</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/termux/termux-app</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>61,799</stars>
-      <forks>7,731</forks>
+      <stars>61,815</stars>
+      <forks>7,732</forks>
       <addStars>1,770</addStars>
       <contributors>
         <contributor>
@@ -82,7 +82,7 @@
       <guid>https://github.com/Keeperorowner/NagramXF</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>912</stars>
+      <stars>914</stars>
       <forks>61</forks>
       <addStars>219</addStars>
       <contributors>
@@ -110,77 +110,6 @@
           <avatar>https://avatars.githubusercontent.com/u/56506714?s=40&amp;v=4</avatar>
           <name>nekohasekai</name>
           <url>https://github.com/nekohasekai</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>GeyserMC/Geyser</title>
-      <link>https://github.com/GeyserMC/Geyser</link>
-      <description>A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.</description>
-      <guid>https://github.com/GeyserMC/Geyser</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>5,852</stars>
-      <forks>896</forks>
-      <addStars>89</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20743703?s=40&amp;v=4</avatar>
-          <name>Camotoy</name>
-          <url>https://github.com/Camotoy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/105284508?s=40&amp;v=4</avatar>
-          <name>onebeastchris</name>
-          <url>https://github.com/onebeastchris</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29153871?s=40&amp;v=4</avatar>
-          <name>Redned235</name>
-          <url>https://github.com/Redned235</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5401186?s=40&amp;v=4</avatar>
-          <name>rtm516</name>
-          <url>https://github.com/rtm516</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/116838833?s=40&amp;v=4</avatar>
-          <name>eclipseisoffline</name>
-          <url>https://github.com/eclipseisoffline</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>keycloak/keycloak</title>
-      <link>https://github.com/keycloak/keycloak</link>
-      <description>Open Source Identity and Access Management For Modern Applications and Services</description>
-      <guid>https://github.com/keycloak/keycloak</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>37,092</stars>
-      <forks>9,001</forks>
-      <addStars>587</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2271511?s=40&amp;v=4</avatar>
-          <name>stianst</name>
-          <url>https://github.com/stianst</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/704239?s=40&amp;v=4</avatar>
-          <name>patriot1burke</name>
-          <url>https://github.com/patriot1burke</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1223965?s=40&amp;v=4</avatar>
-          <name>mposolda</name>
-          <url>https://github.com/mposolda</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51133?s=40&amp;v=4</avatar>
-          <name>edewit</name>
-          <url>https://github.com/edewit</url>
         </contributor>
       </contributors>
     </item>
@@ -223,14 +152,141 @@
       </contributors>
     </item>
     <item>
+      <title>GeyserMC/Geyser</title>
+      <link>https://github.com/GeyserMC/Geyser</link>
+      <description>A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.</description>
+      <guid>https://github.com/GeyserMC/Geyser</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>5,853</stars>
+      <forks>896</forks>
+      <addStars>89</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20743703?s=40&amp;v=4</avatar>
+          <name>Camotoy</name>
+          <url>https://github.com/Camotoy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/105284508?s=40&amp;v=4</avatar>
+          <name>onebeastchris</name>
+          <url>https://github.com/onebeastchris</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29153871?s=40&amp;v=4</avatar>
+          <name>Redned235</name>
+          <url>https://github.com/Redned235</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5401186?s=40&amp;v=4</avatar>
+          <name>rtm516</name>
+          <url>https://github.com/rtm516</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/116838833?s=40&amp;v=4</avatar>
+          <name>eclipseisoffline</name>
+          <url>https://github.com/eclipseisoffline</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>keycloak/keycloak</title>
+      <link>https://github.com/keycloak/keycloak</link>
+      <description>Open Source Identity and Access Management For Modern Applications and Services</description>
+      <guid>https://github.com/keycloak/keycloak</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>37,099</stars>
+      <forks>9,002</forks>
+      <addStars>587</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2271511?s=40&amp;v=4</avatar>
+          <name>stianst</name>
+          <url>https://github.com/stianst</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/704239?s=40&amp;v=4</avatar>
+          <name>patriot1burke</name>
+          <url>https://github.com/patriot1burke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1223965?s=40&amp;v=4</avatar>
+          <name>mposolda</name>
+          <url>https://github.com/mposolda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51133?s=40&amp;v=4</avatar>
+          <name>edewit</name>
+          <url>https://github.com/edewit</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>00-Evan/shattered-pixel-dungeon</title>
+      <link>https://github.com/00-Evan/shattered-pixel-dungeon</link>
+      <description>Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.</description>
+      <guid>https://github.com/00-Evan/shattered-pixel-dungeon</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>6,595</stars>
+      <forks>1,645</forks>
+      <addStars>130</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2347603?s=40&amp;v=4</avatar>
+          <name>00-Evan</name>
+          <url>https://github.com/00-Evan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/594670?s=40&amp;v=4</avatar>
+          <name>watabou</name>
+          <url>https://github.com/watabou</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Suwayomi/Suwayomi-Server</title>
+      <link>https://github.com/Suwayomi/Suwayomi-Server</link>
+      <description>A rewrite of Tachiyomi for the Desktop</description>
+      <guid>https://github.com/Suwayomi/Suwayomi-Server</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>7,787</stars>
+      <forks>465</forks>
+      <addStars>278</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8719233?s=40&amp;v=4</avatar>
+          <name>AriaMoradi</name>
+          <url>https://github.com/AriaMoradi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6090655?s=40&amp;v=4</avatar>
+          <name>Syer10</name>
+          <url>https://github.com/Syer10</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50052685?s=40&amp;v=4</avatar>
+          <name>schroda</name>
+          <url>https://github.com/schroda</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59023762?s=40&amp;v=4</avatar>
+          <name>cpiber</name>
+          <url>https://github.com/cpiber</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>AntennaPod/AntennaPod</title>
       <link>https://github.com/AntennaPod/AntennaPod</link>
       <description>A podcast manager for Android</description>
       <guid>https://github.com/AntennaPod/AntennaPod</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>8,198</stars>
-      <forks>1,807</forks>
+      <stars>8,199</stars>
+      <forks>1,808</forks>
       <addStars>90</addStars>
       <contributors>
         <contributor>
@@ -261,25 +317,35 @@
       </contributors>
     </item>
     <item>
-      <title>00-Evan/shattered-pixel-dungeon</title>
-      <link>https://github.com/00-Evan/shattered-pixel-dungeon</link>
-      <description>Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.</description>
-      <guid>https://github.com/00-Evan/shattered-pixel-dungeon</guid>
+      <title>quarkusio/quarkus</title>
+      <link>https://github.com/quarkusio/quarkus</link>
+      <description>Quarkus: Supersonic Subatomic Java.</description>
+      <guid>https://github.com/quarkusio/quarkus</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>6,593</stars>
-      <forks>1,644</forks>
-      <addStars>130</addStars>
+      <stars>15,917</stars>
+      <forks>3,322</forks>
+      <addStars>86</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2347603?s=40&amp;v=4</avatar>
-          <name>00-Evan</name>
-          <url>https://github.com/00-Evan</url>
+          <avatar>https://avatars.githubusercontent.com/u/1279749?s=40&amp;v=4</avatar>
+          <name>gsmet</name>
+          <url>https://github.com/gsmet</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/594670?s=40&amp;v=4</avatar>
-          <name>watabou</name>
-          <url>https://github.com/watabou</url>
+          <avatar>https://avatars.githubusercontent.com/u/4374975?s=40&amp;v=4</avatar>
+          <name>geoand</name>
+          <url>https://github.com/geoand</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54133?s=40&amp;v=4</avatar>
+          <name>gastaldi</name>
+          <url>https://github.com/gastaldi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/328571?s=40&amp;v=4</avatar>
+          <name>stuartwdouglas</name>
+          <url>https://github.com/stuartwdouglas</url>
         </contributor>
       </contributors>
     </item>
@@ -290,7 +356,7 @@
       <guid>https://github.com/RikkaApps/Sui</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>4,250</stars>
+      <stars>4,249</stars>
       <forks>463</forks>
       <addStars>84</addStars>
       <contributors>
@@ -328,7 +394,7 @@
       <guid>https://github.com/termux/termux-api</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>4,400</stars>
+      <stars>4,403</stars>
       <forks>940</forks>
       <addStars>168</addStars>
       <contributors>
@@ -366,7 +432,7 @@
       <guid>https://github.com/WuKongOpenSource/Wukong-AICRM</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>2,000</stars>
+      <stars>2,003</stars>
       <forks>319</forks>
       <addStars>687</addStars>
       <contributors>
@@ -398,85 +464,14 @@
       </contributors>
     </item>
     <item>
-      <title>quarkusio/quarkus</title>
-      <link>https://github.com/quarkusio/quarkus</link>
-      <description>Quarkus: Supersonic Subatomic Java.</description>
-      <guid>https://github.com/quarkusio/quarkus</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>15,918</stars>
-      <forks>3,321</forks>
-      <addStars>86</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1279749?s=40&amp;v=4</avatar>
-          <name>gsmet</name>
-          <url>https://github.com/gsmet</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4374975?s=40&amp;v=4</avatar>
-          <name>geoand</name>
-          <url>https://github.com/geoand</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54133?s=40&amp;v=4</avatar>
-          <name>gastaldi</name>
-          <url>https://github.com/gastaldi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/328571?s=40&amp;v=4</avatar>
-          <name>stuartwdouglas</name>
-          <url>https://github.com/stuartwdouglas</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>karma9874/AndroRAT</title>
-      <link>https://github.com/karma9874/AndroRAT</link>
-      <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
-      <guid>https://github.com/karma9874/AndroRAT</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>5,165</stars>
-      <forks>1,661</forks>
-      <addStars>114</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33444666?s=40&amp;v=4</avatar>
-          <name>karma9874</name>
-          <url>https://github.com/karma9874</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54432616?s=40&amp;v=4</avatar>
-          <name>graysuit</name>
-          <url>https://github.com/graysuit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17449596?s=40&amp;v=4</avatar>
-          <name>Inv3nt0r1</name>
-          <url>https://github.com/Inv3nt0r1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1448245?s=40&amp;v=4</avatar>
-          <name>marcio-codes</name>
-          <url>https://github.com/marcio-codes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35833124?s=40&amp;v=4</avatar>
-          <name>HyperL0gL0g</name>
-          <url>https://github.com/HyperL0gL0g</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>AndroidIDEOfficial/AndroidIDE</title>
       <link>https://github.com/AndroidIDEOfficial/AndroidIDE</link>
       <description>AndroidIDE is an IDE for Android to develop full featured Android apps.</description>
       <guid>https://github.com/AndroidIDEOfficial/AndroidIDE</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>3,182</stars>
-      <forks>667</forks>
+      <stars>3,184</stars>
+      <forks>668</forks>
       <addStars>105</addStars>
       <contributors>
         <contributor>
@@ -493,6 +488,77 @@
           <avatar>https://avatars.githubusercontent.com/u/75083264?s=40&amp;v=4</avatar>
           <name>deepkrg</name>
           <url>https://github.com/deepkrg</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>thingsboard/thingsboard</title>
+      <link>https://github.com/thingsboard/thingsboard</link>
+      <description>All-in-one IoT Platform - Device management, data collection, processing and visualization.</description>
+      <guid>https://github.com/thingsboard/thingsboard</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>22,503</stars>
+      <forks>6,488</forks>
+      <addStars>196</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8308069?s=40&amp;v=4</avatar>
+          <name>ikulikov</name>
+          <url>https://github.com/ikulikov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5016373?s=40&amp;v=4</avatar>
+          <name>ashvayka</name>
+          <url>https://github.com/ashvayka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56742475?s=40&amp;v=4</avatar>
+          <name>ViacheslavKlimov</name>
+          <url>https://github.com/ViacheslavKlimov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18036670?s=40&amp;v=4</avatar>
+          <name>vvlladd28</name>
+          <url>https://github.com/vvlladd28</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3466101?s=40&amp;v=4</avatar>
+          <name>volodymyr-babak</name>
+          <url>https://github.com/volodymyr-babak</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Stirling-Tools/Stirling-PDF</title>
+      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
+      <description>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</description>
+      <guid>https://github.com/Stirling-Tools/Stirling-PDF</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>93,433</stars>
+      <forks>10,071</forks>
+      <addStars>2,539</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/77850077?s=40&amp;v=4</avatar>
+          <name>Frooodle</name>
+          <url>https://github.com/Frooodle</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4592558?s=40&amp;v=4</avatar>
+          <name>Ludy87</name>
+          <url>https://github.com/Ludy87</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15197528?s=40&amp;v=4</avatar>
+          <name>jbrunton96</name>
+          <url>https://github.com/jbrunton96</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40631091?s=40&amp;v=4</avatar>
+          <name>ConnorYoh</name>
+          <url>https://github.com/ConnorYoh</url>
         </contributor>
       </contributors>
     </item>
@@ -530,35 +596,40 @@
       </contributors>
     </item>
     <item>
-      <title>Stirling-Tools/Stirling-PDF</title>
-      <link>https://github.com/Stirling-Tools/Stirling-PDF</link>
-      <description>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</description>
-      <guid>https://github.com/Stirling-Tools/Stirling-PDF</guid>
+      <title>elastic/elasticsearch</title>
+      <link>https://github.com/elastic/elasticsearch</link>
+      <description>Free and Open Source, Distributed, RESTful Search Engine</description>
+      <guid>https://github.com/elastic/elasticsearch</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>93,417</stars>
-      <forks>10,037</forks>
-      <addStars>2,539</addStars>
+      <stars>78,182</stars>
+      <forks>26,105</forks>
+      <addStars>402</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77850077?s=40&amp;v=4</avatar>
-          <name>Frooodle</name>
-          <url>https://github.com/Frooodle</url>
+          <avatar>https://avatars.githubusercontent.com/u/58790826?s=40&amp;v=4</avatar>
+          <name>elasticsearchmachine</name>
+          <url>https://github.com/elasticsearchmachine</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4592558?s=40&amp;v=4</avatar>
-          <name>Ludy87</name>
-          <url>https://github.com/Ludy87</url>
+          <avatar>https://avatars.githubusercontent.com/u/41300?s=40&amp;v=4</avatar>
+          <name>kimchy</name>
+          <url>https://github.com/kimchy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15197528?s=40&amp;v=4</avatar>
-          <name>jbrunton96</name>
-          <url>https://github.com/jbrunton96</url>
+          <avatar>https://avatars.githubusercontent.com/u/215970?s=40&amp;v=4</avatar>
+          <name>nik9000</name>
+          <url>https://github.com/nik9000</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40631091?s=40&amp;v=4</avatar>
-          <name>ConnorYoh</name>
-          <url>https://github.com/ConnorYoh</url>
+          <avatar>https://avatars.githubusercontent.com/u/580421?s=40&amp;v=4</avatar>
+          <name>martijnvg</name>
+          <url>https://github.com/martijnvg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/973334?s=40&amp;v=4</avatar>
+          <name>s1monw</name>
+          <url>https://github.com/s1monw</url>
         </contributor>
       </contributors>
     </item>
@@ -569,8 +640,8 @@
       <guid>https://github.com/aeron-io/aeron</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>8,901</stars>
-      <forks>1,102</forks>
+      <stars>8,903</stars>
+      <forks>1,103</forks>
       <addStars>75</addStars>
       <contributors>
         <contributor>
@@ -601,40 +672,78 @@
       </contributors>
     </item>
     <item>
-      <title>thingsboard/thingsboard</title>
-      <link>https://github.com/thingsboard/thingsboard</link>
-      <description>All-in-one IoT Platform - Device management, data collection, processing and visualization.</description>
-      <guid>https://github.com/thingsboard/thingsboard</guid>
+      <title>spring-projects/spring-boot</title>
+      <link>https://github.com/spring-projects/spring-boot</link>
+      <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
+      <guid>https://github.com/spring-projects/spring-boot</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>22,501</stars>
-      <forks>6,488</forks>
-      <addStars>196</addStars>
+      <stars>81,549</stars>
+      <forks>43,735</forks>
+      <addStars>276</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8308069?s=40&amp;v=4</avatar>
-          <name>ikulikov</name>
-          <url>https://github.com/ikulikov</url>
+          <avatar>https://avatars.githubusercontent.com/u/914682?s=40&amp;v=4</avatar>
+          <name>wilkinsona</name>
+          <url>https://github.com/wilkinsona</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5016373?s=40&amp;v=4</avatar>
-          <name>ashvayka</name>
-          <url>https://github.com/ashvayka</url>
+          <avatar>https://avatars.githubusercontent.com/u/490484?s=40&amp;v=4</avatar>
+          <name>snicoll</name>
+          <url>https://github.com/snicoll</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56742475?s=40&amp;v=4</avatar>
-          <name>ViacheslavKlimov</name>
-          <url>https://github.com/ViacheslavKlimov</url>
+          <avatar>https://avatars.githubusercontent.com/u/519772?s=40&amp;v=4</avatar>
+          <name>philwebb</name>
+          <url>https://github.com/philwebb</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18036670?s=40&amp;v=4</avatar>
-          <name>vvlladd28</name>
-          <url>https://github.com/vvlladd28</url>
+          <avatar>https://avatars.githubusercontent.com/u/98899556?s=40&amp;v=4</avatar>
+          <name>mhalbritter</name>
+          <url>https://github.com/mhalbritter</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3466101?s=40&amp;v=4</avatar>
-          <name>volodymyr-babak</name>
-          <url>https://github.com/volodymyr-babak</url>
+          <avatar>https://avatars.githubusercontent.com/u/1761408?s=40&amp;v=4</avatar>
+          <name>mbhave</name>
+          <url>https://github.com/mbhave</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>jeecgboot/JeecgBoot</title>
+      <link>https://github.com/jeecgboot/JeecgBoot</link>
+      <description>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。</description>
+      <guid>https://github.com/jeecgboot/JeecgBoot</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>48,060</stars>
+      <forks>16,199</forks>
+      <addStars>535</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3162115?s=40&amp;v=4</avatar>
+          <name>zhangdaiscott</name>
+          <url>https://github.com/zhangdaiscott</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8199499?s=40&amp;v=4</avatar>
+          <name>liaozhiyang</name>
+          <url>https://github.com/liaozhiyang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/73815154?s=40&amp;v=4</avatar>
+          <name>xlh12306</name>
+          <url>https://github.com/xlh12306</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39980681?s=40&amp;v=4</avatar>
+          <name>yann0001</name>
+          <url>https://github.com/yann0001</url>
         </contributor>
       </contributors>
     </item>
@@ -668,120 +777,6 @@
           <avatar>https://avatars.githubusercontent.com/u/106383?s=40&amp;v=4</avatar>
           <name>JesusFreke</name>
           <url>https://github.com/JesusFreke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>elastic/elasticsearch</title>
-      <link>https://github.com/elastic/elasticsearch</link>
-      <description>Free and Open Source, Distributed, RESTful Search Engine</description>
-      <guid>https://github.com/elastic/elasticsearch</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>78,188</stars>
-      <forks>26,103</forks>
-      <addStars>402</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58790826?s=40&amp;v=4</avatar>
-          <name>elasticsearchmachine</name>
-          <url>https://github.com/elasticsearchmachine</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41300?s=40&amp;v=4</avatar>
-          <name>kimchy</name>
-          <url>https://github.com/kimchy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/215970?s=40&amp;v=4</avatar>
-          <name>nik9000</name>
-          <url>https://github.com/nik9000</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/580421?s=40&amp;v=4</avatar>
-          <name>martijnvg</name>
-          <url>https://github.com/martijnvg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/973334?s=40&amp;v=4</avatar>
-          <name>s1monw</name>
-          <url>https://github.com/s1monw</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>jeecgboot/JeecgBoot</title>
-      <link>https://github.com/jeecgboot/JeecgBoot</link>
-      <description>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。</description>
-      <guid>https://github.com/jeecgboot/JeecgBoot</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>48,053</stars>
-      <forks>16,199</forks>
-      <addStars>535</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3162115?s=40&amp;v=4</avatar>
-          <name>zhangdaiscott</name>
-          <url>https://github.com/zhangdaiscott</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8199499?s=40&amp;v=4</avatar>
-          <name>liaozhiyang</name>
-          <url>https://github.com/liaozhiyang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/73815154?s=40&amp;v=4</avatar>
-          <name>xlh12306</name>
-          <url>https://github.com/xlh12306</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39980681?s=40&amp;v=4</avatar>
-          <name>yann0001</name>
-          <url>https://github.com/yann0001</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RikkaApps/Shizuku-API</title>
-      <link>https://github.com/RikkaApps/Shizuku-API</link>
-      <description>The API and the developer guide for Shizuku and Sui.</description>
-      <guid>https://github.com/RikkaApps/Shizuku-API</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>2,602</stars>
-      <forks>1,218</forks>
-      <addStars>107</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12999176?s=40&amp;v=4</avatar>
-          <name>RikkaW</name>
-          <url>https://github.com/RikkaW</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26996262?s=40&amp;v=4</avatar>
-          <name>vvb2060</name>
-          <url>https://github.com/vvb2060</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4</avatar>
-          <name>yujincheng08</name>
-          <url>https://github.com/yujincheng08</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13131972?s=40&amp;v=4</avatar>
-          <name>haruue</name>
-          <url>https://github.com/haruue</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22442525?s=40&amp;v=4</avatar>
-          <name>ryuunoakaihitomi</name>
-          <url>https://github.com/ryuunoakaihitomi</url>
         </contributor>
       </contributors>
     </item>
