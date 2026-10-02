@@ -2,7 +2,7 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 01 Oct 2026 23:02:38 GMT",
+  "pubDate": "Fri, 02 Oct 2026 06:38:47 GMT",
   "items": [
     {
       "title": "peazip/PeaZip",
@@ -12,7 +12,7 @@
       "languageColor": "#E3F171",
       "stars": "7,922",
       "forks": "413",
-      "addStars": "54",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/479850?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "5,676",
+      "stars": "5,678",
       "forks": "1,095",
-      "addStars": "20",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1092369?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "16,890",
+      "stars": "16,891",
       "forks": "4,055",
       "addStars": "13",
       "contributors": [
@@ -197,7 +197,7 @@
       "languageColor": "#E3F171",
       "stars": "3,018",
       "forks": "325",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7482023?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#E3F171",
       "stars": "4,589",
       "forks": "357",
-      "addStars": "30",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13401398?s=40&v=4",
@@ -270,7 +270,7 @@
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "19,249",
-      "forks": "2,805",
+      "forks": "2,804",
       "addStars": "38",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "languageColor": "#E3F171",
       "stars": "904",
       "forks": "181",
-      "addStars": "0",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27037648?s=40&v=4",
@@ -334,6 +334,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2236426?s=40&v=4",
           "name": "Hugues92",
           "url": "https://github.com/Hugues92"
+        }
+      ]
+    },
+    {
+      "title": "GDKsoftware/Markdown4D",
+      "url": "https://github.com/GDKsoftware/Markdown4D",
+      "description": "Native Delphi Markdown library: CommonMark/GFM parser with public AST, incremental/streaming parsing, HTML renderer, markdown writer, and custom-drawn VCL & FMX viewer/editor components",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "64",
+      "forks": "14",
+      "addStars": "6",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22293897?s=40&v=4",
+          "name": "cmgeuze",
+          "url": "https://github.com/cmgeuze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/138818?s=40&v=4",
+          "name": "bero",
+          "url": "https://github.com/bero"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2305126?s=40&v=4",
+          "name": "panjunbiao",
+          "url": "https://github.com/panjunbiao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1037262?s=40&v=4",
+          "name": "vincentparrett",
+          "url": "https://github.com/vincentparrett"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10000781?s=40&v=4",
+          "name": "quarkz-de",
+          "url": "https://github.com/quarkz-de"
         }
       ]
     }
