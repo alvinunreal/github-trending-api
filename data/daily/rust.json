@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 18:13:54 GMT",
+  "pubDate": "Fri, 02 Oct 2026 22:52:00 GMT",
   "items": [
     {
       "title": "NVIDIA/OpenShell",
@@ -10,8 +10,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,345",
-      "forks": "1,652",
+      "stars": "14,416",
+      "forks": "1,658",
       "addStars": "584",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,263",
-      "forks": "423",
+      "stars": "6,279",
+      "forks": "425",
       "addStars": "245",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,360",
+      "stars": "3,364",
       "forks": "176",
       "addStars": "33",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "125,011",
-      "forks": "19,386",
+      "stars": "125,020",
+      "forks": "19,387",
       "addStars": "78",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,448",
-      "forks": "3,993",
+      "stars": "40,456",
+      "forks": "3,995",
       "addStars": "77",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,207",
-      "forks": "1,653",
+      "stars": "8,208",
+      "forks": "1,654",
       "addStars": "7",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,661",
-      "forks": "309",
+      "stars": "8,673",
+      "forks": "310",
       "addStars": "64",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,656",
-      "forks": "970",
+      "stars": "15,699",
+      "forks": "971",
       "addStars": "198",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "High-level emulator for early iOS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,956",
+      "stars": "3,960",
       "forks": "340",
       "addStars": "8",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,113",
+      "stars": "1,123",
       "forks": "213",
       "addStars": "64",
       "contributors": [
@@ -355,8 +355,8 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,631",
-      "forks": "487",
+      "stars": "6,647",
+      "forks": "488",
       "addStars": "200",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,141",
-      "forks": "907",
+      "stars": "5,144",
+      "forks": "908",
       "addStars": "17",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "65,340",
-      "forks": "5,604",
+      "stars": "65,345",
+      "forks": "5,606",
       "addStars": "34",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "programmatic video rendering framework that is actually fast",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,860",
+      "stars": "1,874",
       "forks": "40",
       "addStars": "88",
       "contributors": [
@@ -530,7 +530,7 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,402",
+      "stars": "2,404",
       "forks": "252",
       "addStars": "19",
       "contributors": [
