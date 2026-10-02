@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Weekly Trending",
   "description": "Weekly Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 13:41:34 GMT",
+  "pubDate": "Fri, 02 Oct 2026 18:13:54 GMT",
   "items": [
     {
       "title": "harry7557558/spirula-studio",
@@ -10,7 +10,7 @@
       "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,372",
+      "stars": "1,373",
       "forks": "114",
       "addStars": "393",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "200,659",
-      "forks": "78,025",
+      "stars": "200,661",
+      "forks": "78,064",
       "addStars": "422",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,496",
+      "stars": "7,498",
       "forks": "846",
       "addStars": "286",
       "contributors": [
@@ -116,12 +116,49 @@
       ]
     },
     {
+      "title": "mg-chao/snow-apps",
+      "url": "https://github.com/mg-chao/snow-apps",
+      "description": "Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "5,386",
+      "forks": "341",
+      "addStars": "334",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87016106?s=40&v=4",
+          "name": "mg-chao",
+          "url": "https://github.com/mg-chao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75017711?s=40&v=4",
+          "name": "ayangweb",
+          "url": "https://github.com/ayangweb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/182907634?s=40&v=4",
+          "name": "vladelaina",
+          "url": "https://github.com/vladelaina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7350620?s=40&v=4",
+          "name": "doumao",
+          "url": "https://github.com/doumao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32795958?s=40&v=4",
+          "name": "gaylong9",
+          "url": "https://github.com/gaylong9"
+        }
+      ]
+    },
+    {
       "title": "firebase/firebase-ios-sdk",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "6,910",
+      "stars": "6,909",
       "forks": "1,812",
       "addStars": "181",
       "contributors": [
@@ -158,7 +195,7 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "20,001",
+      "stars": "20,002",
       "forks": "1,497",
       "addStars": "147",
       "contributors": [
@@ -195,7 +232,7 @@
       "description": "Distribute and run LLMs with a single file.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,153",
+      "stars": "26,156",
       "forks": "1,634",
       "addStars": "106",
       "contributors": [
@@ -232,7 +269,7 @@
       "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,770",
+      "stars": "11,769",
       "forks": "5,682",
       "addStars": "38",
       "contributors": [
@@ -264,7 +301,7 @@
       "description": "Reimplementation of GTA:SA 1.0 US",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "959",
+      "stars": "961",
       "forks": "235",
       "addStars": "35",
       "contributors": [
@@ -301,8 +338,8 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "50,202",
-      "forks": "9,046",
+      "stars": "50,204",
+      "forks": "9,048",
       "addStars": "151",
       "contributors": [
         {
@@ -338,8 +375,8 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,909",
-      "forks": "1,843",
+      "stars": "33,912",
+      "forks": "1,844",
       "addStars": "151",
       "contributors": [
         {
@@ -370,8 +407,8 @@
       "description": "FlatBuffers: Memory Efficient Serialization Library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,539",
-      "forks": "3,685",
+      "stars": "26,538",
+      "forks": "3,686",
       "addStars": "47",
       "contributors": [
         {
@@ -408,7 +445,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "13,026",
-      "forks": "1,181",
+      "forks": "1,180",
       "addStars": "73",
       "contributors": [
         {
@@ -444,8 +481,8 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "76,462",
-      "forks": "12,068",
+      "stars": "76,464",
+      "forks": "12,069",
       "addStars": "147",
       "contributors": [
         {
@@ -481,8 +518,8 @@
       "description": "qBittorrent BitTorrent client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,507",
-      "forks": "4,904",
+      "stars": "40,512",
+      "forks": "4,903",
       "addStars": "228",
       "contributors": [
         {
@@ -556,7 +593,7 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": "27,672",
-      "forks": "3,562",
+      "forks": "3,563",
       "addStars": "45",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 13:41:34 GMT",
+  "pubDate": "Fri, 02 Oct 2026 18:13:54 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,8 +10,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "74,019",
-      "forks": "4,468",
+      "stars": "74,151",
+      "forks": "4,470",
       "addStars": "2,704",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "The React Framework",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "142,985",
-      "forks": "33,600",
+      "stars": "142,993",
+      "forks": "33,637",
       "addStars": "624",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "66,750",
-      "forks": "6,660",
+      "stars": "66,755",
+      "forks": "6,651",
       "addStars": "2,993",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "945",
-      "forks": "158",
+      "stars": "951",
+      "forks": "160",
       "addStars": "592",
       "contributors": [
         {
@@ -139,7 +139,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "5,959",
-      "forks": "589",
+      "forks": "586",
       "addStars": "396",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,962",
-      "forks": "916",
+      "stars": "8,989",
+      "forks": "921",
       "addStars": "581",
       "contributors": [
         {
@@ -202,13 +202,45 @@
       ]
     },
     {
+      "title": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "758",
+      "forks": "97",
+      "addStars": "170",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
+          "name": "michael-denyer",
+          "url": "https://github.com/michael-denyer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13261778?s=40&v=4",
+          "name": "harrymunro",
+          "url": "https://github.com/harrymunro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2181467?s=40&v=4",
+          "name": "tlmader",
+          "url": "https://github.com/tlmader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19695832?s=40&v=4",
+          "name": "zbeyens",
+          "url": "https://github.com/zbeyens"
+        }
+      ]
+    },
+    {
       "title": "vercel-labs/agent-skills",
       "url": "https://github.com/vercel-labs/agent-skills",
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "31,844",
-      "forks": "2,788",
+      "forks": "2,787",
       "addStars": "331",
       "contributors": [
         {
@@ -244,8 +276,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "91,959",
-      "forks": "6,250",
+      "stars": "91,998",
+      "forks": "6,242",
       "addStars": "2,007",
       "contributors": [
         {
@@ -281,7 +313,7 @@
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,002",
+      "stars": "4,005",
       "forks": "1,228",
       "addStars": "275",
       "contributors": [
@@ -303,7 +335,7 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "116,163",
+      "stars": "116,169",
       "forks": "36,609",
       "addStars": "316",
       "contributors": [
@@ -340,8 +372,8 @@
       "description": "OK影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,623",
-      "forks": "4,145",
+      "stars": "11,621",
+      "forks": "4,144",
       "addStars": "168",
       "contributors": [
         {
@@ -367,8 +399,8 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "122,220",
-      "forks": "38,480",
+      "stars": "122,223",
+      "forks": "38,516",
       "addStars": "201",
       "contributors": [
         {
@@ -404,7 +436,7 @@
       "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,444",
+      "stars": "9,449",
       "forks": "801",
       "addStars": "270",
       "contributors": [
@@ -426,7 +458,7 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,598",
+      "stars": "1,608",
       "forks": "397",
       "addStars": "245",
       "contributors": [

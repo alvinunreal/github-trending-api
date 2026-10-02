@@ -3,7 +3,7 @@
     <title>GitHub C++ Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of C++ Languages in GitHub</description>
-    <pubDate>Fri, 02 Oct 2026 13:41:34 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 18:13:54 GMT</pubDate>
     <item>
       <title>harry7557558/spirula-studio</title>
       <link>https://github.com/harry7557558/spirula-studio</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/harry7557558/spirula-studio</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>1,372</stars>
+      <stars>1,373</stars>
       <forks>114</forks>
       <addStars>393</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/tensorflow/tensorflow</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>200,659</stars>
-      <forks>78,025</forks>
+      <stars>200,661</stars>
+      <forks>78,064</forks>
       <addStars>422</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/leejet/stable-diffusion.cpp</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>7,496</stars>
+      <stars>7,498</stars>
       <forks>846</forks>
       <addStars>286</addStars>
       <contributors>
@@ -119,13 +119,51 @@
       </contributors>
     </item>
     <item>
+      <title>mg-chao/snow-apps</title>
+      <link>https://github.com/mg-chao/snow-apps</link>
+      <description>Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.</description>
+      <guid>https://github.com/mg-chao/snow-apps</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>5,386</stars>
+      <forks>341</forks>
+      <addStars>334</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/87016106?s=40&amp;v=4</avatar>
+          <name>mg-chao</name>
+          <url>https://github.com/mg-chao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/75017711?s=40&amp;v=4</avatar>
+          <name>ayangweb</name>
+          <url>https://github.com/ayangweb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/182907634?s=40&amp;v=4</avatar>
+          <name>vladelaina</name>
+          <url>https://github.com/vladelaina</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7350620?s=40&amp;v=4</avatar>
+          <name>doumao</name>
+          <url>https://github.com/doumao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32795958?s=40&amp;v=4</avatar>
+          <name>gaylong9</name>
+          <url>https://github.com/gaylong9</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>firebase/firebase-ios-sdk</title>
       <link>https://github.com/firebase/firebase-ios-sdk</link>
       <description>Firebase SDK for Apple App Development</description>
       <guid>https://github.com/firebase/firebase-ios-sdk</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>6,910</stars>
+      <stars>6,909</stars>
       <forks>1,812</forks>
       <addStars>181</addStars>
       <contributors>
@@ -163,7 +201,7 @@
       <guid>https://github.com/Atmosphere-NX/Atmosphere</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>20,001</stars>
+      <stars>20,002</stars>
       <forks>1,497</forks>
       <addStars>147</addStars>
       <contributors>
@@ -201,7 +239,7 @@
       <guid>https://github.com/mozilla-ai/llamafile</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>26,153</stars>
+      <stars>26,156</stars>
       <forks>1,634</forks>
       <addStars>106</addStars>
       <contributors>
@@ -239,7 +277,7 @@
       <guid>https://github.com/esphome/esphome</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>11,770</stars>
+      <stars>11,769</stars>
       <forks>5,682</forks>
       <addStars>38</addStars>
       <contributors>
@@ -272,7 +310,7 @@
       <guid>https://github.com/gta-reversed/gta-reversed</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>959</stars>
+      <stars>961</stars>
       <forks>235</forks>
       <addStars>35</addStars>
       <contributors>
@@ -310,8 +348,8 @@
       <guid>https://github.com/ClickHouse/ClickHouse</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>50,202</stars>
-      <forks>9,046</forks>
+      <stars>50,204</stars>
+      <forks>9,048</forks>
       <addStars>151</addStars>
       <contributors>
         <contributor>
@@ -348,8 +386,8 @@
       <guid>https://github.com/microsoft/WSL</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>33,909</stars>
-      <forks>1,843</forks>
+      <stars>33,912</stars>
+      <forks>1,844</forks>
       <addStars>151</addStars>
       <contributors>
         <contributor>
@@ -381,8 +419,8 @@
       <guid>https://github.com/google/flatbuffers</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>26,539</stars>
-      <forks>3,685</forks>
+      <stars>26,538</stars>
+      <forks>3,686</forks>
       <addStars>47</addStars>
       <contributors>
         <contributor>
@@ -420,7 +458,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>13,026</stars>
-      <forks>1,181</forks>
+      <forks>1,180</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>
@@ -457,8 +495,8 @@
       <guid>https://github.com/ocornut/imgui</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>76,462</stars>
-      <forks>12,068</forks>
+      <stars>76,464</stars>
+      <forks>12,069</forks>
       <addStars>147</addStars>
       <contributors>
         <contributor>
@@ -495,8 +533,8 @@
       <guid>https://github.com/qbittorrent/qBittorrent</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>40,507</stars>
-      <forks>4,904</forks>
+      <stars>40,512</stars>
+      <forks>4,903</forks>
       <addStars>228</addStars>
       <contributors>
         <contributor>
@@ -572,7 +610,7 @@
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
       <stars>27,672</stars>
-      <forks>3,562</forks>
+      <forks>3,563</forks>
       <addStars>45</addStars>
       <contributors>
         <contributor>
