@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Monthly Trending",
   "description": "Monthly Trending of Solidity Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 02 Oct 2026 22:52:00 GMT",
+  "pubDate": "Sat, 03 Oct 2026 05:59:28 GMT",
   "items": [
     {
       "title": "OpenZeppelin/openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": "27,265",
-      "forks": "12,394",
-      "addStars": "56",
+      "stars": "27,266",
+      "forks": "12,393",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/481465?s=40&v=4",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "SunWeb3Sec/DeFiHackLabs",
-      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-      "description": "Reproduce DeFi hacked incidents using Foundry.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": "6,803",
-      "forks": "1,485",
-      "addStars": "51",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/107249780?s=40&v=4",
-          "name": "SunWeb3Sec",
-          "url": "https://github.com/SunWeb3Sec"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53768199?s=40&v=4",
-          "name": "zhouxianyuan",
-          "url": "https://github.com/zhouxianyuan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/209417172?s=40&v=4",
-          "name": "Z-Bra0",
-          "url": "https://github.com/Z-Bra0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152027898?s=40&v=4",
-          "name": "BhariGowda",
-          "url": "https://github.com/BhariGowda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/224065307?s=40&v=4",
-          "name": "TracExp207",
-          "url": "https://github.com/TracExp207"
-        }
-      ]
-    },
-    {
       "title": "foundry-rs/forge-std",
       "url": "https://github.com/foundry-rs/forge-std",
       "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
@@ -86,7 +49,7 @@
       "languageColor": "#AA6746",
       "stars": "1,058",
       "forks": "521",
-      "addStars": "6",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17163988?s=40&v=4",
