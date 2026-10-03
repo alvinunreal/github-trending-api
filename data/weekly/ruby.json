@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 17:00:02 GMT",
+  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
   "items": [
     {
       "title": "we-promise/sure",
@@ -11,7 +11,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "10,379",
-      "forks": "590",
+      "forks": "591",
       "addStars": "350",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,797",
-      "forks": "24,137",
+      "stars": "58,798",
+      "forks": "24,180",
       "addStars": "34",
       "contributors": [
         {
@@ -154,7 +154,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "5,796",
-      "forks": "1,539",
+      "forks": "1,540",
       "addStars": "14",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,489",
-      "forks": "9,114",
+      "stars": "37,497",
+      "forks": "9,118",
       "addStars": "267",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,770",
+      "stars": "23,771",
       "forks": "5,653",
       "addStars": "23",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,296",
+      "stars": "16,299",
       "forks": "3,522",
       "addStars": "93",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,974",
+      "stars": "5,973",
       "forks": "1,069",
       "addStars": "22",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "49,879",
-      "forks": "11,379",
+      "stars": "49,881",
+      "forks": "11,380",
       "addStars": "112",
       "contributors": [
         {
@@ -407,7 +407,7 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,520",
+      "stars": "39,522",
       "forks": "2,651",
       "addStars": "37",
       "contributors": [
@@ -550,7 +550,7 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,346",
+      "stars": "50,344",
       "forks": "7,503",
       "addStars": "38",
       "contributors": [
@@ -577,7 +577,7 @@
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,847",
+      "stars": "16,848",
       "forks": "1,300",
       "addStars": "19",
       "contributors": [
@@ -604,8 +604,8 @@
       "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "13,718",
-      "forks": "5,450",
+      "stars": "13,721",
+      "forks": "5,451",
       "addStars": "18",
       "contributors": [
         {
@@ -705,13 +705,50 @@
       ]
     },
     {
+      "title": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "1,074",
+      "forks": "246",
+      "addStars": "1",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43523?s=40&v=4",
+          "name": "jasnow",
+          "url": "https://github.com/jasnow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/352251?s=40&v=4",
+          "name": "reedloden",
+          "url": "https://github.com/reedloden"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12671?s=40&v=4",
+          "name": "postmodern",
+          "url": "https://github.com/postmodern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17770?s=40&v=4",
+          "name": "phillmv",
+          "url": "https://github.com/phillmv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34720?s=40&v=4",
+          "name": "mveytsman",
+          "url": "https://github.com/mveytsman"
+        }
+      ]
+    },
+    {
       "title": "github/explore",
       "url": "https://github.com/github/explore",
       "description": "Community-curated topic and collection pages on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "4,898",
-      "forks": "14,578",
+      "forks": "14,579",
       "addStars": "5",
       "contributors": [
         {
@@ -747,7 +784,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,931",
+      "stars": "47,932",
       "forks": "9,030",
       "addStars": "44",
       "contributors": [

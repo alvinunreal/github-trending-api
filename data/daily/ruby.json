@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 17:00:02 GMT",
+  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
   "items": [
     {
       "title": "github/explore",
@@ -11,7 +11,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "4,898",
-      "forks": "14,578",
+      "forks": "14,579",
       "addStars": "1",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,797",
-      "forks": "24,137",
+      "stars": "58,798",
+      "forks": "24,180",
       "addStars": "10",
       "contributors": [
         {
@@ -85,7 +85,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "5,796",
-      "forks": "1,539",
+      "forks": "1,540",
       "addStars": "3",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,346",
+      "stars": "50,344",
       "forks": "7,503",
       "addStars": "8",
       "contributors": [
@@ -143,7 +143,7 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,931",
+      "stars": "47,932",
       "forks": "9,030",
       "addStars": "5",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,021",
+      "stars": "50,019",
       "forks": "4,304",
       "addStars": "8",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,847",
+      "stars": "16,848",
       "forks": "1,300",
       "addStars": "5",
       "contributors": [
@@ -345,7 +345,7 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,296",
+      "stars": "16,299",
       "forks": "3,522",
       "addStars": "14",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,706",
+      "stars": "51,707",
       "forks": "10,302",
       "addStars": "7",
       "contributors": [
@@ -451,13 +451,50 @@
       ]
     },
     {
+      "title": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "1,074",
+      "forks": "246",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43523?s=40&v=4",
+          "name": "jasnow",
+          "url": "https://github.com/jasnow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/352251?s=40&v=4",
+          "name": "reedloden",
+          "url": "https://github.com/reedloden"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12671?s=40&v=4",
+          "name": "postmodern",
+          "url": "https://github.com/postmodern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17770?s=40&v=4",
+          "name": "phillmv",
+          "url": "https://github.com/phillmv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34720?s=40&v=4",
+          "name": "mveytsman",
+          "url": "https://github.com/mveytsman"
+        }
+      ]
+    },
+    {
       "title": "basecamp/fizzy",
       "url": "https://github.com/basecamp/fizzy",
       "description": "Kanban as it should be. Not as it has been.",
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "8,240",
-      "forks": "1,197",
+      "forks": "1,198",
       "addStars": "2",
       "contributors": [
         {
@@ -567,8 +604,8 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "18,651",
-      "forks": "1,881",
+      "stars": "18,652",
+      "forks": "1,882",
       "addStars": "9",
       "contributors": [
         {
