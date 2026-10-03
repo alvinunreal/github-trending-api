@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 12:20:56 GMT",
+  "pubDate": "Sat, 03 Oct 2026 17:00:02 GMT",
   "items": [
     {
       "title": "JuliusBrussee/caveman",
@@ -10,8 +10,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "109,317",
-      "forks": "6,324",
+      "stars": "109,422",
+      "forks": "6,328",
       "addStars": "505",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Fast linters runner for Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,408",
+      "stars": "19,407",
       "forks": "1,632",
       "addStars": "3",
       "contributors": [
@@ -69,8 +69,8 @@
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,964",
-      "forks": "8,168",
+      "stars": "54,003",
+      "forks": "8,178",
       "addStars": "168",
       "contributors": [
         {
@@ -107,7 +107,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "49,820",
-      "forks": "10,639",
+      "forks": "10,640",
       "addStars": "11",
       "contributors": [
         {
@@ -143,9 +143,9 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,382",
-      "forks": "1,355",
-      "addStars": "23",
+      "stars": "6,384",
+      "forks": "1,356",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22766134?s=40&v=4",
@@ -180,8 +180,8 @@
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,440",
-      "forks": "260",
+      "stars": "1,460",
+      "forks": "268",
       "addStars": "78",
       "contributors": [
         {
@@ -217,9 +217,9 @@
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,703",
-      "forks": "1,120",
-      "addStars": "77",
+      "stars": "7,723",
+      "forks": "1,124",
+      "addStars": "67",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/188120068?s=40&v=4",
@@ -239,8 +239,8 @@
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "186,697",
-      "forks": "13,597",
+      "stars": "186,734",
+      "forks": "13,599",
       "addStars": "165",
       "contributors": [
         {
@@ -276,7 +276,7 @@
       "description": "OpenTelemetry Go API and SDK",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,570",
+      "stars": "6,571",
       "forks": "1,488",
       "addStars": "0",
       "contributors": [
@@ -303,9 +303,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,207",
+      "stars": "38,208",
       "forks": "723",
-      "addStars": "22",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
@@ -335,8 +335,8 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,553",
-      "forks": "149",
+      "stars": "5,554",
+      "forks": "150",
       "addStars": "33",
       "contributors": [
         {
@@ -367,8 +367,8 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "111,319",
-      "forks": "15,537",
+      "stars": "111,325",
+      "forks": "15,545",
       "addStars": "17",
       "contributors": [
         {
@@ -404,7 +404,7 @@
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,710",
+      "stars": "2,715",
       "forks": "495",
       "addStars": "29",
       "contributors": [
@@ -441,7 +441,7 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,171",
+      "stars": "4,181",
       "forks": "496",
       "addStars": "26",
       "contributors": [
@@ -478,8 +478,8 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,336",
-      "forks": "5,077",
+      "stars": "33,340",
+      "forks": "5,078",
       "addStars": "19",
       "contributors": [
         {
@@ -505,9 +505,9 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,053",
-      "forks": "348",
-      "addStars": "93",
+      "stars": "8,071",
+      "forks": "349",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -579,7 +579,7 @@
       "description": "The toolkit to pack, ship, store, and deliver container content",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,643",
+      "stars": "10,642",
       "forks": "2,797",
       "addStars": "4",
       "contributors": [
@@ -717,8 +717,8 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "182,085",
-      "forks": "18,086",
+      "stars": "182,098",
+      "forks": "18,088",
       "addStars": "60",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Weekly Trending",
   "description": "Weekly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 12:20:56 GMT",
+  "pubDate": "Sat, 03 Oct 2026 17:00:02 GMT",
   "items": [
     {
       "title": "julyx10/lap",
@@ -10,8 +10,8 @@
       "description": "An offline-first photo manager for large local libraries",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,614",
-      "forks": "212",
+      "stars": "3,619",
+      "forks": "213",
       "addStars": "533",
       "contributors": [
         {
@@ -42,13 +42,45 @@
       ]
     },
     {
+      "title": "daimiaopeng/coolapk-desktop",
+      "url": "https://github.com/daimiaopeng/coolapk-desktop",
+      "description": "酷安跨平台桌面版",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": "1,114",
+      "forks": "46",
+      "addStars": "299",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32475719?s=40&v=4",
+          "name": "daimiaopeng",
+          "url": "https://github.com/daimiaopeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165129054?s=40&v=4",
+          "name": "IamNewHands",
+          "url": "https://github.com/IamNewHands"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80181169?s=40&v=4",
+          "name": "Souitou-iop",
+          "url": "https://github.com/Souitou-iop"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265167103?s=40&v=4",
+          "name": "woierhksldhfl",
+          "url": "https://github.com/woierhksldhfl"
+        }
+      ]
+    },
+    {
       "title": "frappe/crm",
       "url": "https://github.com/frappe/crm",
       "description": "Fully featured, open source CRM",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,705",
-      "forks": "1,494",
+      "stars": "3,707",
+      "forks": "1,498",
       "addStars": "103",
       "contributors": [
         {
@@ -116,7 +148,7 @@
       "description": "旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,439",
+      "stars": "2,440",
       "forks": "284",
       "addStars": "113",
       "contributors": [
@@ -153,7 +185,7 @@
       "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "6,853",
+      "stars": "6,854",
       "forks": "560",
       "addStars": "23",
       "contributors": [
@@ -185,7 +217,7 @@
       "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "4,351",
+      "stars": "4,352",
       "forks": "144",
       "addStars": "60",
       "contributors": [
@@ -255,7 +287,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "452",
-      "forks": "68,114",
+      "forks": "68,158",
       "addStars": "7",
       "contributors": [
         {
@@ -291,7 +323,7 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "16,890",
+      "stars": "16,891",
       "forks": "1,368",
       "addStars": "76",
       "contributors": [
@@ -328,7 +360,7 @@
       "description": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "5,902",
+      "stars": "5,903",
       "forks": "1,119",
       "addStars": "14",
       "contributors": [
@@ -365,7 +397,7 @@
       "description": "雅思词汇真经、雅思语法、听力 179、阅读 538 同义替换等。Everything during preparing for my IELTS exam.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,578",
+      "stars": "3,581",
       "forks": "421",
       "addStars": "71",
       "contributors": [
@@ -440,7 +472,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "3,240",
-      "forks": "5,037",
+      "forks": "5,038",
       "addStars": "4",
       "contributors": [
         {

@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Java Languages in GitHub</description>
-    <pubDate>Sat, 03 Oct 2026 12:20:56 GMT</pubDate>
+    <pubDate>Sat, 03 Oct 2026 17:00:02 GMT</pubDate>
     <item>
       <title>kestra-io/kestra</title>
       <link>https://github.com/kestra-io/kestra</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/kestra-io/kestra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>28,923</stars>
-      <forks>3,194</forks>
-      <addStars>206</addStars>
+      <stars>28,978</stars>
+      <forks>3,202</forks>
+      <addStars>176</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4</avatar>
@@ -44,8 +44,8 @@
       <guid>https://github.com/Stirling-Tools/Stirling-PDF</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>93,493</stars>
-      <forks>10,167</forks>
+      <stars>93,512</stars>
+      <forks>10,173</forks>
       <addStars>79</addStars>
       <contributors>
         <contributor>
@@ -77,9 +77,9 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>80,394</stars>
-      <forks>8,943</forks>
-      <addStars>179</addStars>
+      <stars>80,420</stars>
+      <forks>8,944</forks>
+      <addStars>119</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4</avatar>
@@ -109,6 +109,44 @@
       </contributors>
     </item>
     <item>
+      <title>aleixrodriala/newtube</title>
+      <link>https://github.com/aleixrodriala/newtube</link>
+      <description>SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.</description>
+      <guid>https://github.com/aleixrodriala/newtube</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>263</stars>
+      <forks>7</forks>
+      <addStars>81</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5897464?s=40&amp;v=4</avatar>
+          <name>yuliskov</name>
+          <url>https://github.com/yuliskov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11310358?s=40&amp;v=4</avatar>
+          <name>aleixrodriala</name>
+          <url>https://github.com/aleixrodriala</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/250561447?s=40&amp;v=4</avatar>
+          <name>PChaicot</name>
+          <url>https://github.com/PChaicot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32204990?s=40&amp;v=4</avatar>
+          <name>Resshi</name>
+          <url>https://github.com/Resshi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>shmykelsa/AAAD</title>
       <link>https://github.com/shmykelsa/AAAD</link>
       <description>The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.</description>
@@ -116,7 +154,7 @@
       <language>Java</language>
       <languageColor>#b07219</languageColor>
       <stars>3,026</stars>
-      <forks>336</forks>
+      <forks>337</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -148,8 +186,8 @@
       <guid>https://github.com/termux/termux-app</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>61,873</stars>
-      <forks>7,745</forks>
+      <stars>61,890</stars>
+      <forks>7,747</forks>
       <addStars>70</addStars>
       <contributors>
         <contributor>
@@ -181,9 +219,9 @@
       <guid>https://github.com/jenkinsci/jenkins</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>26,617</stars>
+      <stars>26,618</stars>
       <forks>9,833</forks>
-      <addStars>5</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50003?s=40&amp;v=4</avatar>
@@ -214,8 +252,8 @@
       <guid>https://github.com/spring-projects/spring-boot</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>81,546</stars>
-      <forks>43,831</forks>
+      <stars>81,549</stars>
+      <forks>43,837</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -252,7 +290,7 @@
       <guid>https://github.com/LSPosed/LSPosed</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>24,902</stars>
+      <stars>24,906</stars>
       <forks>3,596</forks>
       <addStars>16</addStars>
       <contributors>
@@ -290,7 +328,7 @@
       <guid>https://github.com/openjdk/jdk</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>23,394</stars>
+      <stars>23,395</stars>
       <forks>6,469</forks>
       <addStars>4</addStars>
       <contributors>
@@ -328,7 +366,7 @@
       <guid>https://github.com/MojoLauncher/MojoLauncher</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,011</stars>
+      <stars>1,012</stars>
       <forks>422</forks>
       <addStars>3</addStars>
       <contributors>
@@ -366,9 +404,9 @@
       <guid>https://github.com/apache/kafka</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>33,892</stars>
-      <forks>15,552</forks>
-      <addStars>13</addStars>
+      <stars>33,895</stars>
+      <forks>15,553</forks>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8959638?s=40&amp;v=4</avatar>
@@ -404,7 +442,7 @@
       <guid>https://github.com/LawnchairLauncher/lawnchair</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>13,639</stars>
+      <stars>13,640</stars>
       <forks>1,703</forks>
       <addStars>9</addStars>
       <contributors>
@@ -442,8 +480,8 @@
       <guid>https://github.com/zed-0xff/ZombieBuddy</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>123</stars>
-      <forks>35</forks>
+      <stars>124</stars>
+      <forks>39</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -475,8 +513,8 @@
       <guid>https://github.com/PojavLauncherTeam/PojavLauncher</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>9,409</stars>
-      <forks>2,354</forks>
+      <stars>9,408</stars>
+      <forks>2,356</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -513,7 +551,7 @@
       <guid>https://github.com/adityatandon15/Low-Level-Design-Course</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,336</stars>
+      <stars>1,339</stars>
       <forks>909</forks>
       <addStars>4</addStars>
       <contributors>
@@ -536,9 +574,9 @@
       <guid>https://github.com/elastic/elasticsearch</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>78,184</stars>
-      <forks>26,110</forks>
-      <addStars>13</addStars>
+      <stars>78,183</stars>
+      <forks>26,112</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58790826?s=40&amp;v=4</avatar>
@@ -575,7 +613,7 @@
       <language>Java</language>
       <languageColor>#b07219</languageColor>
       <stars>5,139</stars>
-      <forks>1,309</forks>
+      <forks>1,310</forks>
       <addStars>0</addStars>
       <contributors>
         <contributor>
