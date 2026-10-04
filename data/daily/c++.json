@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
+  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
   "items": [
     {
       "title": "Vita3K/Vita3K",
@@ -10,9 +10,9 @@
       "description": "Experimental PlayStation Vita emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "5,775",
+      "stars": "5,779",
       "forks": "609",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5261759?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "11,524",
+      "stars": "11,531",
       "forks": "510",
-      "addStars": "25",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35529761?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "50,223",
-      "forks": "9,052",
-      "addStars": "24",
+      "stars": "50,228",
+      "forks": "9,054",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18581488?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "105,067",
-      "forks": "9,641",
-      "addStars": "21",
+      "stars": "105,071",
+      "forks": "9,643",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/189190?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,547",
+      "stars": "3,548",
       "forks": "1,004",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/371089?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,099",
-      "forks": "7,296",
-      "addStars": "12",
+      "stars": "33,100",
+      "forks": "7,300",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,061",
-      "forks": "2,608",
-      "addStars": "13",
+      "stars": "33,067",
+      "forks": "2,609",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4313123?s=40&v=4",
@@ -301,14 +301,51 @@
       ]
     },
     {
+      "title": "dyang886/Game-Cheats-Manager",
+      "url": "https://github.com/dyang886/Game-Cheats-Manager",
+      "description": "Easily download and manage single-player game cheats for your convenience",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": "15,008",
+      "forks": "521",
+      "addStars": "18",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88755186?s=40&v=4",
+          "name": "dyang886",
+          "url": "https://github.com/dyang886"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111511925?s=40&v=4",
+          "name": "NeKoOuO",
+          "url": "https://github.com/NeKoOuO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80465610?s=40&v=4",
+          "name": "Karasukaigan",
+          "url": "https://github.com/Karasukaigan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80365066?s=40&v=4",
+          "name": "Kyo-70",
+          "url": "https://github.com/Kyo-70"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121666305?s=40&v=4",
+          "name": "shuixxing233",
+          "url": "https://github.com/shuixxing233"
+        }
+      ]
+    },
+    {
       "title": "hedge-dev/UnleashedRecomp",
       "url": "https://github.com/hedge-dev/UnleashedRecomp",
       "description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "5,112",
+      "stars": "5,114",
       "forks": "429",
-      "addStars": "7",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34012267?s=40&v=4",
@@ -343,9 +380,9 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "41,886",
-      "forks": "3,856",
-      "addStars": "15",
+      "stars": "41,891",
+      "forks": "3,858",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3978469?s=40&v=4",
@@ -380,9 +417,9 @@
       "description": "Decompilation of The Legend of Zelda: The Wind Waker",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,039",
+      "stars": "1,041",
       "forks": "163",
-      "addStars": "11",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19174152?s=40&v=4",
@@ -417,8 +454,8 @@
       "description": "super repo for rocm systems projects",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "520",
-      "forks": "434",
+      "stars": "521",
+      "forks": "435",
       "addStars": "0",
       "contributors": [
         {
@@ -454,8 +491,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "21,999",
-      "forks": "4,274",
+      "stars": "22,002",
+      "forks": "4,275",
       "addStars": "19",
       "contributors": [
         {
@@ -491,8 +528,8 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "200,676",
-      "forks": "78,181",
+      "stars": "200,682",
+      "forks": "78,243",
       "addStars": "25",
       "contributors": [
         {
@@ -528,9 +565,9 @@
       "description": "The ultimate Geometry Dash modding framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,893",
+      "stars": "2,895",
       "forks": "571",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45172705?s=40&v=4",
@@ -565,9 +602,9 @@
       "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,804",
-      "forks": "479",
-      "addStars": "8",
+      "stars": "3,807",
+      "forks": "480",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33876434?s=40&v=4",

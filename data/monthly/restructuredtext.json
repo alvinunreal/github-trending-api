@@ -2,7 +2,7 @@
   "title": "GitHub Restructuredtext Languages Monthly Trending",
   "description": "Monthly Trending of Restructuredtext Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
+  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
   "items": [
     {
       "title": "odoo/documentation",
@@ -11,8 +11,8 @@
       "language": "reStructuredText",
       "languageColor": "#141414",
       "stars": "1,350",
-      "forks": "12,141",
-      "addStars": "38",
+      "forks": "12,142",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/564822?s=40&v=4",
@@ -30,14 +30,14 @@
           "url": "https://github.com/tivisse"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15896813?s=40&v=4",
-          "name": "AntoineVDV",
-          "url": "https://github.com/AntoineVDV"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/12633088?s=40&v=4",
           "name": "C3POdoo",
           "url": "https://github.com/C3POdoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15896813?s=40&v=4",
+          "name": "AntoineVDV",
+          "url": "https://github.com/AntoineVDV"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "Python Enhancement Proposals",
       "language": "reStructuredText",
       "languageColor": "#141414",
-      "stars": "5,017",
-      "forks": "1,813",
-      "addStars": "18",
+      "stars": "5,021",
+      "forks": "1,815",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54418?s=40&v=4",

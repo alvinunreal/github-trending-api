@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
+  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
   "items": [
     {
       "title": "PrimeIntellect-ai/prime-agent",
@@ -10,9 +10,9 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,513",
-      "forks": "2,373",
-      "addStars": "38",
+      "stars": "21,520",
+      "forks": "2,376",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46242684?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "32,756",
-      "forks": "3,033",
-      "addStars": "108",
+      "stars": "32,778",
+      "forks": "3,034",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1559480?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Rails as a specification; the deployment target is a build flag",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "373",
+      "stars": "379",
       "forks": "24",
-      "addStars": "23",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4815?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,833",
-      "forks": "975",
-      "addStars": "163",
+      "stars": "15,931",
+      "forks": "981",
+      "addStars": "168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,732",
+      "stars": "8,756",
       "forks": "315",
-      "addStars": "67",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Counter-Strike: 2 Offset Dumper",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,393",
+      "stars": "2,394",
       "forks": "365",
-      "addStars": "6",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45197573?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "542",
-      "forks": "108",
-      "addStars": "95",
+      "stars": "556",
+      "forks": "110",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51686767?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,157",
-      "forks": "911",
+      "stars": "5,164",
+      "forks": "912",
       "addStars": "16",
       "contributors": [
         {
@@ -291,9 +291,9 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,935",
-      "forks": "275",
-      "addStars": "155",
+      "stars": "2,960",
+      "forks": "277",
+      "addStars": "153",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234226124?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,769",
-      "forks": "494",
-      "addStars": "121",
+      "stars": "6,794",
+      "forks": "498",
+      "addStars": "133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2638748?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,214",
+      "stars": "8,215",
       "forks": "1,657",
-      "addStars": "5",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "82,311",
-      "forks": "5,232",
-      "addStars": "93",
+      "stars": "82,327",
+      "forks": "5,236",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,549",
-      "forks": "1,394",
-      "addStars": "44",
+      "stars": "24,561",
+      "forks": "1,396",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81939?s=40&v=4",

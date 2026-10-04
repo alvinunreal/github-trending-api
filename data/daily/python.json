@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 03 Oct 2026 22:03:24 GMT",
+  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
   "items": [
     {
       "title": "Panniantong/Agent-Reach",
@@ -10,9 +10,9 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "89,736",
-      "forks": "7,894",
-      "addStars": "1,683",
+      "stars": "90,050",
+      "forks": "7,922",
+      "addStars": "1,696",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Developer-first error tracking and performance monitoring",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,193",
-      "forks": "4,898",
-      "addStars": "211",
+      "stars": "45,235",
+      "forks": "4,899",
+      "addStars": "214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23610?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,384",
-      "forks": "2,068",
-      "addStars": "192",
+      "stars": "9,448",
+      "forks": "2,073",
+      "addStars": "193",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62331655?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,719",
-      "forks": "1,523",
-      "addStars": "43",
+      "stars": "8,833",
+      "forks": "1,531",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/118180968?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,400",
-      "forks": "1,250",
-      "addStars": "20",
+      "stars": "12,410",
+      "forks": "1,251",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/913340?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,949",
-      "forks": "1,161",
-      "addStars": "151",
+      "stars": "10,962",
+      "forks": "1,162",
+      "addStars": "100",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36500279?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 2720+ actively maintained scan vectors (210+ email / 2510+ username) for security research, investigations, and digital footprinting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,208",
-      "forks": "528",
-      "addStars": "70",
+      "stars": "5,217",
+      "forks": "530",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98528577?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Build, run, and manage agent platforms.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,533",
-      "forks": "6,083",
-      "addStars": "41",
+      "stars": "42,543",
+      "forks": "6,086",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22579644?s=40&v=4",
@@ -281,14 +281,51 @@
       ]
     },
     {
+      "title": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "20,056",
+      "forks": "1,387",
+      "addStars": "753",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/258243974?s=40&v=4",
+          "name": "n-papaioannou",
+          "url": "https://github.com/n-papaioannou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/260612219?s=40&v=4",
+          "name": "stefyi-4355",
+          "url": "https://github.com/stefyi-4355"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/234348864?s=40&v=4",
+          "name": "Sebabaian",
+          "url": "https://github.com/Sebabaian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,359",
+      "stars": "11,363",
       "forks": "1,663",
-      "addStars": "27",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33206282?s=40&v=4",
@@ -323,9 +360,9 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,340",
-      "forks": "7,272",
-      "addStars": "238",
+      "stars": "66,382",
+      "forks": "7,275",
+      "addStars": "215",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49919286?s=40&v=4",
@@ -350,9 +387,9 @@
       "description": "The official Python SDK for Model Context Protocol servers and clients",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,473",
-      "forks": "4,009",
-      "addStars": "20",
+      "stars": "24,476",
+      "forks": "4,013",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/224885523?s=40&v=4",
@@ -387,9 +424,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,891",
-      "forks": "1,729",
-      "addStars": "290",
+      "stars": "20,915",
+      "forks": "1,732",
+      "addStars": "230",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -424,9 +461,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "62,682",
-      "forks": "8,005",
-      "addStars": "328",
+      "stars": "62,757",
+      "forks": "8,014",
+      "addStars": "292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -461,9 +498,9 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,071",
-      "forks": "3,703",
-      "addStars": "233",
+      "stars": "33,120",
+      "forks": "3,708",
+      "addStars": "257",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -493,9 +530,9 @@
       "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,920",
+      "stars": "9,922",
       "forks": "1,187",
-      "addStars": "9",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4670904?s=40&v=4",
@@ -530,9 +567,9 @@
       "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,307",
-      "forks": "2,177",
-      "addStars": "6",
+      "stars": "18,312",
+      "forks": "2,179",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15183589?s=40&v=4",
@@ -562,9 +599,9 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,184",
+      "stars": "15,196",
       "forks": "1,435",
-      "addStars": "34",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1032671?s=40&v=4",
