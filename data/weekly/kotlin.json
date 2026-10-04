@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 17:18:34 GMT",
+  "pubDate": "Sun, 04 Oct 2026 22:15:49 GMT",
   "items": [
     {
       "title": "YuKongA/ghostlock-app",
@@ -10,8 +10,8 @@
       "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,489",
-      "forks": "405",
+      "stars": "1,497",
+      "forks": "406",
       "addStars": "340",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,349",
+      "stars": "3,350",
       "forks": "218",
       "addStars": "372",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "Open-source Android/Desktop remake of Civ V",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,393",
-      "forks": "1,953",
+      "stars": "11,395",
+      "forks": "1,954",
       "addStars": "80",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "308",
-      "forks": "57",
+      "stars": "312",
+      "forks": "58",
       "addStars": "163",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,700",
-      "forks": "632",
+      "stars": "11,704",
+      "forks": "633",
       "addStars": "214",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "24,842",
+      "stars": "24,845",
       "forks": "2,710",
       "addStars": "61",
       "contributors": [
@@ -202,7 +202,7 @@
       "description": "一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,683",
+      "stars": "2,684",
       "forks": "272",
       "addStars": "23",
       "contributors": [
@@ -224,7 +224,7 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,353",
+      "stars": "6,354",
       "forks": "715",
       "addStars": "104",
       "contributors": [
@@ -256,7 +256,7 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,589",
+      "stars": "11,590",
       "forks": "410",
       "addStars": "105",
       "contributors": [
@@ -288,7 +288,7 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,459",
+      "stars": "20,460",
       "forks": "597",
       "addStars": "154",
       "contributors": [
@@ -316,43 +316,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/134270901?s=40&v=4",
           "name": "JerryZ233",
           "url": "https://github.com/JerryZ233"
-        }
-      ]
-    },
-    {
-      "title": "ReSukiSU/ReSukiSU",
-      "url": "https://github.com/ReSukiSU/ReSukiSU",
-      "description": "A KernelSU based root solution for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "1,689",
-      "forks": "527",
-      "addStars": "75",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109797057?s=40&v=4",
-          "name": "ShirkNeko",
-          "url": "https://github.com/ShirkNeko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
-          "name": "tiann",
-          "url": "https://github.com/tiann"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102930921?s=40&v=4",
-          "name": "AlexLiuDev233",
-          "url": "https://github.com/AlexLiuDev233"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56485584?s=40&v=4",
-          "name": "5ec1cff",
-          "url": "https://github.com/5ec1cff"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30978685?s=40&v=4",
-          "name": "Ylarod",
-          "url": "https://github.com/Ylarod"
         }
       ]
     },
@@ -399,8 +362,8 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,961",
-      "forks": "336",
+      "stars": "1,962",
+      "forks": "335",
       "addStars": "66",
       "contributors": [
         {
@@ -473,7 +436,7 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,670",
+      "stars": "7,674",
       "forks": "831",
       "addStars": "67",
       "contributors": [
@@ -505,8 +468,8 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,856",
-      "forks": "250",
+      "stars": "6,859",
+      "forks": "251",
       "addStars": "141",
       "contributors": [
         {
