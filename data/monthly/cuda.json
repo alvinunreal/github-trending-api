@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
+  "pubDate": "Sun, 04 Oct 2026 13:05:35 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,8 +10,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,539",
-      "forks": "1,529",
+      "stars": "6,542",
+      "forks": "1,530",
       "addStars": "224",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "7,979",
+      "stars": "7,983",
       "forks": "1,302",
       "addStars": "221",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,957",
+      "stars": "3,958",
       "forks": "524",
       "addStars": "262",
       "contributors": [
@@ -301,43 +301,6 @@
       ]
     },
     {
-      "title": "mirage-project/mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": "2,528",
-      "forks": "262",
-      "addStars": "58",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
-          "name": "jiazhihao",
-          "url": "https://github.com/jiazhihao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
-          "name": "yzhou442",
-          "url": "https://github.com/yzhou442"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
-          "name": "xinhaoc",
-          "url": "https://github.com/xinhaoc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
-          "name": "wmdi",
-          "url": "https://github.com/wmdi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
-          "name": "undefined-c0der",
-          "url": "https://github.com/undefined-c0der"
-        }
-      ]
-    },
-    {
       "title": "rapidsai/cugraph",
       "url": "https://github.com/rapidsai/cugraph",
       "description": "cuGraph - RAPIDS Graph Analytics Library",
@@ -449,12 +412,49 @@
       ]
     },
     {
+      "title": "mirage-project/mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "2,529",
+      "forks": "262",
+      "addStars": "58",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
+          "name": "jiazhihao",
+          "url": "https://github.com/jiazhihao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/82456363?s=40&v=4",
+          "name": "yzhou442",
+          "url": "https://github.com/yzhou442"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99570243?s=40&v=4",
+          "name": "xinhaoc",
+          "url": "https://github.com/xinhaoc"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48128384?s=40&v=4",
+          "name": "wmdi",
+          "url": "https://github.com/wmdi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/145248565?s=40&v=4",
+          "name": "undefined-c0der",
+          "url": "https://github.com/undefined-c0der"
+        }
+      ]
+    },
+    {
       "title": "BBuf/how-to-optim-algorithm-in-cuda",
       "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,296",
+      "stars": "3,297",
       "forks": "294",
       "addStars": "56",
       "contributors": [

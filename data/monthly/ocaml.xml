@@ -3,7 +3,7 @@
     <title>GitHub Ocaml Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Ocaml Languages in GitHub</description>
-    <pubDate>Sun, 04 Oct 2026 06:35:59 GMT</pubDate>
+    <pubDate>Sun, 04 Oct 2026 13:05:35 GMT</pubDate>
     <item>
       <title>ocaml/ocaml</title>
       <link>https://github.com/ocaml/ocaml</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/opengrep/opengrep</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>3,136</stars>
+      <stars>3,137</stars>
       <forks>270</forks>
       <addStars>107</addStars>
       <contributors>
@@ -77,44 +77,6 @@
           <avatar>https://avatars.githubusercontent.com/u/4414634?s=40&amp;v=4</avatar>
           <name>corneliuhoffman</name>
           <url>https://github.com/corneliuhoffman</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>MinaProtocol/mina</title>
-      <link>https://github.com/MinaProtocol/mina</link>
-      <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
-      <guid>https://github.com/MinaProtocol/mina</guid>
-      <language>OCaml</language>
-      <languageColor>#ef7a08</languageColor>
-      <stars>2,123</stars>
-      <forks>585</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1847343?s=40&amp;v=4</avatar>
-          <name>mrmr1993</name>
-          <url>https://github.com/mrmr1993</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20424186?s=40&amp;v=4</avatar>
-          <name>dkijania</name>
-          <url>https://github.com/dkijania</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2244648?s=40&amp;v=4</avatar>
-          <name>psteckler</name>
-          <url>https://github.com/psteckler</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15304983?s=40&amp;v=4</avatar>
-          <name>deepthiskumar</name>
-          <url>https://github.com/deepthiskumar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5480925?s=40&amp;v=4</avatar>
-          <name>lk86</name>
-          <url>https://github.com/lk86</url>
         </contributor>
       </contributors>
     </item>
@@ -157,6 +119,44 @@
       </contributors>
     </item>
     <item>
+      <title>MinaProtocol/mina</title>
+      <link>https://github.com/MinaProtocol/mina</link>
+      <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
+      <guid>https://github.com/MinaProtocol/mina</guid>
+      <language>OCaml</language>
+      <languageColor>#ef7a08</languageColor>
+      <stars>2,123</stars>
+      <forks>585</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1847343?s=40&amp;v=4</avatar>
+          <name>mrmr1993</name>
+          <url>https://github.com/mrmr1993</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20424186?s=40&amp;v=4</avatar>
+          <name>dkijania</name>
+          <url>https://github.com/dkijania</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2244648?s=40&amp;v=4</avatar>
+          <name>psteckler</name>
+          <url>https://github.com/psteckler</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15304983?s=40&amp;v=4</avatar>
+          <name>deepthiskumar</name>
+          <url>https://github.com/deepthiskumar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5480925?s=40&amp;v=4</avatar>
+          <name>lk86</name>
+          <url>https://github.com/lk86</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>bcpierce00/unison</title>
       <link>https://github.com/bcpierce00/unison</link>
       <description>Unison file synchronizer</description>
@@ -164,7 +164,7 @@
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
       <stars>5,508</stars>
-      <forks>275</forks>
+      <forks>276</forks>
       <addStars>57</addStars>
       <contributors>
         <contributor>
@@ -201,7 +201,7 @@
       <guid>https://github.com/AeneasVerif/aeneas</guid>
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
-      <stars>1,007</stars>
+      <stars>1,008</stars>
       <forks>114</forks>
       <addStars>64</addStars>
       <contributors>
@@ -240,7 +240,7 @@
       <language>OCaml</language>
       <languageColor>#ef7a08</languageColor>
       <stars>1,922</stars>
-      <forks>504</forks>
+      <forks>505</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>

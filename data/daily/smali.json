@@ -2,7 +2,7 @@
   "title": "GitHub Smali Languages Daily Trending",
   "description": "Daily Trending of Smali Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 06:35:59 GMT",
+  "pubDate": "Sun, 04 Oct 2026 13:05:35 GMT",
   "items": [
     {
       "title": "Producdevity/gamehub-lite",
@@ -42,12 +42,49 @@
       ]
     },
     {
+      "title": "The412Banner/BannerHub",
+      "url": "https://github.com/The412Banner/BannerHub",
+      "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": "516",
+      "forks": "29",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/205237651?s=40&v=4",
+          "name": "The412Banner",
+          "url": "https://github.com/The412Banner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4",
+          "name": "reindex-ot",
+          "url": "https://github.com/reindex-ot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11882313?s=40&v=4",
+          "name": "tirsomb",
+          "url": "https://github.com/tirsomb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16357059?s=40&v=4",
+          "name": "TideGear",
+          "url": "https://github.com/TideGear"
+        }
+      ]
+    },
+    {
       "title": "LittleSurvival/copymanga-copy20",
       "url": "https://github.com/LittleSurvival/copymanga-copy20",
       "description": "Mihon/Tachiyomi系列 拷貝漫畫等中文資源的書源 相關社群見readme",
       "language": "Smali",
       "languageColor": "#ccc",
-      "stars": "2,825",
+      "stars": "2,830",
       "forks": "17",
       "addStars": "4",
       "contributors": [
@@ -60,6 +97,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/20819692?s=40&v=4",
           "name": "rainbowflesh",
           "url": "https://github.com/rainbowflesh"
+        }
+      ]
+    },
+    {
+      "title": "Morsmalleo/AhMyth",
+      "url": "https://github.com/Morsmalleo/AhMyth",
+      "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": "1,437",
+      "forks": "54",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64344168?s=40&v=4",
+          "name": "Morsmalleo",
+          "url": "https://github.com/Morsmalleo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25254617?s=40&v=4",
+          "name": "AhMyth",
+          "url": "https://github.com/AhMyth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43764701?s=40&v=4",
+          "name": "zlocate",
+          "url": "https://github.com/zlocate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90100459?s=40&v=4",
+          "name": "YagamiLight17",
+          "url": "https://github.com/YagamiLight17"
         }
       ]
     },
@@ -101,43 +170,6 @@
       ]
     },
     {
-      "title": "The412Banner/BannerHub",
-      "url": "https://github.com/The412Banner/BannerHub",
-      "description": "GameHub ReVanced — extended with GOG, Epic & Amazon game libraries, Component Manager, Winlator HUD, per-game controls & configs, and more. Built via apktool smali patching.",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": "516",
-      "forks": "28",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/205237651?s=40&v=4",
-          "name": "The412Banner",
-          "url": "https://github.com/The412Banner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/32851879?s=40&v=4",
-          "name": "reindex-ot",
-          "url": "https://github.com/reindex-ot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11882313?s=40&v=4",
-          "name": "tirsomb",
-          "url": "https://github.com/tirsomb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16357059?s=40&v=4",
-          "name": "TideGear",
-          "url": "https://github.com/TideGear"
-        }
-      ]
-    },
-    {
       "title": "phhusson/treble_experimentations",
       "url": "https://github.com/phhusson/treble_experimentations",
       "description": "Notes about tinkering with Android Project Treble",
@@ -175,6 +207,43 @@
       ]
     },
     {
+      "title": "vtosters/lite",
+      "url": "https://github.com/vtosters/lite",
+      "description": "Модифицированный клиент VK",
+      "language": "Smali",
+      "languageColor": "#ccc",
+      "stars": "633",
+      "forks": "37",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/41114720?s=40&v=4",
+          "name": "gdlbo",
+          "url": "https://github.com/gdlbo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53598473?s=40&v=4",
+          "name": "aliveoutside",
+          "url": "https://github.com/aliveoutside"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47892605?s=40&v=4",
+          "name": "Vologhat",
+          "url": "https://github.com/Vologhat"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46452865?s=40&v=4",
+          "name": "k1zn",
+          "url": "https://github.com/k1zn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152777508?s=40&v=4",
+          "name": "Tahgolov",
+          "url": "https://github.com/Tahgolov"
+        }
+      ]
+    },
+    {
       "title": "AhMyth/AhMyth-Android-RAT",
       "url": "https://github.com/AhMyth/AhMyth-Android-RAT",
       "description": "Android Remote Administration Tool",
@@ -208,38 +277,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/48923153?s=40&v=4",
           "name": "evaleries",
           "url": "https://github.com/evaleries"
-        }
-      ]
-    },
-    {
-      "title": "Morsmalleo/AhMyth",
-      "url": "https://github.com/Morsmalleo/AhMyth",
-      "description": "Cross-Platform Android Remote Administration Tool | Official maintained repository for the AhMyth R.A.T Project | A dedicated revival of the original repository at https://GitHub.com/AhMyth/AhMyth-Android-RAT",
-      "language": "Smali",
-      "languageColor": "#ccc",
-      "stars": "1,437",
-      "forks": "54",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64344168?s=40&v=4",
-          "name": "Morsmalleo",
-          "url": "https://github.com/Morsmalleo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25254617?s=40&v=4",
-          "name": "AhMyth",
-          "url": "https://github.com/AhMyth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43764701?s=40&v=4",
-          "name": "zlocate",
-          "url": "https://github.com/zlocate"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/90100459?s=40&v=4",
-          "name": "YagamiLight17",
-          "url": "https://github.com/YagamiLight17"
         }
       ]
     }
