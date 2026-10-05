@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 22:15:49 GMT",
+  "pubDate": "Mon, 05 Oct 2026 06:31:33 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,545",
-      "forks": "1,530",
-      "addStars": "224",
+      "stars": "6,546",
+      "forks": "1,531",
+      "addStars": "222",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,013",
-      "forks": "1,305",
-      "addStars": "221",
+      "stars": "8,301",
+      "forks": "1,328",
+      "addStars": "223",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,241",
-      "forks": "1,459",
-      "addStars": "158",
+      "stars": "10,243",
+      "forks": "1,460",
+      "addStars": "156",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#3A4E3A",
       "stars": "3,958",
       "forks": "524",
-      "addStars": "262",
+      "addStars": "263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,096",
+      "stars": "31,097",
       "forks": "3,769",
-      "addStars": "216",
+      "addStars": "214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,740",
+      "stars": "3,742",
       "forks": "331",
-      "addStars": "75",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11230781?s=40&v=4",
@@ -345,7 +345,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,053",
       "forks": "239",
-      "addStars": "27",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
@@ -382,7 +382,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,670",
       "forks": "411",
-      "addStars": "27",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
@@ -419,7 +419,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,530",
       "forks": "262",
-      "addStars": "58",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
@@ -454,9 +454,9 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,299",
+      "stars": "3,300",
       "forks": "294",
-      "addStars": "56",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35585791?s=40&v=4",

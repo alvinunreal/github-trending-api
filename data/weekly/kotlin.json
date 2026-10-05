@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 04 Oct 2026 22:15:49 GMT",
+  "pubDate": "Mon, 05 Oct 2026 06:31:33 GMT",
   "items": [
     {
       "title": "YuKongA/ghostlock-app",
@@ -10,9 +10,9 @@
       "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,497",
-      "forks": "406",
-      "addStars": "340",
+      "stars": "1,516",
+      "forks": "411",
+      "addStars": "350",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/72794669?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,350",
+      "stars": "3,354",
       "forks": "218",
-      "addStars": "372",
+      "addStars": "361",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/102330270?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Open-source Android/Desktop remake of Civ V",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,395",
-      "forks": "1,954",
-      "addStars": "80",
+      "stars": "11,398",
+      "forks": "1,955",
+      "addStars": "72",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8366208?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "312",
+      "stars": "315",
       "forks": "58",
-      "addStars": "163",
+      "addStars": "161",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/224180434?s=40&v=4",
@@ -133,9 +133,9 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,704",
-      "forks": "633",
-      "addStars": "214",
+      "stars": "11,718",
+      "forks": "634",
+      "addStars": "179",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/113747128?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "24,845",
+      "stars": "24,847",
       "forks": "2,710",
-      "addStars": "61",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8752427?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,684",
+      "stars": "2,685",
       "forks": "272",
-      "addStars": "23",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127954618?s=40&v=4",
@@ -224,9 +224,9 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,354",
+      "stars": "6,356",
       "forks": "715",
-      "addStars": "104",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63206378?s=40&v=4",
@@ -256,9 +256,9 @@
       "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,590",
+      "stars": "11,592",
       "forks": "410",
-      "addStars": "105",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1449159?s=40&v=4",
@@ -288,9 +288,9 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,460",
+      "stars": "20,469",
       "forks": "597",
-      "addStars": "154",
+      "addStars": "163",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12100985?s=40&v=4",
@@ -325,9 +325,9 @@
       "description": "原生、纯净、可扩展 —— 重新定义你的 B 站体验",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "4,739",
+      "stars": "4,742",
       "forks": "405",
-      "addStars": "88",
+      "addStars": "87",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/173592055?s=40&v=4",
@@ -362,9 +362,9 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,962",
-      "forks": "335",
-      "addStars": "66",
+      "stars": "1,964",
+      "forks": "336",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/123115192?s=40&v=4",
@@ -401,7 +401,7 @@
       "languageColor": "#A97BFF",
       "stars": "5,222",
       "forks": "261",
-      "addStars": "58",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15646950?s=40&v=4",
@@ -436,9 +436,9 @@
       "description": "SD Maid 2/SE is Android's most thorough cleaning tool.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,674",
+      "stars": "7,679",
       "forks": "831",
-      "addStars": "67",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1439229?s=40&v=4",
@@ -468,9 +468,9 @@
       "description": "More Expressive InstallerX !",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,859",
-      "forks": "251",
-      "addStars": "141",
+      "stars": "6,864",
+      "forks": "249",
+      "addStars": "150",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65166044?s=40&v=4",
