@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Monthly Trending",
   "description": "Monthly Trending of Fortran Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 05 Oct 2026 06:31:33 GMT",
+  "pubDate": "Mon, 05 Oct 2026 15:42:04 GMT",
   "items": [
     {
       "title": "E3SM-Project/E3SM",
@@ -79,6 +79,43 @@
       ]
     },
     {
+      "title": "cp2k/cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,213",
+      "forks": "510",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
+          "name": "vondele",
+          "url": "https://github.com/vondele"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
+          "name": "mkrack",
+          "url": "https://github.com/mkrack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
+          "name": "oschuett",
+          "url": "https://github.com/oschuett"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
+          "name": "tlaino",
+          "url": "https://github.com/tlaino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
+          "name": "juerghutter",
+          "url": "https://github.com/juerghutter"
+        }
+      ]
+    },
+    {
       "title": "OpenFAST/openfast",
       "url": "https://github.com/OpenFAST/openfast",
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
@@ -112,80 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/1318316?s=40&v=4",
           "name": "ebranlard",
           "url": "https://github.com/ebranlard"
-        }
-      ]
-    },
-    {
-      "title": "cp2k/cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,213",
-      "forks": "509",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4202567?s=40&v=4",
-          "name": "vondele",
-          "url": "https://github.com/vondele"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10218869?s=40&v=4",
-          "name": "mkrack",
-          "url": "https://github.com/mkrack"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241771?s=40&v=4",
-          "name": "oschuett",
-          "url": "https://github.com/oschuett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25837887?s=40&v=4",
-          "name": "tlaino",
-          "url": "https://github.com/tlaino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16081490?s=40&v=4",
-          "name": "juerghutter",
-          "url": "https://github.com/juerghutter"
-        }
-      ]
-    },
-    {
-      "title": "ElmerCSC/elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": "1,720",
-      "forks": "402",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
-          "name": "raback",
-          "url": "https://github.com/raback"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
-          "name": "mmalinen",
-          "url": "https://github.com/mmalinen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
-          "name": "juharu",
-          "url": "https://github.com/juharu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
-          "name": "ettaka",
-          "url": "https://github.com/ettaka"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
-          "name": "juhanikataja",
-          "url": "https://github.com/juhanikataja"
         }
       ]
     },
@@ -227,13 +190,50 @@
       ]
     },
     {
+      "title": "ElmerCSC/elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": "1,720",
+      "forks": "402",
+      "addStars": "36",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6664192?s=40&v=4",
+          "name": "raback",
+          "url": "https://github.com/raback"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10917604?s=40&v=4",
+          "name": "mmalinen",
+          "url": "https://github.com/mmalinen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10937930?s=40&v=4",
+          "name": "juharu",
+          "url": "https://github.com/juharu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/975622?s=40&v=4",
+          "name": "ettaka",
+          "url": "https://github.com/ettaka"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7487289?s=40&v=4",
+          "name": "juhanikataja",
+          "url": "https://github.com/juhanikataja"
+        }
+      ]
+    },
+    {
       "title": "firemodels/fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": "885",
-      "forks": "693",
+      "stars": "887",
+      "forks": "695",
       "addStars": "18",
       "contributors": [
         {

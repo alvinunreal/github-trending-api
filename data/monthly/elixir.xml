@@ -3,7 +3,7 @@
     <title>GitHub Elixir Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Elixir Languages in GitHub</description>
-    <pubDate>Mon, 05 Oct 2026 06:31:33 GMT</pubDate>
+    <pubDate>Mon, 05 Oct 2026 15:42:04 GMT</pubDate>
     <item>
       <title>blockscout/blockscout</title>
       <link>https://github.com/blockscout/blockscout</link>
@@ -44,8 +44,8 @@
       <guid>https://github.com/supabase/realtime</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>7,650</stars>
-      <forks>471</forks>
+      <stars>7,651</stars>
+      <forks>472</forks>
       <addStars>27</addStars>
       <contributors>
         <contributor>
@@ -76,14 +76,47 @@
       </contributors>
     </item>
     <item>
+      <title>teslamate-org/teslamate</title>
+      <link>https://github.com/teslamate-org/teslamate</link>
+      <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
+      <guid>https://github.com/teslamate-org/teslamate</guid>
+      <language>Elixir</language>
+      <languageColor>#6e4a7e</languageColor>
+      <stars>9,079</stars>
+      <forks>1,008</forks>
+      <addStars>145</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8999358?s=40&amp;v=4</avatar>
+          <name>adriankumpf</name>
+          <url>https://github.com/adriankumpf</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16510328?s=40&amp;v=4</avatar>
+          <name>JakobLichterfeld</name>
+          <url>https://github.com/JakobLichterfeld</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2990373?s=40&amp;v=4</avatar>
+          <name>swiffer</name>
+          <url>https://github.com/swiffer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>openai/symphony</title>
       <link>https://github.com/openai/symphony</link>
       <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
       <guid>https://github.com/openai/symphony</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>27,534</stars>
-      <forks>2,858</forks>
+      <stars>27,543</stars>
+      <forks>2,860</forks>
       <addStars>558</addStars>
       <contributors>
         <contributor>
@@ -114,35 +147,35 @@
       </contributors>
     </item>
     <item>
-      <title>teslamate-org/teslamate</title>
-      <link>https://github.com/teslamate-org/teslamate</link>
-      <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
-      <guid>https://github.com/teslamate-org/teslamate</guid>
+      <title>phoenixframework/phoenix</title>
+      <link>https://github.com/phoenixframework/phoenix</link>
+      <description>Peace of mind from prototype to production</description>
+      <guid>https://github.com/phoenixframework/phoenix</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>9,078</stars>
-      <forks>1,008</forks>
-      <addStars>145</addStars>
+      <stars>23,173</stars>
+      <forks>3,114</forks>
+      <addStars>62</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8999358?s=40&amp;v=4</avatar>
-          <name>adriankumpf</name>
-          <url>https://github.com/adriankumpf</url>
+          <avatar>https://avatars.githubusercontent.com/u/576796?s=40&amp;v=4</avatar>
+          <name>chrismccord</name>
+          <url>https://github.com/chrismccord</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16510328?s=40&amp;v=4</avatar>
-          <name>JakobLichterfeld</name>
-          <url>https://github.com/JakobLichterfeld</url>
+          <avatar>https://avatars.githubusercontent.com/u/9582?s=40&amp;v=4</avatar>
+          <name>josevalim</name>
+          <url>https://github.com/josevalim</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2990373?s=40&amp;v=4</avatar>
-          <name>swiffer</name>
-          <url>https://github.com/swiffer</url>
+          <avatar>https://avatars.githubusercontent.com/u/359224?s=40&amp;v=4</avatar>
+          <name>lancehalvorsen</name>
+          <url>https://github.com/lancehalvorsen</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/4116351?s=40&amp;v=4</avatar>
+          <name>SteffenDE</name>
+          <url>https://github.com/SteffenDE</url>
         </contributor>
       </contributors>
     </item>
@@ -175,46 +208,13 @@
       </contributors>
     </item>
     <item>
-      <title>phoenixframework/phoenix</title>
-      <link>https://github.com/phoenixframework/phoenix</link>
-      <description>Peace of mind from prototype to production</description>
-      <guid>https://github.com/phoenixframework/phoenix</guid>
-      <language>Elixir</language>
-      <languageColor>#6e4a7e</languageColor>
-      <stars>23,173</stars>
-      <forks>3,113</forks>
-      <addStars>62</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/576796?s=40&amp;v=4</avatar>
-          <name>chrismccord</name>
-          <url>https://github.com/chrismccord</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9582?s=40&amp;v=4</avatar>
-          <name>josevalim</name>
-          <url>https://github.com/josevalim</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/359224?s=40&amp;v=4</avatar>
-          <name>lancehalvorsen</name>
-          <url>https://github.com/lancehalvorsen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4116351?s=40&amp;v=4</avatar>
-          <name>SteffenDE</name>
-          <url>https://github.com/SteffenDE</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>kieraneglin/pinchflat</title>
       <link>https://github.com/kieraneglin/pinchflat</link>
       <description>Your next YouTube media manager</description>
       <guid>https://github.com/kieraneglin/pinchflat</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>5,391</stars>
+      <stars>5,394</stars>
       <forks>177</forks>
       <addStars>119</addStars>
       <contributors>
@@ -253,7 +253,7 @@
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
       <stars>9,109</stars>
-      <forks>463</forks>
+      <forks>464</forks>
       <addStars>76</addStars>
       <contributors>
         <contributor>
@@ -361,7 +361,7 @@
       <guid>https://github.com/elixir-lang/elixir</guid>
       <language>Elixir</language>
       <languageColor>#6e4a7e</languageColor>
-      <stars>26,677</stars>
+      <stars>26,676</stars>
       <forks>3,667</forks>
       <addStars>86</addStars>
       <contributors>
@@ -389,44 +389,6 @@
           <avatar>https://avatars.githubusercontent.com/u/316890?s=40&amp;v=4</avatar>
           <name>ericmj</name>
           <url>https://github.com/ericmj</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>anoma/anoma</title>
-      <link>https://github.com/anoma/anoma</link>
-      <description>Reference implementation of Anoma</description>
-      <guid>https://github.com/anoma/anoma</guid>
-      <language>Elixir</language>
-      <languageColor>#6e4a7e</languageColor>
-      <stars>33,577</stars>
-      <forks>4,112</forks>
-      <addStars>10</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32526923?s=40&amp;v=4</avatar>
-          <name>mariari</name>
-          <url>https://github.com/mariari</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/115765?s=40&amp;v=4</avatar>
-          <name>juped</name>
-          <url>https://github.com/juped</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67437331?s=40&amp;v=4</avatar>
-          <name>agureev</name>
-          <url>https://github.com/agureev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4094822?s=40&amp;v=4</avatar>
-          <name>m1dnight</name>
-          <url>https://github.com/m1dnight</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3200825?s=40&amp;v=4</avatar>
-          <name>karbyshev</name>
-          <url>https://github.com/karbyshev</url>
         </contributor>
       </contributors>
     </item>

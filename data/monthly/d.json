@@ -2,15 +2,52 @@
   "title": "GitHub D Languages Monthly Trending",
   "description": "Monthly Trending of D Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 05 Oct 2026 06:31:33 GMT",
+  "pubDate": "Mon, 05 Oct 2026 15:42:04 GMT",
   "items": [
+    {
+      "title": "Dadoum/anisette-v3-server",
+      "url": "https://github.com/Dadoum/anisette-v3-server",
+      "description": "sidestore's anisette-v3 compatible server",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": "587",
+      "forks": "2,518",
+      "addStars": "33",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24679280?s=40&v=4",
+          "name": "Dadoum",
+          "url": "https://github.com/Dadoum"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26381427?s=40&v=4",
+          "name": "Macleykun",
+          "url": "https://github.com/Macleykun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12498020?s=40&v=4",
+          "name": "Taknok",
+          "url": "https://github.com/Taknok"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/862001?s=40&v=4",
+          "name": "simonalbrecht",
+          "url": "https://github.com/simonalbrecht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/143989797?s=40&v=4",
+          "name": "sdhEmily",
+          "url": "https://github.com/sdhEmily"
+        }
+      ]
+    },
     {
       "title": "abraunegg/onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "12,887",
+      "stars": "12,888",
       "forks": "920",
       "addStars": "131",
       "contributors": [
@@ -42,49 +79,12 @@
       ]
     },
     {
-      "title": "Dadoum/anisette-v3-server",
-      "url": "https://github.com/Dadoum/anisette-v3-server",
-      "description": "sidestore's anisette-v3 compatible server",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": "587",
-      "forks": "2,517",
-      "addStars": "33",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24679280?s=40&v=4",
-          "name": "Dadoum",
-          "url": "https://github.com/Dadoum"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26381427?s=40&v=4",
-          "name": "Macleykun",
-          "url": "https://github.com/Macleykun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12498020?s=40&v=4",
-          "name": "Taknok",
-          "url": "https://github.com/Taknok"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/862001?s=40&v=4",
-          "name": "simonalbrecht",
-          "url": "https://github.com/simonalbrecht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/143989797?s=40&v=4",
-          "name": "sdhEmily",
-          "url": "https://github.com/sdhEmily"
-        }
-      ]
-    },
-    {
       "title": "Dadoum/Sideloader",
       "url": "https://github.com/Dadoum/Sideloader",
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "1,028",
+      "stars": "1,029",
       "forks": "168",
       "addStars": "36",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "A tiling terminal emulator for Linux using GTK+ 3",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": "5,725",
-      "forks": "326",
+      "stars": "5,727",
+      "forks": "327",
       "addStars": "16",
       "contributors": [
         {
