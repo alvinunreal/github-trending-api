@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 05 Oct 2026 15:42:04 GMT",
+  "pubDate": "Mon, 05 Oct 2026 20:59:04 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,8 +10,8 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,577",
-      "forks": "5,684",
+      "stars": "46,582",
+      "forks": "5,696",
       "addStars": "44",
       "contributors": [
         {
@@ -48,7 +48,7 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": "19,517",
-      "forks": "1,359",
+      "forks": "1,357",
       "addStars": "10",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,884",
-      "forks": "79",
+      "stars": "1,887",
+      "forks": "80",
       "addStars": "9",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,134",
+      "stars": "40,137",
       "forks": "1,955",
       "addStars": "7",
       "contributors": [
