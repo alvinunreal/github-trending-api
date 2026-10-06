@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 18:47:48 GMT",
+  "pubDate": "Tue, 06 Oct 2026 22:56:55 GMT",
   "items": [
     {
       "title": "basecamp/once-campfire",
@@ -10,8 +10,8 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,742",
-      "forks": "819",
+      "stars": "4,743",
+      "forks": "820",
       "addStars": "15",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,854",
+      "stars": "16,853",
       "forks": "1,303",
       "addStars": "1",
       "contributors": [
@@ -148,8 +148,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,808",
-      "forks": "24,442",
+      "stars": "58,807",
+      "forks": "24,468",
       "addStars": "6",
       "contributors": [
         {
@@ -259,7 +259,7 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "42,205",
+      "stars": "42,206",
       "forks": "6,040",
       "addStars": "4",
       "contributors": [
@@ -314,6 +314,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/73174517?s=40&v=4",
           "name": "sunstep",
           "url": "https://github.com/sunstep"
+        }
+      ]
+    },
+    {
+      "title": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "9,783",
+      "forks": "2,044",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
+          "name": "gumclaw",
+          "url": "https://github.com/gumclaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
+          "name": "gianfrancopiana",
+          "url": "https://github.com/gianfrancopiana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
+          "name": "ershad",
+          "url": "https://github.com/ershad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
+          "name": "slavingia",
+          "url": "https://github.com/slavingia"
         }
       ]
     },
@@ -535,8 +572,8 @@
       "description": "A library for generating fake data such as names, addresses, and phone numbers.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,939",
-      "forks": "3,213",
+      "stars": "11,940",
+      "forks": "3,214",
       "addStars": "0",
       "contributors": [
         {
@@ -563,7 +600,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "5,798",
-      "forks": "1,547",
+      "forks": "1,548",
       "addStars": "2",
       "contributors": [
         {
