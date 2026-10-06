@@ -3,7 +3,7 @@
     <title>GitHub Just Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Just Languages in GitHub</description>
-    <pubDate>Tue, 06 Oct 2026 07:09:00 GMT</pubDate>
+    <pubDate>Tue, 06 Oct 2026 14:01:46 GMT</pubDate>
     <item>
       <title>blacktop/ipsw-diffs</title>
       <link>https://github.com/blacktop/ipsw-diffs</link>
@@ -24,6 +24,44 @@
           <avatar>https://avatars.githubusercontent.com/u/63724031?s=40&amp;v=4</avatar>
           <name>alfiecg24</name>
           <url>https://github.com/alfiecg24</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>pop-os/cosmic-epoch</title>
+      <link>https://github.com/pop-os/cosmic-epoch</link>
+      <description>Next generation Cosmic desktop environment</description>
+      <guid>https://github.com/pop-os/cosmic-epoch</guid>
+      <language>Just</language>
+      <languageColor>#384d54</languageColor>
+      <stars>6,880</stars>
+      <forks>212</forks>
+      <addStars>24</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7741236?s=40&amp;v=4</avatar>
+          <name>jackpot51</name>
+          <url>https://github.com/jackpot51</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4404502?s=40&amp;v=4</avatar>
+          <name>Drakulix</name>
+          <url>https://github.com/Drakulix</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/479816?s=40&amp;v=4</avatar>
+          <name>jokeyrhyme</name>
+          <url>https://github.com/jokeyrhyme</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48420062?s=40&amp;v=4</avatar>
+          <name>wash2</name>
+          <url>https://github.com/wash2</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3430283?s=40&amp;v=4</avatar>
+          <name>WatchMkr</name>
+          <url>https://github.com/WatchMkr</url>
         </contributor>
       </contributors>
     </item>
@@ -61,40 +99,30 @@
       </contributors>
     </item>
     <item>
-      <title>pop-os/cosmic-epoch</title>
-      <link>https://github.com/pop-os/cosmic-epoch</link>
-      <description>Next generation Cosmic desktop environment</description>
-      <guid>https://github.com/pop-os/cosmic-epoch</guid>
+      <title>Diaoul/home-ops</title>
+      <link>https://github.com/Diaoul/home-ops</link>
+      <description>My GitOps-managed home Kubernetes cluster... and more! ⛵</description>
+      <guid>https://github.com/Diaoul/home-ops</guid>
       <language>Just</language>
       <languageColor>#384d54</languageColor>
-      <stars>6,879</stars>
-      <forks>212</forks>
-      <addStars>24</addStars>
+      <stars>120</stars>
+      <forks>2</forks>
+      <addStars>0</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7741236?s=40&amp;v=4</avatar>
-          <name>jackpot51</name>
-          <url>https://github.com/jackpot51</url>
+          <avatar>https://avatars.githubusercontent.com/u/319220?s=40&amp;v=4</avatar>
+          <name>Diaoul</name>
+          <url>https://github.com/Diaoul</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4404502?s=40&amp;v=4</avatar>
-          <name>Drakulix</name>
-          <url>https://github.com/Drakulix</url>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/479816?s=40&amp;v=4</avatar>
-          <name>jokeyrhyme</name>
-          <url>https://github.com/jokeyrhyme</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48420062?s=40&amp;v=4</avatar>
-          <name>wash2</name>
-          <url>https://github.com/wash2</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3430283?s=40&amp;v=4</avatar>
-          <name>WatchMkr</name>
-          <url>https://github.com/WatchMkr</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
