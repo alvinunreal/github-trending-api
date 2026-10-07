@@ -2,8 +2,40 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 22:56:55 GMT",
+  "pubDate": "Wed, 07 Oct 2026 06:49:24 GMT",
   "items": [
+    {
+      "title": "anthropics/formal-math",
+      "url": "https://github.com/anthropics/formal-math",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "275",
+      "forks": "54",
+      "addStars": "29",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254779305?s=40&v=4",
+          "name": "eeeasley",
+          "url": "https://github.com/eeeasley"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/235390021?s=40&v=4",
+          "name": "jleder3",
+          "url": "https://github.com/jleder3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1425057?s=40&v=4",
+          "name": "rfurman",
+          "url": "https://github.com/rfurman"
+        }
+      ]
+    },
     {
       "title": "leanprover-community/mathlib3",
       "url": "https://github.com/leanprover-community/mathlib3",
@@ -79,7 +111,7 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,233",
+      "stars": "4,236",
       "forks": "1,735",
       "addStars": "35",
       "contributors": [
@@ -116,7 +148,7 @@
       "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "1,039",
+      "stars": "1,040",
       "forks": "169",
       "addStars": "5",
       "contributors": [
@@ -148,9 +180,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,412",
-      "forks": "1,019",
-      "addStars": "74",
+      "stars": "9,418",
+      "forks": "1,020",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2778936?s=40&v=4",

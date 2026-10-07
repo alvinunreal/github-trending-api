@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Yaml Languages in GitHub</description>
-    <pubDate>Tue, 06 Oct 2026 22:56:55 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 06:49:24 GMT</pubDate>
     <item>
       <title>GTFOBins/GTFOBins.github.io</title>
       <link>https://github.com/GTFOBins/GTFOBins.github.io</link>
@@ -13,7 +13,7 @@
       <languageColor>#cb171e</languageColor>
       <stars>13,735</stars>
       <forks>1,697</forks>
-      <addStars>35</addStars>
+      <addStars>32</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1660263?s=40&amp;v=4</avatar>
@@ -58,6 +58,11 @@
           <name>mmalyska</name>
           <url>https://github.com/mmalyska</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -99,29 +104,6 @@
       </contributors>
     </item>
     <item>
-      <title>haraldkoch/kochhaus-home</title>
-      <link>https://github.com/haraldkoch/kochhaus-home</link>
-      <description>Experimental homelab configuration for running things on kubernetes</description>
-      <guid>https://github.com/haraldkoch/kochhaus-home</guid>
-      <language>YAML</language>
-      <languageColor>#cb171e</languageColor>
-      <stars>179</stars>
-      <forks>13</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7131938?s=40&amp;v=4</avatar>
-          <name>haraldkoch</name>
-          <url>https://github.com/haraldkoch</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>ProfMoo/home</title>
       <link>https://github.com/ProfMoo/home</link>
       <description>My homelab baremetal-to-k8s media and "do anything" server. Codified and GitOpsified</description>
@@ -157,8 +139,8 @@
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
       <stars>387</stars>
-      <forks>426</forks>
-      <addStars>3</addStars>
+      <forks>425</forks>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13323303?s=40&amp;v=4</avatar>
@@ -186,7 +168,7 @@
       <languageColor>#cb171e</languageColor>
       <stars>943</stars>
       <forks>330</forks>
-      <addStars>2</addStars>
+      <addStars>4</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/64103?s=40&amp;v=4</avatar>

@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Tue, 06 Oct 2026 22:56:55 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 06:49:24 GMT</pubDate>
     <item>
       <title>actions/runner-images</title>
       <link>https://github.com/actions/runner-images</link>
@@ -13,7 +13,7 @@
       <languageColor>#012456</languageColor>
       <stars>13,436</stars>
       <forks>3,899</forks>
-      <addStars>359</addStars>
+      <addStars>360</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/72681142?s=40&amp;v=4</avatar>
@@ -39,9 +39,9 @@
       <guid>https://github.com/microsoft/WindowsDeveloperConfig</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>3,023</stars>
-      <forks>207</forks>
-      <addStars>1,015</addStars>
+      <stars>3,029</stars>
+      <forks>208</forks>
+      <addStars>1,018</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1462282?s=40&amp;v=4</avatar>
@@ -78,7 +78,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>19,731</stars>
-      <forks>1,523</forks>
+      <forks>1,522</forks>
       <addStars>276</addStars>
       <contributors>
         <contributor>
@@ -115,9 +115,9 @@
       <guid>https://github.com/Orange-Cyberdefense/GOAD</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>8,439</stars>
-      <forks>1,151</forks>
-      <addStars>169</addStars>
+      <stars>8,440</stars>
+      <forks>1,152</forks>
+      <addStars>173</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/23179648?s=40&amp;v=4</avatar>
@@ -155,7 +155,7 @@
       <languageColor>#012456</languageColor>
       <stars>1,647</stars>
       <forks>134</forks>
-      <addStars>76</addStars>
+      <addStars>79</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5046855?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/dotnet/core</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>22,037</stars>
+      <stars>22,038</stars>
       <forks>4,934</forks>
-      <addStars>30</addStars>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2212879?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/mandiant/flare-vm</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>9,105</stars>
-      <forks>1,122</forks>
-      <addStars>120</addStars>
+      <stars>9,106</stars>
+      <forks>1,123</forks>
+      <addStars>124</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16052290?s=40&amp;v=4</avatar>
@@ -267,9 +267,9 @@
       <guid>https://github.com/microsoft/sql-server-samples</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>11,246</stars>
+      <stars>11,247</stars>
       <forks>9,086</forks>
-      <addStars>64</addStars>
+      <addStars>63</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10999577?s=40&amp;v=4</avatar>
@@ -302,7 +302,7 @@
       <languageColor>#012456</languageColor>
       <stars>371</stars>
       <forks>141</forks>
-      <addStars>24</addStars>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26906478?s=40&amp;v=4</avatar>
@@ -373,7 +373,7 @@
       <languageColor>#012456</languageColor>
       <stars>6,084</stars>
       <forks>1,684</forks>
-      <addStars>112</addStars>
+      <addStars>109</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58374531?s=40&amp;v=4</avatar>
@@ -403,6 +403,44 @@
       </contributors>
     </item>
     <item>
+      <title>grft-dev/graftcode</title>
+      <link>https://github.com/grft-dev/graftcode</link>
+      <description>Connect any code. Call as dependency. The official repository for Graftcode: the integration-free development layer that lets you call methods across languages and runtimes on remote services as if they were local. Eliminate integration layer code entirely.</description>
+      <guid>https://github.com/grft-dev/graftcode</guid>
+      <language>PowerShell</language>
+      <languageColor>#012456</languageColor>
+      <stars>930</stars>
+      <forks>9</forks>
+      <addStars>823</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6035560?s=40&amp;v=4</avatar>
+          <name>pladynski</name>
+          <url>https://github.com/pladynski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/256780861?s=40&amp;v=4</avatar>
+          <name>graft-dominik</name>
+          <url>https://github.com/graft-dominik</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/249085223?s=40&amp;v=4</avatar>
+          <name>graftcode-team</name>
+          <url>https://github.com/graftcode-team</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8919114?s=40&amp;v=4</avatar>
+          <name>lladynski</name>
+          <url>https://github.com/lladynski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40291960?s=40&amp;v=4</avatar>
+          <name>Sid-Lais</name>
+          <url>https://github.com/Sid-Lais</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>PowerShellMafia/PowerSploit</title>
       <link>https://github.com/PowerShellMafia/PowerSploit</link>
       <description>PowerSploit - A PowerShell Post-Exploitation Framework</description>
@@ -410,8 +448,8 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>13,076</stars>
-      <forks>4,709</forks>
-      <addStars>13</addStars>
+      <forks>4,710</forks>
+      <addStars>12</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5504523?s=40&amp;v=4</avatar>
@@ -480,9 +518,9 @@
       <guid>https://github.com/Euro-Office/DesktopEditors</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>527</stars>
+      <stars>528</stars>
       <forks>40</forks>
-      <addStars>65</addStars>
+      <addStars>68</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/59332923?s=40&amp;v=4</avatar>

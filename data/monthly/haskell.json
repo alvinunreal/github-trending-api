@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Monthly Trending",
   "description": "Monthly Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 22:56:55 GMT",
+  "pubDate": "Wed, 07 Oct 2026 06:49:24 GMT",
   "items": [
     {
       "title": "jgm/pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,617",
-      "forks": "5,770",
-      "addStars": "494",
+      "stars": "46,606",
+      "forks": "5,821",
+      "addStars": "521",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3044?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,141",
+      "stars": "40,142",
       "forks": "1,955",
       "addStars": "178",
       "contributors": [
@@ -150,7 +150,7 @@
       "languageColor": "#5e5086",
       "stars": "27,698",
       "forks": "1,228",
-      "addStars": "81",
+      "addStars": "86",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
@@ -187,7 +187,7 @@
       "languageColor": "#5e5086",
       "stars": "2,959",
       "forks": "459",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
@@ -219,7 +219,7 @@
       "languageColor": "#5e5086",
       "stars": "2,931",
       "forks": "429",
-      "addStars": "16",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1155218?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "The Haskell Tool Stack",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "4,077",
-      "forks": "852",
+      "stars": "4,078",
+      "forks": "854",
       "addStars": "2",
       "contributors": [
         {
@@ -325,7 +325,7 @@
       "languageColor": "#5e5086",
       "stars": "7,912",
       "forks": "691",
-      "addStars": "22",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16453249?s=40&v=4",
@@ -416,7 +416,7 @@
       "languageColor": "#5e5086",
       "stars": "6,743",
       "forks": "310",
-      "addStars": "25",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11074?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,889",
+      "stars": "1,890",
       "forks": "81",
-      "addStars": "171",
+      "addStars": "168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6564482?s=40&v=4",

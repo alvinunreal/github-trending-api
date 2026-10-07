@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 06 Oct 2026 22:56:55 GMT",
+  "pubDate": "Wed, 07 Oct 2026 06:49:24 GMT",
   "items": [
     {
       "title": "caddyserver/caddy",
@@ -10,9 +10,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "77,412",
+      "stars": "77,439",
       "forks": "5,093",
-      "addStars": "683",
+      "addStars": "1,264",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1128849?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,938",
-      "forks": "221",
-      "addStars": "703",
+      "stars": "4,953",
+      "forks": "222",
+      "addStars": "660",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55647468?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "HTTP load generator, ApacheBench (ab) replacement",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,644",
-      "forks": "1,319",
-      "addStars": "308",
+      "stars": "20,645",
+      "forks": "1,320",
+      "addStars": "246",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "80,813",
-      "forks": "6,654",
-      "addStars": "120",
+      "stars": "80,820",
+      "forks": "6,653",
+      "addStars": "115",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2662304?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,520",
-      "forks": "12,121",
-      "addStars": "396",
+      "stars": "47,532",
+      "forks": "12,122",
+      "addStars": "387",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33454419?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,133",
-      "forks": "752",
-      "addStars": "377",
+      "stars": "23,135",
+      "forks": "753",
+      "addStars": "374",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/529003?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,568",
-      "forks": "2,023",
-      "addStars": "125",
+      "stars": "19,572",
+      "forks": "2,024",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51218664?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,697",
-      "forks": "388",
-      "addStars": "302",
+      "stars": "1,775",
+      "forks": "413",
+      "addStars": "376",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53844290?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Open-Source Software factory for Open Models",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "293",
+      "stars": "296",
       "forks": "40",
-      "addStars": "148",
+      "addStars": "145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29346072?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,339",
+      "stars": "58,343",
       "forks": "7,227",
-      "addStars": "125",
+      "addStars": "130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,860",
+      "stars": "15,862",
       "forks": "1,744",
-      "addStars": "146",
+      "addStars": "115",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/142645838?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "110,210",
-      "forks": "6,381",
-      "addStars": "2,003",
+      "stars": "110,263",
+      "forks": "6,383",
+      "addStars": "2,004",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "20,845",
+      "stars": "20,846",
       "forks": "1,990",
-      "addStars": "67",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/90097?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "A powerful little TUI framework 🏗",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "45,306",
-      "forks": "3,231",
-      "addStars": "141",
+      "stars": "45,310",
+      "forks": "3,291",
+      "addStars": "142",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3187948?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,350",
-      "forks": "577",
-      "addStars": "153",
+      "stars": "5,351",
+      "forks": "576",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,413",
+      "stars": "6,414",
       "forks": "1,369",
-      "addStars": "80",
+      "addStars": "85",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22766134?s=40&v=4",
