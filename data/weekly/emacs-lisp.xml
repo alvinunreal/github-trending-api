@@ -3,45 +3,7 @@
     <title>GitHub Emacs-lisp Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Wed, 07 Oct 2026 06:49:24 GMT</pubDate>
-    <item>
-      <title>doomemacs/core</title>
-      <link>https://github.com/doomemacs/core</link>
-      <description>An Emacs framework for the stubborn martian hacker</description>
-      <guid>https://github.com/doomemacs/core</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>22,731</stars>
-      <forks>3,145</forks>
-      <addStars>30</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/510883?s=40&amp;v=4</avatar>
-          <name>hlissner</name>
-          <url>https://github.com/hlissner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19792685?s=40&amp;v=4</avatar>
-          <name>iyefrat</name>
-          <url>https://github.com/iyefrat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20903656?s=40&amp;v=4</avatar>
-          <name>tecosaur</name>
-          <url>https://github.com/tecosaur</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13229321?s=40&amp;v=4</avatar>
-          <name>patrl</name>
-          <url>https://github.com/patrl</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2872862?s=40&amp;v=4</avatar>
-          <name>elken</name>
-          <url>https://github.com/elken</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Wed, 07 Oct 2026 14:19:43 GMT</pubDate>
     <item>
       <title>melpa/melpa</title>
       <link>https://github.com/melpa/melpa</link>
@@ -81,51 +43,13 @@
       </contributors>
     </item>
     <item>
-      <title>karthink/gptel</title>
-      <link>https://github.com/karthink/gptel</link>
-      <description>A simple, extensible LLM client for Emacs</description>
-      <guid>https://github.com/karthink/gptel</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>3,546</stars>
-      <forks>442</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8607532?s=40&amp;v=4</avatar>
-          <name>karthink</name>
-          <url>https://github.com/karthink</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2339734?s=40&amp;v=4</avatar>
-          <name>pabl0</name>
-          <url>https://github.com/pabl0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/657224?s=40&amp;v=4</avatar>
-          <name>djr7C4</name>
-          <url>https://github.com/djr7C4</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/942909?s=40&amp;v=4</avatar>
-          <name>surenkov</name>
-          <url>https://github.com/surenkov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/73710933?s=40&amp;v=4</avatar>
-          <name>psionic-k</name>
-          <url>https://github.com/psionic-k</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>magit/magit</title>
       <link>https://github.com/magit/magit</link>
       <description>It's Magit! A Git Porcelain inside Emacs.</description>
       <guid>https://github.com/magit/magit</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>7,240</stars>
+      <stars>7,241</stars>
       <forks>882</forks>
       <addStars>7</addStars>
       <contributors>
@@ -153,6 +77,82 @@
           <avatar>https://avatars.githubusercontent.com/u/637127?s=40&amp;v=4</avatar>
           <name>peweisberg-fadv</name>
           <url>https://github.com/peweisberg-fadv</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>syl20bnr/spacemacs</title>
+      <link>https://github.com/syl20bnr/spacemacs</link>
+      <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</description>
+      <guid>https://github.com/syl20bnr/spacemacs</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>24,543</stars>
+      <forks>4,829</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1243537?s=40&amp;v=4</avatar>
+          <name>syl20bnr</name>
+          <url>https://github.com/syl20bnr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18098560?s=40&amp;v=4</avatar>
+          <name>smile13241324</name>
+          <url>https://github.com/smile13241324</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/619375?s=40&amp;v=4</avatar>
+          <name>TheBB</name>
+          <url>https://github.com/TheBB</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1898905?s=40&amp;v=4</avatar>
+          <name>JAremko</name>
+          <url>https://github.com/JAremko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1239097?s=40&amp;v=4</avatar>
+          <name>bcc32</name>
+          <url>https://github.com/bcc32</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>doomemacs/core</title>
+      <link>https://github.com/doomemacs/core</link>
+      <description>An Emacs framework for the stubborn martian hacker</description>
+      <guid>https://github.com/doomemacs/core</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>22,731</stars>
+      <forks>3,145</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/510883?s=40&amp;v=4</avatar>
+          <name>hlissner</name>
+          <url>https://github.com/hlissner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19792685?s=40&amp;v=4</avatar>
+          <name>iyefrat</name>
+          <url>https://github.com/iyefrat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20903656?s=40&amp;v=4</avatar>
+          <name>tecosaur</name>
+          <url>https://github.com/tecosaur</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13229321?s=40&amp;v=4</avatar>
+          <name>patrl</name>
+          <url>https://github.com/patrl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2872862?s=40&amp;v=4</avatar>
+          <name>elken</name>
+          <url>https://github.com/elken</url>
         </contributor>
       </contributors>
     </item>
@@ -191,44 +191,6 @@
           <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
           <name>traviscibot</name>
           <url>https://github.com/traviscibot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>syl20bnr/spacemacs</title>
-      <link>https://github.com/syl20bnr/spacemacs</link>
-      <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</description>
-      <guid>https://github.com/syl20bnr/spacemacs</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>24,542</stars>
-      <forks>4,829</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1243537?s=40&amp;v=4</avatar>
-          <name>syl20bnr</name>
-          <url>https://github.com/syl20bnr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18098560?s=40&amp;v=4</avatar>
-          <name>smile13241324</name>
-          <url>https://github.com/smile13241324</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/619375?s=40&amp;v=4</avatar>
-          <name>TheBB</name>
-          <url>https://github.com/TheBB</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1898905?s=40&amp;v=4</avatar>
-          <name>JAremko</name>
-          <url>https://github.com/JAremko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1239097?s=40&amp;v=4</avatar>
-          <name>bcc32</name>
-          <url>https://github.com/bcc32</url>
         </contributor>
       </contributors>
     </item>
@@ -277,7 +239,7 @@
       <guid>https://github.com/google-coral/coralnpu</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>2,585</stars>
+      <stars>2,586</stars>
       <forks>342</forks>
       <addStars>7</addStars>
       <contributors>
@@ -305,6 +267,44 @@
           <avatar>https://avatars.githubusercontent.com/u/241349384?s=40&amp;v=4</avatar>
           <name>stefanh111</name>
           <url>https://github.com/stefanh111</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>karthink/gptel</title>
+      <link>https://github.com/karthink/gptel</link>
+      <description>A simple, extensible LLM client for Emacs</description>
+      <guid>https://github.com/karthink/gptel</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>3,546</stars>
+      <forks>442</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8607532?s=40&amp;v=4</avatar>
+          <name>karthink</name>
+          <url>https://github.com/karthink</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2339734?s=40&amp;v=4</avatar>
+          <name>pabl0</name>
+          <url>https://github.com/pabl0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/657224?s=40&amp;v=4</avatar>
+          <name>djr7C4</name>
+          <url>https://github.com/djr7C4</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/942909?s=40&amp;v=4</avatar>
+          <name>surenkov</name>
+          <url>https://github.com/surenkov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/73710933?s=40&amp;v=4</avatar>
+          <name>psionic-k</name>
+          <url>https://github.com/psionic-k</url>
         </contributor>
       </contributors>
     </item>
