@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Oct 2026 23:30:53 GMT",
+  "pubDate": "Thu, 08 Oct 2026 06:58:16 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,8 +10,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,808",
-      "forks": "24,526",
+      "stars": "58,809",
+      "forks": "24,527",
       "addStars": "36",
       "contributors": [
         {
@@ -47,24 +47,14 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,746",
+      "stars": "4,747",
       "forks": "823",
-      "addStars": "81",
+      "addStars": "83",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1655218?s=40&v=4",
           "name": "monorkin",
           "url": "https://github.com/monorkin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8207?s=40&v=4",
-          "name": "flavorjones",
-          "url": "https://github.com/flavorjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
-          "name": "jeremy",
-          "url": "https://github.com/jeremy"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/2741?s=40&v=4",
@@ -75,6 +65,16 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176920116?s=40&v=4",
+          "name": "namespaceMarcello",
+          "url": "https://github.com/namespaceMarcello"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
+          "name": "jeremy",
+          "url": "https://github.com/jeremy"
         }
       ]
     },
@@ -85,8 +85,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "50,357",
-      "forks": "7,505",
-      "addStars": "36",
+      "forks": "7,504",
+      "addStars": "39",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,425",
+      "stars": "10,429",
       "forks": "605",
-      "addStars": "101",
+      "addStars": "99",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -144,7 +144,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "4,904",
-      "forks": "14,593",
+      "forks": "14,594",
       "addStars": "8",
       "contributors": [
         {
@@ -180,9 +180,9 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,610",
-      "forks": "9,158",
-      "addStars": "297",
+      "stars": "37,617",
+      "forks": "9,162",
+      "addStars": "264",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
@@ -219,7 +219,7 @@
       "languageColor": "#701516",
       "stars": "12,911",
       "forks": "3,148",
-      "addStars": "3",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13203?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,343",
-      "forks": "3,533",
+      "stars": "16,347",
+      "forks": "3,534",
       "addStars": "80",
       "contributors": [
         {
@@ -291,9 +291,9 @@
       "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,614",
+      "stars": "15,615",
       "forks": "13,900",
-      "addStars": "13",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -330,7 +330,7 @@
       "languageColor": "#701516",
       "stars": "39,538",
       "forks": "2,653",
-      "addStars": "46",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17579?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,306",
+      "stars": "12,308",
       "forks": "595",
-      "addStars": "22",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3846?s=40&v=4",
@@ -399,7 +399,7 @@
       "languageColor": "#701516",
       "stars": "3,976",
       "forks": "1,938",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2887858?s=40&v=4",
@@ -435,8 +435,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,726",
-      "forks": "5,463",
-      "addStars": "19",
+      "forks": "5,464",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4483?s=40&v=4",
@@ -471,9 +471,9 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "47,942",
+      "stars": "47,943",
       "forks": "9,026",
-      "addStars": "35",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5213?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,855",
+      "stars": "16,857",
       "forks": "1,302",
-      "addStars": "19",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4765?s=40&v=4",
@@ -564,7 +564,7 @@
       "languageColor": "#701516",
       "stars": "2,263",
       "forks": "863",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/907055?s=40&v=4",
@@ -600,8 +600,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "22,790",
-      "forks": "4,188",
-      "addStars": "13",
+      "forks": "4,189",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3102842?s=40&v=4",
@@ -626,7 +626,7 @@
       "description": "Vagrant is a tool for building and distributing development environments.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "27,213",
+      "stars": "27,214",
       "forks": "4,395",
       "addStars": "13",
       "contributors": [
@@ -665,7 +665,7 @@
       "languageColor": "#701516",
       "stars": "3,397",
       "forks": "1,322",
-      "addStars": "6",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2988912?s=40&v=4",
@@ -681,6 +681,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/112882?s=40&v=4",
           "name": "usta",
           "url": "https://github.com/usta"
+        }
+      ]
+    },
+    {
+      "title": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "9,801",
+      "forks": "2,050",
+      "addStars": "50",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
+          "name": "gumclaw",
+          "url": "https://github.com/gumclaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
+          "name": "gianfrancopiana",
+          "url": "https://github.com/gianfrancopiana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
+          "name": "ershad",
+          "url": "https://github.com/ershad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
+          "name": "slavingia",
+          "url": "https://github.com/slavingia"
         }
       ]
     }

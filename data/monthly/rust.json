@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 07 Oct 2026 23:30:53 GMT",
+  "pubDate": "Thu, 08 Oct 2026 06:58:16 GMT",
   "items": [
     {
       "title": "NVIDIA/OpenShell",
@@ -10,9 +10,9 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,291",
-      "forks": "1,724",
-      "addStars": "6,640",
+      "stars": "15,369",
+      "forks": "1,733",
+      "addStars": "6,795",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "28,731",
-      "forks": "2,039",
-      "addStars": "6,232",
+      "stars": "28,894",
+      "forks": "2,043",
+      "addStars": "6,438",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,965",
-      "forks": "323",
-      "addStars": "2,151",
+      "stars": "8,984",
+      "forks": "325",
+      "addStars": "2,196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,482",
-      "forks": "1,011",
-      "addStars": "2,305",
+      "stars": "16,526",
+      "forks": "1,016",
+      "addStars": "2,418",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,525",
-      "forks": "1,559",
-      "addStars": "3,004",
+      "stars": "34,540",
+      "forks": "1,561",
+      "addStars": "3,011",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4",
@@ -182,7 +182,7 @@
       "languageColor": "#dea584",
       "stars": "12,750",
       "forks": "1,170",
-      "addStars": "969",
+      "addStars": "970",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/117643?s=40&v=4",
@@ -207,51 +207,14 @@
       ]
     },
     {
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": "8,987",
-      "forks": "624",
-      "addStars": "3,078",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
-          "name": "akitaonrails",
-          "url": "https://github.com/akitaonrails"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1858147?s=40&v=4",
-          "name": "djalmajr",
-          "url": "https://github.com/djalmajr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58889432?s=40&v=4",
-          "name": "everton-dgn",
-          "url": "https://github.com/everton-dgn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/123646616?s=40&v=4",
-          "name": "samirhvbr",
-          "url": "https://github.com/samirhvbr"
-        }
-      ]
-    },
-    {
       "title": "t8y2/dbx",
       "url": "https://github.com/t8y2/dbx",
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,025",
-      "forks": "2,267",
-      "addStars": "6,911",
+      "stars": "25,135",
+      "forks": "2,277",
+      "addStars": "6,942",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
@@ -281,9 +244,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "125,364",
-      "forks": "19,510",
-      "addStars": "2,980",
+      "stars": "125,406",
+      "forks": "19,519",
+      "addStars": "2,978",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -318,9 +281,9 @@
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "149,738",
-      "forks": "10,747",
-      "addStars": "7,394",
+      "stars": "149,857",
+      "forks": "10,760",
+      "addStars": "7,336",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77394545?s=40&v=4",
@@ -350,9 +313,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "119,688",
+      "stars": "119,698",
       "forks": "17,855",
-      "addStars": "2,773",
+      "addStars": "2,390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
@@ -387,9 +350,9 @@
       "description": "HydraDB - fast graph database on object storage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,035",
-      "forks": "5,481",
-      "addStars": "10,723",
+      "stars": "13,029",
+      "forks": "5,478",
+      "addStars": "10,259",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/248433309?s=40&v=4",
@@ -424,9 +387,9 @@
       "description": "World's first open-source enterprise world model.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,141",
+      "stars": "8,153",
       "forks": "1,130",
-      "addStars": "7,721",
+      "addStars": "7,716",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/145302500?s=40&v=4",
@@ -461,9 +424,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,514",
-      "forks": "268",
-      "addStars": "1,413",
+      "stars": "2,523",
+      "forks": "269",
+      "addStars": "1,393",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",
@@ -498,9 +461,9 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,269",
-      "forks": "361",
-      "addStars": "6,281",
+      "stars": "9,275",
+      "forks": "363",
+      "addStars": "6,296",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32670628?s=40&v=4",
@@ -535,9 +498,9 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,837",
-      "forks": "3,314",
-      "addStars": "1,698",
+      "stars": "31,842",
+      "forks": "3,313",
+      "addStars": "1,690",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180542?s=40&v=4",
@@ -572,9 +535,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,987",
-      "forks": "3,452",
-      "addStars": "1,165",
+      "stars": "31,995",
+      "forks": "3,451",
+      "addStars": "1,152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22748003?s=40&v=4",
@@ -600,6 +563,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/100430809?s=40&v=4",
           "name": "new-Beginner",
           "url": "https://github.com/new-Beginner"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/tgrep",
+      "url": "https://github.com/microsoft/tgrep",
+      "description": "Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "3,423",
+      "forks": "137",
+      "addStars": "2,187",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23369389?s=40&v=4",
+          "name": "shengyfu",
+          "url": "https://github.com/shengyfu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7244883?s=40&v=4",
+          "name": "msftsiwei",
+          "url": "https://github.com/msftsiwei"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/346820?s=40&v=4",
+          "name": "deiu",
+          "url": "https://github.com/deiu"
         }
       ]
     }
