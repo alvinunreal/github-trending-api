@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Thu, 08 Oct 2026 06:58:16 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 14:27:46 GMT</pubDate>
     <item>
       <title>deepseek-ai/DeepGEMM</title>
       <link>https://github.com/deepseek-ai/DeepGEMM</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>8,866</stars>
-      <forks>1,392</forks>
+      <stars>8,874</stars>
+      <forks>1,394</forks>
       <addStars>972</addStars>
       <contributors>
         <contributor>
@@ -43,51 +43,13 @@
       </contributors>
     </item>
     <item>
-      <title>rapidsai/cugraph</title>
-      <link>https://github.com/rapidsai/cugraph</link>
-      <description>cuGraph - RAPIDS Graph Analytics Library</description>
-      <guid>https://github.com/rapidsai/cugraph</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>2,243</stars>
-      <forks>368</forks>
-      <addStars>3</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34135411?s=40&amp;v=4</avatar>
-          <name>BradReesWork</name>
-          <url>https://github.com/BradReesWork</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45364586?s=40&amp;v=4</avatar>
-          <name>ChuckHastings</name>
-          <url>https://github.com/ChuckHastings</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45606510?s=40&amp;v=4</avatar>
-          <name>afender</name>
-          <url>https://github.com/afender</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45857425?s=40&amp;v=4</avatar>
-          <name>seunghwak</name>
-          <url>https://github.com/seunghwak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41401566?s=40&amp;v=4</avatar>
-          <name>Iroy30</name>
-          <url>https://github.com/Iroy30</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>NVIDIA/cuvs</title>
       <link>https://github.com/NVIDIA/cuvs</link>
       <description>cuVS - a library for vector search and clustering on the GPU</description>
       <guid>https://github.com/NVIDIA/cuvs</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>863</stars>
+      <stars>864</stars>
       <forks>242</forks>
       <addStars>4</addStars>
       <contributors>
@@ -119,13 +81,89 @@
       </contributors>
     </item>
     <item>
+      <title>rapidsai/cugraph</title>
+      <link>https://github.com/rapidsai/cugraph</link>
+      <description>cuGraph - RAPIDS Graph Analytics Library</description>
+      <guid>https://github.com/rapidsai/cugraph</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>2,244</stars>
+      <forks>368</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34135411?s=40&amp;v=4</avatar>
+          <name>BradReesWork</name>
+          <url>https://github.com/BradReesWork</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45364586?s=40&amp;v=4</avatar>
+          <name>ChuckHastings</name>
+          <url>https://github.com/ChuckHastings</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45606510?s=40&amp;v=4</avatar>
+          <name>afender</name>
+          <url>https://github.com/afender</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45857425?s=40&amp;v=4</avatar>
+          <name>seunghwak</name>
+          <url>https://github.com/seunghwak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41401566?s=40&amp;v=4</avatar>
+          <name>Iroy30</name>
+          <url>https://github.com/Iroy30</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>flashinfer-ai/flashinfer</title>
+      <link>https://github.com/flashinfer-ai/flashinfer</link>
+      <description>FlashInfer: Kernel Library for LLM Serving</description>
+      <guid>https://github.com/flashinfer-ai/flashinfer</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>6,568</stars>
+      <forks>1,552</forks>
+      <addStars>36</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11773619?s=40&amp;v=4</avatar>
+          <name>yzh119</name>
+          <url>https://github.com/yzh119</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52445717?s=40&amp;v=4</avatar>
+          <name>yyihuang</name>
+          <url>https://github.com/yyihuang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/219764253?s=40&amp;v=4</avatar>
+          <name>averyhNV</name>
+          <url>https://github.com/averyhNV</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43616432?s=40&amp;v=4</avatar>
+          <name>bkryu</name>
+          <url>https://github.com/bkryu</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>mirage-project/mirage</title>
       <link>https://github.com/mirage-project/mirage</link>
       <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
       <guid>https://github.com/mirage-project/mirage</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>2,541</stars>
+      <stars>2,542</stars>
       <forks>263</forks>
       <addStars>15</addStars>
       <contributors>
@@ -153,44 +191,6 @@
           <avatar>https://avatars.githubusercontent.com/u/145248565?s=40&amp;v=4</avatar>
           <name>undefined-c0der</name>
           <url>https://github.com/undefined-c0der</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>karpathy/llm.c</title>
-      <link>https://github.com/karpathy/llm.c</link>
-      <description>LLM training in simple, raw C/CUDA</description>
-      <guid>https://github.com/karpathy/llm.c</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>31,112</stars>
-      <forks>3,773</forks>
-      <addStars>39</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
-          <name>karpathy</name>
-          <url>https://github.com/karpathy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
-          <name>ngc92</name>
-          <url>https://github.com/ngc92</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
-          <name>gordicaleksa</name>
-          <url>https://github.com/gordicaleksa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
-          <name>ademeure</name>
-          <url>https://github.com/ademeure</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
-          <name>rosslwheeler</name>
-          <url>https://github.com/rosslwheeler</url>
         </contributor>
       </contributors>
     </item>
@@ -233,40 +233,40 @@
       </contributors>
     </item>
     <item>
-      <title>BBuf/how-to-optim-algorithm-in-cuda</title>
-      <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-      <description>how to optimize some algorithm in cuda.</description>
-      <guid>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</guid>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>LLM training in simple, raw C/CUDA</description>
+      <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>3,305</stars>
-      <forks>296</forks>
-      <addStars>10</addStars>
+      <stars>31,116</stars>
+      <forks>3,773</forks>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35585791?s=40&amp;v=4</avatar>
-          <name>BBuf</name>
-          <url>https://github.com/BBuf</url>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
+          <name>ngc92</name>
+          <url>https://github.com/ngc92</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67543126?s=40&amp;v=4</avatar>
-          <name>peakcrosser7</name>
-          <url>https://github.com/peakcrosser7</url>
+          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
+          <name>gordicaleksa</name>
+          <url>https://github.com/gordicaleksa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
+          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
+          <name>ademeure</name>
+          <url>https://github.com/ademeure</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/245616256?s=40&amp;v=4</avatar>
-          <name>Dessalines39394</name>
-          <url>https://github.com/Dessalines39394</url>
+          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
+          <name>rosslwheeler</name>
+          <url>https://github.com/rosslwheeler</url>
         </contributor>
       </contributors>
     </item>

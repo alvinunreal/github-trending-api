@@ -3,7 +3,7 @@
     <title>GitHub Yaml Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Yaml Languages in GitHub</description>
-    <pubDate>Thu, 08 Oct 2026 06:58:16 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 14:27:46 GMT</pubDate>
     <item>
       <title>GTFOBins/GTFOBins.github.io</title>
       <link>https://github.com/GTFOBins/GTFOBins.github.io</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/GTFOBins/GTFOBins.github.io</guid>
       <language>YAML</language>
       <languageColor>#cb171e</languageColor>
-      <stars>13,736</stars>
+      <stars>13,739</stars>
       <forks>1,698</forks>
       <addStars>31</addStars>
       <contributors>
@@ -104,34 +104,6 @@
       </contributors>
     </item>
     <item>
-      <title>aquaproj/aqua-registry</title>
-      <link>https://github.com/aquaproj/aqua-registry</link>
-      <description>aqua's Standard Registry</description>
-      <guid>https://github.com/aquaproj/aqua-registry</guid>
-      <language>YAML</language>
-      <languageColor>#cb171e</languageColor>
-      <stars>387</stars>
-      <forks>425</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13323303?s=40&amp;v=4</avatar>
-          <name>suzuki-shunsuke</name>
-          <url>https://github.com/suzuki-shunsuke</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29038315?s=40&amp;v=4</avatar>
-          <name>ponkio-o</name>
-          <url>https://github.com/ponkio-o</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tyriis/home-ops</title>
       <link>https://github.com/tyriis/home-ops</link>
       <description>IaC for my HomeLab kubernetes cluster resources with Flux</description>
@@ -156,6 +128,34 @@
           <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
           <name>renovate-bot</name>
           <url>https://github.com/renovate-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>aquaproj/aqua-registry</title>
+      <link>https://github.com/aquaproj/aqua-registry</link>
+      <description>aqua's Standard Registry</description>
+      <guid>https://github.com/aquaproj/aqua-registry</guid>
+      <language>YAML</language>
+      <languageColor>#cb171e</languageColor>
+      <stars>387</stars>
+      <forks>426</forks>
+      <addStars>4</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13323303?s=40&amp;v=4</avatar>
+          <name>suzuki-shunsuke</name>
+          <url>https://github.com/suzuki-shunsuke</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29038315?s=40&amp;v=4</avatar>
+          <name>ponkio-o</name>
+          <url>https://github.com/ponkio-o</url>
         </contributor>
       </contributors>
     </item>

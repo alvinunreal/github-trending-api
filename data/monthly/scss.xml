@@ -3,7 +3,7 @@
     <title>GitHub Scss Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Scss Languages in GitHub</description>
-    <pubDate>Thu, 08 Oct 2026 06:58:16 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 14:27:46 GMT</pubDate>
     <item>
       <title>material-components/material-web</title>
       <link>https://github.com/material-components/material-web</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/material-components/material-web</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>11,316</stars>
-      <forks>1,145</forks>
+      <stars>11,320</stars>
+      <forks>1,146</forks>
       <addStars>106</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/academicpages/academicpages.github.io</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>17,700</stars>
-      <forks>9,493</forks>
+      <stars>17,702</stars>
+      <forks>9,496</forks>
       <addStars>171</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/just-the-docs/just-the-docs</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>9,191</stars>
-      <forks>3,785</forks>
+      <stars>9,193</stars>
+      <forks>3,784</forks>
       <addStars>55</addStars>
       <contributors>
         <contributor>
@@ -110,39 +110,6 @@
           <avatar>https://avatars.githubusercontent.com/u/18308236?s=40&amp;v=4</avatar>
           <name>pdmosses</name>
           <url>https://github.com/pdmosses</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>patternfly/patternfly</title>
-      <link>https://github.com/patternfly/patternfly</link>
-      <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
-      <guid>https://github.com/patternfly/patternfly</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>819</stars>
-      <forks>117</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35148959?s=40&amp;v=4</avatar>
-          <name>mcoker</name>
-          <url>https://github.com/mcoker</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5385435?s=40&amp;v=4</avatar>
-          <name>mattnolting</name>
-          <url>https://github.com/mattnolting</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19825616?s=40&amp;v=4</avatar>
-          <name>srambach</name>
-          <url>https://github.com/srambach</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20118816?s=40&amp;v=4</avatar>
-          <name>christiemolloy</name>
-          <url>https://github.com/christiemolloy</url>
         </contributor>
       </contributors>
     </item>
@@ -181,6 +148,39 @@
           <avatar>https://avatars.githubusercontent.com/u/105296784?s=40&amp;v=4</avatar>
           <name>vagimeli</name>
           <url>https://github.com/vagimeli</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>patternfly/patternfly</title>
+      <link>https://github.com/patternfly/patternfly</link>
+      <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
+      <guid>https://github.com/patternfly/patternfly</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>819</stars>
+      <forks>117</forks>
+      <addStars>5</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35148959?s=40&amp;v=4</avatar>
+          <name>mcoker</name>
+          <url>https://github.com/mcoker</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5385435?s=40&amp;v=4</avatar>
+          <name>mattnolting</name>
+          <url>https://github.com/mattnolting</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19825616?s=40&amp;v=4</avatar>
+          <name>srambach</name>
+          <url>https://github.com/srambach</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20118816?s=40&amp;v=4</avatar>
+          <name>christiemolloy</name>
+          <url>https://github.com/christiemolloy</url>
         </contributor>
       </contributors>
     </item>
@@ -327,44 +327,6 @@
       </contributors>
     </item>
     <item>
-      <title>LineageOS/lineage_wiki</title>
-      <link>https://github.com/LineageOS/lineage_wiki</link>
-      <description/>
-      <guid>https://github.com/LineageOS/lineage_wiki</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>872</stars>
-      <forks>542</forks>
-      <addStars>15</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6830979?s=40&amp;v=4</avatar>
-          <name>luk1337</name>
-          <url>https://github.com/luk1337</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5876468?s=40&amp;v=4</avatar>
-          <name>npjohnson</name>
-          <url>https://github.com/npjohnson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17656887?s=40&amp;v=4</avatar>
-          <name>BadDaemon</name>
-          <url>https://github.com/BadDaemon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/876521?s=40&amp;v=4</avatar>
-          <name>razorloves</name>
-          <url>https://github.com/razorloves</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1696148?s=40&amp;v=4</avatar>
-          <name>bgcngm</name>
-          <url>https://github.com/bgcngm</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>vinceliuice/Orchis-theme</title>
       <link>https://github.com/vinceliuice/Orchis-theme</link>
       <description>Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.</description>
@@ -403,44 +365,6 @@
       </contributors>
     </item>
     <item>
-      <title>pages-themes/minimal</title>
-      <link>https://github.com/pages-themes/minimal</link>
-      <description>Minimal is a Jekyll theme for GitHub Pages</description>
-      <guid>https://github.com/pages-themes/minimal</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>1,818</stars>
-      <forks>6,401</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/282759?s=40&amp;v=4</avatar>
-          <name>benbalter</name>
-          <url>https://github.com/benbalter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
-          <name>parkr</name>
-          <url>https://github.com/parkr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27039604?s=40&amp;v=4</avatar>
-          <name>tsusdere</name>
-          <url>https://github.com/tsusdere</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/615115?s=40&amp;v=4</avatar>
-          <name>Jmuccigr</name>
-          <url>https://github.com/Jmuccigr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3324775?s=40&amp;v=4</avatar>
-          <name>EricFromCanada</name>
-          <url>https://github.com/EricFromCanada</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>ubuntu/yaru</title>
       <link>https://github.com/ubuntu/yaru</link>
       <description>All Ubuntu Yaru GNOME themes</description>
@@ -470,6 +394,77 @@
           <avatar>https://avatars.githubusercontent.com/u/36476595?s=40&amp;v=4</avatar>
           <name>Jupi007</name>
           <url>https://github.com/Jupi007</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>LineageOS/lineage_wiki</title>
+      <link>https://github.com/LineageOS/lineage_wiki</link>
+      <description/>
+      <guid>https://github.com/LineageOS/lineage_wiki</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>872</stars>
+      <forks>542</forks>
+      <addStars>15</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6830979?s=40&amp;v=4</avatar>
+          <name>luk1337</name>
+          <url>https://github.com/luk1337</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5876468?s=40&amp;v=4</avatar>
+          <name>npjohnson</name>
+          <url>https://github.com/npjohnson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17656887?s=40&amp;v=4</avatar>
+          <name>BadDaemon</name>
+          <url>https://github.com/BadDaemon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/876521?s=40&amp;v=4</avatar>
+          <name>razorloves</name>
+          <url>https://github.com/razorloves</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1696148?s=40&amp;v=4</avatar>
+          <name>bgcngm</name>
+          <url>https://github.com/bgcngm</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>catppuccin/discord</title>
+      <link>https://github.com/catppuccin/discord</link>
+      <description>🎮 Soothing pastel theme for Discord</description>
+      <guid>https://github.com/catppuccin/discord</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>1,442</stars>
+      <forks>191</forks>
+      <addStars>29</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/53945697?s=40&amp;v=4</avatar>
+          <name>ToxicAven</name>
+          <url>https://github.com/ToxicAven</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/79978224?s=40&amp;v=4</avatar>
+          <name>nekowinston</name>
+          <url>https://github.com/nekowinston</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102488279?s=40&amp;v=4</avatar>
+          <name>AnubisNekhet</name>
+          <url>https://github.com/AnubisNekhet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/72592921?s=40&amp;v=4</avatar>
+          <name>WitherCubes</name>
+          <url>https://github.com/WitherCubes</url>
         </contributor>
       </contributors>
     </item>
@@ -512,35 +507,40 @@
       </contributors>
     </item>
     <item>
-      <title>catppuccin/discord</title>
-      <link>https://github.com/catppuccin/discord</link>
-      <description>🎮 Soothing pastel theme for Discord</description>
-      <guid>https://github.com/catppuccin/discord</guid>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>Minimal is a Jekyll theme for GitHub Pages</description>
+      <guid>https://github.com/pages-themes/minimal</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>1,442</stars>
-      <forks>191</forks>
-      <addStars>29</addStars>
+      <stars>1,818</stars>
+      <forks>6,401</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53945697?s=40&amp;v=4</avatar>
-          <name>ToxicAven</name>
-          <url>https://github.com/ToxicAven</url>
+          <avatar>https://avatars.githubusercontent.com/u/282759?s=40&amp;v=4</avatar>
+          <name>benbalter</name>
+          <url>https://github.com/benbalter</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/79978224?s=40&amp;v=4</avatar>
-          <name>nekowinston</name>
-          <url>https://github.com/nekowinston</url>
+          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
+          <name>parkr</name>
+          <url>https://github.com/parkr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102488279?s=40&amp;v=4</avatar>
-          <name>AnubisNekhet</name>
-          <url>https://github.com/AnubisNekhet</url>
+          <avatar>https://avatars.githubusercontent.com/u/27039604?s=40&amp;v=4</avatar>
+          <name>tsusdere</name>
+          <url>https://github.com/tsusdere</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/72592921?s=40&amp;v=4</avatar>
-          <name>WitherCubes</name>
-          <url>https://github.com/WitherCubes</url>
+          <avatar>https://avatars.githubusercontent.com/u/615115?s=40&amp;v=4</avatar>
+          <name>Jmuccigr</name>
+          <url>https://github.com/Jmuccigr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3324775?s=40&amp;v=4</avatar>
+          <name>EricFromCanada</name>
+          <url>https://github.com/EricFromCanada</url>
         </contributor>
       </contributors>
     </item>
@@ -579,62 +579,6 @@
           <avatar>https://avatars.githubusercontent.com/u/6104?s=40&amp;v=4</avatar>
           <name>jasonlong</name>
           <url>https://github.com/jasonlong</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>cobiwave/simplefolio</title>
-      <link>https://github.com/cobiwave/simplefolio</link>
-      <description>⚡️ A minimal portfolio template for Developers</description>
-      <guid>https://github.com/cobiwave/simplefolio</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>14,226</stars>
-      <forks>6,086</forks>
-      <addStars>23</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35739742?s=40&amp;v=4</avatar>
-          <name>cobiwave</name>
-          <url>https://github.com/cobiwave</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/64222167?s=40&amp;v=4</avatar>
-          <name>jacobo-martinez</name>
-          <url>https://github.com/jacobo-martinez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37514151?s=40&amp;v=4</avatar>
-          <name>SNasser97</name>
-          <url>https://github.com/SNasser97</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11070873?s=40&amp;v=4</avatar>
-          <name>multidimensionalinteractive</name>
-          <url>https://github.com/multidimensionalinteractive</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32886368?s=40&amp;v=4</avatar>
-          <name>gjaiswal108</name>
-          <url>https://github.com/gjaiswal108</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RayeRen/acad-homepage.github.io</title>
-      <link>https://github.com/RayeRen/acad-homepage.github.io</link>
-      <description>AcadHomepage: A Modern and Responsive Academic Personal Homepage</description>
-      <guid>https://github.com/RayeRen/acad-homepage.github.io</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>2,970</stars>
-      <forks>5,890</forks>
-      <addStars>39</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16171482?s=40&amp;v=4</avatar>
-          <name>RayeRen</name>
-          <url>https://github.com/RayeRen</url>
         </contributor>
       </contributors>
     </item>
