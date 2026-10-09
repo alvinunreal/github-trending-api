@@ -2,7 +2,7 @@
   "title": "GitHub Svelte Languages Monthly Trending",
   "description": "Monthly Trending of Svelte Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 14:14:33 GMT",
+  "pubDate": "Fri, 09 Oct 2026 18:39:55 GMT",
   "items": [
     {
       "title": "imputnet/cobalt",
@@ -10,7 +10,7 @@
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "44,795",
+      "stars": "44,799",
       "forks": "3,946",
       "addStars": "2,209",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,897",
+      "stars": "2,896",
       "forks": "281",
       "addStars": "186",
       "contributors": [
@@ -96,12 +96,39 @@
       ]
     },
     {
+      "title": "StackExchange/Survey",
+      "url": "https://github.com/StackExchange/Survey",
+      "description": "The official repo for the Stack Overflow Developer Survey",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": "128",
+      "forks": "44",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/114412799?s=40&v=4",
+          "name": "yepiserin",
+          "url": "https://github.com/yepiserin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/649231?s=40&v=4",
+          "name": "abovedave",
+          "url": "https://github.com/abovedave"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "PuruVJ/macos-web",
       "url": "https://github.com/PuruVJ/macos-web",
       "description": "",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "2,676",
+      "stars": "2,674",
       "forks": "345",
       "addStars": "15",
       "contributors": [
@@ -138,7 +165,7 @@
       "description": "Virtual Machine for the Web",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "17,424",
+      "stars": "17,425",
       "forks": "3,335",
       "addStars": "72",
       "contributors": [
@@ -202,8 +229,8 @@
       "description": "A mod manager for easy installation of mods and modloader for Satisfactory",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": "502",
-      "forks": "94",
+      "stars": "501",
+      "forks": "95",
       "addStars": "4",
       "contributors": [
         {
