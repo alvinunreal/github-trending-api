@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 08 Oct 2026 19:09:23 GMT",
+  "pubDate": "Thu, 08 Oct 2026 23:41:49 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,396",
-      "forks": "20,333",
+      "stars": "26,398",
+      "forks": "20,334",
       "addStars": "407",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "562",
+      "stars": "563",
       "forks": "41",
       "addStars": "59",
       "contributors": [
@@ -313,7 +313,7 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,113",
+      "stars": "3,114",
       "forks": "165",
       "addStars": "41",
       "contributors": [
