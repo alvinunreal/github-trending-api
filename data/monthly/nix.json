@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 09 Oct 2026 23:06:52 GMT",
+  "pubDate": "Sat, 10 Oct 2026 06:39:37 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,412",
-      "forks": "20,347",
+      "stars": "26,414",
+      "forks": "20,349",
       "addStars": "409",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,084",
+      "stars": "2,087",
       "forks": "284",
-      "addStars": "169",
+      "addStars": "174",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
@@ -149,8 +149,8 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": "2,999",
-      "forks": "238",
-      "addStars": "90",
+      "forks": "239",
+      "addStars": "91",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12923?s=40&v=4",
@@ -182,7 +182,7 @@
       "languageColor": "#7e7eff",
       "stars": "4,003",
       "forks": "342",
-      "addStars": "54",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6599296?s=40&v=4",
@@ -244,7 +244,7 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,322",
+      "stars": "3,323",
       "forks": "983",
       "addStars": "31",
       "contributors": [
@@ -352,7 +352,7 @@
       "languageColor": "#7e7eff",
       "stars": "3,217",
       "forks": "236",
-      "addStars": "66",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/96200?s=40&v=4",
@@ -372,9 +372,9 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "3,116",
+      "stars": "3,117",
       "forks": "164",
-      "addStars": "41",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7851175?s=40&v=4",
