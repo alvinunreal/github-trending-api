@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 13:52:07 GMT",
+  "pubDate": "Sun, 11 Oct 2026 17:54:34 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "46,039",
-      "forks": "3,343",
+      "stars": "46,114",
+      "forks": "3,345",
       "addStars": "23,947",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,075",
-      "forks": "6,520",
+      "stars": "58,372",
+      "forks": "6,547",
       "addStars": "35,194",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,345",
-      "forks": "5,582",
+      "stars": "39,365",
+      "forks": "5,584",
       "addStars": "4,607",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "100,084",
-      "forks": "16,870",
+      "stars": "100,219",
+      "forks": "16,887",
       "addStars": "19,499",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "48,288",
-      "forks": "5,996",
+      "stars": "48,346",
+      "forks": "5,998",
       "addStars": "24,928",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "276,882",
-      "forks": "41,284",
+      "stars": "277,013",
+      "forks": "41,314",
       "addStars": "22,474",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,027",
-      "forks": "3,294",
+      "stars": "29,075",
+      "forks": "3,300",
       "addStars": "4,750",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "150,160",
-      "forks": "26,177",
+      "stars": "150,188",
+      "forks": "26,204",
       "addStars": "6,240",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,117",
-      "forks": "4,411",
+      "stars": "33,148",
+      "forks": "4,415",
       "addStars": "11,234",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "60,640",
-      "forks": "5,422",
+      "stars": "60,788",
+      "forks": "5,436",
       "addStars": "11,826",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,612",
-      "forks": "1,056",
+      "stars": "8,639",
+      "forks": "1,058",
       "addStars": "7,002",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,827",
-      "forks": "547",
+      "stars": "4,838",
+      "forks": "548",
       "addStars": "2,956",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,779",
-      "forks": "1,762",
+      "stars": "15,804",
+      "forks": "1,763",
       "addStars": "7,234",
       "contributors": [
         {
@@ -476,8 +476,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "41,131",
-      "forks": "4,528",
+      "stars": "41,184",
+      "forks": "4,534",
       "addStars": "13,894",
       "contributors": [
         {
@@ -513,8 +513,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "29,345",
-      "forks": "2,081",
+      "stars": "29,373",
+      "forks": "2,083",
       "addStars": "6,950",
       "contributors": [
         {
@@ -545,8 +545,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "104,717",
-      "forks": "10,932",
+      "stars": "104,848",
+      "forks": "10,939",
       "addStars": "11,706",
       "contributors": [
         {
@@ -582,8 +582,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,155",
-      "forks": "4,586",
+      "stars": "33,233",
+      "forks": "4,594",
       "addStars": "7,700",
       "contributors": [
         {
@@ -614,8 +614,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,577",
-      "forks": "1,910",
+      "stars": "26,619",
+      "forks": "1,916",
       "addStars": "4,285",
       "contributors": [
         {
@@ -646,8 +646,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,840",
-      "forks": "1,032",
+      "stars": "10,862",
+      "forks": "1,039",
       "addStars": "3,579",
       "contributors": [
         {
@@ -683,8 +683,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "50,874",
-      "forks": "10,261",
+      "stars": "51,188",
+      "forks": "10,296",
       "addStars": "27,862",
       "contributors": [
         {
@@ -720,8 +720,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "83,106",
-      "forks": "9,245",
+      "stars": "83,242",
+      "forks": "9,254",
       "addStars": "7,897",
       "contributors": [
         {
@@ -757,8 +757,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "95,725",
-      "forks": "8,385",
+      "stars": "95,865",
+      "forks": "8,392",
       "addStars": "16,725",
       "contributors": [
         {
