@@ -3,7 +3,7 @@
     <title>GitHub Nix Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Nix Languages in GitHub</description>
-    <pubDate>Sat, 10 Oct 2026 22:20:47 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 06:46:47 GMT</pubDate>
     <item>
       <title>NixOS/nixpkgs</title>
       <link>https://github.com/NixOS/nixpkgs</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NixOS/nixpkgs</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>26,421</stars>
-      <forks>20,358</forks>
-      <addStars>101</addStars>
+      <stars>26,425</stars>
+      <forks>20,359</forks>
+      <addStars>102</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37933096?s=40&amp;v=4</avatar>
@@ -51,7 +51,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>1,793</stars>
       <forks>268</forks>
-      <addStars>4</addStars>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/115821?s=40&amp;v=4</avatar>
@@ -87,7 +87,7 @@
       <guid>https://github.com/numtide/llm-agents.nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>2,093</stars>
+      <stars>2,095</stars>
       <forks>287</forks>
       <addStars>48</addStars>
       <contributors>
@@ -115,9 +115,9 @@
       <guid>https://github.com/nix-community/home-manager</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>10,421</stars>
+      <stars>10,422</stars>
       <forks>2,488</forks>
-      <addStars>24</addStars>
+      <addStars>20</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1778670?s=40&amp;v=4</avatar>
@@ -155,7 +155,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>780</stars>
       <forks>82</forks>
-      <addStars>3</addStars>
+      <addStars>2</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/133350171?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/Mic92/sops-nix</guid>
       <language>Nix</language>
       <languageColor>#7e7eff</languageColor>
-      <stars>3,218</stars>
+      <stars>3,221</stars>
       <forks>236</forks>
-      <addStars>19</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/96200?s=40&amp;v=4</avatar>
@@ -231,6 +231,24 @@
       </contributors>
     </item>
     <item>
+      <title>ryoppippi/dotfiles</title>
+      <link>https://github.com/ryoppippi/dotfiles</link>
+      <description>ryoppippi's dotfiles</description>
+      <guid>https://github.com/ryoppippi/dotfiles</guid>
+      <language>Nix</language>
+      <languageColor>#7e7eff</languageColor>
+      <stars>268</stars>
+      <forks>5</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1560508?s=40&amp;v=4</avatar>
+          <name>ryoppippi</name>
+          <url>https://github.com/ryoppippi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>cloud-gouv/securix</title>
       <link>https://github.com/cloud-gouv/securix</link>
       <description>SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.</description>
@@ -239,7 +257,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>1,137</stars>
       <forks>54</forks>
-      <addStars>24</addStars>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/195482661?s=40&amp;v=4</avatar>
@@ -277,7 +295,7 @@
       <languageColor>#7e7eff</languageColor>
       <stars>197</stars>
       <forks>15</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15030658?s=40&amp;v=4</avatar>

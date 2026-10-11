@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 22:20:47 GMT",
+  "pubDate": "Sun, 11 Oct 2026 06:46:47 GMT",
   "items": [
     {
       "title": "boykopovar/AnyPS5",
@@ -10,9 +10,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,516",
-      "forks": "2,217",
-      "addStars": "5,831",
+      "stars": "27,539",
+      "forks": "2,328",
+      "addStars": "5,805",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -20,14 +20,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-          "name": "oneandonlydean",
-          "url": "https://github.com/oneandonlydean"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
           "name": "adriadam10",
           "url": "https://github.com/adriadam10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+          "name": "oneandonlydean",
+          "url": "https://github.com/oneandonlydean"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
@@ -35,9 +35,9 @@
           "url": "https://github.com/boykopovar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&v=4",
-          "name": "SamG-Coder",
-          "url": "https://github.com/SamG-Coder"
+          "avatar": "https://avatars.githubusercontent.com/u/206445655?s=40&v=4",
+          "name": "CnRJay",
+          "url": "https://github.com/CnRJay"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "200,709",
-      "forks": "78,959",
-      "addStars": "24",
+      "stars": "200,792",
+      "forks": "78,989",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,186",
-      "forks": "7,363",
-      "addStars": "21",
+      "stars": "33,192",
+      "forks": "7,364",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17900494?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "42,078",
-      "forks": "3,901",
-      "addStars": "76",
+      "stars": "42,088",
+      "forks": "3,902",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3978469?s=40&v=4",
@@ -158,7 +158,7 @@
       "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,847",
+      "stars": "26,850",
       "forks": "1,010",
       "addStars": "26",
       "contributors": [
@@ -195,9 +195,9 @@
       "description": "DuckLake is an integrated data lake and catalog format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "3,285",
-      "forks": "275",
-      "addStars": "72",
+      "stars": "3,288",
+      "forks": "276",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7377477?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "33,375",
-      "forks": "2,683",
-      "addStars": "65",
+      "stars": "33,392",
+      "forks": "2,688",
+      "addStars": "71",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4313123?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "7,617",
-      "forks": "861",
-      "addStars": "44",
+      "stars": "7,623",
+      "forks": "862",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31925346?s=40&v=4",
@@ -306,7 +306,7 @@
       "description": "Cross-platform, customizable ML solutions for live and streaming media.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "37,215",
+      "stars": "37,221",
       "forks": "6,187",
       "addStars": "12",
       "contributors": [
@@ -343,9 +343,9 @@
       "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "21,518",
+      "stars": "21,519",
       "forks": "3,489",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9026413?s=40&v=4",
@@ -380,8 +380,8 @@
       "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "1,582",
-      "forks": "141",
+      "stars": "1,590",
+      "forks": "142",
       "addStars": "31",
       "contributors": [
         {
@@ -417,9 +417,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "15,587",
+      "stars": "15,594",
       "forks": "1,825",
-      "addStars": "37",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -454,9 +454,9 @@
       "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "22,137",
-      "forks": "1,922",
-      "addStars": "31",
+      "stars": "22,144",
+      "forks": "1,925",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21986859?s=40&v=4",
@@ -493,7 +493,7 @@
       "languageColor": "#f34b7d",
       "stars": "9,812",
       "forks": "1,057",
-      "addStars": "6",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/204594?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 22:20:47 GMT",
+  "pubDate": "Sun, 11 Oct 2026 06:46:47 GMT",
   "items": [
     {
       "title": "caddyserver/caddy",
@@ -10,9 +10,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "77,695",
-      "forks": "5,111",
-      "addStars": "1,417",
+      "stars": "77,713",
+      "forks": "5,113",
+      "addStars": "1,485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1128849?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,966",
-      "forks": "1,079",
-      "addStars": "673",
+      "stars": "5,969",
+      "forks": "1,080",
+      "addStars": "669",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4196457?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "812",
+      "stars": "814",
       "forks": "121",
-      "addStars": "169",
+      "addStars": "158",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/114486081?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,115",
-      "forks": "233",
-      "addStars": "541",
+      "stars": "5,138",
+      "forks": "235",
+      "addStars": "510",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55647468?s=40&v=4",
@@ -121,14 +121,14 @@
           "url": "https://github.com/Gaurav-Gosain"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73425927?s=40&v=4",
-          "name": "cr2007",
-          "url": "https://github.com/cr2007"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/6885?s=40&v=4",
           "name": "davidreuss",
           "url": "https://github.com/davidreuss"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73425927?s=40&v=4",
+          "name": "cr2007",
+          "url": "https://github.com/cr2007"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/251644039?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,774",
+      "stars": "47,790",
       "forks": "12,258",
-      "addStars": "440",
+      "addStars": "441",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33454419?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "TTT Editor (Terminal Text Tool): A real alternative to VS Code, Zed, and Sublime that runs in your terminal. A TUI that feels like GUI. Single binary, zero config.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "509",
-      "forks": "36",
-      "addStars": "121",
+      "stars": "515",
+      "forks": "40",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17834212?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,337",
+      "stars": "38,339",
       "forks": "753",
-      "addStars": "143",
+      "addStars": "141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,382",
-      "forks": "505",
-      "addStars": "936",
+      "stars": "4,399",
+      "forks": "506",
+      "addStars": "1,003",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/153495?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "A powerful little TUI framework 🏗",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "45,421",
-      "forks": "3,645",
-      "addStars": "179",
+      "stars": "45,430",
+      "forks": "3,676",
+      "addStars": "183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3187948?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "Application Kernel for Containers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,626",
-      "forks": "2,043",
-      "addStars": "147",
+      "stars": "19,631",
+      "forks": "2,042",
+      "addStars": "145",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51218664?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "182,656",
-      "forks": "18,191",
-      "addStars": "762",
+      "stars": "182,681",
+      "forks": "18,197",
+      "addStars": "848",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "110,925",
-      "forks": "6,423",
-      "addStars": "1,941",
+      "stars": "110,955",
+      "forks": "6,427",
+      "addStars": "1,642",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104168679?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,134",
-      "forks": "2,219",
-      "addStars": "64",
+      "stars": "15,136",
+      "forks": "2,220",
+      "addStars": "97",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9232216?s=40&v=4",
@@ -452,8 +452,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "387",
-      "forks": "48",
-      "addStars": "123",
+      "forks": "49",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29346072?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "The Cloud Native Application Proxy",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "65,145",
-      "forks": "6,232",
-      "addStars": "117",
+      "stars": "65,151",
+      "forks": "6,233",
+      "addStars": "131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5674651?s=40&v=4",
@@ -525,9 +525,9 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,418",
-      "forks": "7,247",
-      "addStars": "133",
+      "stars": "58,425",
+      "forks": "7,250",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
@@ -562,9 +562,9 @@
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "392",
+      "stars": "394",
       "forks": "435",
-      "addStars": "19",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13645998?s=40&v=4",
@@ -594,9 +594,9 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "111,382",
-      "forks": "16,352",
-      "addStars": "134",
+      "stars": "111,385",
+      "forks": "16,368",
+      "addStars": "132",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4226954?s=40&v=4",
