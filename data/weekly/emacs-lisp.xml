@@ -3,7 +3,7 @@
     <title>GitHub Emacs-lisp Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Emacs-lisp Languages in GitHub</description>
-    <pubDate>Sun, 11 Oct 2026 06:46:47 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 13:52:07 GMT</pubDate>
     <item>
       <title>xenodium/agent-shell</title>
       <link>https://github.com/xenodium/agent-shell</link>
@@ -43,44 +43,6 @@
       </contributors>
     </item>
     <item>
-      <title>magit/magit</title>
-      <link>https://github.com/magit/magit</link>
-      <description>It's Magit! A Git Porcelain inside Emacs.</description>
-      <guid>https://github.com/magit/magit</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>7,240</stars>
-      <forks>880</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25046?s=40&amp;v=4</avatar>
-          <name>tarsius</name>
-          <url>https://github.com/tarsius</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1297788?s=40&amp;v=4</avatar>
-          <name>kyleam</name>
-          <url>https://github.com/kyleam</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16090?s=40&amp;v=4</avatar>
-          <name>sigma</name>
-          <url>https://github.com/sigma</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43794?s=40&amp;v=4</avatar>
-          <name>philjackson</name>
-          <url>https://github.com/philjackson</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/637127?s=40&amp;v=4</avatar>
-          <name>peweisberg-fadv</name>
-          <url>https://github.com/peweisberg-fadv</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>google-coral/coralnpu</title>
       <link>https://github.com/google-coral/coralnpu</link>
       <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
@@ -88,7 +50,7 @@
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
       <stars>2,591</stars>
-      <forks>344</forks>
+      <forks>345</forks>
       <addStars>9</addStars>
       <contributors>
         <contributor>
@@ -115,6 +77,82 @@
           <avatar>https://avatars.githubusercontent.com/u/241349384?s=40&amp;v=4</avatar>
           <name>stefanh111</name>
           <url>https://github.com/stefanh111</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>doomemacs/core</title>
+      <link>https://github.com/doomemacs/core</link>
+      <description>An Emacs framework for the stubborn martian hacker</description>
+      <guid>https://github.com/doomemacs/core</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>22,735</stars>
+      <forks>3,145</forks>
+      <addStars>28</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/510883?s=40&amp;v=4</avatar>
+          <name>hlissner</name>
+          <url>https://github.com/hlissner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19792685?s=40&amp;v=4</avatar>
+          <name>iyefrat</name>
+          <url>https://github.com/iyefrat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20903656?s=40&amp;v=4</avatar>
+          <name>tecosaur</name>
+          <url>https://github.com/tecosaur</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13229321?s=40&amp;v=4</avatar>
+          <name>patrl</name>
+          <url>https://github.com/patrl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2872862?s=40&amp;v=4</avatar>
+          <name>elken</name>
+          <url>https://github.com/elken</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>dakra/ghostel</title>
+      <link>https://github.com/dakra/ghostel</link>
+      <description>Terminal emulator powered by libghostty</description>
+      <guid>https://github.com/dakra/ghostel</guid>
+      <language>Emacs Lisp</language>
+      <languageColor>#c065db</languageColor>
+      <stars>989</stars>
+      <forks>60</forks>
+      <addStars>16</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/574659?s=40&amp;v=4</avatar>
+          <name>dakra</name>
+          <url>https://github.com/dakra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5737870?s=40&amp;v=4</avatar>
+          <name>emil-e</name>
+          <url>https://github.com/emil-e</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2631472?s=40&amp;v=4</avatar>
+          <name>kiennq</name>
+          <url>https://github.com/kiennq</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44319627?s=40&amp;v=4</avatar>
+          <name>Cianidos</name>
+          <url>https://github.com/Cianidos</url>
         </contributor>
       </contributors>
     </item>
@@ -195,116 +233,40 @@
       </contributors>
     </item>
     <item>
-      <title>doomemacs/core</title>
-      <link>https://github.com/doomemacs/core</link>
-      <description>An Emacs framework for the stubborn martian hacker</description>
-      <guid>https://github.com/doomemacs/core</guid>
+      <title>magit/magit</title>
+      <link>https://github.com/magit/magit</link>
+      <description>It's Magit! A Git Porcelain inside Emacs.</description>
+      <guid>https://github.com/magit/magit</guid>
       <language>Emacs Lisp</language>
       <languageColor>#c065db</languageColor>
-      <stars>22,735</stars>
-      <forks>3,146</forks>
-      <addStars>28</addStars>
+      <stars>7,240</stars>
+      <forks>880</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/510883?s=40&amp;v=4</avatar>
-          <name>hlissner</name>
-          <url>https://github.com/hlissner</url>
+          <avatar>https://avatars.githubusercontent.com/u/25046?s=40&amp;v=4</avatar>
+          <name>tarsius</name>
+          <url>https://github.com/tarsius</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19792685?s=40&amp;v=4</avatar>
-          <name>iyefrat</name>
-          <url>https://github.com/iyefrat</url>
+          <avatar>https://avatars.githubusercontent.com/u/1297788?s=40&amp;v=4</avatar>
+          <name>kyleam</name>
+          <url>https://github.com/kyleam</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20903656?s=40&amp;v=4</avatar>
-          <name>tecosaur</name>
-          <url>https://github.com/tecosaur</url>
+          <avatar>https://avatars.githubusercontent.com/u/16090?s=40&amp;v=4</avatar>
+          <name>sigma</name>
+          <url>https://github.com/sigma</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13229321?s=40&amp;v=4</avatar>
-          <name>patrl</name>
-          <url>https://github.com/patrl</url>
+          <avatar>https://avatars.githubusercontent.com/u/43794?s=40&amp;v=4</avatar>
+          <name>philjackson</name>
+          <url>https://github.com/philjackson</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2872862?s=40&amp;v=4</avatar>
-          <name>elken</name>
-          <url>https://github.com/elken</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>dakra/ghostel</title>
-      <link>https://github.com/dakra/ghostel</link>
-      <description>Terminal emulator powered by libghostty</description>
-      <guid>https://github.com/dakra/ghostel</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>989</stars>
-      <forks>60</forks>
-      <addStars>16</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/574659?s=40&amp;v=4</avatar>
-          <name>dakra</name>
-          <url>https://github.com/dakra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5737870?s=40&amp;v=4</avatar>
-          <name>emil-e</name>
-          <url>https://github.com/emil-e</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2631472?s=40&amp;v=4</avatar>
-          <name>kiennq</name>
-          <url>https://github.com/kiennq</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44319627?s=40&amp;v=4</avatar>
-          <name>Cianidos</name>
-          <url>https://github.com/Cianidos</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>emacs-mirror/emacs</title>
-      <link>https://github.com/emacs-mirror/emacs</link>
-      <description>Mirror of GNU Emacs</description>
-      <guid>https://github.com/emacs-mirror/emacs</guid>
-      <language>Emacs Lisp</language>
-      <languageColor>#c065db</languageColor>
-      <stars>5,217</stars>
-      <forks>1,408</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20908835?s=40&amp;v=4</avatar>
-          <name>Eli-Zaretskii</name>
-          <url>https://github.com/Eli-Zaretskii</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4054496?s=40&amp;v=4</avatar>
-          <name>rgmorris</name>
-          <url>https://github.com/rgmorris</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3629383?s=40&amp;v=4</avatar>
-          <name>monnier</name>
-          <url>https://github.com/monnier</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/572024?s=40&amp;v=4</avatar>
-          <name>eggert</name>
-          <url>https://github.com/eggert</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/553982?s=40&amp;v=4</avatar>
-          <name>larsmagne</name>
-          <url>https://github.com/larsmagne</url>
+          <avatar>https://avatars.githubusercontent.com/u/637127?s=40&amp;v=4</avatar>
+          <name>peweisberg-fadv</name>
+          <url>https://github.com/peweisberg-fadv</url>
         </contributor>
       </contributors>
     </item>

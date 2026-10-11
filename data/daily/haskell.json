@@ -2,16 +2,48 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 06:46:47 GMT",
+  "pubDate": "Sun, 11 Oct 2026 13:52:07 GMT",
   "items": [
+    {
+      "title": "haskell/haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "2,962",
+      "forks": "467",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
+          "name": "pepeiborra",
+          "url": "https://github.com/pepeiborra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
+          "name": "jneira",
+          "url": "https://github.com/jneira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
+          "name": "fendor",
+          "url": "https://github.com/fendor"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
+          "name": "wz1000",
+          "url": "https://github.com/wz1000"
+        }
+      ]
+    },
     {
       "title": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "46,647",
-      "forks": "6,195",
+      "stars": "46,649",
+      "forks": "6,258",
       "addStars": "11",
       "contributors": [
         {
@@ -42,13 +74,35 @@
       ]
     },
     {
+      "title": "flora-pm/flora-server",
+      "url": "https://github.com/flora-pm/flora-server",
+      "description": "A modern package index for the Haskell ecosystem",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": "158",
+      "forks": "50",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15848443?s=40&v=4",
+          "name": "tchoutri",
+          "url": "https://github.com/tchoutri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2143796?s=40&v=4",
+          "name": "TixieSalander",
+          "url": "https://github.com/TixieSalander"
+        }
+      ]
+    },
+    {
       "title": "koalaman/shellcheck",
       "url": "https://github.com/koalaman/shellcheck",
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "40,159",
-      "forks": "1,958",
+      "stars": "40,160",
+      "forks": "1,959",
       "addStars": "8",
       "contributors": [
         {
@@ -79,172 +133,61 @@
       ]
     },
     {
-      "title": "haskell/cabal",
-      "url": "https://github.com/haskell/cabal",
-      "description": "Official upstream development repository for Cabal and cabal-install",
+      "title": "mtolly/onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "1,745",
-      "forks": "758",
+      "stars": "300",
+      "forks": "23",
       "addStars": "1",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47439?s=40&v=4",
-          "name": "23Skidoo",
-          "url": "https://github.com/23Skidoo"
+          "avatar": "https://avatars.githubusercontent.com/u/1427698?s=40&v=4",
+          "name": "mtolly",
+          "url": "https://github.com/mtolly"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1339423?s=40&v=4",
-          "name": "dcoutts",
-          "url": "https://github.com/dcoutts"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/51087?s=40&v=4",
-          "name": "phadej",
-          "url": "https://github.com/phadej"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13564?s=40&v=4",
-          "name": "ezyang",
-          "url": "https://github.com/ezyang"
+          "avatar": "https://avatars.githubusercontent.com/u/74471839?s=40&v=4",
+          "name": "AddyMills",
+          "url": "https://github.com/AddyMills"
         }
       ]
     },
     {
-      "title": "haskell/haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
+      "title": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": "2,961",
-      "forks": "467",
-      "addStars": "0",
+      "stars": "19,543",
+      "forks": "1,363",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26626?s=40&v=4",
-          "name": "pepeiborra",
-          "url": "https://github.com/pepeiborra"
+          "avatar": "https://avatars.githubusercontent.com/u/2769109?s=40&v=4",
+          "name": "epoberezkin",
+          "url": "https://github.com/epoberezkin"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54035?s=40&v=4",
-          "name": "jneira",
-          "url": "https://github.com/jneira"
+          "avatar": "https://avatars.githubusercontent.com/u/8711996?s=40&v=4",
+          "name": "spaced4ndy",
+          "url": "https://github.com/spaced4ndy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8463814?s=40&v=4",
-          "name": "fendor",
-          "url": "https://github.com/fendor"
+          "avatar": "https://avatars.githubusercontent.com/u/7953703?s=40&v=4",
+          "name": "avently",
+          "url": "https://github.com/avently"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4812498?s=40&v=4",
-          "name": "wz1000",
-          "url": "https://github.com/wz1000"
-        }
-      ]
-    },
-    {
-      "title": "PostgREST/postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "27,702",
-      "forks": "1,231",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1829294?s=40&v=4",
-          "name": "steve-chavez",
-          "url": "https://github.com/steve-chavez"
+          "avatar": "https://avatars.githubusercontent.com/u/37271604?s=40&v=4",
+          "name": "shumvgolove",
+          "url": "https://github.com/shumvgolove"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/911911?s=40&v=4",
-          "name": "begriffs",
-          "url": "https://github.com/begriffs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9132420?s=40&v=4",
-          "name": "wolfgangwalther",
-          "url": "https://github.com/wolfgangwalther"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1560937?s=40&v=4",
-          "name": "nikita-volkov",
-          "url": "https://github.com/nikita-volkov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18169764?s=40&v=4",
-          "name": "laurenceisla",
-          "url": "https://github.com/laurenceisla"
-        }
-      ]
-    },
-    {
-      "title": "hadolint/hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "12,467",
-      "forks": "507",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/37621?s=40&v=4",
-          "name": "lorenzo",
-          "url": "https://github.com/lorenzo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17141774?s=40&v=4",
-          "name": "m-ildefons",
-          "url": "https://github.com/m-ildefons"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1288339?s=40&v=4",
-          "name": "lukasmartinelli",
-          "url": "https://github.com/lukasmartinelli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18702153?s=40&v=4",
-          "name": "zemanlx",
-          "url": "https://github.com/zemanlx"
-        }
-      ]
-    },
-    {
-      "title": "hledgerorg/hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": "4,758",
-      "forks": "415",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10144?s=40&v=4",
-          "name": "simonmichael",
-          "url": "https://github.com/simonmichael"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18479956?s=40&v=4",
-          "name": "Xitian9",
-          "url": "https://github.com/Xitian9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118058?s=40&v=4",
-          "name": "adept",
-          "url": "https://github.com/adept"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/898989?s=40&v=4",
-          "name": "thielema",
-          "url": "https://github.com/thielema"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/700572?s=40&v=4",
-          "name": "acinader",
-          "url": "https://github.com/acinader"
+          "avatar": "https://avatars.githubusercontent.com/u/112780386?s=40&v=4",
+          "name": "mlanp",
+          "url": "https://github.com/mlanp"
         }
       ]
     }
