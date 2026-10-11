@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 17:54:34 GMT",
+  "pubDate": "Sun, 11 Oct 2026 22:44:25 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,8 +10,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,818",
-      "forks": "25,006",
+      "stars": "58,817",
+      "forks": "25,020",
       "addStars": "154",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,484",
-      "forks": "629",
+      "stars": "10,486",
+      "forks": "630",
       "addStars": "701",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "42,229",
+      "stars": "42,232",
       "forks": "6,041",
       "addStars": "183",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,374",
+      "stars": "50,373",
       "forks": "7,509",
       "addStars": "149",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,761",
+      "stars": "4,762",
       "forks": "822",
       "addStars": "152",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,648",
+      "stars": "10,650",
       "forks": "397",
       "addStars": "298",
       "contributors": [
@@ -245,7 +245,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "13,728",
-      "forks": "5,478",
+      "forks": "5,479",
       "addStars": "71",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,615",
-      "forks": "13,913",
+      "stars": "15,616",
+      "forks": "13,914",
       "addStars": "84",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,701",
-      "forks": "9,183",
+      "stars": "37,708",
+      "forks": "9,184",
       "addStars": "1,097",
       "contributors": [
         {
@@ -419,13 +419,50 @@
       ]
     },
     {
+      "title": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "9,845",
+      "forks": "2,064",
+      "addStars": "208",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
+          "name": "gumclaw",
+          "url": "https://github.com/gumclaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
+          "name": "gianfrancopiana",
+          "url": "https://github.com/gianfrancopiana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
+          "name": "ershad",
+          "url": "https://github.com/ershad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
+          "name": "slavingia",
+          "url": "https://github.com/slavingia"
+        }
+      ]
+    },
+    {
       "title": "rapid7/metasploit-framework",
       "url": "https://github.com/rapid7/metasploit-framework",
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,127",
-      "forks": "14,997",
+      "stars": "39,129",
+      "forks": "14,998",
       "addStars": "218",
       "contributors": [
         {
@@ -456,50 +493,13 @@
       ]
     },
     {
-      "title": "crmne/ruby_llm",
-      "url": "https://github.com/crmne/ruby_llm",
-      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "4,453",
-      "forks": "513",
-      "addStars": "105",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
-          "name": "crmne",
-          "url": "https://github.com/crmne"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6375192?s=40&v=4",
-          "name": "afurm",
-          "url": "https://github.com/afurm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38976?s=40&v=4",
-          "name": "yorzi",
-          "url": "https://github.com/yorzi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/209089?s=40&v=4",
-          "name": "kieranklaassen",
-          "url": "https://github.com/kieranklaassen"
-        }
-      ]
-    },
-    {
       "title": "Homebrew/homebrew-cask",
       "url": "https://github.com/Homebrew/homebrew-cask",
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "22,249",
-      "forks": "11,996",
+      "forks": "11,995",
       "addStars": "85",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,383",
-      "forks": "3,551",
+      "stars": "16,386",
+      "forks": "3,550",
       "addStars": "331",
       "contributors": [
         {
@@ -605,7 +605,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "3,397",
-      "forks": "1,322",
+      "forks": "1,321",
       "addStars": "27",
       "contributors": [
         {
@@ -705,7 +705,7 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,317",
+      "stars": "12,318",
       "forks": "595",
       "addStars": "70",
       "contributors": [
