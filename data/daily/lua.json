@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 16:36:04 GMT",
+  "pubDate": "Mon, 12 Oct 2026 21:34:12 GMT",
   "items": [
     {
       "title": "koreader/koreader",
@@ -10,7 +10,7 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "30,269",
+      "stars": "30,272",
       "forks": "1,965",
       "addStars": "34",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,290",
-      "forks": "688",
+      "stars": "4,291",
+      "forks": "689",
       "addStars": "20",
       "contributors": [
         {
@@ -79,49 +79,12 @@
       ]
     },
     {
-      "title": "bryanthaboi/gen1recomp",
-      "url": "https://github.com/bryanthaboi/gen1recomp",
-      "description": "Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": "3,908",
-      "forks": "348",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116906279?s=40&v=4",
-          "name": "bryanthaboi",
-          "url": "https://github.com/bryanthaboi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56467992?s=40&v=4",
-          "name": "andrewqsantos",
-          "url": "https://github.com/andrewqsantos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45065431?s=40&v=4",
-          "name": "Nexhas28",
-          "url": "https://github.com/Nexhas28"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10935814?s=40&v=4",
-          "name": "1Jamie",
-          "url": "https://github.com/1Jamie"
-        }
-      ]
-    },
-    {
       "title": "stevearc/oil.nvim",
       "url": "https://github.com/stevearc/oil.nvim",
       "description": "Neovim file explorer: edit your filesystem like a buffer",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,945",
+      "stars": "6,944",
       "forks": "258",
       "addStars": "2",
       "contributors": [
@@ -153,7 +116,7 @@
       "description": "FS25_RealisticLivestock - Ritter version",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "180",
+      "stars": "181",
       "forks": "17",
       "addStars": "0",
       "contributors": [
@@ -301,7 +264,7 @@
       "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,849",
+      "stars": "4,850",
       "forks": "178",
       "addStars": "21",
       "contributors": [
@@ -333,7 +296,7 @@
       "description": "autopairs for neovim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "4,100",
+      "stars": "4,101",
       "forks": "141",
       "addStars": "2",
       "contributors": [
@@ -397,7 +360,7 @@
       "description": "Visualize debugging sessions in neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,032",
+      "stars": "1,033",
       "forks": "38",
       "addStars": "8",
       "contributors": [

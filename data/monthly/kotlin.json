@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 16:36:04 GMT",
+  "pubDate": "Mon, 12 Oct 2026 21:34:12 GMT",
   "items": [
     {
       "title": "kushagrasinghx/BitChord",
@@ -10,8 +10,8 @@
       "description": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,985",
-      "forks": "275",
+      "stars": "3,005",
+      "forks": "280",
       "addStars": "1,881",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,098",
-      "forks": "4,296",
+      "stars": "19,101",
+      "forks": "4,301",
       "addStars": "819",
       "contributors": [
         {
@@ -79,7 +79,7 @@
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,481",
+      "stars": "3,482",
       "forks": "225",
       "addStars": "1,251",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,841",
-      "forks": "474",
+      "stars": "1,845",
+      "forks": "477",
       "addStars": "982",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,869",
+      "stars": "20,870",
       "forks": "615",
       "addStars": "838",
       "contributors": [
@@ -178,10 +178,10 @@
       "title": "KernelSU-Next/KernelSU-Next",
       "url": "https://github.com/KernelSU-Next/KernelSU-Next",
       "description": "An advanced Kernel based root solution for Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "4,423",
-      "forks": "1,175",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "4,426",
+      "forks": "1,173",
       "addStars": "223",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,396",
+      "stars": "1,398",
       "forks": "86",
       "addStars": "441",
       "contributors": [
@@ -249,7 +249,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "42,747",
+      "stars": "42,749",
       "forks": "2,028",
       "addStars": "1,151",
       "contributors": [
@@ -286,8 +286,8 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,943",
-      "forks": "647",
+      "stars": "11,951",
+      "forks": "648",
       "addStars": "822",
       "contributors": [
         {
@@ -323,7 +323,7 @@
       "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "705",
+      "stars": "707",
       "forks": "113",
       "addStars": "474",
       "contributors": [
@@ -350,7 +350,7 @@
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,745",
+      "stars": "2,753",
       "forks": "235",
       "addStars": "345",
       "contributors": [
@@ -382,8 +382,8 @@
       "description": "🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "748",
-      "forks": "26",
+      "stars": "754",
+      "forks": "25",
       "addStars": "487",
       "contributors": [
         {
@@ -414,7 +414,7 @@
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "24,935",
+      "stars": "24,937",
       "forks": "2,727",
       "addStars": "301",
       "contributors": [
@@ -446,8 +446,8 @@
       "description": "Full-featured audio/video downloader for Android using yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,544",
-      "forks": "488",
+      "stars": "10,548",
+      "forks": "489",
       "addStars": "533",
       "contributors": [
         {
@@ -515,7 +515,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,003",
+      "stars": "12,004",
       "forks": "2,968",
       "addStars": "239",
       "contributors": [
@@ -552,8 +552,8 @@
       "description": "虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,715",
-      "forks": "301",
+      "stars": "1,720",
+      "forks": "302",
       "addStars": "655",
       "contributors": [
         {

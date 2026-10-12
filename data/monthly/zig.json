@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 16:36:04 GMT",
+  "pubDate": "Mon, 12 Oct 2026 21:34:12 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,8 +10,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,850",
-      "forks": "188",
+      "stars": "1,852",
+      "forks": "189",
       "addStars": "624",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,225",
+      "stars": "5,227",
       "forks": "457",
       "addStars": "121",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,112",
-      "forks": "3,631",
+      "stars": "62,121",
+      "forks": "3,632",
       "addStars": "1,264",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,472",
+      "stars": "2,473",
       "forks": "124",
       "addStars": "264",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,172",
+      "stars": "4,173",
       "forks": "196",
       "addStars": "145",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,051",
-      "forks": "78",
+      "stars": "2,052",
+      "forks": "79",
       "addStars": "479",
       "contributors": [
         {
@@ -281,7 +281,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,181",
+      "stars": "17,183",
       "forks": "920",
       "addStars": "187",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,711",
+      "stars": "3,712",
       "forks": "246",
       "addStars": "67",
       "contributors": [
