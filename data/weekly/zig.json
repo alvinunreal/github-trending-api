@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 22:44:25 GMT",
+  "pubDate": "Mon, 12 Oct 2026 06:54:59 GMT",
   "items": [
     {
       "title": "ashhart/TensorFold",
@@ -10,9 +10,9 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,257",
+      "stars": "1,265",
       "forks": "221",
-      "addStars": "262",
+      "addStars": "270",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#ec915c",
       "stars": "5,227",
       "forks": "456",
-      "addStars": "70",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,082",
-      "forks": "3,625",
-      "addStars": "283",
+      "stars": "62,095",
+      "forks": "3,627",
+      "addStars": "302",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "36,279",
-      "forks": "1,730",
-      "addStars": "323",
+      "stars": "36,306",
+      "forks": "1,731",
+      "addStars": "339",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,164",
+      "stars": "4,167",
       "forks": "196",
-      "addStars": "31",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
@@ -187,7 +187,7 @@
       "languageColor": "#ec915c",
       "stars": "43,301",
       "forks": "3,185",
-      "addStars": "18",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,174",
-      "forks": "918",
-      "addStars": "43",
+      "stars": "17,180",
+      "forks": "920",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,843",
+      "stars": "1,845",
       "forks": "187",
-      "addStars": "106",
+      "addStars": "102",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869085?s=40&v=4",
@@ -279,9 +279,9 @@
           "url": "https://github.com/beamivalice"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/19929447?s=40&v=4",
+          "name": "lojza3d",
+          "url": "https://github.com/lojza3d"
         }
       ]
     },
@@ -291,7 +291,7 @@
       "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "8,112",
+      "stars": "8,113",
       "forks": "943",
       "addStars": "18",
       "contributors": [

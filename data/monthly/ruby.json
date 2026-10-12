@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 22:44:25 GMT",
+  "pubDate": "Mon, 12 Oct 2026 06:54:59 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,8 +10,8 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,817",
-      "forks": "25,020",
+      "stars": "58,816",
+      "forks": "25,080",
       "addStars": "154",
       "contributors": [
         {
@@ -42,14 +42,51 @@
       ]
     },
     {
+      "title": "Homebrew/brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "49,986",
+      "forks": "11,387",
+      "addStars": "569",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
+          "name": "MikeMcQuaid",
+          "url": "https://github.com/MikeMcQuaid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
+          "name": "BrewTestBot",
+          "url": "https://github.com/BrewTestBot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1309829?s=40&v=4",
+          "name": "reitermarkus",
+          "url": "https://github.com/reitermarkus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/568243?s=40&v=4",
+          "name": "jacknagel",
+          "url": "https://github.com/jacknagel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1190754?s=40&v=4",
+          "name": "Bo98",
+          "url": "https://github.com/Bo98"
+        }
+      ]
+    },
+    {
       "title": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,486",
-      "forks": "630",
-      "addStars": "701",
+      "stars": "10,488",
+      "forks": "632",
+      "addStars": "679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -80,8 +117,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "42,232",
-      "forks": "6,041",
-      "addStars": "183",
+      "forks": "6,040",
+      "addStars": "185",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
@@ -116,9 +153,9 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,769",
-      "forks": "5,656",
-      "addStars": "93",
+      "stars": "23,770",
+      "forks": "5,657",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4",
@@ -153,9 +190,9 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,373",
-      "forks": "7,509",
-      "addStars": "149",
+      "stars": "50,371",
+      "forks": "7,508",
+      "addStars": "151",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
@@ -180,9 +217,9 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,762",
-      "forks": "822",
-      "addStars": "152",
+      "stars": "4,767",
+      "forks": "823",
+      "addStars": "153",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1655218?s=40&v=4",
@@ -217,9 +254,9 @@
       "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,650",
+      "stars": "10,651",
       "forks": "397",
-      "addStars": "298",
+      "addStars": "302",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
@@ -282,8 +319,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "15,616",
-      "forks": "13,914",
-      "addStars": "84",
+      "forks": "13,915",
+      "addStars": "83",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -320,7 +357,7 @@
       "languageColor": "#701516",
       "stars": "5,804",
       "forks": "1,556",
-      "addStars": "53",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1144873?s=40&v=4",
@@ -350,9 +387,9 @@
       "description": "Zammad is a web based open source helpdesk/customer support system.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,996",
+      "stars": "5,998",
       "forks": "1,074",
-      "addStars": "98",
+      "addStars": "99",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110226?s=40&v=4",
@@ -387,9 +424,9 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "37,708",
-      "forks": "9,184",
-      "addStars": "1,097",
+      "stars": "37,714",
+      "forks": "9,185",
+      "addStars": "1,080",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73185?s=40&v=4",
@@ -424,9 +461,9 @@
       "description": "See what sticks",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "9,845",
+      "stars": "9,848",
       "forks": "2,064",
-      "addStars": "208",
+      "addStars": "210",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
@@ -461,9 +498,9 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,129",
-      "forks": "14,998",
-      "addStars": "218",
+      "stars": "39,126",
+      "forks": "14,997",
+      "addStars": "214",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
@@ -498,8 +535,8 @@
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,249",
-      "forks": "11,995",
+      "stars": "22,251",
+      "forks": "11,998",
       "addStars": "85",
       "contributors": [
         {
@@ -535,8 +572,8 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,386",
-      "forks": "3,550",
+      "stars": "16,388",
+      "forks": "3,549",
       "addStars": "331",
       "contributors": [
         {
@@ -574,7 +611,7 @@
       "languageColor": "#701516",
       "stars": "2,843",
       "forks": "1,092",
-      "addStars": "24",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/147741?s=40&v=4",
@@ -606,7 +643,7 @@
       "languageColor": "#701516",
       "stars": "3,397",
       "forks": "1,321",
-      "addStars": "27",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2988912?s=40&v=4",
@@ -631,9 +668,9 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,708",
-      "forks": "10,305",
-      "addStars": "100",
+      "stars": "51,706",
+      "forks": "10,304",
+      "addStars": "103",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
@@ -668,9 +705,9 @@
       "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,751",
+      "stars": "15,753",
       "forks": "5,306",
-      "addStars": "84",
+      "addStars": "80",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55154?s=40&v=4",
@@ -705,7 +742,7 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,318",
+      "stars": "12,319",
       "forks": "595",
       "addStars": "70",
       "contributors": [

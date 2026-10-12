@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 22:44:25 GMT",
+  "pubDate": "Mon, 12 Oct 2026 06:54:59 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,937",
-      "forks": "1,404",
-      "addStars": "1,138",
+      "stars": "8,939",
+      "forks": "1,406",
+      "addStars": "1,151",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,590",
-      "forks": "1,563",
-      "addStars": "225",
+      "stars": "6,591",
+      "forks": "1,569",
+      "addStars": "222",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,266",
-      "forks": "1,466",
-      "addStars": "155",
+      "stars": "10,263",
+      "forks": "1,467",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -123,7 +123,7 @@
       "languageColor": "#3A4E3A",
       "stars": "3,967",
       "forks": "527",
-      "addStars": "256",
+      "addStars": "253",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#3A4E3A",
       "stars": "3,748",
       "forks": "331",
-      "addStars": "76",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11230781?s=40&v=4",
@@ -195,7 +195,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,548",
+      "stars": "2,549",
       "forks": "265",
       "addStars": "62",
       "contributors": [
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,244",
       "forks": "369",
-      "addStars": "17",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34135411?s=40&v=4",
@@ -271,7 +271,7 @@
       "languageColor": "#3A4E3A",
       "stars": "866",
       "forks": "241",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
@@ -306,8 +306,8 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,057",
-      "forks": "243",
+      "stars": "1,058",
+      "forks": "242",
       "addStars": "27",
       "contributors": [
         {
@@ -343,9 +343,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,673",
+      "stars": "1,672",
       "forks": "411",
-      "addStars": "25",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
@@ -382,7 +382,7 @@
       "languageColor": "#3A4E3A",
       "stars": "17,570",
       "forks": "2,067",
-      "addStars": "36",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4923655?s=40&v=4",

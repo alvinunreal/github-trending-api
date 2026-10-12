@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Monthly Trending",
   "description": "Monthly Trending of Mdx Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 22:44:25 GMT",
+  "pubDate": "Mon, 12 Oct 2026 06:54:59 GMT",
   "items": [
     {
       "title": "twbs/bootstrap",
@@ -11,8 +11,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "174,814",
-      "forks": "78,559",
-      "addStars": "474",
+      "forks": "78,557",
+      "addStars": "470",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98681?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "3,601",
+      "stars": "3,602",
       "forks": "383",
-      "addStars": "664",
+      "addStars": "645",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27350?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "79,042",
-      "forks": "8,682",
-      "addStars": "947",
+      "stars": "79,060",
+      "forks": "8,681",
+      "addStars": "968",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7049564?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Cloudflare’s documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "5,307",
-      "forks": "17,055",
-      "addStars": "120",
+      "stars": "5,308",
+      "forks": "17,057",
+      "addStars": "118",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/680496?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "10,694",
-      "forks": "1,005",
-      "addStars": "1,259",
+      "stars": "10,702",
+      "forks": "1,004",
+      "addStars": "1,266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "A comprehensive open-source reference for backend engineering HTTP, concurrency, gRPC, distributed systems, observability, and cloud-native deployment. Built from first principles.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "759",
+      "stars": "760",
       "forks": "152",
-      "addStars": "298",
+      "addStars": "302",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/186957976?s=40&v=4",
@@ -241,7 +241,7 @@
       "languageColor": "#fcb32c",
       "stars": "2,235",
       "forks": "1,067",
-      "addStars": "75",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6912600?s=40&v=4",
@@ -271,6 +271,38 @@
       ]
     },
     {
+      "title": "magicuidesign/magicui",
+      "url": "https://github.com/magicuidesign/magicui",
+      "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": "22,604",
+      "forks": "1,168",
+      "addStars": "387",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16860528?s=40&v=4",
+          "name": "dillionverma",
+          "url": "https://github.com/dillionverma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89768406?s=40&v=4",
+          "name": "itsarghyadas",
+          "url": "https://github.com/itsarghyadas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81306489?s=40&v=4",
+          "name": "Yeom-JinHo",
+          "url": "https://github.com/Yeom-JinHo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "modelcontextprotocol/ext-skills",
       "url": "https://github.com/modelcontextprotocol/ext-skills",
       "description": "MCP Extension for Skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.",
@@ -278,7 +310,7 @@
       "languageColor": "#fcb32c",
       "stars": "737",
       "forks": "60",
-      "addStars": "524",
+      "addStars": "523",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16480113?s=40&v=4",
@@ -310,7 +342,7 @@
       "languageColor": "#fcb32c",
       "stars": "300",
       "forks": "213",
-      "addStars": "13",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/192523189?s=40&v=4",
@@ -340,7 +372,7 @@
       "description": "Official Discord Developer Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": "6,508",
+      "stars": "6,509",
       "forks": "1,386",
       "addStars": "36",
       "contributors": [
@@ -410,7 +442,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "428",
-      "forks": "2,739",
+      "forks": "2,738",
       "addStars": "18",
       "contributors": [
         {
@@ -480,7 +512,7 @@
       "languageColor": "#fcb32c",
       "stars": "2,165",
       "forks": "6,358",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/719641?s=40&v=4",
@@ -585,7 +617,7 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": "45",
-      "forks": "131",
+      "forks": "132",
       "addStars": "1",
       "contributors": [
         {
