@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 06:54:59 GMT",
+  "pubDate": "Mon, 12 Oct 2026 16:36:04 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,8 +10,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,845",
-      "forks": "187",
+      "stars": "1,850",
+      "forks": "188",
       "addStars": "624",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,227",
-      "forks": "456",
+      "stars": "5,225",
+      "forks": "457",
       "addStars": "121",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,095",
-      "forks": "3,627",
+      "stars": "62,112",
+      "forks": "3,631",
       "addStars": "1,264",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,470",
-      "forks": "123",
+      "stars": "2,472",
+      "forks": "124",
       "addStars": "264",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,187",
+      "stars": "1,186",
       "forks": "97",
       "addStars": "81",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,167",
+      "stars": "4,172",
       "forks": "196",
       "addStars": "145",
       "contributors": [
@@ -217,7 +217,7 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,049",
+      "stars": "2,051",
       "forks": "78",
       "addStars": "479",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,301",
+      "stars": "43,298",
       "forks": "3,185",
       "addStars": "94",
       "contributors": [
@@ -281,7 +281,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,180",
+      "stars": "17,181",
       "forks": "920",
       "addStars": "187",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,712",
+      "stars": "3,711",
       "forks": "246",
       "addStars": "67",
       "contributors": [
@@ -350,49 +350,12 @@
       ]
     },
     {
-      "title": "tonybanters/oxwm",
-      "url": "https://github.com/tonybanters/oxwm",
-      "description": "",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": "994",
-      "forks": "78",
-      "addStars": "54",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
-          "name": "tonybanters",
-          "url": "https://github.com/tonybanters"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
-          "name": "emzywastaken",
-          "url": "https://github.com/emzywastaken"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
-          "name": "Mr-Emacs",
-          "url": "https://github.com/Mr-Emacs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
-          "name": "ScottADeJong",
-          "url": "https://github.com/ScottADeJong"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
-          "name": "Iziram",
-          "url": "https://github.com/Iziram"
-        }
-      ]
-    },
-    {
       "title": "kristoff-it/zine",
       "url": "https://github.com/kristoff-it/zine",
       "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,608",
+      "stars": "1,607",
       "forks": "106",
       "addStars": "47",
       "contributors": [
@@ -424,39 +387,39 @@
       ]
     },
     {
-      "title": "vercel-labs/native",
-      "url": "https://github.com/vercel-labs/native",
-      "description": "Toolkit for building native desktop apps",
+      "title": "tonybanters/oxwm",
+      "url": "https://github.com/tonybanters/oxwm",
+      "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,776",
-      "forks": "325",
-      "addStars": "144",
+      "stars": "998",
+      "forks": "79",
+      "addStars": "54",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
-          "name": "ctate",
-          "url": "https://github.com/ctate"
+          "avatar": "https://avatars.githubusercontent.com/u/27378358?s=40&v=4",
+          "name": "tonybanters",
+          "url": "https://github.com/tonybanters"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25853688?s=40&v=4",
-          "name": "sepehr-safari",
-          "url": "https://github.com/sepehr-safari"
+          "avatar": "https://avatars.githubusercontent.com/u/71552895?s=40&v=4",
+          "name": "emzywastaken",
+          "url": "https://github.com/emzywastaken"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/77928693?s=40&v=4",
-          "name": "MohakBajaj",
-          "url": "https://github.com/MohakBajaj"
+          "avatar": "https://avatars.githubusercontent.com/u/181005823?s=40&v=4",
+          "name": "Mr-Emacs",
+          "url": "https://github.com/Mr-Emacs"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/44260523?s=40&v=4",
-          "name": "WhiteHades",
-          "url": "https://github.com/WhiteHades"
+          "avatar": "https://avatars.githubusercontent.com/u/38508855?s=40&v=4",
+          "name": "ScottADeJong",
+          "url": "https://github.com/ScottADeJong"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
-          "name": "Railly",
-          "url": "https://github.com/Railly"
+          "avatar": "https://avatars.githubusercontent.com/u/49349614?s=40&v=4",
+          "name": "Iziram",
+          "url": "https://github.com/Iziram"
         }
       ]
     },
@@ -498,34 +461,39 @@
       ]
     },
     {
-      "title": "Loongphy/codex-auth",
-      "url": "https://github.com/Loongphy/codex-auth",
-      "description": "A CLI tool to switch and manage Codex accounts",
+      "title": "vercel-labs/native",
+      "url": "https://github.com/vercel-labs/native",
+      "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,799",
-      "forks": "162",
-      "addStars": "149",
+      "stars": "7,776",
+      "forks": "325",
+      "addStars": "144",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42089082?s=40&v=4",
-          "name": "Loongphy",
-          "url": "https://github.com/Loongphy"
+          "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
+          "name": "ctate",
+          "url": "https://github.com/ctate"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/198355839?s=40&v=4",
-          "name": "DRanger666",
-          "url": "https://github.com/DRanger666"
+          "avatar": "https://avatars.githubusercontent.com/u/25853688?s=40&v=4",
+          "name": "sepehr-safari",
+          "url": "https://github.com/sepehr-safari"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
+          "avatar": "https://avatars.githubusercontent.com/u/77928693?s=40&v=4",
+          "name": "MohakBajaj",
+          "url": "https://github.com/MohakBajaj"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/201271?s=40&v=4",
-          "name": "johnknott",
-          "url": "https://github.com/johnknott"
+          "avatar": "https://avatars.githubusercontent.com/u/44260523?s=40&v=4",
+          "name": "WhiteHades",
+          "url": "https://github.com/WhiteHades"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51397083?s=40&v=4",
+          "name": "Railly",
+          "url": "https://github.com/Railly"
         }
       ]
     }

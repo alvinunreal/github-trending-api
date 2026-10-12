@@ -3,7 +3,7 @@
     <title>GitHub Lua Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Lua Languages in GitHub</description>
-    <pubDate>Mon, 12 Oct 2026 06:54:59 GMT</pubDate>
+    <pubDate>Mon, 12 Oct 2026 16:36:04 GMT</pubDate>
     <item>
       <title>id577/FS25_AdvancedDamageSystem</title>
       <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/id577/FS25_AdvancedDamageSystem</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>290</stars>
+      <stars>292</stars>
       <forks>18</forks>
       <addStars>13</addStars>
       <contributors>
@@ -81,6 +81,44 @@
       </contributors>
     </item>
     <item>
+      <title>Stephan-S/FS25_AutoDrive</title>
+      <link>https://github.com/Stephan-S/FS25_AutoDrive</link>
+      <description>FS25 version of the AutoDrive mod</description>
+      <guid>https://github.com/Stephan-S/FS25_AutoDrive</guid>
+      <language>Lua</language>
+      <languageColor>#000080</languageColor>
+      <stars>673</stars>
+      <forks>49</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52026009?s=40&amp;v=4</avatar>
+          <name>Axel32019</name>
+          <url>https://github.com/Axel32019</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8754844?s=40&amp;v=4</avatar>
+          <name>ThomasMatern</name>
+          <url>https://github.com/ThomasMatern</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47528836?s=40&amp;v=4</avatar>
+          <name>Iwan1803</name>
+          <url>https://github.com/Iwan1803</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5493976?s=40&amp;v=4</avatar>
+          <name>Stephan-S</name>
+          <url>https://github.com/Stephan-S</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24955554?s=40&amp;v=4</avatar>
+          <name>Roby1164</name>
+          <url>https://github.com/Roby1164</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Courseplay/Courseplay_FS25</title>
       <link>https://github.com/Courseplay/Courseplay_FS25</link>
       <description>Courseplay for Farming Simulator 2025</description>
@@ -119,78 +157,78 @@
       </contributors>
     </item>
     <item>
-      <title>AndyHazz/bookshelf.koplugin</title>
-      <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-      <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.</description>
-      <guid>https://github.com/AndyHazz/bookshelf.koplugin</guid>
+      <title>koreader/koreader</title>
+      <link>https://github.com/koreader/koreader</link>
+      <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
+      <guid>https://github.com/koreader/koreader</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>1,052</stars>
-      <forks>43</forks>
-      <addStars>62</addStars>
+      <stars>30,269</stars>
+      <forks>1,965</forks>
+      <addStars>166</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/517731?s=40&amp;v=4</avatar>
-          <name>AndyHazz</name>
-          <url>https://github.com/AndyHazz</url>
+          <avatar>https://avatars.githubusercontent.com/u/670302?s=40&amp;v=4</avatar>
+          <name>houqp</name>
+          <url>https://github.com/houqp</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/751535?s=40&amp;v=4</avatar>
+          <name>chrox</name>
+          <url>https://github.com/chrox</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/130438938?s=40&amp;v=4</avatar>
-          <name>peterboda236</name>
-          <url>https://github.com/peterboda236</url>
+          <avatar>https://avatars.githubusercontent.com/u/202757?s=40&amp;v=4</avatar>
+          <name>Frenzie</name>
+          <url>https://github.com/Frenzie</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31612605?s=40&amp;v=4</avatar>
-          <name>yefq</name>
-          <url>https://github.com/yefq</url>
+          <avatar>https://avatars.githubusercontent.com/u/111974?s=40&amp;v=4</avatar>
+          <name>NiLuJe</name>
+          <url>https://github.com/NiLuJe</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17461617?s=40&amp;v=4</avatar>
-          <name>d1-m4ss</name>
-          <url>https://github.com/d1-m4ss</url>
+          <avatar>https://avatars.githubusercontent.com/u/24273478?s=40&amp;v=4</avatar>
+          <name>poire-z</name>
+          <url>https://github.com/poire-z</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>Questie/Questie</title>
-      <link>https://github.com/Questie/Questie</link>
-      <description>Questie: The WoW Classic quest helper</description>
-      <guid>https://github.com/Questie/Questie</guid>
+      <title>beyond-all-reason/Beyond-All-Reason</title>
+      <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+      <description>Main game repository for Beyond All Reason.</description>
+      <guid>https://github.com/beyond-all-reason/Beyond-All-Reason</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>1,105</stars>
-      <forks>374</forks>
-      <addStars>6</addStars>
+      <stars>4,290</stars>
+      <forks>688</forks>
+      <addStars>23</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33514570?s=40&amp;v=4</avatar>
-          <name>BreakBB</name>
-          <url>https://github.com/BreakBB</url>
+          <avatar>https://avatars.githubusercontent.com/u/11016921?s=40&amp;v=4</avatar>
+          <name>Ruwetuin</name>
+          <url>https://github.com/Ruwetuin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1155017?s=40&amp;v=4</avatar>
-          <name>Cabro</name>
-          <url>https://github.com/Cabro</url>
+          <avatar>https://avatars.githubusercontent.com/u/25429094?s=40&amp;v=4</avatar>
+          <name>Damgam</name>
+          <url>https://github.com/Damgam</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/170130800?s=40&amp;v=4</avatar>
-          <name>coldpasta123</name>
-          <url>https://github.com/coldpasta123</url>
+          <avatar>https://avatars.githubusercontent.com/u/109391?s=40&amp;v=4</avatar>
+          <name>Beherith</name>
+          <url>https://github.com/Beherith</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67269448?s=40&amp;v=4</avatar>
-          <name>anon1231823</name>
-          <url>https://github.com/anon1231823</url>
+          <avatar>https://avatars.githubusercontent.com/u/26092061?s=40&amp;v=4</avatar>
+          <name>Fx-Doo</name>
+          <url>https://github.com/Fx-Doo</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8261057?s=40&amp;v=4</avatar>
-          <name>Logonz</name>
-          <url>https://github.com/Logonz</url>
+          <avatar>https://avatars.githubusercontent.com/u/23189106?s=40&amp;v=4</avatar>
+          <name>icexuick</name>
+          <url>https://github.com/icexuick</url>
         </contributor>
       </contributors>
     </item>
@@ -201,8 +239,8 @@
       <guid>https://github.com/amzxyz/rime-wanxiang</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>4,845</stars>
-      <forks>177</forks>
+      <stars>4,849</stars>
+      <forks>178</forks>
       <addStars>139</addStars>
       <contributors>
         <contributor>
@@ -224,120 +262,6 @@
           <avatar>https://avatars.githubusercontent.com/u/295119686?s=40&amp;v=4</avatar>
           <name>shoudaoshuangpin</name>
           <url>https://github.com/shoudaoshuangpin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>finlater/weread.koplugin</title>
-      <link>https://github.com/finlater/weread.koplugin</link>
-      <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。</description>
-      <guid>https://github.com/finlater/weread.koplugin</guid>
-      <language>Lua</language>
-      <languageColor>#000080</languageColor>
-      <stars>886</stars>
-      <forks>103</forks>
-      <addStars>32</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39994066?s=40&amp;v=4</avatar>
-          <name>finlater</name>
-          <url>https://github.com/finlater</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12208686?s=40&amp;v=4</avatar>
-          <name>jqs7</name>
-          <url>https://github.com/jqs7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6081467?s=40&amp;v=4</avatar>
-          <name>shichen35</name>
-          <url>https://github.com/shichen35</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30253930?s=40&amp;v=4</avatar>
-          <name>lostanother</name>
-          <url>https://github.com/lostanother</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/118539391?s=40&amp;v=4</avatar>
-          <name>MsReverie</name>
-          <url>https://github.com/MsReverie</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Kong/kong</title>
-      <link>https://github.com/Kong/kong</link>
-      <description>🦍 The API and AI Gateway</description>
-      <guid>https://github.com/Kong/kong</guid>
-      <language>Lua</language>
-      <languageColor>#000080</languageColor>
-      <stars>44,262</stars>
-      <forks>5,233</forks>
-      <addStars>36</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1125431?s=40&amp;v=4</avatar>
-          <name>thibaultcha</name>
-          <url>https://github.com/thibaultcha</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/983257?s=40&amp;v=4</avatar>
-          <name>bungle</name>
-          <url>https://github.com/bungle</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/964813?s=40&amp;v=4</avatar>
-          <name>subnetmarco</name>
-          <url>https://github.com/subnetmarco</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/245621?s=40&amp;v=4</avatar>
-          <name>hishamhm</name>
-          <url>https://github.com/hishamhm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3711407?s=40&amp;v=4</avatar>
-          <name>chronolaw</name>
-          <url>https://github.com/chronolaw</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Stephan-S/FS25_AutoDrive</title>
-      <link>https://github.com/Stephan-S/FS25_AutoDrive</link>
-      <description>FS25 version of the AutoDrive mod</description>
-      <guid>https://github.com/Stephan-S/FS25_AutoDrive</guid>
-      <language>Lua</language>
-      <languageColor>#000080</languageColor>
-      <stars>672</stars>
-      <forks>49</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52026009?s=40&amp;v=4</avatar>
-          <name>Axel32019</name>
-          <url>https://github.com/Axel32019</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8754844?s=40&amp;v=4</avatar>
-          <name>ThomasMatern</name>
-          <url>https://github.com/ThomasMatern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47528836?s=40&amp;v=4</avatar>
-          <name>Iwan1803</name>
-          <url>https://github.com/Iwan1803</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5493976?s=40&amp;v=4</avatar>
-          <name>Stephan-S</name>
-          <url>https://github.com/Stephan-S</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24955554?s=40&amp;v=4</avatar>
-          <name>Roby1164</name>
-          <url>https://github.com/Roby1164</url>
         </contributor>
       </contributors>
     </item>
@@ -371,6 +295,44 @@
           <avatar>https://avatars.githubusercontent.com/u/2467016?s=40&amp;v=4</avatar>
           <name>cbochs</name>
           <url>https://github.com/cbochs</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>finlater/weread.koplugin</title>
+      <link>https://github.com/finlater/weread.koplugin</link>
+      <description>微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。</description>
+      <guid>https://github.com/finlater/weread.koplugin</guid>
+      <language>Lua</language>
+      <languageColor>#000080</languageColor>
+      <stars>887</stars>
+      <forks>103</forks>
+      <addStars>32</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39994066?s=40&amp;v=4</avatar>
+          <name>finlater</name>
+          <url>https://github.com/finlater</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12208686?s=40&amp;v=4</avatar>
+          <name>jqs7</name>
+          <url>https://github.com/jqs7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6081467?s=40&amp;v=4</avatar>
+          <name>shichen35</name>
+          <url>https://github.com/shichen35</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30253930?s=40&amp;v=4</avatar>
+          <name>lostanother</name>
+          <url>https://github.com/lostanother</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/118539391?s=40&amp;v=4</avatar>
+          <name>MsReverie</name>
+          <url>https://github.com/MsReverie</url>
         </contributor>
       </contributors>
     </item>
@@ -413,40 +375,40 @@
       </contributors>
     </item>
     <item>
-      <title>beyond-all-reason/Beyond-All-Reason</title>
-      <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
-      <description>Main game repository for Beyond All Reason.</description>
-      <guid>https://github.com/beyond-all-reason/Beyond-All-Reason</guid>
+      <title>bryanthaboi/gen1recomp</title>
+      <link>https://github.com/bryanthaboi/gen1recomp</link>
+      <description>Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke</description>
+      <guid>https://github.com/bryanthaboi/gen1recomp</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>4,283</stars>
-      <forks>688</forks>
-      <addStars>23</addStars>
+      <stars>3,908</stars>
+      <forks>348</forks>
+      <addStars>84</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11016921?s=40&amp;v=4</avatar>
-          <name>Ruwetuin</name>
-          <url>https://github.com/Ruwetuin</url>
+          <avatar>https://avatars.githubusercontent.com/u/116906279?s=40&amp;v=4</avatar>
+          <name>bryanthaboi</name>
+          <url>https://github.com/bryanthaboi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25429094?s=40&amp;v=4</avatar>
-          <name>Damgam</name>
-          <url>https://github.com/Damgam</url>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/109391?s=40&amp;v=4</avatar>
-          <name>Beherith</name>
-          <url>https://github.com/Beherith</url>
+          <avatar>https://avatars.githubusercontent.com/u/56467992?s=40&amp;v=4</avatar>
+          <name>andrewqsantos</name>
+          <url>https://github.com/andrewqsantos</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26092061?s=40&amp;v=4</avatar>
-          <name>Fx-Doo</name>
-          <url>https://github.com/Fx-Doo</url>
+          <avatar>https://avatars.githubusercontent.com/u/45065431?s=40&amp;v=4</avatar>
+          <name>Nexhas28</name>
+          <url>https://github.com/Nexhas28</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/23189106?s=40&amp;v=4</avatar>
-          <name>icexuick</name>
-          <url>https://github.com/icexuick</url>
+          <avatar>https://avatars.githubusercontent.com/u/10935814?s=40&amp;v=4</avatar>
+          <name>1Jamie</name>
+          <url>https://github.com/1Jamie</url>
         </contributor>
       </contributors>
     </item>
@@ -457,7 +419,7 @@
       <guid>https://github.com/Steamodded/smods</guid>
       <language>Lua</language>
       <languageColor>#000080</languageColor>
-      <stars>985</stars>
+      <stars>987</stars>
       <forks>198</forks>
       <addStars>4</addStars>
       <contributors>

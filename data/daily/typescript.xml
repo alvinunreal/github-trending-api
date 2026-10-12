@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 12 Oct 2026 06:54:59 GMT</pubDate>
+    <pubDate>Mon, 12 Oct 2026 16:36:04 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>120,417</stars>
-      <forks>27,039</forks>
-      <addStars>25,599</addStars>
+      <stars>143,914</stars>
+      <forks>33,253</forks>
+      <addStars>45,495</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,734</stars>
-      <forks>1,918</forks>
-      <addStars>485</addStars>
+      <stars>27,028</stars>
+      <forks>1,935</forks>
+      <addStars>394</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
@@ -76,48 +76,15 @@
       </contributors>
     </item>
     <item>
-      <title>langgenius/dify</title>
-      <link>https://github.com/langgenius/dify</link>
-      <description>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</description>
-      <guid>https://github.com/langgenius/dify</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>158,204</stars>
-      <forks>25,007</forks>
-      <addStars>79</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92089059?s=40&amp;v=4</avatar>
-          <name>lyzno1</name>
-          <url>https://github.com/lyzno1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30024051?s=40&amp;v=4</avatar>
-          <name>asukaminato0721</name>
-          <url>https://github.com/asukaminato0721</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/100913391?s=40&amp;v=4</avatar>
-          <name>crazywoola</name>
-          <url>https://github.com/crazywoola</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16485841?s=40&amp;v=4</avatar>
-          <name>laipz8200</name>
-          <url>https://github.com/laipz8200</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>openclaw/openclaw</title>
       <link>https://github.com/openclaw/openclaw</link>
       <description>The AI that really does things. Any OS. Any Platform. The lobster way. 🦞</description>
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>391,726</stars>
-      <forks>82,370</forks>
-      <addStars>164</addStars>
+      <stars>391,774</stars>
+      <forks>82,373</forks>
+      <addStars>182</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58493?s=40&amp;v=4</avatar>
@@ -147,15 +114,119 @@
       </contributors>
     </item>
     <item>
+      <title>Crosstalk-Solutions/project-nomad</title>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <description>Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.</description>
+      <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>39,650</stars>
+      <forks>3,975</forks>
+      <addStars>168</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52841588?s=40&amp;v=4</avatar>
+          <name>jakeaturner</name>
+          <url>https://github.com/jakeaturner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49691103?s=40&amp;v=4</avatar>
+          <name>chriscrosstalk</name>
+          <url>https://github.com/chriscrosstalk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/175166532?s=40&amp;v=4</avatar>
+          <name>cosmistack-bot</name>
+          <url>https://github.com/cosmistack-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>breferrari/obsidian-mind</title>
+      <link>https://github.com/breferrari/obsidian-mind</link>
+      <description>A self-organizing Obsidian vault that gives AI coding agents persistent memory.</description>
+      <guid>https://github.com/breferrari/obsidian-mind</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>5,241</stars>
+      <forks>592</forks>
+      <addStars>82</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1744013?s=40&amp;v=4</avatar>
+          <name>breferrari</name>
+          <url>https://github.com/breferrari</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/96626001?s=40&amp;v=4</avatar>
+          <name>HoangThai18</name>
+          <url>https://github.com/HoangThai18</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8366665?s=40&amp;v=4</avatar>
+          <name>sedetweiler</name>
+          <url>https://github.com/sedetweiler</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>paperclipai/paperclip</title>
+      <link>https://github.com/paperclipai/paperclip</link>
+      <description>The open-source app everyone uses to manage agents at work</description>
+      <guid>https://github.com/paperclipai/paperclip</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>100,813</stars>
+      <forks>16,961</forks>
+      <addStars>652</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34892728?s=40&amp;v=4</avatar>
+          <name>cryppadotta</name>
+          <url>https://github.com/cryppadotta</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/271391591?s=40&amp;v=4</avatar>
+          <name>Paperclip-Paperclip</name>
+          <url>https://github.com/Paperclip-Paperclip</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/139239?s=40&amp;v=4</avatar>
+          <name>devinfoley</name>
+          <url>https://github.com/devinfoley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/331803?s=40&amp;v=4</avatar>
+          <name>nickyleach</name>
+          <url>https://github.com/nickyleach</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>CopilotKit/OpenIntelligentUI</title>
       <link>https://github.com/CopilotKit/OpenIntelligentUI</link>
       <description>Open-Source Generative UI Framework</description>
       <guid>https://github.com/CopilotKit/OpenIntelligentUI</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,754</stars>
-      <forks>312</forks>
-      <addStars>278</addStars>
+      <stars>2,837</stars>
+      <forks>324</forks>
+      <addStars>251</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/85066839?s=40&amp;v=4</avatar>
@@ -185,15 +256,81 @@
       </contributors>
     </item>
     <item>
+      <title>ranxianglei/billion-context</title>
+      <link>https://github.com/ranxianglei/billion-context</link>
+      <description>A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need</description>
+      <guid>https://github.com/ranxianglei/billion-context</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>1,079</stars>
+      <forks>90</forks>
+      <addStars>219</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
+          <name>ranxianglei</name>
+          <url>https://github.com/ranxianglei</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/187964595?s=40&amp;v=4</avatar>
+          <name>yingzhongshuoqi</name>
+          <url>https://github.com/yingzhongshuoqi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/299720939?s=40&amp;v=4</avatar>
+          <name>wangbl1010</name>
+          <url>https://github.com/wangbl1010</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tashfeenahmed/freellmapi</title>
+      <link>https://github.com/tashfeenahmed/freellmapi</link>
+      <description>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
+      <guid>https://github.com/tashfeenahmed/freellmapi</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>33,778</stars>
+      <forks>4,647</forks>
+      <addStars>473</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4</avatar>
+          <name>tashfeenahmed</name>
+          <url>https://github.com/tashfeenahmed</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/108558399?s=40&amp;v=4</avatar>
+          <name>suantea</name>
+          <url>https://github.com/suantea</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102485413?s=40&amp;v=4</avatar>
+          <name>OhOkThisIsFine</name>
+          <url>https://github.com/OhOkThisIsFine</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>chthollyphile/folia-major</title>
       <link>https://github.com/chthollyphile/folia-major</link>
       <description>专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器</description>
       <guid>https://github.com/chthollyphile/folia-major</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,178</stars>
-      <forks>450</forks>
-      <addStars>555</addStars>
+      <stars>5,465</stars>
+      <forks>490</forks>
+      <addStars>557</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/30263107?s=40&amp;v=4</avatar>
@@ -218,15 +355,48 @@
       </contributors>
     </item>
     <item>
+      <title>rmyndharis/OpenWA</title>
+      <link>https://github.com/rmyndharis/OpenWA</link>
+      <description>Free, Open Source, Self-Hosted WhatsApp API Gateway</description>
+      <guid>https://github.com/rmyndharis/OpenWA</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>15,366</stars>
+      <forks>3,596</forks>
+      <addStars>141</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2390382?s=40&amp;v=4</avatar>
+          <name>rmyndharis</name>
+          <url>https://github.com/rmyndharis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49219003?s=40&amp;v=4</avatar>
+          <name>gabrielmmoraes1999</name>
+          <url>https://github.com/gabrielmmoraes1999</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/75252008?s=40&amp;v=4</avatar>
+          <name>m7fz7</name>
+          <url>https://github.com/m7fz7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/224531240?s=40&amp;v=4</avatar>
+          <name>C24212</name>
+          <url>https://github.com/C24212</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>agalwood/Motrix</title>
       <link>https://github.com/agalwood/Motrix</link>
       <description>A full-featured download manager.</description>
       <guid>https://github.com/agalwood/Motrix</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>56,528</stars>
-      <forks>5,065</forks>
-      <addStars>158</addStars>
+      <stars>56,578</stars>
+      <forks>5,068</forks>
+      <addStars>114</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1032175?s=40&amp;v=4</avatar>
@@ -252,44 +422,6 @@
           <avatar>https://avatars.githubusercontent.com/u/2560402?s=40&amp;v=4</avatar>
           <name>Raistlin916</name>
           <url>https://github.com/Raistlin916</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>getnao/nao</title>
-      <link>https://github.com/getnao/nao</link>
-      <description>👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone</description>
-      <guid>https://github.com/getnao/nao</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>1,908</stars>
-      <forks>284</forks>
-      <addStars>20</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2658211?s=40&amp;v=4</avatar>
-          <name>Bl3f</name>
-          <url>https://github.com/Bl3f</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/135004599?s=40&amp;v=4</avatar>
-          <name>MatLBS</name>
-          <url>https://github.com/MatLBS</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/163013013?s=40&amp;v=4</avatar>
-          <name>socallmebertille</name>
-          <url>https://github.com/socallmebertille</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/202287117?s=40&amp;v=4</avatar>
-          <name>ad4mou</name>
-          <url>https://github.com/ad4mou</url>
         </contributor>
       </contributors>
     </item>

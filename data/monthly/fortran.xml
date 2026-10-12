@@ -3,7 +3,7 @@
     <title>GitHub Fortran Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Fortran Languages in GitHub</description>
-    <pubDate>Mon, 12 Oct 2026 06:54:59 GMT</pubDate>
+    <pubDate>Mon, 12 Oct 2026 16:36:04 GMT</pubDate>
     <item>
       <title>E3SM-Project/E3SM</title>
       <link>https://github.com/E3SM-Project/E3SM</link>
@@ -81,51 +81,13 @@
       </contributors>
     </item>
     <item>
-      <title>JuliaPackaging/Yggdrasil</title>
-      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
-      <description>Collection of builder repositories for BinaryBuilder.jl</description>
-      <guid>https://github.com/JuliaPackaging/Yggdrasil</guid>
-      <language>Fortran</language>
-      <languageColor>#4d41b1</languageColor>
-      <stars>406</stars>
-      <forks>773</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/765740?s=40&amp;v=4</avatar>
-          <name>giordano</name>
-          <url>https://github.com/giordano</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/213514?s=40&amp;v=4</avatar>
-          <name>eschnett</name>
-          <url>https://github.com/eschnett</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/130920?s=40&amp;v=4</avatar>
-          <name>staticfloat</name>
-          <url>https://github.com/staticfloat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/383068?s=40&amp;v=4</avatar>
-          <name>maleadt</name>
-          <url>https://github.com/maleadt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145258?s=40&amp;v=4</avatar>
-          <name>vchuravy</name>
-          <url>https://github.com/vchuravy</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>cp2k/cp2k</title>
       <link>https://github.com/cp2k/cp2k</link>
       <description>Quantum chemistry and solid state physics software package</description>
       <guid>https://github.com/cp2k/cp2k</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,217</stars>
+      <stars>1,218</stars>
       <forks>512</forks>
       <addStars>15</addStars>
       <contributors>
@@ -195,13 +157,51 @@
       </contributors>
     </item>
     <item>
+      <title>JuliaPackaging/Yggdrasil</title>
+      <link>https://github.com/JuliaPackaging/Yggdrasil</link>
+      <description>Collection of builder repositories for BinaryBuilder.jl</description>
+      <guid>https://github.com/JuliaPackaging/Yggdrasil</guid>
+      <language>Fortran</language>
+      <languageColor>#4d41b1</languageColor>
+      <stars>406</stars>
+      <forks>773</forks>
+      <addStars>2</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/765740?s=40&amp;v=4</avatar>
+          <name>giordano</name>
+          <url>https://github.com/giordano</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/213514?s=40&amp;v=4</avatar>
+          <name>eschnett</name>
+          <url>https://github.com/eschnett</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/130920?s=40&amp;v=4</avatar>
+          <name>staticfloat</name>
+          <url>https://github.com/staticfloat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/383068?s=40&amp;v=4</avatar>
+          <name>maleadt</name>
+          <url>https://github.com/maleadt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145258?s=40&amp;v=4</avatar>
+          <name>vchuravy</name>
+          <url>https://github.com/vchuravy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>ElmerCSC/elmerfem</title>
       <link>https://github.com/ElmerCSC/elmerfem</link>
       <description>Official git repository of Elmer FEM software</description>
       <guid>https://github.com/ElmerCSC/elmerfem</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>1,732</stars>
+      <stars>1,733</stars>
       <forks>403</forks>
       <addStars>36</addStars>
       <contributors>
@@ -239,7 +239,7 @@
       <guid>https://github.com/firemodels/fds</guid>
       <language>Fortran</language>
       <languageColor>#4d41b1</languageColor>
-      <stars>888</stars>
+      <stars>889</stars>
       <forks>695</forks>
       <addStars>17</addStars>
       <contributors>

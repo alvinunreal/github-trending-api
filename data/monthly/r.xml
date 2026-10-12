@@ -3,7 +3,7 @@
     <title>GitHub R Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of R Languages in GitHub</description>
-    <pubDate>Mon, 12 Oct 2026 06:54:59 GMT</pubDate>
+    <pubDate>Mon, 12 Oct 2026 16:36:04 GMT</pubDate>
     <item>
       <title>nflverse/nflverse-data</title>
       <link>https://github.com/nflverse/nflverse-data</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/nflverse/nflverse-data</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>424</stars>
+      <stars>425</stars>
       <forks>49</forks>
       <addStars>35</addStars>
       <contributors>
@@ -39,8 +39,8 @@
       <guid>https://github.com/tidyverse/ggplot2</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>7,007</stars>
-      <forks>2,125</forks>
+      <stars>7,006</stars>
+      <forks>2,126</forks>
       <addStars>21</addStars>
       <contributors>
         <contributor>
@@ -67,6 +67,44 @@
           <avatar>https://avatars.githubusercontent.com/u/227097?s=40&amp;v=4</avatar>
           <name>kohske</name>
           <url>https://github.com/kohske</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tidyverse/dplyr</title>
+      <link>https://github.com/tidyverse/dplyr</link>
+      <description>dplyr: A grammar of data manipulation</description>
+      <guid>https://github.com/tidyverse/dplyr</guid>
+      <language>R</language>
+      <languageColor>#198CE7</languageColor>
+      <stars>5,073</stars>
+      <forks>2,110</forks>
+      <addStars>11</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2625526?s=40&amp;v=4</avatar>
+          <name>romainfrancois</name>
+          <url>https://github.com/romainfrancois</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4196?s=40&amp;v=4</avatar>
+          <name>hadley</name>
+          <url>https://github.com/hadley</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1741643?s=40&amp;v=4</avatar>
+          <name>krlmlr</name>
+          <url>https://github.com/krlmlr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19150088?s=40&amp;v=4</avatar>
+          <name>DavisVaughan</name>
+          <url>https://github.com/DavisVaughan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4465050?s=40&amp;v=4</avatar>
+          <name>lionel-</name>
+          <url>https://github.com/lionel-</url>
         </contributor>
       </contributors>
     </item>
@@ -147,51 +185,13 @@
       </contributors>
     </item>
     <item>
-      <title>tidyverse/dplyr</title>
-      <link>https://github.com/tidyverse/dplyr</link>
-      <description>dplyr: A grammar of data manipulation</description>
-      <guid>https://github.com/tidyverse/dplyr</guid>
-      <language>R</language>
-      <languageColor>#198CE7</languageColor>
-      <stars>5,074</stars>
-      <forks>2,110</forks>
-      <addStars>11</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2625526?s=40&amp;v=4</avatar>
-          <name>romainfrancois</name>
-          <url>https://github.com/romainfrancois</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4196?s=40&amp;v=4</avatar>
-          <name>hadley</name>
-          <url>https://github.com/hadley</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1741643?s=40&amp;v=4</avatar>
-          <name>krlmlr</name>
-          <url>https://github.com/krlmlr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19150088?s=40&amp;v=4</avatar>
-          <name>DavisVaughan</name>
-          <url>https://github.com/DavisVaughan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4465050?s=40&amp;v=4</avatar>
-          <name>lionel-</name>
-          <url>https://github.com/lionel-</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>rstudio/rmarkdown</title>
       <link>https://github.com/rstudio/rmarkdown</link>
       <description>Dynamic Documents for R</description>
       <guid>https://github.com/rstudio/rmarkdown</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>3,065</stars>
+      <stars>3,064</stars>
       <forks>990</forks>
       <addStars>8</addStars>
       <contributors>
@@ -322,44 +322,6 @@
       </contributors>
     </item>
     <item>
-      <title>r-spatial/sf</title>
-      <link>https://github.com/r-spatial/sf</link>
-      <description>Simple Features for R</description>
-      <guid>https://github.com/r-spatial/sf</guid>
-      <language>R</language>
-      <languageColor>#198CE7</languageColor>
-      <stars>1,452</stars>
-      <forks>305</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/520851?s=40&amp;v=4</avatar>
-          <name>edzer</name>
-          <url>https://github.com/edzer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4</avatar>
-          <name>web-flow</name>
-          <url>https://github.com/web-flow</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10198404?s=40&amp;v=4</avatar>
-          <name>rsbivand</name>
-          <url>https://github.com/rsbivand</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393576?s=40&amp;v=4</avatar>
-          <name>etiennebr</name>
-          <url>https://github.com/etiennebr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1825120?s=40&amp;v=4</avatar>
-          <name>Robinlovelace</name>
-          <url>https://github.com/Robinlovelace</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>satijalab/seurat</title>
       <link>https://github.com/satijalab/seurat</link>
       <description>R toolkit for single cell genomics</description>
@@ -398,40 +360,40 @@
       </contributors>
     </item>
     <item>
-      <title>hadley/r4ds</title>
-      <link>https://github.com/hadley/r4ds</link>
-      <description>R for data science: a book</description>
-      <guid>https://github.com/hadley/r4ds</guid>
+      <title>r-spatial/sf</title>
+      <link>https://github.com/r-spatial/sf</link>
+      <description>Simple Features for R</description>
+      <guid>https://github.com/r-spatial/sf</guid>
       <language>R</language>
       <languageColor>#198CE7</languageColor>
-      <stars>5,179</stars>
-      <forks>4,443</forks>
-      <addStars>33</addStars>
+      <stars>1,452</stars>
+      <forks>305</forks>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4196?s=40&amp;v=4</avatar>
-          <name>hadley</name>
-          <url>https://github.com/hadley</url>
+          <avatar>https://avatars.githubusercontent.com/u/520851?s=40&amp;v=4</avatar>
+          <name>edzer</name>
+          <url>https://github.com/edzer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5965649?s=40&amp;v=4</avatar>
-          <name>mine-cetinkaya-rundel</name>
-          <url>https://github.com/mine-cetinkaya-rundel</url>
+          <avatar>https://avatars.githubusercontent.com/u/19864447?s=40&amp;v=4</avatar>
+          <name>web-flow</name>
+          <url>https://github.com/web-flow</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13338672?s=40&amp;v=4</avatar>
-          <name>sibusiso16</name>
-          <url>https://github.com/sibusiso16</url>
+          <avatar>https://avatars.githubusercontent.com/u/10198404?s=40&amp;v=4</avatar>
+          <name>rsbivand</name>
+          <url>https://github.com/rsbivand</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/85014?s=40&amp;v=4</avatar>
-          <name>garrettgman</name>
-          <url>https://github.com/garrettgman</url>
+          <avatar>https://avatars.githubusercontent.com/u/393576?s=40&amp;v=4</avatar>
+          <name>etiennebr</name>
+          <url>https://github.com/etiennebr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15931497?s=40&amp;v=4</avatar>
-          <name>behrman</name>
-          <url>https://github.com/behrman</url>
+          <avatar>https://avatars.githubusercontent.com/u/1825120?s=40&amp;v=4</avatar>
+          <name>Robinlovelace</name>
+          <url>https://github.com/Robinlovelace</url>
         </contributor>
       </contributors>
     </item>
