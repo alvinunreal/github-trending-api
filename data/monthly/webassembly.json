@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Monthly Trending",
   "description": "Monthly Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 19:45:35 GMT",
+  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
   "items": [
     {
       "title": "WebAssembly/binaryen",
@@ -10,7 +10,7 @@
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": "8,659",
+      "stars": "8,658",
       "forks": "895",
       "addStars": "39",
       "contributors": [
@@ -67,14 +67,14 @@
           "url": "https://github.com/sunfishcode"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/541880?s=40&v=4",
-          "name": "abrown",
-          "url": "https://github.com/abrown"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/12877905?s=40&v=4",
           "name": "rvolosatovs",
           "url": "https://github.com/rvolosatovs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/541880?s=40&v=4",
+          "name": "abrown",
+          "url": "https://github.com/abrown"
         }
       ]
     }

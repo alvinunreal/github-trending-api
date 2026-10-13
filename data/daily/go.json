@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 19:45:35 GMT",
+  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
   "items": [
     {
       "title": "Bennettxai/FounderOS",
@@ -10,7 +10,7 @@
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,113",
+      "stars": "1,121",
       "forks": "314",
       "addStars": "35",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,110",
-      "forks": "4,169",
+      "stars": "28,192",
+      "forks": "4,191",
       "addStars": "2,044",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,743",
+      "stars": "33,760",
       "forks": "4,490",
       "addStars": "261",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,692",
-      "forks": "6,871",
+      "stars": "52,697",
+      "forks": "6,873",
       "addStars": "107",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,940",
-      "forks": "538",
+      "stars": "2,941",
+      "forks": "540",
       "addStars": "74",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "An open, programmable decision layer for models and compute.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,136",
+      "stars": "6,140",
       "forks": "1,041",
       "addStars": "32",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "46,866",
+      "stars": "46,896",
       "forks": "3,403",
       "addStars": "364",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,694",
-      "forks": "474",
+      "stars": "8,697",
+      "forks": "476",
       "addStars": "31",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "Heterogeneous GPU Sharing on Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,745",
+      "stars": "4,744",
       "forks": "863",
       "addStars": "37",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,616",
+      "stars": "10,617",
       "forks": "1,546",
       "addStars": "17",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "242",
+      "stars": "244",
       "forks": "51",
       "addStars": "7",
       "contributors": [
@@ -382,8 +382,8 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,904",
-      "forks": "10,643",
+      "stars": "49,906",
+      "forks": "10,644",
       "addStars": "19",
       "contributors": [
         {
@@ -451,7 +451,7 @@
       "description": "End-to-end realtime stack for connecting humans and AI",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,416",
+      "stars": "21,420",
       "forks": "2,442",
       "addStars": "20",
       "contributors": [
@@ -520,8 +520,8 @@
       "description": "Redis Go client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "22,258",
-      "forks": "2,607",
+      "stars": "22,259",
+      "forks": "2,608",
       "addStars": "3",
       "contributors": [
         {
@@ -552,8 +552,8 @@
       "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,868",
-      "forks": "11,994",
+      "stars": "49,874",
+      "forks": "11,995",
       "addStars": "80",
       "contributors": [
         {
@@ -589,7 +589,7 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,916",
+      "stars": "12,917",
       "forks": "1,191",
       "addStars": "25",
       "contributors": [
