@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Monthly Trending",
   "description": "Monthly Trending of R Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:19:35 GMT",
+  "pubDate": "Tue, 13 Oct 2026 14:53:24 GMT",
   "items": [
     {
       "title": "nflverse/nflverse-data",
@@ -106,12 +106,49 @@
       ]
     },
     {
+      "title": "swirldev/swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": "4,620",
+      "forks": "7,192",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4229089?s=40&v=4",
+          "name": "ncarchedi",
+          "url": "https://github.com/ncarchedi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2634813?s=40&v=4",
+          "name": "WilCrofter",
+          "url": "https://github.com/WilCrofter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1819813?s=40&v=4",
+          "name": "seankross",
+          "url": "https://github.com/seankross"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4552851?s=40&v=4",
+          "name": "davidkane9",
+          "url": "https://github.com/davidkane9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5594956?s=40&v=4",
+          "name": "reginaastri",
+          "url": "https://github.com/reginaastri"
+        }
+      ]
+    },
+    {
       "title": "Rdatatable/data.table",
       "url": "https://github.com/Rdatatable/data.table",
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "3,926",
+      "stars": "3,927",
       "forks": "1,056",
       "addStars": "9",
       "contributors": [
@@ -139,43 +176,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/52290390?s=40&v=4",
           "name": "ben-schwen",
           "url": "https://github.com/ben-schwen"
-        }
-      ]
-    },
-    {
-      "title": "swirldev/swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": "4,620",
-      "forks": "7,193",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4229089?s=40&v=4",
-          "name": "ncarchedi",
-          "url": "https://github.com/ncarchedi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2634813?s=40&v=4",
-          "name": "WilCrofter",
-          "url": "https://github.com/WilCrofter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1819813?s=40&v=4",
-          "name": "seankross",
-          "url": "https://github.com/seankross"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4552851?s=40&v=4",
-          "name": "davidkane9",
-          "url": "https://github.com/davidkane9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5594956?s=40&v=4",
-          "name": "reginaastri",
-          "url": "https://github.com/reginaastri"
         }
       ]
     },
@@ -222,8 +222,8 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": "5,699",
-      "forks": "1,890",
+      "stars": "5,700",
+      "forks": "1,889",
       "addStars": "19",
       "contributors": [
         {
@@ -260,7 +260,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": "894",
-      "forks": "143,246",
+      "forks": "143,247",
       "addStars": "3",
       "contributors": [
         {

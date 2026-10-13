@@ -2,8 +2,109 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 07:19:35 GMT",
+  "pubDate": "Tue, 13 Oct 2026 14:53:24 GMT",
   "items": [
+    {
+      "title": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "description": "Your self-hosted, globally interconnected microblogging community",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "50,378",
+      "forks": "7,511",
+      "addStars": "50",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
+          "name": "Gargron",
+          "url": "https://github.com/Gargron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/384364?s=40&v=4",
+          "name": "ClearlyClaire",
+          "url": "https://github.com/ClearlyClaire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/225?s=40&v=4",
+          "name": "mjankowski",
+          "url": "https://github.com/mjankowski"
+        }
+      ]
+    },
+    {
+      "title": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "58,818",
+      "forks": "25,157",
+      "addStars": "36",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
+          "name": "rafaelfranca",
+          "url": "https://github.com/rafaelfranca"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&v=4",
+          "name": "kamipo",
+          "url": "https://github.com/kamipo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
+          "name": "jeremy",
+          "url": "https://github.com/jeremy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&v=4",
+          "name": "tenderlove",
+          "url": "https://github.com/tenderlove"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44640?s=40&v=4",
+          "name": "byroot",
+          "url": "https://github.com/byroot"
+        }
+      ]
+    },
+    {
+      "title": "github/explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "4,911",
+      "forks": "14,607",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4008677?s=40&v=4",
+          "name": "kenyonj",
+          "url": "https://github.com/kenyonj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56753?s=40&v=4",
+          "name": "ahpook",
+          "url": "https://github.com/ahpook"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
+          "name": "MikeMcQuaid",
+          "url": "https://github.com/MikeMcQuaid"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11225821?s=40&v=4",
+          "name": "shaedrich",
+          "url": "https://github.com/shaedrich"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17565?s=40&v=4",
+          "name": "smashwilson",
+          "url": "https://github.com/smashwilson"
+        }
+      ]
+    },
     {
       "title": "basecamp/once-campfire",
       "url": "https://github.com/basecamp/once-campfire",
@@ -42,103 +143,71 @@
       ]
     },
     {
-      "title": "mastodon/mastodon",
-      "url": "https://github.com/mastodon/mastodon",
-      "description": "Your self-hosted, globally interconnected microblogging community",
+      "title": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,378",
-      "forks": "7,511",
-      "addStars": "50",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
-          "name": "Gargron",
-          "url": "https://github.com/Gargron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/384364?s=40&v=4",
-          "name": "ClearlyClaire",
-          "url": "https://github.com/ClearlyClaire"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/225?s=40&v=4",
-          "name": "mjankowski",
-          "url": "https://github.com/mjankowski"
-        }
-      ]
-    },
-    {
-      "title": "rails/rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "58,819",
-      "forks": "25,099",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
-          "name": "rafaelfranca",
-          "url": "https://github.com/rafaelfranca"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12642?s=40&v=4",
-          "name": "kamipo",
-          "url": "https://github.com/kamipo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
-          "name": "jeremy",
-          "url": "https://github.com/jeremy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3124?s=40&v=4",
-          "name": "tenderlove",
-          "url": "https://github.com/tenderlove"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44640?s=40&v=4",
-          "name": "byroot",
-          "url": "https://github.com/byroot"
-        }
-      ]
-    },
-    {
-      "title": "github/explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "4,910",
-      "forks": "14,605",
+      "stars": "5,805",
+      "forks": "1,558",
       "addStars": "11",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4008677?s=40&v=4",
-          "name": "kenyonj",
-          "url": "https://github.com/kenyonj"
+          "avatar": "https://avatars.githubusercontent.com/u/1144873?s=40&v=4",
+          "name": "greysteil",
+          "url": "https://github.com/greysteil"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56753?s=40&v=4",
-          "name": "ahpook",
-          "url": "https://github.com/ahpook"
+          "avatar": "https://avatars.githubusercontent.com/u/20165?s=40&v=4",
+          "name": "feelepxyz",
+          "url": "https://github.com/feelepxyz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
-          "name": "MikeMcQuaid",
-          "url": "https://github.com/MikeMcQuaid"
+          "avatar": "https://avatars.githubusercontent.com/u/1358764?s=40&v=4",
+          "name": "JamieMagee",
+          "url": "https://github.com/JamieMagee"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/11225821?s=40&v=4",
-          "name": "shaedrich",
-          "url": "https://github.com/shaedrich"
+          "avatar": "https://avatars.githubusercontent.com/u/749864?s=40&v=4",
+          "name": "jurre",
+          "url": "https://github.com/jurre"
+        }
+      ]
+    },
+    {
+      "title": "fastlane/fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "42,243",
+      "forks": "6,040",
+      "addStars": "50",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
+          "name": "KrauseFx",
+          "url": "https://github.com/KrauseFx"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17565?s=40&v=4",
-          "name": "smashwilson",
-          "url": "https://github.com/smashwilson"
+          "avatar": "https://avatars.githubusercontent.com/u/343134?s=40&v=4",
+          "name": "mfurtak",
+          "url": "https://github.com/mfurtak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1848683?s=40&v=4",
+          "name": "asfalcone",
+          "url": "https://github.com/asfalcone"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24282?s=40&v=4",
+          "name": "lacostej",
+          "url": "https://github.com/lacostej"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2587018?s=40&v=4",
+          "name": "ohayon",
+          "url": "https://github.com/ohayon"
         }
       ]
     },
@@ -175,71 +244,71 @@
       ]
     },
     {
-      "title": "dependabot/dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "title": "Pedro-Revez-Silva/shelfarr",
+      "url": "https://github.com/Pedro-Revez-Silva/shelfarr",
+      "description": "Self hosted Ebook and Audiobook management system",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,805",
-      "forks": "1,557",
-      "addStars": "11",
+      "stars": "368",
+      "forks": "45",
+      "addStars": "7",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1144873?s=40&v=4",
-          "name": "greysteil",
-          "url": "https://github.com/greysteil"
+          "avatar": "https://avatars.githubusercontent.com/u/22797183?s=40&v=4",
+          "name": "Pedro-Revez-Silva",
+          "url": "https://github.com/Pedro-Revez-Silva"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20165?s=40&v=4",
-          "name": "feelepxyz",
-          "url": "https://github.com/feelepxyz"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1358764?s=40&v=4",
-          "name": "JamieMagee",
-          "url": "https://github.com/JamieMagee"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/749864?s=40&v=4",
-          "name": "jurre",
-          "url": "https://github.com/jurre"
+          "avatar": "https://avatars.githubusercontent.com/u/88447?s=40&v=4",
+          "name": "geoah",
+          "url": "https://github.com/geoah"
         }
       ]
     },
     {
-      "title": "fastlane/fastlane",
-      "url": "https://github.com/fastlane/fastlane",
-      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "title": "TheOdinProject/ruby-exercises",
+      "url": "https://github.com/TheOdinProject/ruby-exercises",
+      "description": "",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "42,239",
-      "forks": "6,041",
-      "addStars": "50",
+      "stars": "310",
+      "forks": "1,776",
+      "addStars": "0",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
-          "name": "KrauseFx",
-          "url": "https://github.com/KrauseFx"
+          "avatar": "https://avatars.githubusercontent.com/u/33227096?s=40&v=4",
+          "name": "rlmoser99",
+          "url": "https://github.com/rlmoser99"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/343134?s=40&v=4",
-          "name": "mfurtak",
-          "url": "https://github.com/mfurtak"
+          "avatar": "https://avatars.githubusercontent.com/u/7963776?s=40&v=4",
+          "name": "KevinMulhern",
+          "url": "https://github.com/KevinMulhern"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1848683?s=40&v=4",
-          "name": "asfalcone",
-          "url": "https://github.com/asfalcone"
+          "avatar": "https://avatars.githubusercontent.com/u/88392688?s=40&v=4",
+          "name": "JoshDevHub",
+          "url": "https://github.com/JoshDevHub"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24282?s=40&v=4",
-          "name": "lacostej",
-          "url": "https://github.com/lacostej"
+          "avatar": "https://avatars.githubusercontent.com/u/7115053?s=40&v=4",
+          "name": "wise-king-sullyman",
+          "url": "https://github.com/wise-king-sullyman"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2587018?s=40&v=4",
-          "name": "ohayon",
-          "url": "https://github.com/ohayon"
+          "avatar": "https://avatars.githubusercontent.com/u/59666883?s=40&v=4",
+          "name": "joaquinrponce",
+          "url": "https://github.com/joaquinrponce"
         }
       ]
     },
@@ -249,7 +318,7 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,403",
+      "stars": "16,405",
       "forks": "3,551",
       "addStars": "86",
       "contributors": [
@@ -281,66 +350,39 @@
       ]
     },
     {
-      "title": "Freika/dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "title": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,662",
-      "forks": "397",
-      "addStars": "65",
+      "stars": "23,773",
+      "forks": "5,656",
+      "addStars": "18",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
-          "name": "Freika",
-          "url": "https://github.com/Freika"
+          "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4",
+          "name": "nobu",
+          "url": "https://github.com/nobu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47579899?s=40&v=4",
-          "name": "rtuszik",
-          "url": "https://github.com/rtuszik"
+          "avatar": "https://avatars.githubusercontent.com/u/29403229?s=40&v=4",
+          "name": "matzbot",
+          "url": "https://github.com/matzbot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/73174517?s=40&v=4",
-          "name": "sunstep",
-          "url": "https://github.com/sunstep"
-        }
-      ]
-    },
-    {
-      "title": "TheOdinProject/ruby-exercises",
-      "url": "https://github.com/TheOdinProject/ruby-exercises",
-      "description": "",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "310",
-      "forks": "1,775",
-      "addStars": "0",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33227096?s=40&v=4",
-          "name": "rlmoser99",
-          "url": "https://github.com/rlmoser99"
+          "avatar": "https://avatars.githubusercontent.com/u/12301?s=40&v=4",
+          "name": "hsbt",
+          "url": "https://github.com/hsbt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7963776?s=40&v=4",
-          "name": "KevinMulhern",
-          "url": "https://github.com/KevinMulhern"
+          "avatar": "https://avatars.githubusercontent.com/u/10538?s=40&v=4",
+          "name": "akr",
+          "url": "https://github.com/akr"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/88392688?s=40&v=4",
-          "name": "JoshDevHub",
-          "url": "https://github.com/JoshDevHub"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7115053?s=40&v=4",
-          "name": "wise-king-sullyman",
-          "url": "https://github.com/wise-king-sullyman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59666883?s=40&v=4",
-          "name": "joaquinrponce",
-          "url": "https://github.com/joaquinrponce"
+          "avatar": "https://avatars.githubusercontent.com/u/3138447?s=40&v=4",
+          "name": "k0kubun",
+          "url": "https://github.com/k0kubun"
         }
       ]
     },
@@ -382,113 +424,39 @@
       ]
     },
     {
-      "title": "theforeman/foreman",
-      "url": "https://github.com/theforeman/foreman",
-      "description": "an application that automates the lifecycle of servers",
+      "title": "github/scientist",
+      "url": "https://github.com/github/scientist",
+      "description": "🔬 A Ruby library for carefully refactoring critical paths.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,980",
-      "forks": "1,053",
-      "addStars": "17",
+      "stars": "7,766",
+      "forks": "506",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20167?s=40&v=4",
-          "name": "ohadlevy",
-          "url": "https://github.com/ohadlevy"
+          "avatar": "https://avatars.githubusercontent.com/u/3999?s=40&v=4",
+          "name": "zerowidth",
+          "url": "https://github.com/zerowidth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1540531?s=40&v=4",
-          "name": "tbrisker",
-          "url": "https://github.com/tbrisker"
+          "avatar": "https://avatars.githubusercontent.com/u/3117?s=40&v=4",
+          "name": "jbarnette",
+          "url": "https://github.com/jbarnette"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/109773?s=40&v=4",
-          "name": "ares",
-          "url": "https://github.com/ares"
+          "avatar": "https://avatars.githubusercontent.com/u/82984396?s=40&v=4",
+          "name": "agentdon",
+          "url": "https://github.com/agentdon"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/49752?s=40&v=4",
-          "name": "lzap",
-          "url": "https://github.com/lzap"
+          "avatar": "https://avatars.githubusercontent.com/u/6462?s=40&v=4",
+          "name": "geeksam",
+          "url": "https://github.com/geeksam"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2884324?s=40&v=4",
-          "name": "ezr-ondrej",
-          "url": "https://github.com/ezr-ondrej"
-        }
-      ]
-    },
-    {
-      "title": "rapid7/metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "39,136",
-      "forks": "14,995",
-      "addStars": "52",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1170914?s=40&v=4",
-          "name": "wchen-r7",
-          "url": "https://github.com/wchen-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4551878?s=40&v=4",
-          "name": "wvu",
-          "url": "https://github.com/wvu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5332090?s=40&v=4",
-          "name": "msjenkins-r7",
-          "url": "https://github.com/msjenkins-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1742838?s=40&v=4",
-          "name": "jvazquez-r7",
-          "url": "https://github.com/jvazquez-r7"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2058303?s=40&v=4",
-          "name": "zeroSteiner",
-          "url": "https://github.com/zeroSteiner"
-        }
-      ]
-    },
-    {
-      "title": "jekyll/jekyll",
-      "url": "https://github.com/jekyll/jekyll",
-      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "51,706",
-      "forks": "10,304",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
-          "name": "parkr",
-          "url": "https://github.com/parkr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6166343?s=40&v=4",
-          "name": "jekyllbot",
-          "url": "https://github.com/jekyllbot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12479464?s=40&v=4",
-          "name": "ashmaroli",
-          "url": "https://github.com/ashmaroli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77174?s=40&v=4",
-          "name": "mattr-",
-          "url": "https://github.com/mattr-"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1?s=40&v=4",
-          "name": "mojombo",
-          "url": "https://github.com/mojombo"
+          "avatar": "https://avatars.githubusercontent.com/u/1873250?s=40&v=4",
+          "name": "tyamagu2",
+          "url": "https://github.com/tyamagu2"
         }
       ]
     }
