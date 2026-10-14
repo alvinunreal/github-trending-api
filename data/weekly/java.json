@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Weekly Trending",
   "description": "Weekly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
+  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
   "items": [
     {
       "title": "bethington/ghidra-mcp",
@@ -10,9 +10,9 @@
       "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,577",
-      "forks": "313",
-      "addStars": "1,265",
+      "stars": "5,589",
+      "forks": "317",
+      "addStars": "1,070",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5455441?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "86,288",
-      "forks": "9,605",
-      "addStars": "3,911",
+      "stars": "86,545",
+      "forks": "9,656",
+      "addStars": "4,986",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,249",
+      "stars": "3,250",
       "forks": "710",
       "addStars": "51",
       "contributors": [
@@ -106,9 +106,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "40,115",
-      "forks": "3,870",
-      "addStars": "209",
+      "stars": "40,121",
+      "forks": "3,872",
+      "addStars": "221",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17365767?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "11,204",
-      "forks": "1,166",
-      "addStars": "839",
+      "stars": "11,214",
+      "forks": "1,170",
+      "addStars": "673",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/123765654?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "217",
+      "stars": "218",
       "forks": "56",
-      "addStars": "53",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5986?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,107",
+      "stars": "3,108",
       "forks": "344",
-      "addStars": "53",
+      "addStars": "55",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9965637?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "130,655",
-      "forks": "15,503",
-      "addStars": "250",
+      "stars": "130,676",
+      "forks": "15,505",
+      "addStars": "292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26993056?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "4,927",
-      "forks": "334",
-      "addStars": "69",
+      "stars": "4,928",
+      "forks": "333",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19233890?s=40&v=4",
@@ -323,7 +323,7 @@
       "description": "Advanced Sentry Mode for BYD Vehicles",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "352",
+      "stars": "353",
       "forks": "98",
       "addStars": "23",
       "contributors": [
@@ -361,8 +361,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "8,684",
-      "forks": "4,677",
-      "addStars": "7",
+      "forks": "4,678",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/575353?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,072",
-      "forks": "10,239",
-      "addStars": "68",
+      "stars": "30,074",
+      "forks": "10,242",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4",
@@ -420,6 +420,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/3435533?s=40&v=4",
           "name": "jsonchi",
           "url": "https://github.com/jsonchi"
+        }
+      ]
+    },
+    {
+      "title": "Lucas0623z/NoteLite",
+      "url": "https://github.com/Lucas0623z/NoteLite",
+      "description": "Open-source OMR and guided music practice: turn sheet music PDFs/images into MusicXML/MIDI, refine scores, and practice with MIDI or microphone feedback.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "1,020",
+      "forks": "160",
+      "addStars": "91",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/200937735?s=40&v=4",
+          "name": "Lucas0623z",
+          "url": "https://github.com/Lucas0623z"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/267193182?s=40&v=4",
+          "name": "codex",
+          "url": "https://github.com/codex"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265938723?s=40&v=4",
+          "name": "saikamz1224-prog",
+          "url": "https://github.com/saikamz1224-prog"
         }
       ]
     }

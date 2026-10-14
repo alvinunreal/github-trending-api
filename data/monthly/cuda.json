@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
+  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,957",
-      "forks": "1,406",
-      "addStars": "1,154",
+      "stars": "8,960",
+      "forks": "1,408",
+      "addStars": "1,164",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,610",
-      "forks": "1,578",
-      "addStars": "223",
+      "stars": "6,613",
+      "forks": "1,582",
+      "addStars": "227",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,966",
+      "stars": "3,967",
       "forks": "528",
-      "addStars": "254",
+      "addStars": "253",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#3A4E3A",
       "stars": "10,276",
       "forks": "1,471",
-      "addStars": "153",
+      "addStars": "159",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -197,7 +197,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,247",
       "forks": "368",
-      "addStars": "16",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34135411?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,060",
       "forks": "242",
-      "addStars": "26",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,673",
+      "stars": "1,674",
       "forks": "411",
-      "addStars": "21",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
@@ -307,7 +307,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "17,573",
-      "forks": "2,066",
+      "forks": "2,065",
       "addStars": "38",
       "contributors": [
         {
@@ -343,9 +343,9 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "868",
-      "forks": "241",
-      "addStars": "19",
+      "stars": "869",
+      "forks": "242",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
+  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
   "items": [
     {
       "title": "storytold/artcraft",
@@ -10,9 +10,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,554",
-      "forks": "4,018",
-      "addStars": "4,078",
+      "stars": "26,327",
+      "forks": "4,119",
+      "addStars": "4,081",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "97,814",
-      "forks": "12,817",
-      "addStars": "263",
+      "stars": "97,862",
+      "forks": "12,827",
+      "addStars": "261",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "83,227",
-      "forks": "5,286",
-      "addStars": "131",
+      "stars": "83,257",
+      "forks": "5,287",
+      "addStars": "124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&v=4",
@@ -116,7 +116,7 @@
       "description": "High performance coding agent harness written in rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,683",
+      "stars": "20,693",
       "forks": "2,405",
       "addStars": "102",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents into intelligent knowledge graphs for superior retrieval and generation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,239",
+      "stars": "2,247",
       "forks": "267",
       "addStars": "28",
       "contributors": [
@@ -180,9 +180,9 @@
       "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,465",
-      "forks": "1,888",
-      "addStars": "50",
+      "stars": "31,477",
+      "forks": "1,890",
+      "addStars": "48",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109114539?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,968",
-      "forks": "325",
-      "addStars": "83",
+      "stars": "2,992",
+      "forks": "330",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",

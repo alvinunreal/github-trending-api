@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
+  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
   "items": [
     {
       "title": "lightpanda-io/browser",
@@ -10,8 +10,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "36,425",
-      "forks": "1,741",
+      "stars": "36,450",
+      "forks": "1,742",
       "addStars": "80",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,177",
+      "stars": "4,176",
       "forks": "196",
-      "addStars": "8",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
@@ -85,7 +85,7 @@
       "language": "Zig",
       "languageColor": "#ec915c",
       "stars": "5,234",
-      "forks": "457",
+      "forks": "458",
       "addStars": "7",
       "contributors": [
         {
@@ -121,7 +121,7 @@
       "description": "a dynamic language for the joy of programming",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "531",
+      "stars": "533",
       "forks": "19",
       "addStars": "26",
       "contributors": [
@@ -158,9 +158,9 @@
       "description": "Async I/O framework for Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "656",
+      "stars": "657",
       "forks": "44",
-      "addStars": "7",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/220839?s=40&v=4",
@@ -190,8 +190,8 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,897",
-      "forks": "191",
+      "stars": "1,906",
+      "forks": "193",
       "addStars": "41",
       "contributors": [
         {
@@ -200,14 +200,14 @@
           "url": "https://github.com/ddalcu"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1197375?s=40&v=4",
-          "name": "STRML",
-          "url": "https://github.com/STRML"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/197176783?s=40&v=4",
           "name": "beamivalice",
           "url": "https://github.com/beamivalice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1197375?s=40&v=4",
+          "name": "STRML",
+          "url": "https://github.com/STRML"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/19929447?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Unix like coding agent",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,429",
-      "forks": "379",
-      "addStars": "49",
+      "stars": "3,434",
+      "forks": "380",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/221089582?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,193",
+      "stars": "17,194",
       "forks": "922",
-      "addStars": "8",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -370,7 +370,7 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,475",
+      "stars": "2,476",
       "forks": "124",
       "addStars": "3",
       "contributors": [
@@ -481,8 +481,8 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,805",
-      "forks": "162",
+      "stars": "2,807",
+      "forks": "163",
       "addStars": "3",
       "contributors": [
         {
@@ -513,7 +513,7 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,311",
+      "stars": "1,314",
       "forks": "237",
       "addStars": "27",
       "contributors": [

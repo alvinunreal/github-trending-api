@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 13 Oct 2026 23:13:27 GMT",
+  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
   "items": [
     {
       "title": "flashinfer-ai/flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,610",
-      "forks": "1,578",
-      "addStars": "15",
+      "stars": "6,613",
+      "forks": "1,582",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#3A4E3A",
       "stars": "10,276",
       "forks": "1,471",
-      "addStars": "11",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,673",
+      "stars": "1,674",
       "forks": "411",
       "addStars": "2",
       "contributors": [
@@ -121,9 +121,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,147",
-      "forks": "3,775",
-      "addStars": "6",
+      "stars": "31,149",
+      "forks": "3,773",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "868",
-      "forks": "241",
+      "stars": "869",
+      "forks": "242",
       "addStars": "1",
       "contributors": [
         {
@@ -197,7 +197,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,060",
       "forks": "242",
-      "addStars": "0",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,551",
       "forks": "263",
-      "addStars": "2",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
@@ -269,7 +269,7 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,966",
+      "stars": "3,967",
       "forks": "528",
       "addStars": "0",
       "contributors": [
@@ -307,7 +307,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "17,573",
-      "forks": "2,066",
+      "forks": "2,065",
       "addStars": "2",
       "contributors": [
         {
