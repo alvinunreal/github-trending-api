@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Monthly Trending",
   "description": "Monthly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 17:47:36 GMT",
+  "pubDate": "Wed, 14 Oct 2026 22:08:22 GMT",
   "items": [
     {
       "title": "ddalcu/mlx-serve",
@@ -10,7 +10,7 @@
       "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,919",
+      "stars": "1,921",
       "forks": "196",
       "addStars": "661",
       "contributors": [
@@ -42,7 +42,7 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,237",
+      "stars": "5,238",
       "forks": "458",
       "addStars": "125",
       "contributors": [
@@ -79,7 +79,7 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,204",
+      "stars": "62,209",
       "forks": "3,648",
       "addStars": "1,269",
       "contributors": [
@@ -106,7 +106,7 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,198",
+      "stars": "17,200",
       "forks": "922",
       "addStars": "197",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,178",
+      "stars": "4,179",
       "forks": "196",
       "addStars": "152",
       "contributors": [
@@ -254,7 +254,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,288",
+      "stars": "43,286",
       "forks": "3,184",
       "addStars": "92",
       "contributors": [
@@ -392,7 +392,7 @@
       "description": "a dynamic language for the joy of programming",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "535",
+      "stars": "537",
       "forks": "19",
       "addStars": "113",
       "contributors": [
@@ -429,7 +429,7 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,000",
+      "stars": "1,001",
       "forks": "79",
       "addStars": "57",
       "contributors": [
@@ -466,7 +466,7 @@
       "description": "[mirror] A non-monolithic Wayland compositor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,319",
+      "stars": "4,320",
       "forks": "170",
       "addStars": "51",
       "contributors": [
@@ -503,7 +503,7 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,777",
+      "stars": "7,779",
       "forks": "325",
       "addStars": "138",
       "contributors": [
@@ -540,7 +540,7 @@
       "description": "A very fast SIMD-first image comparison library (with nodejs API)",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,250",
+      "stars": "3,251",
       "forks": "119",
       "addStars": "55",
       "contributors": [
