@@ -3,7 +3,7 @@
     <title>GitHub Systemverilog Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Systemverilog Languages in GitHub</description>
-    <pubDate>Wed, 14 Oct 2026 05:45:40 GMT</pubDate>
+    <pubDate>Wed, 14 Oct 2026 12:44:32 GMT</pubDate>
     <item>
       <title>chipsalliance/caliptra-rtl</title>
       <link>https://github.com/chipsalliance/caliptra-rtl</link>
@@ -50,7 +50,7 @@
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
       <stars>2,106</stars>
-      <forks>818</forks>
+      <forks>819</forks>
       <addStars>26</addStars>
       <contributors>
         <contributor>
@@ -81,51 +81,13 @@
       </contributors>
     </item>
     <item>
-      <title>lowRISC/opentitan</title>
-      <link>https://github.com/lowRISC/opentitan</link>
-      <description>OpenTitan: Open source silicon root of trust</description>
-      <guid>https://github.com/lowRISC/opentitan</guid>
-      <language>SystemVerilog</language>
-      <languageColor>#DAE1C2</languageColor>
-      <stars>3,698</stars>
-      <forks>1,139</forks>
-      <addStars>18</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104845?s=40&amp;v=4</avatar>
-          <name>rswarbrick</name>
-          <url>https://github.com/rswarbrick</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41358501?s=40&amp;v=4</avatar>
-          <name>msfschaffner</name>
-          <url>https://github.com/msfschaffner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11466553?s=40&amp;v=4</avatar>
-          <name>cindychip</name>
-          <url>https://github.com/cindychip</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5633066?s=40&amp;v=4</avatar>
-          <name>timothytrippel</name>
-          <url>https://github.com/timothytrippel</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20307557?s=40&amp;v=4</avatar>
-          <name>vogelpi</name>
-          <url>https://github.com/vogelpi</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>verilator/verilator</title>
       <link>https://github.com/verilator/verilator</link>
       <description>Verilator open-source SystemVerilog simulator and lint system</description>
       <guid>https://github.com/verilator/verilator</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>4,012</stars>
+      <stars>4,014</stars>
       <forks>938</forks>
       <addStars>26</addStars>
       <contributors>
@@ -163,8 +125,8 @@
       <guid>https://github.com/adam-maj/tiny-gpu</guid>
       <language>SystemVerilog</language>
       <languageColor>#DAE1C2</languageColor>
-      <stars>13,091</stars>
-      <forks>1,258</forks>
+      <stars>13,092</stars>
+      <forks>1,259</forks>
       <addStars>44</addStars>
       <contributors>
         <contributor>

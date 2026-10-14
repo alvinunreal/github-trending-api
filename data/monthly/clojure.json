@@ -2,7 +2,7 @@
   "title": "GitHub Clojure Languages Monthly Trending",
   "description": "Monthly Trending of Clojure Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
+  "pubDate": "Wed, 14 Oct 2026 12:44:32 GMT",
   "items": [
     {
       "title": "logseq/logseq",
@@ -10,7 +10,7 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "45,225",
+      "stars": "45,228",
       "forks": "2,833",
       "addStars": "462",
       "contributors": [
@@ -42,50 +42,13 @@
       ]
     },
     {
-      "title": "metabase/metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": "49,650",
-      "forks": "6,899",
-      "addStars": "475",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1455846?s=40&v=4",
-          "name": "camsaul",
-          "url": "https://github.com/camsaul"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18193?s=40&v=4",
-          "name": "tlrobinson",
-          "url": "https://github.com/tlrobinson"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1987787?s=40&v=4",
-          "name": "agilliland",
-          "url": "https://github.com/agilliland"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31325167?s=40&v=4",
-          "name": "nemanjaglumac",
-          "url": "https://github.com/nemanjaglumac"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8542534?s=40&v=4",
-          "name": "ranquild",
-          "url": "https://github.com/ranquild"
-        }
-      ]
-    },
-    {
       "title": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "61,029",
-      "forks": "4,217",
+      "stars": "61,038",
+      "forks": "4,219",
       "addStars": "1,205",
       "contributors": [
         {
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/48989967?s=40&v=4",
           "name": "EvaMarco",
           "url": "https://github.com/EvaMarco"
+        }
+      ]
+    },
+    {
+      "title": "metabase/metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "49,660",
+      "forks": "6,900",
+      "addStars": "475",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1455846?s=40&v=4",
+          "name": "camsaul",
+          "url": "https://github.com/camsaul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18193?s=40&v=4",
+          "name": "tlrobinson",
+          "url": "https://github.com/tlrobinson"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1987787?s=40&v=4",
+          "name": "agilliland",
+          "url": "https://github.com/agilliland"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31325167?s=40&v=4",
+          "name": "nemanjaglumac",
+          "url": "https://github.com/nemanjaglumac"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8542534?s=40&v=4",
+          "name": "ranquild",
+          "url": "https://github.com/ranquild"
         }
       ]
     },
@@ -180,7 +180,7 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": "82,097",
+      "stars": "82,096",
       "forks": "3,190",
       "addStars": "182",
       "contributors": [
@@ -282,6 +282,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/584378?s=40&v=4",
           "name": "pengx17",
           "url": "https://github.com/pengx17"
+        }
+      ]
+    },
+    {
+      "title": "replikativ/datahike",
+      "url": "https://github.com/replikativ/datahike",
+      "description": "Versioned, fast, distributed Datalog engine for everyone.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": "1,879",
+      "forks": "117",
+      "addStars": "5",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2056178?s=40&v=4",
+          "name": "kordano",
+          "url": "https://github.com/kordano"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2884416?s=40&v=4",
+          "name": "whilo",
+          "url": "https://github.com/whilo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/285292?s=40&v=4",
+          "name": "tonsky",
+          "url": "https://github.com/tonsky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11461?s=40&v=4",
+          "name": "grischoun",
+          "url": "https://github.com/grischoun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52293389?s=40&v=4",
+          "name": "jsmassa",
+          "url": "https://github.com/jsmassa"
         }
       ]
     }

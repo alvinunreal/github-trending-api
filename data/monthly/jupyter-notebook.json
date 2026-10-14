@@ -2,35 +2,8 @@
   "title": "GitHub Jupyter-notebook Languages Monthly Trending",
   "description": "Monthly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 05:45:40 GMT",
+  "pubDate": "Wed, 14 Oct 2026 12:44:32 GMT",
   "items": [
-    {
-      "title": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "6,006",
-      "forks": "1,084",
-      "addStars": "1,820",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14979358?s=40&v=4",
-          "name": "arpanetus",
-          "url": "https://github.com/arpanetus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24421551?s=40&v=4",
-          "name": "higgsfield",
-          "url": "https://github.com/higgsfield"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3302371?s=40&v=4",
-          "name": "zxcjhg",
-          "url": "https://github.com/zxcjhg"
-        }
-      ]
-    },
     {
       "title": "microsoft/Data-Science-For-Beginners",
       "url": "https://github.com/microsoft/Data-Science-For-Beginners",
@@ -64,12 +37,108 @@
       ]
     },
     {
+      "title": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "38,319",
+      "forks": "6,309",
+      "addStars": "860",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4",
+          "name": "patchy631",
+          "url": "https://github.com/patchy631"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&v=4",
+          "name": "sitammeur",
+          "url": "https://github.com/sitammeur"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&v=4",
+          "name": "ChawlaAvi",
+          "url": "https://github.com/ChawlaAvi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&v=4",
+          "name": "nikhil-1e9",
+          "url": "https://github.com/nikhil-1e9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&v=4",
+          "name": "namanvirk18",
+          "url": "https://github.com/namanvirk18"
+        }
+      ]
+    },
+    {
+      "title": "hugo2046/QuantsPlaybook",
+      "url": "https://github.com/hugo2046/QuantsPlaybook",
+      "description": "量化研究-券商金工研报复现",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "6,558",
+      "forks": "1,507",
+      "addStars": "469",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15089267?s=40&v=4",
+          "name": "hugo2046",
+          "url": "https://github.com/hugo2046"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "description": "One has no future if one couldn't teach themself.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "17,721",
+      "forks": "17,750",
+      "addStars": "936",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
+          "name": "xiaolai",
+          "url": "https://github.com/xiaolai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45680845?s=40&v=4",
+          "name": "wpeiran",
+          "url": "https://github.com/wpeiran"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/23193127?s=40&v=4",
+          "name": "towerzju",
+          "url": "https://github.com/towerzju"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12432409?s=40&v=4",
+          "name": "HarryYC",
+          "url": "https://github.com/HarryYC"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16041286?s=40&v=4",
+          "name": "ljqbpm",
+          "url": "https://github.com/ljqbpm"
+        }
+      ]
+    },
+    {
       "title": "DataTalksClub/machine-learning-zoomcamp",
       "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
       "description": "Learn ML engineering for free in 4 months! Register here 👇🏼",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,743",
+      "stars": "14,747",
       "forks": "3,282",
       "addStars": "474",
       "contributors": [
@@ -101,98 +170,29 @@
       ]
     },
     {
-      "title": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "title": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "38,311",
-      "forks": "6,308",
-      "addStars": "860",
+      "stars": "6,007",
+      "forks": "1,087",
+      "addStars": "1,820",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4",
-          "name": "patchy631",
-          "url": "https://github.com/patchy631"
+          "avatar": "https://avatars.githubusercontent.com/u/14979358?s=40&v=4",
+          "name": "arpanetus",
+          "url": "https://github.com/arpanetus"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&v=4",
-          "name": "sitammeur",
-          "url": "https://github.com/sitammeur"
+          "avatar": "https://avatars.githubusercontent.com/u/24421551?s=40&v=4",
+          "name": "higgsfield",
+          "url": "https://github.com/higgsfield"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36801774?s=40&v=4",
-          "name": "ChawlaAvi",
-          "url": "https://github.com/ChawlaAvi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84204563?s=40&v=4",
-          "name": "nikhil-1e9",
-          "url": "https://github.com/nikhil-1e9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109527422?s=40&v=4",
-          "name": "namanvirk18",
-          "url": "https://github.com/namanvirk18"
-        }
-      ]
-    },
-    {
-      "title": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "description": "One has no future if one couldn't teach themself.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "17,717",
-      "forks": "17,753",
-      "addStars": "936",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
-          "name": "xiaolai",
-          "url": "https://github.com/xiaolai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45680845?s=40&v=4",
-          "name": "wpeiran",
-          "url": "https://github.com/wpeiran"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23193127?s=40&v=4",
-          "name": "towerzju",
-          "url": "https://github.com/towerzju"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12432409?s=40&v=4",
-          "name": "HarryYC",
-          "url": "https://github.com/HarryYC"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16041286?s=40&v=4",
-          "name": "ljqbpm",
-          "url": "https://github.com/ljqbpm"
-        }
-      ]
-    },
-    {
-      "title": "hugo2046/QuantsPlaybook",
-      "url": "https://github.com/hugo2046/QuantsPlaybook",
-      "description": "量化研究-券商金工研报复现",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "6,550",
-      "forks": "1,507",
-      "addStars": "469",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15089267?s=40&v=4",
-          "name": "hugo2046",
-          "url": "https://github.com/hugo2046"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/3302371?s=40&v=4",
+          "name": "zxcjhg",
+          "url": "https://github.com/zxcjhg"
         }
       ]
     },
@@ -202,7 +202,7 @@
       "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "11,566",
+      "stars": "11,571",
       "forks": "803",
       "addStars": "663",
       "contributors": [
@@ -239,7 +239,7 @@
       "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,023",
+      "stars": "25,024",
       "forks": "15,703",
       "addStars": "145",
       "contributors": [
@@ -276,7 +276,7 @@
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "91,463",
+      "stars": "91,468",
       "forks": "22,616",
       "addStars": "1,190",
       "contributors": [
@@ -303,13 +303,50 @@
       ]
     },
     {
+      "title": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "21,697",
+      "forks": "2,877",
+      "addStars": "284",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28316913?s=40&v=4",
+          "name": "NirDiamant",
+          "url": "https://github.com/NirDiamant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63067900?s=40&v=4",
+          "name": "FareedKhan-dev",
+          "url": "https://github.com/FareedKhan-dev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59469935?s=40&v=4",
+          "name": "NitishGourishetty",
+          "url": "https://github.com/NitishGourishetty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28788271?s=40&v=4",
+          "name": "ranshn",
+          "url": "https://github.com/ranshn"
+        }
+      ]
+    },
+    {
       "title": "AI4Finance-Foundation/FinRL",
       "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "description": "FinRL®: Financial Reinforcement Learning. 🔥",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "16,638",
-      "forks": "3,544",
+      "stars": "16,640",
+      "forks": "3,543",
       "addStars": "396",
       "contributors": [
         {
@@ -340,82 +377,13 @@
       ]
     },
     {
-      "title": "facebookresearch/sam2",
-      "url": "https://github.com/facebookresearch/sam2",
-      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "20,001",
-      "forks": "2,571",
-      "addStars": "169",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6997335?s=40&v=4",
-          "name": "ronghanghu",
-          "url": "https://github.com/ronghanghu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48327001?s=40&v=4",
-          "name": "NielsRogge",
-          "url": "https://github.com/NielsRogge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8292193?s=40&v=4",
-          "name": "haithamkhedr",
-          "url": "https://github.com/haithamkhedr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25299377?s=40&v=4",
-          "name": "arun477",
-          "url": "https://github.com/arun477"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135471798?s=40&v=4",
-          "name": "CharlesCNorton",
-          "url": "https://github.com/CharlesCNorton"
-        }
-      ]
-    },
-    {
-      "title": "google-gemma/cookbook",
-      "url": "https://github.com/google-gemma/cookbook",
-      "description": "A collection of guides and examples for the Gemma open models from Google.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "4,082",
-      "forks": "670",
-      "addStars": "105",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19182598?s=40&v=4",
-          "name": "bebechien",
-          "url": "https://github.com/bebechien"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5577741?s=40&v=4",
-          "name": "windmaple",
-          "url": "https://github.com/windmaple"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42828719?s=40&v=4",
-          "name": "kinarr",
-          "url": "https://github.com/kinarr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/103279526?s=40&v=4",
-          "name": "sitammeur",
-          "url": "https://github.com/sitammeur"
-        }
-      ]
-    },
-    {
       "title": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "77,103",
-      "forks": "25,334",
+      "stars": "77,128",
+      "forks": "25,343",
       "addStars": "2,676",
       "contributors": [
         {
@@ -446,7 +414,7 @@
       "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "76,595",
+      "stars": "76,596",
       "forks": "12,931",
       "addStars": "759",
       "contributors": [
@@ -478,12 +446,86 @@
       ]
     },
     {
+      "title": "microsoft/Dynamics-365-FastTrack-Implementation-Assets",
+      "url": "https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets",
+      "description": "Dynamics 365 FastTrack Implementation guides",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "505",
+      "forks": "301",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65608469?s=40&v=4",
+          "name": "jiyada",
+          "url": "https://github.com/jiyada"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104534330?s=40&v=4",
+          "name": "amnai1",
+          "url": "https://github.com/amnai1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67754008?s=40&v=4",
+          "name": "harshbirla",
+          "url": "https://github.com/harshbirla"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64236092?s=40&v=4",
+          "name": "sbkoppens",
+          "url": "https://github.com/sbkoppens"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52775403?s=40&v=4",
+          "name": "SamySid",
+          "url": "https://github.com/SamySid"
+        }
+      ]
+    },
+    {
+      "title": "facebookresearch/sam2",
+      "url": "https://github.com/facebookresearch/sam2",
+      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "20,004",
+      "forks": "2,571",
+      "addStars": "169",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6997335?s=40&v=4",
+          "name": "ronghanghu",
+          "url": "https://github.com/ronghanghu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48327001?s=40&v=4",
+          "name": "NielsRogge",
+          "url": "https://github.com/NielsRogge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8292193?s=40&v=4",
+          "name": "haithamkhedr",
+          "url": "https://github.com/haithamkhedr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25299377?s=40&v=4",
+          "name": "arun477",
+          "url": "https://github.com/arun477"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135471798?s=40&v=4",
+          "name": "CharlesCNorton",
+          "url": "https://github.com/CharlesCNorton"
+        }
+      ]
+    },
+    {
       "title": "AI4Finance-Foundation/FinGPT",
       "url": "https://github.com/AI4Finance-Foundation/FinGPT",
       "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "21,401",
+      "stars": "21,402",
       "forks": "3,032",
       "addStars": "198",
       "contributors": [
@@ -520,7 +562,7 @@
       "description": "A game theoretic approach to explain the output of any machine learning model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,811",
+      "stars": "25,812",
       "forks": "3,772",
       "addStars": "92",
       "contributors": [
@@ -543,75 +585,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/17132636?s=40&v=4",
           "name": "ryserrao",
           "url": "https://github.com/ryserrao"
-        }
-      ]
-    },
-    {
-      "title": "NirDiamant/agents-towards-production",
-      "url": "https://github.com/NirDiamant/agents-towards-production",
-      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "21,690",
-      "forks": "2,876",
-      "addStars": "284",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28316913?s=40&v=4",
-          "name": "NirDiamant",
-          "url": "https://github.com/NirDiamant"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/63067900?s=40&v=4",
-          "name": "FareedKhan-dev",
-          "url": "https://github.com/FareedKhan-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59469935?s=40&v=4",
-          "name": "NitishGourishetty",
-          "url": "https://github.com/NitishGourishetty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28788271?s=40&v=4",
-          "name": "ranshn",
-          "url": "https://github.com/ranshn"
-        }
-      ]
-    },
-    {
-      "title": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "17,444",
-      "forks": "5,647",
-      "addStars": "276",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-          "name": "leestott",
-          "url": "https://github.com/leestott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4598064?s=40&v=4",
-          "name": "softchris",
-          "url": "https://github.com/softchris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40815708?s=40&v=4",
-          "name": "hyoshioka0128",
-          "url": "https://github.com/hyoshioka0128"
         }
       ]
     }
