@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 22:08:22 GMT",
+  "pubDate": "Thu, 15 Oct 2026 05:31:23 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,9 +10,9 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,838",
-      "forks": "25,345",
-      "addStars": "31",
+      "stars": "58,837",
+      "forks": "25,346",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,404",
+      "stars": "50,405",
       "forks": "7,523",
-      "addStars": "45",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,777",
+      "stars": "23,778",
       "forks": "5,659",
-      "addStars": "6",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16700?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "3,607",
+      "stars": "3,608",
       "forks": "1,059",
-      "addStars": "1",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/200527?s=40&v=4",
@@ -144,7 +144,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "3,222",
-      "forks": "466",
+      "forks": "467",
       "addStars": "2",
       "contributors": [
         {
@@ -202,9 +202,9 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "18,724",
-      "forks": "1,894",
-      "addStars": "17",
+      "stars": "18,723",
+      "forks": "1,892",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5418788?s=40&v=4",
@@ -340,9 +340,9 @@
       "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,756",
+      "stars": "15,757",
       "forks": "5,309",
-      "addStars": "2",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55154?s=40&v=4",
@@ -378,7 +378,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "4,912",
-      "forks": "14,615",
+      "forks": "14,617",
       "addStars": "2",
       "contributors": [
         {
@@ -414,9 +414,9 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,012",
+      "stars": "50,015",
       "forks": "11,386",
-      "addStars": "10",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
@@ -451,7 +451,7 @@
       "description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "8,253",
+      "stars": "8,254",
       "forks": "2,518",
       "addStars": "1",
       "contributors": [
@@ -489,8 +489,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "22,797",
-      "forks": "4,190",
-      "addStars": "3",
+      "forks": "4,189",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3102842?s=40&v=4",
@@ -589,9 +589,9 @@
       "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,622",
+      "stars": "15,623",
       "forks": "13,919",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -623,10 +623,10 @@
     {
       "title": "crmne/ruby_llm",
       "url": "https://github.com/crmne/ruby_llm",
-      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
+      "description": "The Ruby AI framework.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,463",
+      "stars": "4,465",
       "forks": "515",
       "addStars": "4",
       "contributors": [
@@ -701,8 +701,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "2,851",
-      "forks": "1,094",
-      "addStars": "3",
+      "forks": "1,095",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/147741?s=40&v=4",

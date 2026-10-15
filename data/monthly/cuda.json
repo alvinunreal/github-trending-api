@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 14 Oct 2026 22:08:22 GMT",
+  "pubDate": "Thu, 15 Oct 2026 05:31:23 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,965",
-      "forks": "1,412",
-      "addStars": "1,164",
+      "stars": "8,966",
+      "forks": "1,414",
+      "addStars": "1,166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -48,8 +48,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "6,619",
-      "forks": "1,588",
-      "addStars": "227",
+      "forks": "1,590",
+      "addStars": "224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,968",
+      "stars": "3,969",
       "forks": "528",
-      "addStars": "253",
+      "addStars": "252",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,281",
-      "forks": "1,472",
-      "addStars": "159",
+      "stars": "10,280",
+      "forks": "1,473",
+      "addStars": "157",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,553",
-      "forks": "263",
+      "stars": "2,554",
+      "forks": "264",
       "addStars": "66",
       "contributors": [
         {
@@ -197,7 +197,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,246",
       "forks": "368",
-      "addStars": "17",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34135411?s=40&v=4",
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,060",
       "forks": "243",
-      "addStars": "28",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
@@ -271,7 +271,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,675",
       "forks": "412",
-      "addStars": "22",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
@@ -306,8 +306,8 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "17,575",
-      "forks": "2,065",
+      "stars": "17,576",
+      "forks": "2,064",
       "addStars": "38",
       "contributors": [
         {
