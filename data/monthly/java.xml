@@ -3,7 +3,7 @@
     <title>GitHub Java Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Java Languages in GitHub</description>
-    <pubDate>Thu, 15 Oct 2026 05:31:23 GMT</pubDate>
+    <pubDate>Thu, 15 Oct 2026 12:32:34 GMT</pubDate>
     <item>
       <title>NationalSecurityAgency/ghidra</title>
       <link>https://github.com/NationalSecurityAgency/ghidra</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>87,804</stars>
-      <forks>9,798</forks>
+      <stars>88,197</stars>
+      <forks>9,839</forks>
       <addStars>11,461</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/spring-projects/spring-boot</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>81,624</stars>
-      <forks>44,957</forks>
+      <stars>81,631</stars>
+      <forks>44,963</forks>
       <addStars>330</addStars>
       <contributors>
         <contributor>
@@ -81,13 +81,46 @@
       </contributors>
     </item>
     <item>
+      <title>termux/termux-app</title>
+      <link>https://github.com/termux/termux-app</link>
+      <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+      <guid>https://github.com/termux/termux-app</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>62,676</stars>
+      <forks>7,901</forks>
+      <addStars>1,986</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31106828?s=40&amp;v=4</avatar>
+          <name>agnostic-apollo</name>
+          <url>https://github.com/agnostic-apollo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/277251?s=40&amp;v=4</avatar>
+          <name>fornwall</name>
+          <url>https://github.com/fornwall</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18900601?s=40&amp;v=4</avatar>
+          <name>Grimler91</name>
+          <url>https://github.com/Grimler91</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3536343?s=40&amp;v=4</avatar>
+          <name>maoabc</name>
+          <url>https://github.com/maoabc</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>GeyserMC/Geyser</title>
       <link>https://github.com/GeyserMC/Geyser</link>
       <description>A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.</description>
       <guid>https://github.com/GeyserMC/Geyser</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>5,911</stars>
+      <stars>5,912</stars>
       <forks>916</forks>
       <addStars>148</addStars>
       <contributors>
@@ -119,47 +152,14 @@
       </contributors>
     </item>
     <item>
-      <title>termux/termux-app</title>
-      <link>https://github.com/termux/termux-app</link>
-      <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-      <guid>https://github.com/termux/termux-app</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>62,642</stars>
-      <forks>7,897</forks>
-      <addStars>1,986</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31106828?s=40&amp;v=4</avatar>
-          <name>agnostic-apollo</name>
-          <url>https://github.com/agnostic-apollo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/277251?s=40&amp;v=4</avatar>
-          <name>fornwall</name>
-          <url>https://github.com/fornwall</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18900601?s=40&amp;v=4</avatar>
-          <name>Grimler91</name>
-          <url>https://github.com/Grimler91</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3536343?s=40&amp;v=4</avatar>
-          <name>maoabc</name>
-          <url>https://github.com/maoabc</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>elastic/elasticsearch</title>
       <link>https://github.com/elastic/elasticsearch</link>
       <description>Free and Open Source, Distributed, RESTful Search Engine</description>
       <guid>https://github.com/elastic/elasticsearch</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>78,269</stars>
-      <forks>26,125</forks>
+      <stars>78,272</stars>
+      <forks>26,127</forks>
       <addStars>488</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/AndroidIDEOfficial/AndroidIDE</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>3,254</stars>
-      <forks>713</forks>
+      <stars>3,256</stars>
+      <forks>714</forks>
       <addStars>154</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/LaurieWired/GhidraMCP</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>11,272</stars>
-      <forks>1,179</forks>
+      <stars>11,283</stars>
+      <forks>1,181</forks>
       <addStars>1,273</addStars>
       <contributors>
         <contributor>
@@ -256,46 +256,13 @@
       </contributors>
     </item>
     <item>
-      <title>keycloak/keycloak</title>
-      <link>https://github.com/keycloak/keycloak</link>
-      <description>Open Source Identity and Access Management For Modern Applications and Services</description>
-      <guid>https://github.com/keycloak/keycloak</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>37,355</stars>
-      <forks>9,054</forks>
-      <addStars>640</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2271511?s=40&amp;v=4</avatar>
-          <name>stianst</name>
-          <url>https://github.com/stianst</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/704239?s=40&amp;v=4</avatar>
-          <name>patriot1burke</name>
-          <url>https://github.com/patriot1burke</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1223965?s=40&amp;v=4</avatar>
-          <name>mposolda</name>
-          <url>https://github.com/mposolda</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51133?s=40&amp;v=4</avatar>
-          <name>edewit</name>
-          <url>https://github.com/edewit</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>shmykelsa/AAAD</title>
       <link>https://github.com/shmykelsa/AAAD</link>
       <description>The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.</description>
       <guid>https://github.com/shmykelsa/AAAD</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>3,111</stars>
+      <stars>3,116</stars>
       <forks>344</forks>
       <addStars>156</addStars>
       <contributors>
@@ -322,14 +289,47 @@
       </contributors>
     </item>
     <item>
+      <title>bethington/ghidra-mcp</title>
+      <link>https://github.com/bethington/ghidra-mcp</link>
+      <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
+      <guid>https://github.com/bethington/ghidra-mcp</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>5,638</stars>
+      <forks>327</forks>
+      <addStars>1,848</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5455441?s=40&amp;v=4</avatar>
+          <name>bethington</name>
+          <url>https://github.com/bethington</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1699754?s=40&amp;v=4</avatar>
+          <name>heeen</name>
+          <url>https://github.com/heeen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/243025451?s=40&amp;v=4</avatar>
+          <name>huehuehuehueing</name>
+          <url>https://github.com/huehuehuehueing</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>TGX-Android/Telegram-X</title>
       <link>https://github.com/TGX-Android/Telegram-X</link>
       <description>The main repository of Telegram X — official alternative Telegram client for Android.</description>
       <guid>https://github.com/TGX-Android/Telegram-X</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>6,090</stars>
-      <forks>1,147</forks>
+      <stars>6,091</stars>
+      <forks>1,149</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -360,144 +360,35 @@
       </contributors>
     </item>
     <item>
-      <title>bethington/ghidra-mcp</title>
-      <link>https://github.com/bethington/ghidra-mcp</link>
-      <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
-      <guid>https://github.com/bethington/ghidra-mcp</guid>
+      <title>keycloak/keycloak</title>
+      <link>https://github.com/keycloak/keycloak</link>
+      <description>Open Source Identity and Access Management For Modern Applications and Services</description>
+      <guid>https://github.com/keycloak/keycloak</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>5,632</stars>
-      <forks>324</forks>
-      <addStars>1,848</addStars>
+      <stars>37,377</stars>
+      <forks>9,058</forks>
+      <addStars>640</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5455441?s=40&amp;v=4</avatar>
-          <name>bethington</name>
-          <url>https://github.com/bethington</url>
+          <avatar>https://avatars.githubusercontent.com/u/2271511?s=40&amp;v=4</avatar>
+          <name>stianst</name>
+          <url>https://github.com/stianst</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/704239?s=40&amp;v=4</avatar>
+          <name>patriot1burke</name>
+          <url>https://github.com/patriot1burke</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1699754?s=40&amp;v=4</avatar>
-          <name>heeen</name>
-          <url>https://github.com/heeen</url>
+          <avatar>https://avatars.githubusercontent.com/u/1223965?s=40&amp;v=4</avatar>
+          <name>mposolda</name>
+          <url>https://github.com/mposolda</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/243025451?s=40&amp;v=4</avatar>
-          <name>huehuehuehueing</name>
-          <url>https://github.com/huehuehuehueing</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>AndreyPavlenko/Fermata</title>
-      <link>https://github.com/AndreyPavlenko/Fermata</link>
-      <description/>
-      <guid>https://github.com/AndreyPavlenko/Fermata</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>1,423</stars>
-      <forks>214</forks>
-      <addStars>94</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1067755?s=40&amp;v=4</avatar>
-          <name>AndreyPavlenko</name>
-          <url>https://github.com/AndreyPavlenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28661149?s=40&amp;v=4</avatar>
-          <name>Vladi69</name>
-          <url>https://github.com/Vladi69</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26366403?s=40&amp;v=4</avatar>
-          <name>fcaronte</name>
-          <url>https://github.com/fcaronte</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25730751?s=40&amp;v=4</avatar>
-          <name>apollotsantos</name>
-          <url>https://github.com/apollotsantos</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59016399?s=40&amp;v=4</avatar>
-          <name>quocvuong1105</name>
-          <url>https://github.com/quocvuong1105</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RikkaApps/Sui</title>
-      <link>https://github.com/RikkaApps/Sui</link>
-      <description>Modern super user interface implementation on Android.</description>
-      <guid>https://github.com/RikkaApps/Sui</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>4,299</stars>
-      <forks>468</forks>
-      <addStars>110</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12999176?s=40&amp;v=4</avatar>
-          <name>RikkaW</name>
-          <url>https://github.com/RikkaW</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4</avatar>
-          <name>yujincheng08</name>
-          <url>https://github.com/yujincheng08</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31786518?s=40&amp;v=4</avatar>
-          <name>0xSoul24</name>
-          <url>https://github.com/0xSoul24</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39107975?s=40&amp;v=4</avatar>
-          <name>Kr328</name>
-          <url>https://github.com/Kr328</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40033067?s=40&amp;v=4</avatar>
-          <name>Howard20181</name>
-          <url>https://github.com/Howard20181</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>kestra-io/kestra</title>
-      <link>https://github.com/kestra-io/kestra</link>
-      <description>Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications</description>
-      <guid>https://github.com/kestra-io/kestra</guid>
-      <language>Java</language>
-      <languageColor>#b07219</languageColor>
-      <stars>29,600</stars>
-      <forks>3,387</forks>
-      <addStars>1,542</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1819009?s=40&amp;v=4</avatar>
-          <name>loicmathieu</name>
-          <url>https://github.com/loicmathieu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4</avatar>
-          <name>tchiotludo</name>
-          <url>https://github.com/tchiotludo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62475782?s=40&amp;v=4</avatar>
-          <name>MilosPaunovic</name>
-          <url>https://github.com/MilosPaunovic</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37618489?s=40&amp;v=4</avatar>
-          <name>brian-mulier-p</name>
-          <url>https://github.com/brian-mulier-p</url>
+          <avatar>https://avatars.githubusercontent.com/u/51133?s=40&amp;v=4</avatar>
+          <name>edewit</name>
+          <url>https://github.com/edewit</url>
         </contributor>
       </contributors>
     </item>
@@ -508,8 +399,8 @@
       <guid>https://github.com/apache/kafka</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>33,953</stars>
-      <forks>15,592</forks>
+      <stars>33,957</stars>
+      <forks>15,593</forks>
       <addStars>311</addStars>
       <contributors>
         <contributor>
@@ -540,30 +431,73 @@
       </contributors>
     </item>
     <item>
-      <title>FIRST-Tech-Challenge/FtcRobotController</title>
-      <link>https://github.com/FIRST-Tech-Challenge/FtcRobotController</link>
-      <description>FTC Android Studio Workspace for robot programming in Android Studio</description>
-      <guid>https://github.com/FIRST-Tech-Challenge/FtcRobotController</guid>
+      <title>AndreyPavlenko/Fermata</title>
+      <link>https://github.com/AndreyPavlenko/Fermata</link>
+      <description/>
+      <guid>https://github.com/AndreyPavlenko/Fermata</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,366</stars>
-      <forks>10,542</forks>
-      <addStars>71</addStars>
+      <stars>1,423</stars>
+      <forks>215</forks>
+      <addStars>94</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51927529?s=40&amp;v=4</avatar>
-          <name>CalKestis</name>
-          <url>https://github.com/CalKestis</url>
+          <avatar>https://avatars.githubusercontent.com/u/1067755?s=40&amp;v=4</avatar>
+          <name>AndreyPavlenko</name>
+          <url>https://github.com/AndreyPavlenko</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26417650?s=40&amp;v=4</avatar>
-          <name>Windwoes</name>
-          <url>https://github.com/Windwoes</url>
+          <avatar>https://avatars.githubusercontent.com/u/28661149?s=40&amp;v=4</avatar>
+          <name>Vladi69</name>
+          <url>https://github.com/Vladi69</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1435639?s=40&amp;v=4</avatar>
-          <name>cmacfarl</name>
-          <url>https://github.com/cmacfarl</url>
+          <avatar>https://avatars.githubusercontent.com/u/26366403?s=40&amp;v=4</avatar>
+          <name>fcaronte</name>
+          <url>https://github.com/fcaronte</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25730751?s=40&amp;v=4</avatar>
+          <name>apollotsantos</name>
+          <url>https://github.com/apollotsantos</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59016399?s=40&amp;v=4</avatar>
+          <name>quocvuong1105</name>
+          <url>https://github.com/quocvuong1105</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>kestra-io/kestra</title>
+      <link>https://github.com/kestra-io/kestra</link>
+      <description>Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications</description>
+      <guid>https://github.com/kestra-io/kestra</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>29,618</stars>
+      <forks>3,395</forks>
+      <addStars>1,542</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1819009?s=40&amp;v=4</avatar>
+          <name>loicmathieu</name>
+          <url>https://github.com/loicmathieu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2064609?s=40&amp;v=4</avatar>
+          <name>tchiotludo</name>
+          <url>https://github.com/tchiotludo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62475782?s=40&amp;v=4</avatar>
+          <name>MilosPaunovic</name>
+          <url>https://github.com/MilosPaunovic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37618489?s=40&amp;v=4</avatar>
+          <name>brian-mulier-p</name>
+          <url>https://github.com/brian-mulier-p</url>
         </contributor>
       </contributors>
     </item>
@@ -574,8 +508,8 @@
       <guid>https://github.com/trinodb/trino</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>13,335</stars>
-      <forks>3,821</forks>
+      <stars>13,336</stars>
+      <forks>3,823</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -612,8 +546,8 @@
       <guid>https://github.com/MCRcortex/voxy</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>1,317</stars>
-      <forks>1,398</forks>
+      <stars>1,319</stars>
+      <forks>1,403</forks>
       <addStars>109</addStars>
       <contributors>
         <contributor>
@@ -644,14 +578,52 @@
       </contributors>
     </item>
     <item>
+      <title>TeamNewPipe/NewPipe</title>
+      <link>https://github.com/TeamNewPipe/NewPipe</link>
+      <description>A libre lightweight streaming front-end for Android.</description>
+      <guid>https://github.com/TeamNewPipe/NewPipe</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>40,143</stars>
+      <forks>3,881</forks>
+      <addStars>559</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17365767?s=40&amp;v=4</avatar>
+          <name>TobiGr</name>
+          <url>https://github.com/TobiGr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36421898?s=40&amp;v=4</avatar>
+          <name>Stypox</name>
+          <url>https://github.com/Stypox</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1891273?s=40&amp;v=4</avatar>
+          <name>theScrabi</name>
+          <url>https://github.com/theScrabi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1607653?s=40&amp;v=4</avatar>
+          <name>weblate</name>
+          <url>https://github.com/weblate</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40789489?s=40&amp;v=4</avatar>
+          <name>litetex</name>
+          <url>https://github.com/litetex</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>DrKLO/Telegram</title>
       <link>https://github.com/DrKLO/Telegram</link>
       <description>Telegram for Android source</description>
       <guid>https://github.com/DrKLO/Telegram</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>30,081</stars>
-      <forks>10,247</forks>
+      <stars>30,085</stars>
+      <forks>10,251</forks>
       <addStars>265</addStars>
       <contributors>
         <contributor>
@@ -678,6 +650,110 @@
           <avatar>https://avatars.githubusercontent.com/u/3435533?s=40&amp;v=4</avatar>
           <name>jsonchi</name>
           <url>https://github.com/jsonchi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>yash-srivastava/Overdrive-release</title>
+      <link>https://github.com/yash-srivastava/Overdrive-release</link>
+      <description>Advanced Sentry Mode for BYD Vehicles</description>
+      <guid>https://github.com/yash-srivastava/Overdrive-release</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>358</stars>
+      <forks>101</forks>
+      <addStars>97</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16201916?s=40&amp;v=4</avatar>
+          <name>yash-srivastava</name>
+          <url>https://github.com/yash-srivastava</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5331483?s=40&amp;v=4</avatar>
+          <name>francescodoffizi</name>
+          <url>https://github.com/francescodoffizi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9726307?s=40&amp;v=4</avatar>
+          <name>paalkr</name>
+          <url>https://github.com/paalkr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91417007?s=40&amp;v=4</avatar>
+          <name>UnrealSalty</name>
+          <url>https://github.com/UnrealSalty</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>FIRST-Tech-Challenge/FtcRobotController</title>
+      <link>https://github.com/FIRST-Tech-Challenge/FtcRobotController</link>
+      <description>FTC Android Studio Workspace for robot programming in Android Studio</description>
+      <guid>https://github.com/FIRST-Tech-Challenge/FtcRobotController</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>1,366</stars>
+      <forks>10,546</forks>
+      <addStars>71</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51927529?s=40&amp;v=4</avatar>
+          <name>CalKestis</name>
+          <url>https://github.com/CalKestis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26417650?s=40&amp;v=4</avatar>
+          <name>Windwoes</name>
+          <url>https://github.com/Windwoes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1435639?s=40&amp;v=4</avatar>
+          <name>cmacfarl</name>
+          <url>https://github.com/cmacfarl</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>LSPosed/LSPosed</title>
+      <link>https://github.com/LSPosed/LSPosed</link>
+      <description>LSPosed Framework</description>
+      <guid>https://github.com/LSPosed/LSPosed</guid>
+      <language>Java</language>
+      <languageColor>#b07219</languageColor>
+      <stars>25,033</stars>
+      <forks>3,588</forks>
+      <addStars>407</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5022927?s=40&amp;v=4</avatar>
+          <name>yujincheng08</name>
+          <url>https://github.com/yujincheng08</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26996262?s=40&amp;v=4</avatar>
+          <name>vvb2060</name>
+          <url>https://github.com/vvb2060</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3291602?s=40&amp;v=4</avatar>
+          <name>solohsu</name>
+          <url>https://github.com/solohsu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40033067?s=40&amp;v=4</avatar>
+          <name>Howard20181</name>
+          <url>https://github.com/Howard20181</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17663689?s=40&amp;v=4</avatar>
+          <name>kotori2</name>
+          <url>https://github.com/kotori2</url>
         </contributor>
       </contributors>
     </item>
