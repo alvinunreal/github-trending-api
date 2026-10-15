@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Monthly Trending",
   "description": "Monthly Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Oct 2026 17:37:37 GMT",
+  "pubDate": "Thu, 15 Oct 2026 22:01:20 GMT",
   "items": [
     {
       "title": "vim/vim",
@@ -10,8 +10,8 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "41,149",
-      "forks": "6,168",
+      "stars": "41,147",
+      "forks": "6,169",
       "addStars": "596",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "102,991",
-      "forks": "7,188",
+      "stars": "102,999",
+      "forks": "7,189",
       "addStars": "1,276",
       "contributors": [
         {
@@ -461,7 +461,7 @@
       "description": "The undo history visualizer for VIM",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": "4,550",
+      "stars": "4,551",
       "forks": "120",
       "addStars": "10",
       "contributors": [
