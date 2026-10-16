@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 15 Oct 2026 22:01:20 GMT",
+  "pubDate": "Fri, 16 Oct 2026 05:23:51 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,9 +10,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "299,827",
-      "forks": "26,776",
-      "addStars": "688",
+      "stars": "300,103",
+      "forks": "26,801",
+      "addStars": "582",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,544",
-      "forks": "10,530",
-      "addStars": "196",
+      "stars": "95,548",
+      "forks": "10,532",
+      "addStars": "181",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,649",
-      "forks": "3,801",
-      "addStars": "151",
+      "stars": "26,674",
+      "forks": "3,809",
+      "addStars": "166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "292,759",
-      "forks": "24,539",
-      "addStars": "1,647",
+      "stars": "293,135",
+      "forks": "24,579",
+      "addStars": "1,646",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -128,51 +128,14 @@
       ]
     },
     {
-      "title": "deanpeters/Product-Manager-Skills",
-      "url": "https://github.com/deanpeters/Product-Manager-Skills",
-      "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "7,410",
-      "forks": "886",
-      "addStars": "30",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/211423?s=40&v=4",
-          "name": "deanpeters",
-          "url": "https://github.com/deanpeters"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/209477?s=40&v=4",
-          "name": "markphelps",
-          "url": "https://github.com/markphelps"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
-          "name": "xiaolai",
-          "url": "https://github.com/xiaolai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35057768?s=40&v=4",
-          "name": "meichuanyi",
-          "url": "https://github.com/meichuanyi"
-        }
-      ]
-    },
-    {
       "title": "SimoneAvogadro/android-reverse-engineering-skill",
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "8,151",
+      "stars": "8,154",
       "forks": "920",
-      "addStars": "14",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3911167?s=40&v=4",
@@ -207,9 +170,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "13,744",
+      "stars": "13,745",
       "forks": "2,205",
-      "addStars": "27",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7548515?s=40&v=4",
@@ -244,9 +207,9 @@
       "description": "Open-source firmware for Ingenic SoC IP cameras",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "2,225",
+      "stars": "2,228",
       "forks": "333",
-      "addStars": "7",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37488?s=40&v=4",
@@ -276,9 +239,9 @@
       "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "445",
+      "stars": "446",
       "forks": "41",
-      "addStars": "16",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/56165502?s=40&v=4",
@@ -303,9 +266,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,666",
-      "forks": "1,890",
-      "addStars": "25",
+      "stars": "33,670",
+      "forks": "1,889",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/587742?s=40&v=4",
@@ -337,7 +300,7 @@
       "languageColor": "#89e051",
       "stars": "1,572",
       "forks": "259",
-      "addStars": "2",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52458914?s=40&v=4",
@@ -357,9 +320,9 @@
       "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,324",
-      "forks": "1,098",
-      "addStars": "20",
+      "stars": "11,325",
+      "forks": "1,100",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35783570?s=40&v=4",
@@ -394,9 +357,9 @@
       "description": "ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,023",
+      "stars": "7,026",
       "forks": "1,321",
-      "addStars": "5",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8861642?s=40&v=4",
@@ -431,9 +394,9 @@
       "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "15,015",
-      "forks": "1,652",
-      "addStars": "18",
+      "stars": "15,016",
+      "forks": "1,653",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76961348?s=40&v=4",
