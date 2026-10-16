@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 12:11:09 GMT",
+  "pubDate": "Fri, 16 Oct 2026 17:10:44 GMT",
   "items": [
     {
       "title": "mksglu/context-mode",
@@ -10,8 +10,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,012",
-      "forks": "2,112",
+      "stars": "30,115",
+      "forks": "2,117",
       "addStars": "449",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "75,427",
-      "forks": "8,949",
+      "stars": "75,519",
+      "forks": "8,954",
       "addStars": "672",
       "contributors": [
         {
@@ -74,9 +74,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,779",
-      "forks": "1,142",
-      "addStars": "214",
+      "stars": "11,847",
+      "forks": "1,151",
+      "addStars": "282",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,064",
-      "forks": "6,009",
-      "addStars": "949",
+      "stars": "94,297",
+      "forks": "6,029",
+      "addStars": "1,089",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,872",
-      "forks": "9,333",
-      "addStars": "345",
+      "stars": "94,914",
+      "forks": "9,344",
+      "addStars": "256",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "一分钟搭建影视站，支持Docker等部署方式",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,649",
-      "forks": "28,887",
-      "addStars": "978",
+      "stars": "18,787",
+      "forks": "28,924",
+      "addStars": "850",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110226580?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "214,176",
-      "forks": "28,744",
-      "addStars": "401",
+      "stars": "214,270",
+      "forks": "28,755",
+      "addStars": "485",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,979",
-      "forks": "5,853",
-      "addStars": "858",
+      "stars": "65,146",
+      "forks": "5,869",
+      "addStars": "826",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -286,8 +286,8 @@
       "description": "Focus on what matters instead of fighting with Git.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,955",
-      "forks": "10,630",
+      "stars": "21,957",
+      "forks": "10,633",
       "addStars": "6",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits with Agents in one place. Suitable for your Social Media like YouTube, TikTok, Instagram, etc.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,390",
-      "forks": "1,462",
+      "stars": "13,445",
+      "forks": "1,471",
       "addStars": "226",
       "contributors": [
         {
@@ -360,7 +360,7 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,522",
+      "stars": "8,525",
       "forks": "1,114",
       "addStars": "11",
       "contributors": [
@@ -397,8 +397,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "283,147",
-      "forks": "71,340",
+      "stars": "287,279",
+      "forks": "72,342",
       "addStars": "25,333",
       "contributors": [
         {
@@ -429,50 +429,13 @@
       ]
     },
     {
-      "title": "abcwyc/pi-agent-desktop",
-      "url": "https://github.com/abcwyc/pi-agent-desktop",
-      "description": "Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "784",
-      "forks": "86",
-      "addStars": "269",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12794925?s=40&v=4",
-          "name": "agegr",
-          "url": "https://github.com/agegr"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8427883?s=40&v=4",
-          "name": "abcwyc",
-          "url": "https://github.com/abcwyc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76790700?s=40&v=4",
-          "name": "richardmilles",
-          "url": "https://github.com/richardmilles"
-        }
-      ]
-    },
-    {
       "title": "Fission-AI/OpenSpec",
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "72,122",
-      "forks": "4,935",
+      "stars": "72,145",
+      "forks": "4,936",
       "addStars": "113",
       "contributors": [
         {
@@ -498,7 +461,7 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,808",
+      "stars": "5,809",
       "forks": "550",
       "addStars": "53",
       "contributors": [
@@ -535,9 +498,9 @@
       "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,129",
+      "stars": "3,136",
       "forks": "352",
-      "addStars": "331",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9384676?s=40&v=4",
@@ -572,7 +535,7 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,379",
+      "stars": "7,388",
       "forks": "669",
       "addStars": "107",
       "contributors": [
@@ -599,7 +562,7 @@
       "description": "AI Product Design Agent - Open Source",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,422",
+      "stars": "7,427",
       "forks": "767",
       "addStars": "59",
       "contributors": [

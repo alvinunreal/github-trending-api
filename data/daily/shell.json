@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 12:11:09 GMT",
+  "pubDate": "Fri, 16 Oct 2026 17:10:44 GMT",
   "items": [
     {
       "title": "obra/superpowers",
@@ -10,8 +10,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "300,377",
-      "forks": "26,820",
+      "stars": "300,525",
+      "forks": "26,836",
       "addStars": "973",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,556",
-      "forks": "10,534",
-      "addStars": "181",
+      "stars": "95,559",
+      "forks": "10,536",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45469?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,260",
+      "stars": "11,262",
       "forks": "1,957",
       "addStars": "7",
       "contributors": [
@@ -111,9 +111,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "26,694",
-      "forks": "3,830",
-      "addStars": "166",
+      "stars": "26,715",
+      "forks": "3,834",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4",
@@ -134,7 +134,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "6,443",
-      "forks": "1,068",
+      "forks": "1,069",
       "addStars": "13",
       "contributors": [
         {
@@ -170,7 +170,7 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,072",
+      "stars": "3,076",
       "forks": "315",
       "addStars": "8",
       "contributors": [
@@ -207,9 +207,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,672",
+      "stars": "33,676",
       "forks": "1,890",
-      "addStars": "26",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/587742?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "293,561",
-      "forks": "24,613",
-      "addStars": "1,646",
+      "stars": "293,812",
+      "forks": "24,638",
+      "addStars": "1,466",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -266,8 +266,8 @@
       "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,086",
-      "forks": "518",
+      "stars": "16,088",
+      "forks": "517",
       "addStars": "7",
       "contributors": [
         {
@@ -299,8 +299,8 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "11,326",
-      "forks": "1,108",
-      "addStars": "17",
+      "forks": "1,107",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35783570?s=40&v=4",
@@ -336,8 +336,8 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "1,573",
-      "forks": "258",
-      "addStars": "3",
+      "forks": "259",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52458914?s=40&v=4",
@@ -357,7 +357,7 @@
       "description": "Simple Python version management",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "45,144",
+      "stars": "45,146",
       "forks": "3,271",
       "addStars": "3",
       "contributors": [
@@ -394,7 +394,7 @@
       "description": "A Simplified, Focused and Open NAS OS_",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,028",
+      "stars": "3,029",
       "forks": "129",
       "addStars": "4",
       "contributors": [
@@ -432,7 +432,7 @@
       "language": "Shell",
       "languageColor": "#89e051",
       "stars": "2,469",
-      "forks": "2,241",
+      "forks": "2,242",
       "addStars": "0",
       "contributors": [
         {
@@ -505,8 +505,8 @@
       "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "16,491",
-      "forks": "1,637",
+      "stars": "16,492",
+      "forks": "1,638",
       "addStars": "11",
       "contributors": [
         {
@@ -542,7 +542,7 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "7,989",
+      "stars": "7,996",
       "forks": "2,577",
       "addStars": "62",
       "contributors": [

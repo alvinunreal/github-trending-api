@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 12:11:09 GMT",
+  "pubDate": "Fri, 16 Oct 2026 17:10:44 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "283,148",
-      "forks": "71,340",
+      "stars": "287,279",
+      "forks": "72,342",
       "addStars": "239,477",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,979",
-      "forks": "5,853",
+      "stars": "65,146",
+      "forks": "5,869",
       "addStars": "5,318",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,012",
-      "forks": "2,112",
+      "stars": "30,115",
+      "forks": "2,117",
       "addStars": "4,038",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,470",
-      "forks": "116",
+      "stars": "1,513",
+      "forks": "121",
       "addStars": "659",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,779",
-      "forks": "1,142",
+      "stars": "11,847",
+      "forks": "1,151",
       "addStars": "1,214",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,166",
-      "forks": "8,853",
+      "stars": "101,203",
+      "forks": "8,863",
       "addStars": "2,903",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,187",
-      "forks": "3,003",
+      "stars": "35,226",
+      "forks": "3,005",
       "addStars": "1,686",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "一分钟搭建影视站，支持Docker等部署方式",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,649",
-      "forks": "28,886",
+      "stars": "18,787",
+      "forks": "28,924",
       "addStars": "4,160",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,898",
-      "forks": "688",
+      "stars": "7,037",
+      "forks": "711",
       "addStars": "2,675",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,511",
-      "forks": "5,099",
+      "stars": "64,559",
+      "forks": "5,106",
       "addStars": "1,873",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "🏆 Self Hosted Gen AI desktop app. Free alternative to Higgsfield, OpenArt, Freepik....",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,129",
+      "stars": "3,136",
       "forks": "352",
       "addStars": "763",
       "contributors": [
@@ -387,8 +387,8 @@
       "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,343",
-      "forks": "609",
+      "stars": "5,347",
+      "forks": "610",
       "addStars": "384",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,005",
-      "forks": "4,852",
+      "stars": "36,120",
+      "forks": "4,869",
       "addStars": "3,714",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,291",
-      "forks": "2,862",
+      "stars": "29,320",
+      "forks": "2,863",
       "addStars": "1,465",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,187",
-      "forks": "703",
+      "stars": "15,193",
+      "forks": "706",
       "addStars": "334",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,872",
-      "forks": "9,333",
+      "stars": "94,914",
+      "forks": "9,344",
       "addStars": "1,684",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,679",
-      "forks": "3,054",
+      "stars": "28,688",
+      "forks": "3,058",
       "addStars": "213",
       "contributors": [
         {
@@ -604,7 +604,7 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,013",
+      "stars": "18,015",
       "forks": "3,106",
       "addStars": "197",
       "contributors": [
@@ -641,8 +641,8 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,899",
-      "forks": "5,093",
+      "stars": "56,915",
+      "forks": "5,094",
       "addStars": "722",
       "contributors": [
         {
