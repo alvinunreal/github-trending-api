@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Weekly Trending",
   "description": "Weekly Trending of Lean Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 05:23:51 GMT",
+  "pubDate": "Fri, 16 Oct 2026 12:11:09 GMT",
   "items": [
     {
       "title": "google-deepmind/formal-conjectures",
@@ -11,7 +11,7 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": "1,327",
-      "forks": "535",
+      "forks": "536",
       "addStars": "15",
       "contributors": [
         {
@@ -42,13 +42,45 @@
       ]
     },
     {
+      "title": "leanprover/cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "756",
+      "forks": "214",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
+          "name": "chenson2018",
+          "url": "https://github.com/chenson2018"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
+          "name": "ctchou",
+          "url": "https://github.com/ctchou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
+          "name": "kim-em",
+          "url": "https://github.com/kim-em"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
+          "name": "SamuelSchlesinger",
+          "url": "https://github.com/SamuelSchlesinger"
+        }
+      ]
+    },
+    {
       "title": "leanprover-community/mathlib4",
       "url": "https://github.com/leanprover-community/mathlib4",
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "4,311",
-      "forks": "1,771",
+      "stars": "4,312",
+      "forks": "1,772",
       "addStars": "60",
       "contributors": [
         {
@@ -75,38 +107,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/37772949?s=40&v=4",
           "name": "joelriou",
           "url": "https://github.com/joelriou"
-        }
-      ]
-    },
-    {
-      "title": "leanprover/cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": "755",
-      "forks": "214",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46805207?s=40&v=4",
-          "name": "chenson2018",
-          "url": "https://github.com/chenson2018"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5626521?s=40&v=4",
-          "name": "ctchou",
-          "url": "https://github.com/ctchou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/477956?s=40&v=4",
-          "name": "kim-em",
-          "url": "https://github.com/kim-em"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10200200?s=40&v=4",
-          "name": "SamuelSchlesinger",
-          "url": "https://github.com/SamuelSchlesinger"
         }
       ]
     },
@@ -143,39 +143,39 @@
       ]
     },
     {
-      "title": "strata-org/Strata",
-      "url": "https://github.com/strata-org/Strata",
-      "description": "",
+      "title": "teorth/analysis",
+      "url": "https://github.com/teorth/analysis",
+      "description": "A Lean companion to Analysis I",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "277",
-      "forks": "60",
-      "addStars": "8",
+      "stars": "1,957",
+      "forks": "274",
+      "addStars": "14",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5995854?s=40&v=4",
-          "name": "shigoel",
-          "url": "https://github.com/shigoel"
+          "avatar": "https://avatars.githubusercontent.com/u/199308?s=40&v=4",
+          "name": "teorth",
+          "url": "https://github.com/teorth"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/136006969?s=40&v=4",
-          "name": "aqjune-aws",
-          "url": "https://github.com/aqjune-aws"
+          "avatar": "https://avatars.githubusercontent.com/u/134995372?s=40&v=4",
+          "name": "Chessing234",
+          "url": "https://github.com/Chessing234"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/888880?s=40&v=4",
-          "name": "joehendrix",
-          "url": "https://github.com/joehendrix"
+          "avatar": "https://avatars.githubusercontent.com/u/36972598?s=40&v=4",
+          "name": "aodecipher",
+          "url": "https://github.com/aodecipher"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3121201?s=40&v=4",
-          "name": "keyboardDrummer",
-          "url": "https://github.com/keyboardDrummer"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3601079?s=40&v=4",
-          "name": "MikaelMayer",
-          "url": "https://github.com/MikaelMayer"
+          "avatar": "https://avatars.githubusercontent.com/u/810438?s=40&v=4",
+          "name": "gaearon",
+          "url": "https://github.com/gaearon"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "787",
+      "stars": "788",
       "forks": "206",
       "addStars": "15",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": "9,551",
+      "stars": "9,555",
       "forks": "1,044",
       "addStars": "103",
       "contributors": [
@@ -250,6 +250,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/313929?s=40&v=4",
           "name": "gebner",
           "url": "https://github.com/gebner"
+        }
+      ]
+    },
+    {
+      "title": "strata-org/Strata",
+      "url": "https://github.com/strata-org/Strata",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": "278",
+      "forks": "60",
+      "addStars": "8",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5995854?s=40&v=4",
+          "name": "shigoel",
+          "url": "https://github.com/shigoel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/136006969?s=40&v=4",
+          "name": "aqjune-aws",
+          "url": "https://github.com/aqjune-aws"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/888880?s=40&v=4",
+          "name": "joehendrix",
+          "url": "https://github.com/joehendrix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3121201?s=40&v=4",
+          "name": "keyboardDrummer",
+          "url": "https://github.com/keyboardDrummer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3601079?s=40&v=4",
+          "name": "MikaelMayer",
+          "url": "https://github.com/MikaelMayer"
         }
       ]
     }
