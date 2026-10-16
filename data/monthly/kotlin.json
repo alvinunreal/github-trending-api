@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 17:10:44 GMT",
+  "pubDate": "Fri, 16 Oct 2026 21:58:02 GMT",
   "items": [
     {
       "title": "tiann/KernelSU",
@@ -10,8 +10,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,293",
-      "forks": "4,407",
+      "stars": "19,295",
+      "forks": "4,412",
       "addStars": "906",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,350",
-      "forks": "317",
+      "stars": "3,364",
+      "forks": "320",
       "addStars": "2,108",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "GhostLock One-Tap Execution App (CVE-2026-43499)",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,988",
-      "forks": "511",
+      "stars": "1,990",
+      "forks": "512",
       "addStars": "1,086",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,974",
+      "stars": "20,975",
       "forks": "620",
       "addStars": "922",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,540",
+      "stars": "3,539",
       "forks": "227",
       "addStars": "890",
       "contributors": [
@@ -213,7 +213,7 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "569",
-      "forks": "128",
+      "forks": "129",
       "addStars": "141",
       "contributors": [
         {
@@ -239,7 +239,7 @@
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,845",
+      "stars": "2,848",
       "forks": "247",
       "addStars": "448",
       "contributors": [
@@ -271,7 +271,7 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "42,932",
+      "stars": "42,935",
       "forks": "2,044",
       "addStars": "1,105",
       "contributors": [
@@ -303,50 +303,13 @@
       ]
     },
     {
-      "title": "frknkrc44/HMA-OSS",
-      "url": "https://github.com/frknkrc44/HMA-OSS",
-      "description": "A Zygisk module to hide your app list, settings, package installers and more. It is a fork of Hide My Applist project, but LSPosed dependency is replaced with Zygisk.",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "3,620",
-      "forks": "238",
-      "addStars": "452",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52071314?s=40&v=4",
-          "name": "Dr-TSNG",
-          "url": "https://github.com/Dr-TSNG"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45714956?s=40&v=4",
-          "name": "frknkrc44",
-          "url": "https://github.com/frknkrc44"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20322043?s=40&v=4",
-          "name": "lelemka0",
-          "url": "https://github.com/lelemka0"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18079988?s=40&v=4",
-          "name": "aviraxp",
-          "url": "https://github.com/aviraxp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/41381927?s=40&v=4",
-          "name": "keta1",
-          "url": "https://github.com/keta1"
-        }
-      ]
-    },
-    {
       "title": "maxrave-dev/SimpMusic",
       "url": "https://github.com/maxrave-dev/SimpMusic",
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,108",
-      "forks": "665",
+      "stars": "12,113",
+      "forks": "667",
       "addStars": "887",
       "contributors": [
         {
@@ -419,7 +382,7 @@
       "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "12,027",
+      "stars": "12,028",
       "forks": "2,976",
       "addStars": "254",
       "contributors": [
@@ -456,7 +419,7 @@
       "description": "A free AI agent & toolbox for Android | 一站式安卓 AI 智能体 & 工具箱",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "755",
+      "stars": "760",
       "forks": "125",
       "addStars": "472",
       "contributors": [
@@ -483,7 +446,7 @@
       "description": "🎵 Hybrid music client for Android: Spotify discovery & UI + YouTube Music library + Hi-Res Lossless (FLAC) streaming with fluid Glassmorphism💫",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "830",
+      "stars": "832",
       "forks": "27",
       "addStars": "530",
       "contributors": [
@@ -515,7 +478,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "29,770",
+      "stars": "29,776",
       "forks": "1,483",
       "addStars": "875",
       "contributors": [
@@ -552,7 +515,7 @@
       "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,454",
+      "stars": "1,457",
       "forks": "90",
       "addStars": "468",
       "contributors": [
@@ -589,7 +552,7 @@
       "description": "Unlock the hidden Samsung DeX and desktop capabilities of Android, and run a desktop environment directly on your device.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "933",
+      "stars": "934",
       "forks": "53",
       "addStars": "673",
       "contributors": [
