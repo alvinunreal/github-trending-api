@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 21:58:02 GMT",
+  "pubDate": "Sat, 17 Oct 2026 05:17:22 GMT",
   "items": [
     {
       "title": "xerj-org/xerj",
@@ -10,9 +10,9 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,863",
-      "forks": "349",
-      "addStars": "1,647",
+      "stars": "7,103",
+      "forks": "363",
+      "addStars": "1,648",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "98,340",
-      "forks": "12,887",
-      "addStars": "225",
+      "stars": "98,377",
+      "forks": "12,895",
+      "addStars": "210",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,590",
-      "forks": "687",
+      "stars": "9,635",
+      "forks": "691",
       "addStars": "159",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,373",
-      "forks": "801",
+      "stars": "6,379",
+      "forks": "802",
       "addStars": "17",
       "contributors": [
         {
@@ -143,9 +143,9 @@
       "description": "HydraDB - fast graph database on object storage",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,044",
+      "stars": "13,048",
       "forks": "5,432",
-      "addStars": "17",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/248433309?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "83,618",
-      "forks": "5,309",
-      "addStars": "137",
+      "stars": "83,637",
+      "forks": "5,313",
+      "addStars": "149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,488",
-      "forks": "1,231",
-      "addStars": "40",
+      "stars": "9,501",
+      "forks": "1,233",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4290742?s=40&v=4",
@@ -254,7 +254,7 @@
       "description": "The unified toolchain and entry point for web development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,320",
+      "stars": "6,330",
       "forks": "282",
       "addStars": "87",
       "contributors": [
@@ -286,9 +286,9 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,314",
-      "forks": "1,714",
-      "addStars": "12",
+      "stars": "8,316",
+      "forks": "1,717",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -323,8 +323,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "126,031",
-      "forks": "19,765",
+      "stars": "126,055",
+      "forks": "19,770",
       "addStars": "124",
       "contributors": [
         {
@@ -360,9 +360,9 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,557",
+      "stars": "16,574",
       "forks": "761",
-      "addStars": "72",
+      "addStars": "65",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17440968?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,013",
-      "forks": "480",
-      "addStars": "196",
+      "stars": "7,027",
+      "forks": "481",
+      "addStars": "219",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28166244?s=40&v=4",

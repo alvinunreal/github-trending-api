@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 16 Oct 2026 21:58:02 GMT",
+  "pubDate": "Sat, 17 Oct 2026 05:17:22 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,976",
-      "forks": "1,419",
-      "addStars": "1,171",
+      "stars": "8,977",
+      "forks": "1,420",
+      "addStars": "1,167",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,641",
+      "stars": "6,655",
       "forks": "1,595",
-      "addStars": "221",
+      "addStars": "230",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,262",
       "forks": "110",
-      "addStars": "178",
+      "addStars": "153",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "3,971",
+      "stars": "3,970",
       "forks": "531",
-      "addStars": "218",
+      "addStars": "203",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#3A4E3A",
       "stars": "10,285",
       "forks": "1,477",
-      "addStars": "155",
+      "addStars": "149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -195,7 +195,7 @@
       "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,246",
+      "stars": "2,247",
       "forks": "369",
       "addStars": "15",
       "contributors": [
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "2,560",
       "forks": "266",
-      "addStars": "66",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1669058?s=40&v=4",
@@ -269,9 +269,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,060",
+      "stars": "1,061",
       "forks": "244",
-      "addStars": "24",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",
@@ -307,8 +307,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "871",
-      "forks": "245",
-      "addStars": "19",
+      "forks": "246",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
@@ -345,7 +345,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,675",
       "forks": "412",
-      "addStars": "21",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2538330?s=40&v=4",
