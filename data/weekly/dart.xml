@@ -3,7 +3,7 @@
     <title>GitHub Dart Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Dart Languages in GitHub</description>
-    <pubDate>Sat, 17 Oct 2026 05:17:22 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 11:29:28 GMT</pubDate>
     <item>
       <title>Predidit/Kazumi</title>
       <link>https://github.com/Predidit/Kazumi</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Predidit/Kazumi</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>37,417</stars>
-      <forks>1,203</forks>
+      <stars>37,552</stars>
+      <forks>1,205</forks>
       <addStars>3,757</addStars>
       <contributors>
         <contributor>
@@ -43,13 +43,51 @@
       </contributors>
     </item>
     <item>
+      <title>getlantern/lantern</title>
+      <link>https://github.com/getlantern/lantern</link>
+      <description>Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.</description>
+      <guid>https://github.com/getlantern/lantern</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>16,364</stars>
+      <forks>11,052</forks>
+      <addStars>262</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6346213?s=40&amp;v=4</avatar>
+          <name>atavism</name>
+          <url>https://github.com/atavism</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/132374182?s=40&amp;v=4</avatar>
+          <name>jigar-f</name>
+          <url>https://github.com/jigar-f</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1143966?s=40&amp;v=4</avatar>
+          <name>myleshorton</name>
+          <url>https://github.com/myleshorton</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104022054?s=40&amp;v=4</avatar>
+          <name>garmr-ulfr</name>
+          <url>https://github.com/garmr-ulfr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>flutter/flutter</title>
       <link>https://github.com/flutter/flutter</link>
       <description>Flutter makes it easy and fast to build beautiful apps for mobile and beyond</description>
       <guid>https://github.com/flutter/flutter</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>180,244</stars>
+      <stars>180,245</stars>
       <forks>34,302</forks>
       <addStars>1,161</addStars>
       <contributors>
@@ -81,30 +119,53 @@
       </contributors>
     </item>
     <item>
-      <title>getlantern/lantern</title>
-      <link>https://github.com/getlantern/lantern</link>
-      <description>Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.</description>
-      <guid>https://github.com/getlantern/lantern</guid>
+      <title>chen08209/FlClash</title>
+      <link>https://github.com/chen08209/FlClash</link>
+      <description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
+      <guid>https://github.com/chen08209/FlClash</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>16,354</stars>
-      <forks>11,051</forks>
-      <addStars>262</addStars>
+      <stars>56,243</stars>
+      <forks>3,605</forks>
+      <addStars>1,278</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6346213?s=40&amp;v=4</avatar>
-          <name>atavism</name>
-          <url>https://github.com/atavism</url>
+          <avatar>https://avatars.githubusercontent.com/u/66918471?s=40&amp;v=4</avatar>
+          <name>chen08209</name>
+          <url>https://github.com/chen08209</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/132374182?s=40&amp;v=4</avatar>
-          <name>jigar-f</name>
-          <url>https://github.com/jigar-f</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1143966?s=40&amp;v=4</avatar>
-          <name>myleshorton</name>
-          <url>https://github.com/myleshorton</url>
+          <avatar>https://avatars.githubusercontent.com/u/41893946?s=40&amp;v=4</avatar>
+          <name>txyyh</name>
+          <url>https://github.com/txyyh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/101031809?s=40&amp;v=4</avatar>
+          <name>BIGGASSS</name>
+          <url>https://github.com/BIGGASSS</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>edde746/plezy</title>
+      <link>https://github.com/edde746/plezy</link>
+      <description>Modern cross-platform Plex &amp; Jellyfin client built with Flutter</description>
+      <guid>https://github.com/edde746/plezy</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>3,786</stars>
+      <forks>382</forks>
+      <addStars>129</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/86283021?s=40&amp;v=4</avatar>
+          <name>edde746</name>
+          <url>https://github.com/edde746</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -112,9 +173,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104022054?s=40&amp;v=4</avatar>
-          <name>garmr-ulfr</name>
-          <url>https://github.com/garmr-ulfr</url>
+          <avatar>https://avatars.githubusercontent.com/u/7417301?s=40&amp;v=4</avatar>
+          <name>micahmo</name>
+          <url>https://github.com/micahmo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11655673?s=40&amp;v=4</avatar>
+          <name>Doezer</name>
+          <url>https://github.com/Doezer</url>
         </contributor>
       </contributors>
     </item>
@@ -157,80 +223,14 @@
       </contributors>
     </item>
     <item>
-      <title>chen08209/FlClash</title>
-      <link>https://github.com/chen08209/FlClash</link>
-      <description>A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.</description>
-      <guid>https://github.com/chen08209/FlClash</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>56,193</stars>
-      <forks>3,598</forks>
-      <addStars>1,278</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66918471?s=40&amp;v=4</avatar>
-          <name>chen08209</name>
-          <url>https://github.com/chen08209</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
-          <name>actions-user</name>
-          <url>https://github.com/actions-user</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41893946?s=40&amp;v=4</avatar>
-          <name>txyyh</name>
-          <url>https://github.com/txyyh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/101031809?s=40&amp;v=4</avatar>
-          <name>BIGGASSS</name>
-          <url>https://github.com/BIGGASSS</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>edde746/plezy</title>
-      <link>https://github.com/edde746/plezy</link>
-      <description>Modern cross-platform Plex &amp; Jellyfin client built with Flutter</description>
-      <guid>https://github.com/edde746/plezy</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>3,781</stars>
-      <forks>382</forks>
-      <addStars>129</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86283021?s=40&amp;v=4</avatar>
-          <name>edde746</name>
-          <url>https://github.com/edde746</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7417301?s=40&amp;v=4</avatar>
-          <name>micahmo</name>
-          <url>https://github.com/micahmo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11655673?s=40&amp;v=4</avatar>
-          <name>Doezer</name>
-          <url>https://github.com/Doezer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Predidit/KazumiRules</title>
       <link>https://github.com/Predidit/KazumiRules</link>
       <description>Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^</description>
       <guid>https://github.com/Predidit/KazumiRules</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>2,362</stars>
-      <forks>133</forks>
+      <stars>2,366</stars>
+      <forks>134</forks>
       <addStars>118</addStars>
       <contributors>
         <contributor>
@@ -252,6 +252,138 @@
           <avatar>https://avatars.githubusercontent.com/u/151894588?s=40&amp;v=4</avatar>
           <name>nekohalawrence</name>
           <url>https://github.com/nekohalawrence</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>AneryCoft/course_helper</title>
+      <link>https://github.com/AneryCoft/course_helper</link>
+      <description>学习通/雨课堂课程管理，支持签到、随堂练习等功能</description>
+      <guid>https://github.com/AneryCoft/course_helper</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>284</stars>
+      <forks>35</forks>
+      <addStars>38</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/78856933?s=40&amp;v=4</avatar>
+          <name>AneryCoft</name>
+          <url>https://github.com/AneryCoft</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/117754398?s=40&amp;v=4</avatar>
+          <name>CookiesHax</name>
+          <url>https://github.com/CookiesHax</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>CyrilPeng/Venera-Next</title>
+      <link>https://github.com/CyrilPeng/Venera-Next</link>
+      <description>VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。</description>
+      <guid>https://github.com/CyrilPeng/Venera-Next</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>1,528</stars>
+      <forks>46</forks>
+      <addStars>184</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48341401?s=40&amp;v=4</avatar>
+          <name>CyrilPeng</name>
+          <url>https://github.com/CyrilPeng</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70036307?s=40&amp;v=4</avatar>
+          <name>enximi</name>
+          <url>https://github.com/enximi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/128163683?s=40&amp;v=4</avatar>
+          <name>illumiat</name>
+          <url>https://github.com/illumiat</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5670103?s=40&amp;v=4</avatar>
+          <name>xj90512</name>
+          <url>https://github.com/xj90512</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Chevey339/kelivo</title>
+      <link>https://github.com/Chevey339/kelivo</link>
+      <description>A Flutter LLM Chat Client. Support Mobile &amp; Desktop.</description>
+      <guid>https://github.com/Chevey339/kelivo</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>4,240</stars>
+      <forks>483</forks>
+      <addStars>78</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49580479?s=40&amp;v=4</avatar>
+          <name>Chevey339</name>
+          <url>https://github.com/Chevey339</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/248307616?s=40&amp;v=4</avatar>
+          <name>VictorSun92</name>
+          <url>https://github.com/VictorSun92</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30541469?s=40&amp;v=4</avatar>
+          <name>luosc</name>
+          <url>https://github.com/luosc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/145245150?s=40&amp;v=4</avatar>
+          <name>XiaoBuHaly</name>
+          <url>https://github.com/XiaoBuHaly</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>wanghongenpin/proxypin</title>
+      <link>https://github.com/wanghongenpin/proxypin</link>
+      <description>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</description>
+      <guid>https://github.com/wanghongenpin/proxypin</guid>
+      <language>Dart</language>
+      <languageColor>#00B4AB</languageColor>
+      <stars>14,147</stars>
+      <forks>1,239</forks>
+      <addStars>64</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24794200?s=40&amp;v=4</avatar>
+          <name>wanghongenpin</name>
+          <url>https://github.com/wanghongenpin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/114972867?s=40&amp;v=4</avatar>
+          <name>bggRGjQaUbCoE</name>
+          <url>https://github.com/bggRGjQaUbCoE</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62326552?s=40&amp;v=4</avatar>
+          <name>Pandaver</name>
+          <url>https://github.com/Pandaver</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/134976618?s=40&amp;v=4</avatar>
+          <name>kagenay</name>
+          <url>https://github.com/kagenay</url>
         </contributor>
       </contributors>
     </item>
@@ -294,182 +426,40 @@
       </contributors>
     </item>
     <item>
-      <title>Chevey339/kelivo</title>
-      <link>https://github.com/Chevey339/kelivo</link>
-      <description>A Flutter LLM Chat Client. Support Mobile &amp; Desktop.</description>
-      <guid>https://github.com/Chevey339/kelivo</guid>
+      <title>OpenStrap/edge</title>
+      <link>https://github.com/OpenStrap/edge</link>
+      <description>App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.</description>
+      <guid>https://github.com/OpenStrap/edge</guid>
       <language>Dart</language>
       <languageColor>#00B4AB</languageColor>
-      <stars>4,235</stars>
-      <forks>482</forks>
-      <addStars>78</addStars>
+      <stars>726</stars>
+      <forks>133</forks>
+      <addStars>48</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49580479?s=40&amp;v=4</avatar>
-          <name>Chevey339</name>
-          <url>https://github.com/Chevey339</url>
+          <avatar>https://avatars.githubusercontent.com/u/127765312?s=40&amp;v=4</avatar>
+          <name>abdulsaheel</name>
+          <url>https://github.com/abdulsaheel</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/248307616?s=40&amp;v=4</avatar>
-          <name>VictorSun92</name>
-          <url>https://github.com/VictorSun92</url>
+          <avatar>https://avatars.githubusercontent.com/u/99352677?s=40&amp;v=4</avatar>
+          <name>DropTabl</name>
+          <url>https://github.com/DropTabl</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30541469?s=40&amp;v=4</avatar>
-          <name>luosc</name>
-          <url>https://github.com/luosc</url>
+          <avatar>https://avatars.githubusercontent.com/u/179630?s=40&amp;v=4</avatar>
+          <name>dannymcc</name>
+          <url>https://github.com/dannymcc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/220374863?s=40&amp;v=4</avatar>
+          <name>mistral-vibe</name>
+          <url>https://github.com/mistral-vibe</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/145245150?s=40&amp;v=4</avatar>
-          <name>XiaoBuHaly</name>
-          <url>https://github.com/XiaoBuHaly</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>xiaoyaocz/dart_simple_live</title>
-      <link>https://github.com/xiaoyaocz/dart_simple_live</link>
-      <description>简简单单的看直播</description>
-      <guid>https://github.com/xiaoyaocz/dart_simple_live</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>16,144</stars>
-      <forks>3,175</forks>
-      <addStars>52</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16559082?s=40&amp;v=4</avatar>
-          <name>xiaoyaocz</name>
-          <url>https://github.com/xiaoyaocz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25811859?s=40&amp;v=4</avatar>
-          <name>bgylde</name>
-          <url>https://github.com/bgylde</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20356305?s=40&amp;v=4</avatar>
-          <name>SlotSun</name>
-          <url>https://github.com/SlotSun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53986661?s=40&amp;v=4</avatar>
-          <name>AprDeci</name>
-          <url>https://github.com/AprDeci</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35188529?s=40&amp;v=4</avatar>
-          <name>ybhgl</name>
-          <url>https://github.com/ybhgl</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>CyrilPeng/Venera-Next</title>
-      <link>https://github.com/CyrilPeng/Venera-Next</link>
-      <description>VeneraNext 是一个跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源、第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。</description>
-      <guid>https://github.com/CyrilPeng/Venera-Next</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>1,506</stars>
-      <forks>45</forks>
-      <addStars>184</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48341401?s=40&amp;v=4</avatar>
-          <name>CyrilPeng</name>
-          <url>https://github.com/CyrilPeng</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70036307?s=40&amp;v=4</avatar>
-          <name>enximi</name>
-          <url>https://github.com/enximi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/128163683?s=40&amp;v=4</avatar>
-          <name>illumiat</name>
-          <url>https://github.com/illumiat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5670103?s=40&amp;v=4</avatar>
-          <name>xj90512</name>
-          <url>https://github.com/xj90512</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>wanghongenpin/proxypin</title>
-      <link>https://github.com/wanghongenpin/proxypin</link>
-      <description>Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems</description>
-      <guid>https://github.com/wanghongenpin/proxypin</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>14,146</stars>
-      <forks>1,238</forks>
-      <addStars>64</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24794200?s=40&amp;v=4</avatar>
-          <name>wanghongenpin</name>
-          <url>https://github.com/wanghongenpin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/114972867?s=40&amp;v=4</avatar>
-          <name>bggRGjQaUbCoE</name>
-          <url>https://github.com/bggRGjQaUbCoE</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62326552?s=40&amp;v=4</avatar>
-          <name>Pandaver</name>
-          <url>https://github.com/Pandaver</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/134976618?s=40&amp;v=4</avatar>
-          <name>kagenay</name>
-          <url>https://github.com/kagenay</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>lollipopkit/flutter_server_box</title>
-      <link>https://github.com/lollipopkit/flutter_server_box</link>
-      <description>ServerBox - server status &amp; toolbox</description>
-      <guid>https://github.com/lollipopkit/flutter_server_box</guid>
-      <language>Dart</language>
-      <languageColor>#00B4AB</languageColor>
-      <stars>8,837</stars>
-      <forks>568</forks>
-      <addStars>59</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10864310?s=40&amp;v=4</avatar>
-          <name>lollipopkit</name>
-          <url>https://github.com/lollipopkit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/79314033?s=40&amp;v=4</avatar>
-          <name>GT-610</name>
-          <url>https://github.com/GT-610</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7395735?s=40&amp;v=4</avatar>
-          <name>PaperCube</name>
-          <url>https://github.com/PaperCube</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71180087?s=40&amp;v=4</avatar>
-          <name>Integral-Tech</name>
-          <url>https://github.com/Integral-Tech</url>
+          <avatar>https://avatars.githubusercontent.com/u/149576997?s=40&amp;v=4</avatar>
+          <name>BucciMobile</name>
+          <url>https://github.com/BucciMobile</url>
         </contributor>
       </contributors>
     </item>
