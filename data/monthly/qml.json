@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Monthly Trending",
   "description": "Monthly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 17 Oct 2026 11:29:28 GMT",
+  "pubDate": "Sat, 17 Oct 2026 16:09:19 GMT",
   "items": [
     {
       "title": "ladybug-me/caelestia-kde",
@@ -42,7 +42,7 @@
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,841",
+      "stars": "1,842",
       "forks": "102",
       "addStars": "249",
       "contributors": [
@@ -153,7 +153,7 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "12,919",
+      "stars": "12,922",
       "forks": "959",
       "addStars": "643",
       "contributors": [
@@ -207,7 +207,7 @@
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,409",
+      "stars": "3,411",
       "forks": "206",
       "addStars": "418",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "8,459",
+      "stars": "8,462",
       "forks": "554",
       "addStars": "402",
       "contributors": [
@@ -314,7 +314,7 @@
       "language": "QML",
       "languageColor": "#44a51c",
       "stars": "26,506",
-      "forks": "1,038",
+      "forks": "1,039",
       "addStars": "161",
       "contributors": [
         {
@@ -382,12 +382,49 @@
       ]
     },
     {
+      "title": "SirJul1337/omarchy-lock-explorer",
+      "url": "https://github.com/SirJul1337/omarchy-lock-explorer",
+      "description": "Lock screen designs for Omarchy with a picker to preview and switch between them",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "208",
+      "forks": "29",
+      "addStars": "55",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84667145?s=40&v=4",
+          "name": "SirJul1337",
+          "url": "https://github.com/SirJul1337"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89959743?s=40&v=4",
+          "name": "davidboulay",
+          "url": "https://github.com/davidboulay"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/144157?s=40&v=4",
+          "name": "Somnius",
+          "url": "https://github.com/Somnius"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16592705?s=40&v=4",
+          "name": "brennenawana",
+          "url": "https://github.com/brennenawana"
+        }
+      ]
+    },
+    {
       "title": "Darkkal44/qylock",
       "url": "https://github.com/Darkkal44/qylock",
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,926",
+      "stars": "2,927",
       "forks": "124",
       "addStars": "197",
       "contributors": [
