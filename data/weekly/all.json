@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 17 Oct 2026 16:09:19 GMT",
+  "pubDate": "Sat, 17 Oct 2026 21:20:57 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "302,756",
-      "forks": "76,600",
+      "stars": "306,267",
+      "forks": "77,499",
       "addStars": "248,962",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,440",
-      "forks": "4,979",
+      "stars": "31,683",
+      "forks": "5,014",
       "addStars": "20,267",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "40,958",
-      "forks": "3,680",
+      "stars": "41,511",
+      "forks": "3,734",
       "addStars": "20,518",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "56,822",
-      "forks": "3,614",
+      "stars": "56,947",
+      "forks": "3,617",
       "addStars": "9,024",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,355",
-      "forks": "4,446",
+      "stars": "41,617",
+      "forks": "4,453",
       "addStars": "2,328",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "65,750",
-      "forks": "5,935",
+      "stars": "65,918",
+      "forks": "5,950",
       "addStars": "5,601",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,456",
-      "forks": "2,184",
+      "stars": "30,488",
+      "forks": "2,195",
       "addStars": "4,207",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "90,068",
-      "forks": "10,074",
+      "stars": "90,195",
+      "forks": "10,094",
       "addStars": "7,510",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "294,763",
-      "forks": "24,721",
+      "stars": "295,003",
+      "forks": "24,742",
       "addStars": "11,937",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,658",
-      "forks": "136",
+      "stars": "1,702",
+      "forks": "137",
       "addStars": "779",
       "contributors": [
         {

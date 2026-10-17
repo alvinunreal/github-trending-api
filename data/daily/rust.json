@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 17 Oct 2026 16:09:19 GMT",
+  "pubDate": "Sat, 17 Oct 2026 21:20:57 GMT",
   "items": [
     {
       "title": "akitaonrails/ai-memory",
@@ -10,8 +10,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,790",
-      "forks": "706",
+      "stars": "9,864",
+      "forks": "713",
       "addStars": "208",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,530",
-      "forks": "390",
+      "stars": "7,727",
+      "forks": "407",
       "addStars": "1,102",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,048",
-      "forks": "483",
+      "stars": "7,060",
+      "forks": "484",
       "addStars": "93",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "91,852",
-      "forks": "11,094",
+      "stars": "91,863",
+      "forks": "11,096",
       "addStars": "43",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,320",
+      "stars": "8,323",
       "forks": "1,717",
       "addStars": "8",
       "contributors": [
@@ -190,7 +190,7 @@
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,226",
+      "stars": "1,239",
       "forks": "139",
       "addStars": "228",
       "contributors": [
@@ -227,7 +227,7 @@
       "description": "OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,827",
+      "stars": "2,828",
       "forks": "267",
       "addStars": "151",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,244",
+      "stars": "30,259",
       "forks": "4,051",
       "addStars": "87",
       "contributors": [
@@ -301,8 +301,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,610",
-      "forks": "787",
+      "stars": "16,630",
+      "forks": "790",
       "addStars": "103",
       "contributors": [
         {
@@ -333,8 +333,8 @@
       "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,191",
-      "forks": "1,425",
+      "stars": "33,195",
+      "forks": "1,431",
       "addStars": "18",
       "contributors": [
         {
@@ -370,8 +370,8 @@
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "35,112",
-      "forks": "1,485",
+      "stars": "35,117",
+      "forks": "1,486",
       "addStars": "47",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "126,110",
-      "forks": "19,780",
+      "stars": "126,137",
+      "forks": "19,787",
       "addStars": "109",
       "contributors": [
         {
@@ -439,7 +439,7 @@
       "description": "The unified toolchain and entry point for web development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,343",
+      "stars": "6,347",
       "forks": "283",
       "addStars": "45",
       "contributors": [
@@ -471,7 +471,7 @@
       "description": "A secure Python sandbox, written in Rust, for code written by AI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,701",
+      "stars": "8,702",
       "forks": "459",
       "addStars": "9",
       "contributors": [
@@ -508,7 +508,7 @@
       "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,674",
+      "stars": "10,673",
       "forks": "2,677",
       "addStars": "5",
       "contributors": [
@@ -545,8 +545,8 @@
       "description": "The Best & Most Powerful Native Agents Workspace. Fully Rust & GPUI based. Mobile apps. 20+ agents. Ghostty.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,236",
-      "forks": "84",
+      "stars": "1,253",
+      "forks": "87",
       "addStars": "63",
       "contributors": [
         {
