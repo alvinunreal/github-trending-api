@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Sun, 18 Oct 2026 05:23:16 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 11:59:14 GMT</pubDate>
     <item>
       <title>anthropics/claude-plugins-official</title>
       <link>https://github.com/anthropics/claude-plugins-official</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,970</stars>
-      <forks>4,474</forks>
+      <stars>42,282</stars>
+      <forks>4,503</forks>
       <addStars>3,581</addStars>
       <contributors>
         <contributor>
@@ -38,80 +38,14 @@
       </contributors>
     </item>
     <item>
-      <title>Alishahryar1/free-claude-code</title>
-      <link>https://github.com/Alishahryar1/free-claude-code</link>
-      <description>Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</description>
-      <guid>https://github.com/Alishahryar1/free-claude-code</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>61,322</stars>
-      <forks>9,611</forks>
-      <addStars>4,103</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4</avatar>
-          <name>Alishahryar1</name>
-          <url>https://github.com/Alishahryar1</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49880456?s=40&amp;v=4</avatar>
-          <name>Tanishq-1</name>
-          <url>https://github.com/Tanishq-1</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>K-Dense-AI/scientific-agent-skills</title>
-      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
-      <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>52,382</stars>
-      <forks>4,638</forks>
-      <addStars>3,865</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
-          <name>timothykassis</name>
-          <url>https://github.com/timothykassis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4</avatar>
-          <name>borealBytes</name>
-          <url>https://github.com/borealBytes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>MadsLorentzen/ai-job-search</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
       <description>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</description>
       <guid>https://github.com/MadsLorentzen/ai-job-search</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,797</stars>
-      <forks>16,973</forks>
+      <stars>51,438</stars>
+      <forks>17,079</forks>
       <addStars>4,200</addStars>
       <contributors>
         <contributor>
@@ -142,14 +76,80 @@
       </contributors>
     </item>
     <item>
+      <title>K-Dense-AI/scientific-agent-skills</title>
+      <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
+      <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>52,564</stars>
+      <forks>4,653</forks>
+      <addStars>3,865</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9168908?s=40&amp;v=4</avatar>
+          <name>timothykassis</name>
+          <url>https://github.com/timothykassis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/206480607?s=40&amp;v=4</avatar>
+          <name>borealBytes</name>
+          <url>https://github.com/borealBytes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Alishahryar1/free-claude-code</title>
+      <link>https://github.com/Alishahryar1/free-claude-code</link>
+      <description>Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</description>
+      <guid>https://github.com/Alishahryar1/free-claude-code</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>61,395</stars>
+      <forks>9,629</forks>
+      <addStars>4,103</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20476625?s=40&amp;v=4</avatar>
+          <name>Alishahryar1</name>
+          <url>https://github.com/Alishahryar1</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49880456?s=40&amp;v=4</avatar>
+          <name>Tanishq-1</name>
+          <url>https://github.com/Tanishq-1</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>debpalash/VoiceStudio</title>
       <link>https://github.com/debpalash/VoiceStudio</link>
       <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,728</stars>
-      <forks>8,067</forks>
+      <stars>74,220</stars>
+      <forks>8,123</forks>
       <addStars>15,911</addStars>
       <contributors>
         <contributor>
@@ -180,14 +180,90 @@
       </contributors>
     </item>
     <item>
+      <title>HKUDS/CLI-Anything</title>
+      <link>https://github.com/HKUDS/CLI-Anything</link>
+      <description>"CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/</description>
+      <guid>https://github.com/HKUDS/CLI-Anything</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>54,340</stars>
+      <forks>4,926</forks>
+      <addStars>2,492</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43330997?s=40&amp;v=4</avatar>
+          <name>yuh-yang</name>
+          <url>https://github.com/yuh-yang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76622021?s=40&amp;v=4</avatar>
+          <name>AiMiDi</name>
+          <url>https://github.com/AiMiDi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/76780961?s=40&amp;v=4</avatar>
+          <name>omerarslan0</name>
+          <url>https://github.com/omerarslan0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26110883?s=40&amp;v=4</avatar>
+          <name>hito0512</name>
+          <url>https://github.com/hito0512</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>lightseekorg/tokenspeed</title>
+      <link>https://github.com/lightseekorg/tokenspeed</link>
+      <description>TokenSpeed is a speed-of-light LLM inference engine.</description>
+      <guid>https://github.com/lightseekorg/tokenspeed</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>2,698</stars>
+      <forks>360</forks>
+      <addStars>482</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/243258330?s=40&amp;v=4</avatar>
+          <name>lightseek-bot</name>
+          <url>https://github.com/lightseek-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/487928?s=40&amp;v=4</avatar>
+          <name>antiagainst</name>
+          <url>https://github.com/antiagainst</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/297528256?s=40&amp;v=4</avatar>
+          <name>nperrin-fr</name>
+          <url>https://github.com/nperrin-fr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/312376714?s=40&amp;v=4</avatar>
+          <name>longcat-ia-team</name>
+          <url>https://github.com/longcat-ia-team</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25846776?s=40&amp;v=4</avatar>
+          <name>borontion</name>
+          <url>https://github.com/borontion</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>earthtojake/text-to-cad</title>
       <link>https://github.com/earthtojake/text-to-cad</link>
       <description>Give your agent CAD superpowers.</description>
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>21,306</stars>
-      <forks>2,102</forks>
+      <stars>21,364</stars>
+      <forks>2,108</forks>
       <addStars>2,306</addStars>
       <contributors>
         <contributor>
@@ -214,8 +290,8 @@
       <guid>https://github.com/ifixai-ai/iFixAi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,176</stars>
-      <forks>1,598</forks>
+      <stars>29,336</stars>
+      <forks>1,613</forks>
       <addStars>6,895</addStars>
       <contributors>
         <contributor>
@@ -247,7 +323,7 @@
       <guid>https://github.com/KittenML/KittenTTS</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,139</stars>
+      <stars>16,141</stars>
       <forks>959</forks>
       <addStars>387</addStars>
       <contributors>
@@ -279,70 +355,14 @@
       </contributors>
     </item>
     <item>
-      <title>lightseekorg/tokenspeed</title>
-      <link>https://github.com/lightseekorg/tokenspeed</link>
-      <description>TokenSpeed is a speed-of-light LLM inference engine.</description>
-      <guid>https://github.com/lightseekorg/tokenspeed</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>2,696</stars>
-      <forks>359</forks>
-      <addStars>482</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/243258330?s=40&amp;v=4</avatar>
-          <name>lightseek-bot</name>
-          <url>https://github.com/lightseek-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/487928?s=40&amp;v=4</avatar>
-          <name>antiagainst</name>
-          <url>https://github.com/antiagainst</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/297528256?s=40&amp;v=4</avatar>
-          <name>nperrin-fr</name>
-          <url>https://github.com/nperrin-fr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/312376714?s=40&amp;v=4</avatar>
-          <name>longcat-ia-team</name>
-          <url>https://github.com/longcat-ia-team</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25846776?s=40&amp;v=4</avatar>
-          <name>borontion</name>
-          <url>https://github.com/borontion</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>microsoft/TRELLIS.2</title>
-      <link>https://github.com/microsoft/TRELLIS.2</link>
-      <description>Native and Compact Structured Latents for 3D Generation</description>
-      <guid>https://github.com/microsoft/TRELLIS.2</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>12,113</stars>
-      <forks>1,478</forks>
-      <addStars>340</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45420254?s=40&amp;v=4</avatar>
-          <name>JeffreyXiang</name>
-          <url>https://github.com/JeffreyXiang</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>ShawnPana/phone-harness</title>
       <link>https://github.com/ShawnPana/phone-harness</link>
       <description>let your agent control your phone</description>
       <guid>https://github.com/ShawnPana/phone-harness</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,772</stars>
-      <forks>394</forks>
+      <stars>3,776</stars>
+      <forks>395</forks>
       <addStars>556</addStars>
       <contributors>
         <contributor>
