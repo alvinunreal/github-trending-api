@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 18 Oct 2026 21:21:00 GMT",
+  "pubDate": "Mon, 19 Oct 2026 05:40:26 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,9 +10,9 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "104,076",
-      "forks": "17,392",
-      "addStars": "22,891",
+      "stars": "104,255",
+      "forks": "17,411",
+      "addStars": "23,340",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34892728?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,045",
-      "forks": "8,210",
-      "addStars": "40,333",
+      "stars": "75,973",
+      "forks": "8,315",
+      "addStars": "42,036",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "66,649",
-      "forks": "6,032",
-      "addStars": "15,041",
+      "stars": "66,935",
+      "forks": "6,068",
+      "addStars": "15,429",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,272",
-      "forks": "5,649",
-      "addStars": "5,410",
+      "stars": "40,304",
+      "forks": "5,653",
+      "addStars": "5,498",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5457787?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "51,206",
-      "forks": "6,151",
-      "addStars": "27,228",
+      "stars": "51,327",
+      "forks": "6,154",
+      "addStars": "27,550",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23314389?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,094",
-      "forks": "1,950",
-      "addStars": "22,054",
+      "stars": "31,248",
+      "forks": "1,958",
+      "addStars": "19,109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,490",
-      "forks": "599",
-      "addStars": "3,487",
+      "stars": "5,531",
+      "forks": "605",
+      "addStars": "3,533",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,724",
-      "forks": "2,275",
-      "addStars": "7,235",
+      "stars": "30,833",
+      "forks": "2,286",
+      "addStars": "7,319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,611",
-      "forks": "1,812",
-      "addStars": "7,956",
+      "stars": "16,647",
+      "forks": "1,813",
+      "addStars": "7,995",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/385?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "283,209",
-      "forks": "42,070",
-      "addStars": "23,023",
+      "stars": "283,435",
+      "forks": "42,103",
+      "addStars": "23,080",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "37,029",
-      "forks": "5,005",
-      "addStars": "9,863",
+      "stars": "37,183",
+      "forks": "5,021",
+      "addStars": "10,063",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,151",
-      "forks": "3,410",
-      "addStars": "5,654",
+      "stars": "30,266",
+      "forks": "3,424",
+      "addStars": "5,493",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "90,824",
-      "forks": "10,164",
-      "addStars": "12,003",
+      "stars": "91,065",
+      "forks": "10,192",
+      "addStars": "12,009",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,697",
-      "forks": "1,249",
-      "addStars": "4,213",
+      "stars": "12,831",
+      "forks": "1,263",
+      "addStars": "4,507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,000",
-      "forks": "12,488",
-      "addStars": "16,014",
+      "stars": "71,118",
+      "forks": "12,515",
+      "addStars": "16,300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -535,9 +535,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,595",
-      "forks": "4,525",
-      "addStars": "5,112",
+      "stars": "42,856",
+      "forks": "4,540",
+      "addStars": "6,015",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -567,9 +567,9 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,885",
-      "forks": "1,269",
-      "addStars": "6,631",
+      "stars": "9,951",
+      "forks": "1,275",
+      "addStars": "6,138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/309035352?s=40&v=4",
@@ -604,9 +604,9 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "30,123",
-      "forks": "2,167",
-      "addStars": "7,435",
+      "stars": "30,167",
+      "forks": "2,170",
+      "addStars": "7,211",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/195596869?s=40&v=4",
@@ -636,9 +636,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,103",
-      "forks": "1,097",
-      "addStars": "3,500",
+      "stars": "18,162",
+      "forks": "1,103",
+      "addStars": "3,632",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -673,9 +673,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,327",
-      "forks": "7,556",
-      "addStars": "5,326",
+      "stars": "28,421",
+      "forks": "7,590",
+      "addStars": "5,415",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
