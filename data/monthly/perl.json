@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Monthly Trending",
   "description": "Monthly Trending of Perl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 05:40:26 GMT",
+  "pubDate": "Mon, 19 Oct 2026 14:28:10 GMT",
   "items": [
     {
       "title": "os-autoinst/os-autoinst-distri-opensuse",
@@ -84,7 +84,7 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "505",
+      "stars": "506",
       "forks": "122",
       "addStars": "13",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "5,172",
+      "stars": "5,173",
       "forks": "492",
       "addStars": "128",
       "contributors": [
@@ -134,38 +134,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/26515643?s=40&v=4",
           "name": "r-downing",
           "url": "https://github.com/r-downing"
-        }
-      ]
-    },
-    {
-      "title": "netdisco/netdisco",
-      "url": "https://github.com/netdisco/netdisco",
-      "description": "A web-based network management tool.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "930",
-      "forks": "108",
-      "addStars": "17",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29653?s=40&v=4",
-          "name": "ollyg",
-          "url": "https://github.com/ollyg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1408894?s=40&v=4",
-          "name": "jeneric",
-          "url": "https://github.com/jeneric"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/39005454?s=40&v=4",
-          "name": "inphobia",
-          "url": "https://github.com/inphobia"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1247031?s=40&v=4",
-          "name": "rc9000",
-          "url": "https://github.com/rc9000"
         }
       ]
     },
@@ -207,12 +175,44 @@
       ]
     },
     {
+      "title": "netdisco/netdisco",
+      "url": "https://github.com/netdisco/netdisco",
+      "description": "A web-based network management tool.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "930",
+      "forks": "108",
+      "addStars": "17",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29653?s=40&v=4",
+          "name": "ollyg",
+          "url": "https://github.com/ollyg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1408894?s=40&v=4",
+          "name": "jeneric",
+          "url": "https://github.com/jeneric"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39005454?s=40&v=4",
+          "name": "inphobia",
+          "url": "https://github.com/inphobia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1247031?s=40&v=4",
+          "name": "rc9000",
+          "url": "https://github.com/rc9000"
+        }
+      ]
+    },
+    {
       "title": "brendangregg/FlameGraph",
       "url": "https://github.com/brendangregg/FlameGraph",
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": "19,798",
+      "stars": "19,799",
       "forks": "2,111",
       "addStars": "57",
       "contributors": [
@@ -318,6 +318,80 @@
       ]
     },
     {
+      "title": "Difegue/LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,134",
+      "forks": "232",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8237712?s=40&v=4",
+          "name": "Difegue",
+          "url": "https://github.com/Difegue"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/113860476?s=40&v=4",
+          "name": "psilabs-dev",
+          "url": "https://github.com/psilabs-dev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124937394?s=40&v=4",
+          "name": "siliconfeces",
+          "url": "https://github.com/siliconfeces"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9023392?s=40&v=4",
+          "name": "Guerra24",
+          "url": "https://github.com/Guerra24"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10560038?s=40&v=4",
+          "name": "xiazeyu",
+          "url": "https://github.com/xiazeyu"
+        }
+      ]
+    },
+    {
+      "title": "adrienverge/openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": "3,447",
+      "forks": "378",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3234522?s=40&v=4",
+          "name": "DimitriPapadopoulos",
+          "url": "https://github.com/DimitriPapadopoulos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11367971?s=40&v=4",
+          "name": "mrbaseman",
+          "url": "https://github.com/mrbaseman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5244945?s=40&v=4",
+          "name": "adrienverge",
+          "url": "https://github.com/adrienverge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/92695?s=40&v=4",
+          "name": "lkundrak",
+          "url": "https://github.com/lkundrak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1729331?s=40&v=4",
+          "name": "martinetd",
+          "url": "https://github.com/martinetd"
+        }
+      ]
+    },
+    {
       "title": "docker-library/repo-info",
       "url": "https://github.com/docker-library/repo-info",
       "description": "Extended information (especially license and layer details) about the published Official Images",
@@ -351,117 +425,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/157178321?s=40&v=4",
           "name": "tianon-sso",
           "url": "https://github.com/tianon-sso"
-        }
-      ]
-    },
-    {
-      "title": "adrienverge/openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,446",
-      "forks": "378",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3234522?s=40&v=4",
-          "name": "DimitriPapadopoulos",
-          "url": "https://github.com/DimitriPapadopoulos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11367971?s=40&v=4",
-          "name": "mrbaseman",
-          "url": "https://github.com/mrbaseman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5244945?s=40&v=4",
-          "name": "adrienverge",
-          "url": "https://github.com/adrienverge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92695?s=40&v=4",
-          "name": "lkundrak",
-          "url": "https://github.com/lkundrak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1729331?s=40&v=4",
-          "name": "martinetd",
-          "url": "https://github.com/martinetd"
-        }
-      ]
-    },
-    {
-      "title": "OpenKore/openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "1,532",
-      "forks": "1,225",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17522256?s=40&v=4",
-          "name": "lututui",
-          "url": "https://github.com/lututui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1162431?s=40&v=4",
-          "name": "farrainbow",
-          "url": "https://github.com/farrainbow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10372732?s=40&v=4",
-          "name": "alisonrag",
-          "url": "https://github.com/alisonrag"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/772836?s=40&v=4",
-          "name": "allanon",
-          "url": "https://github.com/allanon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/23263315?s=40&v=4",
-          "name": "sctnightcore",
-          "url": "https://github.com/sctnightcore"
-        }
-      ]
-    },
-    {
-      "title": "Difegue/LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": "3,134",
-      "forks": "231",
-      "addStars": "32",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8237712?s=40&v=4",
-          "name": "Difegue",
-          "url": "https://github.com/Difegue"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/113860476?s=40&v=4",
-          "name": "psilabs-dev",
-          "url": "https://github.com/psilabs-dev"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124937394?s=40&v=4",
-          "name": "siliconfeces",
-          "url": "https://github.com/siliconfeces"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9023392?s=40&v=4",
-          "name": "Guerra24",
-          "url": "https://github.com/Guerra24"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10560038?s=40&v=4",
-          "name": "xiazeyu",
-          "url": "https://github.com/xiazeyu"
         }
       ]
     }

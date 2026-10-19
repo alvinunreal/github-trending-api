@@ -2,8 +2,35 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 05:40:26 GMT",
+  "pubDate": "Mon, 19 Oct 2026 14:28:10 GMT",
   "items": [
+    {
+      "title": "ublue-os/bazzite",
+      "url": "https://github.com/ublue-os/bazzite",
+      "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": "9,194",
+      "forks": "1,136",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10704358?s=40&v=4",
+          "name": "KyleGospo",
+          "url": "https://github.com/KyleGospo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18015150?s=40&v=4",
+          "name": "EyeCantCU",
+          "url": "https://github.com/EyeCantCU"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33781398?s=40&v=4",
+          "name": "Zeglius",
+          "url": "https://github.com/Zeglius"
+        }
+      ]
+    },
     {
       "title": "Diaoul/home-ops",
       "url": "https://github.com/Diaoul/home-ops",
@@ -28,33 +55,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "ublue-os/bazzite",
-      "url": "https://github.com/ublue-os/bazzite",
-      "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
-      "language": "Just",
-      "languageColor": "#384d54",
-      "stars": "9,193",
-      "forks": "1,137",
-      "addStars": "31",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10704358?s=40&v=4",
-          "name": "KyleGospo",
-          "url": "https://github.com/KyleGospo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18015150?s=40&v=4",
-          "name": "EyeCantCU",
-          "url": "https://github.com/EyeCantCU"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33781398?s=40&v=4",
-          "name": "Zeglius",
-          "url": "https://github.com/Zeglius"
         }
       ]
     }

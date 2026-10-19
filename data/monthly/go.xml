@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 05:40:26 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 14:28:10 GMT</pubDate>
     <item>
       <title>agent-substrate/substrate</title>
       <link>https://github.com/agent-substrate/substrate</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,531</stars>
-      <forks>605</forks>
+      <stars>5,559</stars>
+      <forks>604</forks>
       <addStars>3,533</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Tencent/WeKnora</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>34,646</stars>
-      <forks>4,611</forks>
+      <stars>34,707</stars>
+      <forks>4,624</forks>
       <addStars>7,906</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/caddyserver/caddy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>78,135</stars>
-      <forks>5,151</forks>
+      <stars>78,150</stars>
+      <forks>5,155</forks>
       <addStars>2,452</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/Gentleman-Programming/engram</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,442</stars>
-      <forks>775</forks>
+      <stars>7,453</stars>
+      <forks>778</forks>
       <addStars>772</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>183,775</stars>
-      <forks>18,399</forks>
+      <stars>183,822</stars>
+      <forks>18,404</forks>
       <addStars>3,254</addStars>
       <contributors>
         <contributor>
@@ -190,14 +190,52 @@
       </contributors>
     </item>
     <item>
+      <title>google/ax</title>
+      <link>https://github.com/google/ax</link>
+      <description>Agent Executor (AX) is Google's open agentic orchestration runtime</description>
+      <guid>https://github.com/google/ax</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>13,971</stars>
+      <forks>723</forks>
+      <addStars>12,025</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/108380?s=40&amp;v=4</avatar>
+          <name>rakyll</name>
+          <url>https://github.com/rakyll</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11900208?s=40&amp;v=4</avatar>
+          <name>joycel-github</name>
+          <url>https://github.com/joycel-github</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14038238?s=40&amp;v=4</avatar>
+          <name>wjjclaud</name>
+          <url>https://github.com/wjjclaud</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/32556631?s=40&amp;v=4</avatar>
+          <name>anj-s</name>
+          <url>https://github.com/anj-s</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106645026?s=40&amp;v=4</avatar>
+          <name>zbl94</name>
+          <url>https://github.com/zbl94</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vxcontrol/pentagi</title>
       <link>https://github.com/vxcontrol/pentagi</link>
       <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>31,181</stars>
-      <forks>4,897</forks>
+      <stars>31,276</stars>
+      <forks>4,933</forks>
       <addStars>6,583</addStars>
       <contributors>
         <contributor>
@@ -235,7 +273,7 @@
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
       <stars>24,291</stars>
-      <forks>1,913</forks>
+      <forks>1,921</forks>
       <addStars>77</addStars>
       <contributors>
         <contributor>
@@ -272,7 +310,7 @@
       <guid>https://github.com/docker/docker-agent</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,562</stars>
+      <stars>4,568</stars>
       <forks>520</forks>
       <addStars>1,241</addStars>
       <contributors>
@@ -304,46 +342,13 @@
       </contributors>
     </item>
     <item>
-      <title>coder/coder</title>
-      <link>https://github.com/coder/coder</link>
-      <description>Secure environments for developers and their agents</description>
-      <guid>https://github.com/coder/coder</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>17,093</stars>
-      <forks>1,635</forks>
-      <addStars>2,023</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7122116?s=40&amp;v=4</avatar>
-          <name>kylecarbs</name>
-          <url>https://github.com/kylecarbs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/147409?s=40&amp;v=4</avatar>
-          <name>mafredri</name>
-          <url>https://github.com/mafredri</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4949514?s=40&amp;v=4</avatar>
-          <name>johnstcn</name>
-          <url>https://github.com/johnstcn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5446298?s=40&amp;v=4</avatar>
-          <name>Emyrk</name>
-          <url>https://github.com/Emyrk</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Gaurav-Gosain/tuios</title>
       <link>https://github.com/Gaurav-Gosain/tuios</link>
       <description>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.</description>
       <guid>https://github.com/Gaurav-Gosain/tuios</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>5,488</stars>
+      <stars>5,498</stars>
       <forks>258</forks>
       <addStars>1,831</addStars>
       <contributors>
@@ -377,7 +382,7 @@
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
       <stars>3,019</stars>
-      <forks>552</forks>
+      <forks>556</forks>
       <addStars>525</addStars>
       <contributors>
         <contributor>
@@ -408,51 +413,13 @@
       </contributors>
     </item>
     <item>
-      <title>guohuiyuan/go-music-dl</title>
-      <link>https://github.com/guohuiyuan/go-music-dl</link>
-      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
-      <guid>https://github.com/guohuiyuan/go-music-dl</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>5,473</stars>
-      <forks>520</forks>
-      <addStars>1,110</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54976075?s=40&amp;v=4</avatar>
-          <name>guohuiyuan</name>
-          <url>https://github.com/guohuiyuan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108398856?s=40&amp;v=4</avatar>
-          <name>lianhong2758</name>
-          <url>https://github.com/lianhong2758</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31527323?s=40&amp;v=4</avatar>
-          <name>nannyu</name>
-          <url>https://github.com/nannyu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/41892193?s=40&amp;v=4</avatar>
-          <name>yuanxiao1225</name>
-          <url>https://github.com/yuanxiao1225</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>trufflesecurity/trufflehog</title>
       <link>https://github.com/trufflesecurity/trufflehog</link>
       <description>Find, verify, and analyze leaked credentials</description>
       <guid>https://github.com/trufflesecurity/trufflehog</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>28,581</stars>
+      <stars>28,587</stars>
       <forks>2,650</forks>
       <addStars>664</addStars>
       <contributors>
@@ -479,278 +446,14 @@
       </contributors>
     </item>
     <item>
-      <title>oauth2-proxy/oauth2-proxy</title>
-      <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
-      <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
-      <guid>https://github.com/oauth2-proxy/oauth2-proxy</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>15,212</stars>
-      <forks>2,238</forks>
-      <addStars>260</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9232216?s=40&amp;v=4</avatar>
-          <name>JoelSpeed</name>
-          <url>https://github.com/JoelSpeed</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18513179?s=40&amp;v=4</avatar>
-          <name>tuunit</name>
-          <url>https://github.com/tuunit</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45028?s=40&amp;v=4</avatar>
-          <name>jehiah</name>
-          <url>https://github.com/jehiah</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/301547?s=40&amp;v=4</avatar>
-          <name>mbland</name>
-          <url>https://github.com/mbland</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>github/gh-aw</title>
-      <link>https://github.com/github/gh-aw</link>
-      <description>GitHub Agentic Workflows</description>
-      <guid>https://github.com/github/gh-aw</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>5,419</stars>
-      <forks>596</forks>
-      <addStars>302</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4</avatar>
-          <name>pelikhan</name>
-          <url>https://github.com/pelikhan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4</avatar>
-          <name>dsyme</name>
-          <url>https://github.com/dsyme</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>golang/go</title>
-      <link>https://github.com/golang/go</link>
-      <description>The Go programming language</description>
-      <guid>https://github.com/golang/go</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>139,372</stars>
-      <forks>22,663</forks>
-      <addStars>1,389</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104030?s=40&amp;v=4</avatar>
-          <name>rsc</name>
-          <url>https://github.com/rsc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8528975?s=40&amp;v=4</avatar>
-          <name>griesemer</name>
-          <url>https://github.com/griesemer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4324516?s=40&amp;v=4</avatar>
-          <name>robpike</name>
-          <url>https://github.com/robpike</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3194333?s=40&amp;v=4</avatar>
-          <name>ianlancetaylor</name>
-          <url>https://github.com/ianlancetaylor</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4</avatar>
-          <name>bradfitz</name>
-          <url>https://github.com/bradfitz</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>openbao/openbao</title>
-      <link>https://github.com/openbao/openbao</link>
-      <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
-      <guid>https://github.com/openbao/openbao</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>8,516</stars>
-      <forks>633</forks>
-      <addStars>1,117</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28627?s=40&amp;v=4</avatar>
-          <name>jefferai</name>
-          <url>https://github.com/jefferai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3053672?s=40&amp;v=4</avatar>
-          <name>vishalnayak</name>
-          <url>https://github.com/vishalnayak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/914030?s=40&amp;v=4</avatar>
-          <name>cipherboy</name>
-          <url>https://github.com/cipherboy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/82990506?s=40&amp;v=4</avatar>
-          <name>hc-github-team-secure-vault-core</name>
-          <url>https://github.com/hc-github-team-secure-vault-core</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zitadel/zitadel</title>
-      <link>https://github.com/zitadel/zitadel</link>
-      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
-      <guid>https://github.com/zitadel/zitadel</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>15,345</stars>
-      <forks>1,387</forks>
-      <addStars>333</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9405495?s=40&amp;v=4</avatar>
-          <name>livio-a</name>
-          <url>https://github.com/livio-a</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10165752?s=40&amp;v=4</avatar>
-          <name>peintnermax</name>
-          <url>https://github.com/peintnermax</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/27845747?s=40&amp;v=4</avatar>
-          <name>adlerhurst</name>
-          <url>https://github.com/adlerhurst</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38692350?s=40&amp;v=4</avatar>
-          <name>hifabienne</name>
-          <url>https://github.com/hifabienne</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9879976?s=40&amp;v=4</avatar>
-          <name>fforootd</name>
-          <url>https://github.com/fforootd</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>docker/compose</title>
-      <link>https://github.com/docker/compose</link>
-      <description>Define and run multi-container applications with Docker</description>
-      <guid>https://github.com/docker/compose</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>38,399</stars>
-      <forks>5,874</forks>
-      <addStars>396</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
-          <name>ndeloof</name>
-          <url>https://github.com/ndeloof</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/705411?s=40&amp;v=4</avatar>
-          <name>glours</name>
-          <url>https://github.com/glours</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/437958?s=40&amp;v=4</avatar>
-          <name>gtardif</name>
-          <url>https://github.com/gtardif</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/99933?s=40&amp;v=4</avatar>
-          <name>rumpl</name>
-          <url>https://github.com/rumpl</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>XTLS/Xray-core</title>
-      <link>https://github.com/XTLS/Xray-core</link>
-      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
-      <guid>https://github.com/XTLS/Xray-core</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>42,185</stars>
-      <forks>6,009</forks>
-      <addStars>641</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63339210?s=40&amp;v=4</avatar>
-          <name>RPRX</name>
-          <url>https://github.com/RPRX</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45535409?s=40&amp;v=4</avatar>
-          <name>Fangliding</name>
-          <url>https://github.com/Fangliding</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1588741?s=40&amp;v=4</avatar>
-          <name>yuhan6665</name>
-          <url>https://github.com/yuhan6665</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/188819646?s=40&amp;v=4</avatar>
-          <name>LjhAUMEM</name>
-          <url>https://github.com/LjhAUMEM</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>prometheus/prometheus</title>
-      <link>https://github.com/prometheus/prometheus</link>
-      <description>The Prometheus monitoring system and time series database.</description>
-      <guid>https://github.com/prometheus/prometheus</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>66,637</stars>
-      <forks>10,927</forks>
-      <addStars>815</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4</avatar>
-          <name>fabxc</name>
-          <url>https://github.com/fabxc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4</avatar>
-          <name>juliusv</name>
-          <url>https://github.com/juliusv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5609886?s=40&amp;v=4</avatar>
-          <name>beorn7</name>
-          <url>https://github.com/beorn7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8125524?s=40&amp;v=4</avatar>
-          <name>bboreham</name>
-          <url>https://github.com/bboreham</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>kubernetes/kubernetes</title>
       <link>https://github.com/kubernetes/kubernetes</link>
       <description>Production-Grade Container Scheduling and Management</description>
       <guid>https://github.com/kubernetes/kubernetes</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>128,436</stars>
-      <forks>47,392</forks>
+      <stars>128,471</stars>
+      <forks>47,464</forks>
       <addStars>1,256</addStars>
       <contributors>
         <contributor>
@@ -781,13 +484,315 @@
       </contributors>
     </item>
     <item>
+      <title>github/gh-aw</title>
+      <link>https://github.com/github/gh-aw</link>
+      <description>GitHub Agentic Workflows</description>
+      <guid>https://github.com/github/gh-aw</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>5,420</stars>
+      <forks>596</forks>
+      <addStars>302</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4</avatar>
+          <name>pelikhan</name>
+          <url>https://github.com/pelikhan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4</avatar>
+          <name>dsyme</name>
+          <url>https://github.com/dsyme</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>oauth2-proxy/oauth2-proxy</title>
+      <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
+      <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
+      <guid>https://github.com/oauth2-proxy/oauth2-proxy</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>15,214</stars>
+      <forks>2,238</forks>
+      <addStars>260</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9232216?s=40&amp;v=4</avatar>
+          <name>JoelSpeed</name>
+          <url>https://github.com/JoelSpeed</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18513179?s=40&amp;v=4</avatar>
+          <name>tuunit</name>
+          <url>https://github.com/tuunit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45028?s=40&amp;v=4</avatar>
+          <name>jehiah</name>
+          <url>https://github.com/jehiah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/301547?s=40&amp;v=4</avatar>
+          <name>mbland</name>
+          <url>https://github.com/mbland</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>prometheus/prometheus</title>
+      <link>https://github.com/prometheus/prometheus</link>
+      <description>The Prometheus monitoring system and time series database.</description>
+      <guid>https://github.com/prometheus/prometheus</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>66,643</stars>
+      <forks>10,928</forks>
+      <addStars>815</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4</avatar>
+          <name>fabxc</name>
+          <url>https://github.com/fabxc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/538008?s=40&amp;v=4</avatar>
+          <name>juliusv</name>
+          <url>https://github.com/juliusv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5609886?s=40&amp;v=4</avatar>
+          <name>beorn7</name>
+          <url>https://github.com/beorn7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8125524?s=40&amp;v=4</avatar>
+          <name>bboreham</name>
+          <url>https://github.com/bboreham</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>golang/go</title>
+      <link>https://github.com/golang/go</link>
+      <description>The Go programming language</description>
+      <guid>https://github.com/golang/go</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>139,398</stars>
+      <forks>22,724</forks>
+      <addStars>1,389</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/104030?s=40&amp;v=4</avatar>
+          <name>rsc</name>
+          <url>https://github.com/rsc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8528975?s=40&amp;v=4</avatar>
+          <name>griesemer</name>
+          <url>https://github.com/griesemer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4324516?s=40&amp;v=4</avatar>
+          <name>robpike</name>
+          <url>https://github.com/robpike</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3194333?s=40&amp;v=4</avatar>
+          <name>ianlancetaylor</name>
+          <url>https://github.com/ianlancetaylor</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4</avatar>
+          <name>bradfitz</name>
+          <url>https://github.com/bradfitz</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>XTLS/Xray-core</title>
+      <link>https://github.com/XTLS/Xray-core</link>
+      <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+      <guid>https://github.com/XTLS/Xray-core</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>42,198</stars>
+      <forks>6,011</forks>
+      <addStars>641</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63339210?s=40&amp;v=4</avatar>
+          <name>RPRX</name>
+          <url>https://github.com/RPRX</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45535409?s=40&amp;v=4</avatar>
+          <name>Fangliding</name>
+          <url>https://github.com/Fangliding</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1588741?s=40&amp;v=4</avatar>
+          <name>yuhan6665</name>
+          <url>https://github.com/yuhan6665</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/188819646?s=40&amp;v=4</avatar>
+          <name>LjhAUMEM</name>
+          <url>https://github.com/LjhAUMEM</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>openbao/openbao</title>
+      <link>https://github.com/openbao/openbao</link>
+      <description>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</description>
+      <guid>https://github.com/openbao/openbao</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>8,539</stars>
+      <forks>634</forks>
+      <addStars>1,117</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28627?s=40&amp;v=4</avatar>
+          <name>jefferai</name>
+          <url>https://github.com/jefferai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3053672?s=40&amp;v=4</avatar>
+          <name>vishalnayak</name>
+          <url>https://github.com/vishalnayak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/914030?s=40&amp;v=4</avatar>
+          <name>cipherboy</name>
+          <url>https://github.com/cipherboy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82990506?s=40&amp;v=4</avatar>
+          <name>hc-github-team-secure-vault-core</name>
+          <url>https://github.com/hc-github-team-secure-vault-core</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>docker/compose</title>
+      <link>https://github.com/docker/compose</link>
+      <description>Define and run multi-container applications with Docker</description>
+      <guid>https://github.com/docker/compose</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>38,404</stars>
+      <forks>5,874</forks>
+      <addStars>396</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
+          <name>ndeloof</name>
+          <url>https://github.com/ndeloof</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/705411?s=40&amp;v=4</avatar>
+          <name>glours</name>
+          <url>https://github.com/glours</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/437958?s=40&amp;v=4</avatar>
+          <name>gtardif</name>
+          <url>https://github.com/gtardif</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/99933?s=40&amp;v=4</avatar>
+          <name>rumpl</name>
+          <url>https://github.com/rumpl</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>guohuiyuan/go-music-dl</title>
+      <link>https://github.com/guohuiyuan/go-music-dl</link>
+      <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+      <guid>https://github.com/guohuiyuan/go-music-dl</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>5,486</stars>
+      <forks>522</forks>
+      <addStars>1,110</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54976075?s=40&amp;v=4</avatar>
+          <name>guohuiyuan</name>
+          <url>https://github.com/guohuiyuan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/108398856?s=40&amp;v=4</avatar>
+          <name>lianhong2758</name>
+          <url>https://github.com/lianhong2758</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31527323?s=40&amp;v=4</avatar>
+          <name>nannyu</name>
+          <url>https://github.com/nannyu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/41892193?s=40&amp;v=4</avatar>
+          <name>yuanxiao1225</name>
+          <url>https://github.com/yuanxiao1225</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>zitadel/zitadel</title>
+      <link>https://github.com/zitadel/zitadel</link>
+      <description>ZITADEL - Identity infrastructure, simplified for you.</description>
+      <guid>https://github.com/zitadel/zitadel</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>15,346</stars>
+      <forks>1,388</forks>
+      <addStars>333</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9405495?s=40&amp;v=4</avatar>
+          <name>livio-a</name>
+          <url>https://github.com/livio-a</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10165752?s=40&amp;v=4</avatar>
+          <name>peintnermax</name>
+          <url>https://github.com/peintnermax</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/27845747?s=40&amp;v=4</avatar>
+          <name>adlerhurst</name>
+          <url>https://github.com/adlerhurst</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38692350?s=40&amp;v=4</avatar>
+          <name>hifabienne</name>
+          <url>https://github.com/hifabienne</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9879976?s=40&amp;v=4</avatar>
+          <name>fforootd</name>
+          <url>https://github.com/fforootd</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>hashicorp/terraform</title>
       <link>https://github.com/hashicorp/terraform</link>
       <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
       <guid>https://github.com/hashicorp/terraform</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>49,976</stars>
+      <stars>49,984</stars>
       <forks>10,648</forks>
       <addStars>501</addStars>
       <contributors>
@@ -825,8 +830,8 @@
       <guid>https://github.com/seaweedfs/seaweedfs</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>35,579</stars>
-      <forks>3,072</forks>
+      <stars>35,595</stars>
+      <forks>3,073</forks>
       <addStars>821</addStars>
       <contributors>
         <contributor>

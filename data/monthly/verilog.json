@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Monthly Trending",
   "description": "Monthly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 05:40:26 GMT",
+  "pubDate": "Mon, 19 Oct 2026 14:28:10 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -10,8 +10,8 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "3,195",
-      "forks": "1,044",
+      "stars": "3,197",
+      "forks": "1,046",
       "addStars": "89",
       "contributors": [
         {
@@ -116,6 +116,43 @@
       ]
     },
     {
+      "title": "The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "772",
+      "forks": "546",
+      "addStars": "26",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
+          "name": "maliberty",
+          "url": "https://github.com/maliberty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9001905?s=40&v=4",
+          "name": "vvbandeira",
+          "url": "https://github.com/vvbandeira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2798822?s=40&v=4",
+          "name": "oharboe",
+          "url": "https://github.com/oharboe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
+          "name": "eder-matheus",
+          "url": "https://github.com/eder-matheus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71403620?s=40&v=4",
+          "name": "ravi-varadarajan",
+          "url": "https://github.com/ravi-varadarajan"
+        }
+      ]
+    },
+    {
       "title": "OpenPOWERFoundation/a2o",
       "url": "https://github.com/OpenPOWERFoundation/a2o",
       "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.",
@@ -144,43 +181,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/109139025?s=40&v=4",
           "name": "rolypolytoy",
           "url": "https://github.com/rolypolytoy"
-        }
-      ]
-    },
-    {
-      "title": "The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": "771",
-      "forks": "546",
-      "addStars": "26",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
-          "name": "maliberty",
-          "url": "https://github.com/maliberty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9001905?s=40&v=4",
-          "name": "vvbandeira",
-          "url": "https://github.com/vvbandeira"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2798822?s=40&v=4",
-          "name": "oharboe",
-          "url": "https://github.com/oharboe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
-          "name": "eder-matheus",
-          "url": "https://github.com/eder-matheus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71403620?s=40&v=4",
-          "name": "ravi-varadarajan",
-          "url": "https://github.com/ravi-varadarajan"
         }
       ]
     }

@@ -3,58 +3,7 @@
     <title>GitHub Shell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Shell Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 05:40:26 GMT</pubDate>
-    <item>
-      <title>mattpocock/skills</title>
-      <link>https://github.com/mattpocock/skills</link>
-      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
-      <guid>https://github.com/mattpocock/skills</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>296,485</stars>
-      <forks>24,892</forks>
-      <addStars>10,345</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
-          <name>mattpocock</name>
-          <url>https://github.com/mattpocock</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4</avatar>
-          <name>gabimoncha</name>
-          <url>https://github.com/gabimoncha</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>EpicGames/unreal-engine-skills-for-claude-code-plugin</title>
-      <link>https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin</link>
-      <description/>
-      <guid>https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>1,095</stars>
-      <forks>111</forks>
-      <addStars>461</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/291910855?s=40&amp;v=4</avatar>
-          <name>thomas-mansencal</name>
-          <url>https://github.com/thomas-mansencal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14067326?s=40&amp;v=4</avatar>
-          <name>nathanmartz</name>
-          <url>https://github.com/nathanmartz</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Mon, 19 Oct 2026 14:28:10 GMT</pubDate>
     <item>
       <title>nvm-sh/nvm</title>
       <link>https://github.com/nvm-sh/nvm</link>
@@ -62,8 +11,8 @@
       <guid>https://github.com/nvm-sh/nvm</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>95,575</stars>
-      <forks>10,551</forks>
+      <stars>95,576</stars>
+      <forks>10,560</forks>
       <addStars>327</addStars>
       <contributors>
         <contributor>
@@ -94,35 +43,53 @@
       </contributors>
     </item>
     <item>
-      <title>docker-mailserver/docker-mailserver</title>
-      <link>https://github.com/docker-mailserver/docker-mailserver</link>
-      <description>Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</description>
-      <guid>https://github.com/docker-mailserver/docker-mailserver</guid>
+      <title>mattpocock/skills</title>
+      <link>https://github.com/mattpocock/skills</link>
+      <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+      <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>19,618</stars>
-      <forks>2,120</forks>
-      <addStars>201</addStars>
+      <stars>297,058</stars>
+      <forks>24,941</forks>
+      <addStars>10,345</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44545919?s=40&amp;v=4</avatar>
-          <name>georglauterbach</name>
-          <url>https://github.com/georglauterbach</url>
+          <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
+          <name>mattpocock</name>
+          <url>https://github.com/mattpocock</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5098581?s=40&amp;v=4</avatar>
-          <name>polarathene</name>
-          <url>https://github.com/polarathene</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/303803?s=40&amp;v=4</avatar>
-          <name>tomav</name>
-          <url>https://github.com/tomav</url>
+          <avatar>https://avatars.githubusercontent.com/u/39256258?s=40&amp;v=4</avatar>
+          <name>gabimoncha</name>
+          <url>https://github.com/gabimoncha</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>EpicGames/unreal-engine-skills-for-claude-code-plugin</title>
+      <link>https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin</link>
+      <description/>
+      <guid>https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>1,235</stars>
+      <forks>120</forks>
+      <addStars>461</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/291910855?s=40&amp;v=4</avatar>
+          <name>thomas-mansencal</name>
+          <url>https://github.com/thomas-mansencal</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/590174?s=40&amp;v=4</avatar>
-          <name>casperklein</name>
-          <url>https://github.com/casperklein</url>
+          <avatar>https://avatars.githubusercontent.com/u/14067326?s=40&amp;v=4</avatar>
+          <name>nathanmartz</name>
+          <url>https://github.com/nathanmartz</url>
         </contributor>
       </contributors>
     </item>
@@ -133,8 +100,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>301,740</stars>
-      <forks>26,945</forks>
+      <stars>301,964</stars>
+      <forks>26,963</forks>
       <addStars>4,280</addStars>
       <contributors>
         <contributor>
@@ -171,8 +138,8 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>26,839</stars>
-      <forks>3,960</forks>
+      <stars>26,873</stars>
+      <forks>3,977</forks>
       <addStars>681</addStars>
       <contributors>
         <contributor>
@@ -188,52 +155,14 @@
       </contributors>
     </item>
     <item>
-      <title>expo/skills</title>
-      <link>https://github.com/expo/skills</link>
-      <description>A collection of AI agent skills for working with Expo projects and Expo Application Services</description>
-      <guid>https://github.com/expo/skills</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>2,925</stars>
-      <forks>189</forks>
-      <addStars>178</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9664363?s=40&amp;v=4</avatar>
-          <name>EvanBacon</name>
-          <url>https://github.com/EvanBacon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46429?s=40&amp;v=4</avatar>
-          <name>Kudo</name>
-          <url>https://github.com/Kudo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/215459?s=40&amp;v=4</avatar>
-          <name>gwdp</name>
-          <url>https://github.com/gwdp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/379606?s=40&amp;v=4</avatar>
-          <name>ide</name>
-          <url>https://github.com/ide</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>PaperMC/Folia</title>
       <link>https://github.com/PaperMC/Folia</link>
       <description>Fork of Paper which adds regionised multithreading to the dedicated server.</description>
       <guid>https://github.com/PaperMC/Folia</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>4,563</stars>
-      <forks>636</forks>
+      <stars>4,573</stars>
+      <forks>637</forks>
       <addStars>136</addStars>
       <contributors>
         <contributor>
@@ -264,14 +193,194 @@
       </contributors>
     </item>
     <item>
+      <title>expo/skills</title>
+      <link>https://github.com/expo/skills</link>
+      <description>A collection of AI agent skills for working with Expo projects and Expo Application Services</description>
+      <guid>https://github.com/expo/skills</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>2,936</stars>
+      <forks>191</forks>
+      <addStars>178</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9664363?s=40&amp;v=4</avatar>
+          <name>EvanBacon</name>
+          <url>https://github.com/EvanBacon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46429?s=40&amp;v=4</avatar>
+          <name>Kudo</name>
+          <url>https://github.com/Kudo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215459?s=40&amp;v=4</avatar>
+          <name>gwdp</name>
+          <url>https://github.com/gwdp</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/379606?s=40&amp;v=4</avatar>
+          <name>ide</name>
+          <url>https://github.com/ide</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>SimoneAvogadro/android-reverse-engineering-skill</title>
+      <link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link>
+      <description>Claude Code skill to support Android app's reverse engineering</description>
+      <guid>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>8,212</stars>
+      <forks>926</forks>
+      <addStars>166</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3911167?s=40&amp;v=4</avatar>
+          <name>SimoneAvogadro</name>
+          <url>https://github.com/SimoneAvogadro</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2962633?s=40&amp;v=4</avatar>
+          <name>tajchert</name>
+          <url>https://github.com/tajchert</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7654380?s=40&amp;v=4</avatar>
+          <name>philjn</name>
+          <url>https://github.com/philjn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34884830?s=40&amp;v=4</avatar>
+          <name>txhno</name>
+          <url>https://github.com/txhno</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>docker-mailserver/docker-mailserver</title>
+      <link>https://github.com/docker-mailserver/docker-mailserver</link>
+      <description>Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</description>
+      <guid>https://github.com/docker-mailserver/docker-mailserver</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>19,620</stars>
+      <forks>2,121</forks>
+      <addStars>201</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44545919?s=40&amp;v=4</avatar>
+          <name>georglauterbach</name>
+          <url>https://github.com/georglauterbach</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5098581?s=40&amp;v=4</avatar>
+          <name>polarathene</name>
+          <url>https://github.com/polarathene</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/303803?s=40&amp;v=4</avatar>
+          <name>tomav</name>
+          <url>https://github.com/tomav</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/590174?s=40&amp;v=4</avatar>
+          <name>casperklein</name>
+          <url>https://github.com/casperklein</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>themactep/thingino-firmware</title>
+      <link>https://github.com/themactep/thingino-firmware</link>
+      <description>Open-source firmware for Ingenic SoC IP cameras</description>
+      <guid>https://github.com/themactep/thingino-firmware</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>2,236</stars>
+      <forks>337</forks>
+      <addStars>38</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/37488?s=40&amp;v=4</avatar>
+          <name>themactep</name>
+          <url>https://github.com/themactep</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12115272?s=40&amp;v=4</avatar>
+          <name>gtxaspec</name>
+          <url>https://github.com/gtxaspec</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1177251?s=40&amp;v=4</avatar>
+          <name>Lu-Fi</name>
+          <url>https://github.com/Lu-Fi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>edoardottt/awesome-hacker-search-engines</title>
+      <link>https://github.com/edoardottt/awesome-hacker-search-engines</link>
+      <description>A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more</description>
+      <guid>https://github.com/edoardottt/awesome-hacker-search-engines</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>11,348</stars>
+      <forks>1,151</forks>
+      <addStars>66</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35783570?s=40&amp;v=4</avatar>
+          <name>edoardottt</name>
+          <url>https://github.com/edoardottt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3602147?s=40&amp;v=4</avatar>
+          <name>ExitoLab</name>
+          <url>https://github.com/ExitoLab</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/143169520?s=40&amp;v=4</avatar>
+          <name>DevanshKyada27</name>
+          <url>https://github.com/DevanshKyada27</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/117426013?s=40&amp;v=4</avatar>
+          <name>RS-labhub</name>
+          <url>https://github.com/RS-labhub</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/296125?s=40&amp;v=4</avatar>
+          <name>patHyatt</name>
+          <url>https://github.com/patHyatt</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>msitarzewski/agency-agents</title>
       <link>https://github.com/msitarzewski/agency-agents</link>
       <description>A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.</description>
       <guid>https://github.com/msitarzewski/agency-agents</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>161,287</stars>
-      <forks>26,101</forks>
+      <stars>161,531</stars>
+      <forks>26,137</forks>
       <addStars>2,220</addStars>
       <contributors>
         <contributor>
@@ -302,20 +411,25 @@
       </contributors>
     </item>
     <item>
-      <title>SimoneAvogadro/android-reverse-engineering-skill</title>
-      <link>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</link>
-      <description>Claude Code skill to support Android app's reverse engineering</description>
-      <guid>https://github.com/SimoneAvogadro/android-reverse-engineering-skill</guid>
+      <title>rawfilejson/awesome-osint-arsenal</title>
+      <link>https://github.com/rawfilejson/awesome-osint-arsenal</link>
+      <description>OSINT &amp; recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics &amp; more.</description>
+      <guid>https://github.com/rawfilejson/awesome-osint-arsenal</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>8,205</stars>
-      <forks>926</forks>
-      <addStars>166</addStars>
+      <stars>3,450</stars>
+      <forks>531</forks>
+      <addStars>218</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3911167?s=40&amp;v=4</avatar>
-          <name>SimoneAvogadro</name>
-          <url>https://github.com/SimoneAvogadro</url>
+          <avatar>https://avatars.githubusercontent.com/u/68239032?s=40&amp;v=4</avatar>
+          <name>rawfilejson</name>
+          <url>https://github.com/rawfilejson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/546889?s=40&amp;v=4</avatar>
+          <name>adw0rd</name>
+          <url>https://github.com/adw0rd</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -323,19 +437,47 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2962633?s=40&amp;v=4</avatar>
-          <name>tajchert</name>
-          <url>https://github.com/tajchert</url>
+          <avatar>https://avatars.githubusercontent.com/u/139590059?s=40&amp;v=4</avatar>
+          <name>Salzling</name>
+          <url>https://github.com/Salzling</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>czlonkowski/n8n-skills</title>
+      <link>https://github.com/czlonkowski/n8n-skills</link>
+      <description>n8n skillset for Claude Code to build flawless n8n workflows</description>
+      <guid>https://github.com/czlonkowski/n8n-skills</guid>
+      <language>Shell</language>
+      <languageColor>#89e051</languageColor>
+      <stars>6,464</stars>
+      <forks>1,076</forks>
+      <addStars>59</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56956555?s=40&amp;v=4</avatar>
+          <name>czlonkowski</name>
+          <url>https://github.com/czlonkowski</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7654380?s=40&amp;v=4</avatar>
-          <name>philjn</name>
-          <url>https://github.com/philjn</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34884830?s=40&amp;v=4</avatar>
-          <name>txhno</name>
-          <url>https://github.com/txhno</url>
+          <avatar>https://avatars.githubusercontent.com/u/315974?s=40&amp;v=4</avatar>
+          <name>ciscodebs</name>
+          <url>https://github.com/ciscodebs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/34600021?s=40&amp;v=4</avatar>
+          <name>mheland</name>
+          <url>https://github.com/mheland</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/214139338?s=40&amp;v=4</avatar>
+          <name>aimansour</name>
+          <url>https://github.com/aimansour</url>
         </contributor>
       </contributors>
     </item>
@@ -374,77 +516,6 @@
           <avatar>https://avatars.githubusercontent.com/u/22055467?s=40&amp;v=4</avatar>
           <name>papacarlo</name>
           <url>https://github.com/papacarlo</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>edoardottt/awesome-hacker-search-engines</title>
-      <link>https://github.com/edoardottt/awesome-hacker-search-engines</link>
-      <description>A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more</description>
-      <guid>https://github.com/edoardottt/awesome-hacker-search-engines</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>11,347</stars>
-      <forks>1,148</forks>
-      <addStars>66</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35783570?s=40&amp;v=4</avatar>
-          <name>edoardottt</name>
-          <url>https://github.com/edoardottt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3602147?s=40&amp;v=4</avatar>
-          <name>ExitoLab</name>
-          <url>https://github.com/ExitoLab</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/143169520?s=40&amp;v=4</avatar>
-          <name>DevanshKyada27</name>
-          <url>https://github.com/DevanshKyada27</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/117426013?s=40&amp;v=4</avatar>
-          <name>RS-labhub</name>
-          <url>https://github.com/RS-labhub</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/296125?s=40&amp;v=4</avatar>
-          <name>patHyatt</name>
-          <url>https://github.com/patHyatt</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>themactep/thingino-firmware</title>
-      <link>https://github.com/themactep/thingino-firmware</link>
-      <description>Open-source firmware for Ingenic SoC IP cameras</description>
-      <guid>https://github.com/themactep/thingino-firmware</guid>
-      <language>Shell</language>
-      <languageColor>#89e051</languageColor>
-      <stars>2,233</stars>
-      <forks>337</forks>
-      <addStars>38</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/37488?s=40&amp;v=4</avatar>
-          <name>themactep</name>
-          <url>https://github.com/themactep</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12115272?s=40&amp;v=4</avatar>
-          <name>gtxaspec</name>
-          <url>https://github.com/gtxaspec</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1177251?s=40&amp;v=4</avatar>
-          <name>Lu-Fi</name>
-          <url>https://github.com/Lu-Fi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
