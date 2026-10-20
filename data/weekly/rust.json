@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 22:50:41 GMT",
+  "pubDate": "Tue, 20 Oct 2026 05:39:01 GMT",
   "items": [
     {
       "title": "storytold/artcraft",
@@ -10,9 +10,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,683",
-      "forks": "5,331",
-      "addStars": "16,379",
+      "stars": "33,896",
+      "forks": "5,367",
+      "addStars": "13,572",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -42,14 +42,41 @@
       ]
     },
     {
-      "title": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "title": "storytold/artcraftx",
+      "url": "https://github.com/storytold/artcraftx",
+      "description": "ArtCraft-X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,488",
-      "forks": "558",
-      "addStars": "4,925",
+      "stars": "963",
+      "forks": "841",
+      "addStars": "251",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/311161722?s=40&v=4",
+          "name": "h-a-n-a-s-h-i",
+          "url": "https://github.com/h-a-n-a-s-h-i"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
+          "name": "echelon",
+          "url": "https://github.com/echelon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
+          "name": "bflatastic",
+          "url": "https://github.com/bflatastic"
+        }
+      ]
+    },
+    {
+      "title": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "10,678",
+      "forks": "642",
+      "addStars": "5,573",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/297525353?s=40&v=4",
@@ -84,9 +111,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,289",
-      "forks": "799",
-      "addStars": "1,684",
+      "stars": "11,535",
+      "forks": "818",
+      "addStars": "1,976",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -121,9 +148,9 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,410",
-      "forks": "154",
-      "addStars": "227",
+      "stars": "2,432",
+      "forks": "159",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/83587632?s=40&v=4",
@@ -158,9 +185,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,320",
-      "forks": "385",
-      "addStars": "482",
+      "stars": "3,334",
+      "forks": "388",
+      "addStars": "438",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",

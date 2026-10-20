@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Monthly Trending",
   "description": "Monthly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 22:50:41 GMT",
+  "pubDate": "Tue, 20 Oct 2026 05:39:01 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -10,9 +10,9 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "3,198",
-      "forks": "1,046",
-      "addStars": "89",
+      "stars": "3,199",
+      "forks": "1,049",
+      "addStars": "92",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
@@ -49,7 +49,7 @@
       "languageColor": "#b2b7f8",
       "stars": "62",
       "forks": "520",
-      "addStars": "8",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/892318?s=40&v=4",
@@ -75,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/10163935?s=40&v=4",
           "name": "rishabhrkaushik",
           "url": "https://github.com/rishabhrkaushik"
+        }
+      ]
+    },
+    {
+      "title": "vortexgpgpu/vortex",
+      "url": "https://github.com/vortexgpgpu/vortex",
+      "description": "",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "2,330",
+      "forks": "556",
+      "addStars": "71",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2282163?s=40&v=4",
+          "name": "tinebp",
+          "url": "https://github.com/tinebp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135248190?s=40&v=4",
+          "name": "NikhilRout",
+          "url": "https://github.com/NikhilRout"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60236720?s=40&v=4",
+          "name": "jaewon-lee-github",
+          "url": "https://github.com/jaewon-lee-github"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33282538?s=40&v=4",
+          "name": "EricSongXinLe",
+          "url": "https://github.com/EricSongXinLe"
         }
       ]
     },
@@ -123,7 +160,7 @@
       "languageColor": "#b2b7f8",
       "stars": "772",
       "forks": "546",
-      "addStars": "26",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",

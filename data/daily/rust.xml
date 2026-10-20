@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 22:50:41 GMT</pubDate>
+    <pubDate>Tue, 20 Oct 2026 05:39:01 GMT</pubDate>
     <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,289</stars>
-      <forks>799</forks>
+      <stars>11,535</stars>
+      <forks>818</forks>
       <addStars>666</addStars>
       <contributors>
         <contributor>
@@ -45,13 +45,13 @@
     <item>
       <title>xerj-org/xerj</title>
       <link>https://github.com/xerj-org/xerj</link>
-      <description>XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.</description>
+      <description>Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>10,488</stars>
-      <forks>558</forks>
-      <addStars>675</addStars>
+      <stars>10,678</stars>
+      <forks>642</forks>
+      <addStars>671</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/297525353?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/smg-project/smg</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>637</stars>
-      <forks>195</forks>
-      <addStars>8</addStars>
+      <stars>645</stars>
+      <forks>197</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25425177?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,306</stars>
-      <forks>5,152</forks>
-      <addStars>25</addStars>
+      <stars>96,307</stars>
+      <forks>5,153</forks>
+      <addStars>27</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/leepokai/Codync</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>614</stars>
-      <forks>81</forks>
-      <addStars>49</addStars>
+      <stars>636</stars>
+      <forks>82</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/109857817?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/Automattic/harper</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,780</stars>
-      <forks>855</forks>
-      <addStars>67</addStars>
+      <stars>16,810</stars>
+      <forks>865</forks>
+      <addStars>72</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17440968?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/martin-olivier/airgorah</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,505</stars>
-      <forks>791</forks>
-      <addStars>139</addStars>
+      <stars>4,515</stars>
+      <forks>793</forks>
+      <addStars>135</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58467105?s=40&amp;v=4</avatar>
@@ -252,9 +252,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>83,200</stars>
-      <forks>5,032</forks>
-      <addStars>415</addStars>
+      <stars>83,346</stars>
+      <forks>5,043</forks>
+      <addStars>422</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -285,9 +285,9 @@
       <guid>https://github.com/confeden/Antigravity</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>929</stars>
-      <forks>55</forks>
-      <addStars>24</addStars>
+      <stars>930</stars>
+      <forks>56</forks>
+      <addStars>25</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -308,9 +308,9 @@
       <guid>https://github.com/fish-shell/fish-shell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,333</stars>
-      <forks>2,398</forks>
-      <addStars>16</addStars>
+      <stars>34,332</stars>
+      <forks>2,400</forks>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/920838?s=40&amp;v=4</avatar>

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 19 Oct 2026 22:50:41 GMT",
+  "pubDate": "Tue, 20 Oct 2026 05:39:01 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "8,988",
-      "forks": "1,426",
-      "addStars": "1,164",
+      "stars": "8,989",
+      "forks": "1,427",
+      "addStars": "1,168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,708",
-      "forks": "1,615",
-      "addStars": "254",
+      "stars": "6,711",
+      "forks": "1,619",
+      "addStars": "264",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11773619?s=40&v=4",
@@ -86,7 +86,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,263",
       "forks": "109",
-      "addStars": "130",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59364182?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "cuGraph - RAPIDS Graph Analytics Library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,246",
+      "stars": "2,245",
       "forks": "369",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34135411?s=40&v=4",
@@ -158,7 +158,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,564",
+      "stars": "2,565",
       "forks": "267",
       "addStars": "63",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,292",
+      "stars": "10,290",
       "forks": "1,479",
       "addStars": "144",
       "contributors": [
@@ -234,7 +234,7 @@
       "languageColor": "#3A4E3A",
       "stars": "870",
       "forks": "247",
-      "addStars": "19",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38199262?s=40&v=4",
