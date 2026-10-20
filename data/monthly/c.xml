@@ -3,7 +3,7 @@
     <title>GitHub C Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C Languages in GitHub</description>
-    <pubDate>Tue, 20 Oct 2026 05:39:01 GMT</pubDate>
+    <pubDate>Tue, 20 Oct 2026 12:36:50 GMT</pubDate>
     <item>
       <title>Genymobile/scrcpy</title>
       <link>https://github.com/Genymobile/scrcpy</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Genymobile/scrcpy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>152,584</stars>
-      <forks>13,983</forks>
+      <stars>152,614</stars>
+      <forks>13,988</forks>
       <addStars>3,026</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/willfaust/Madeira</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>2,611</stars>
-      <forks>336</forks>
+      <stars>2,622</stars>
+      <forks>337</forks>
       <addStars>2,236</addStars>
       <contributors>
         <contributor>
@@ -88,7 +88,7 @@
       <language>C</language>
       <languageColor>#555555</languageColor>
       <stars>8,606</stars>
-      <forks>426</forks>
+      <forks>427</forks>
       <addStars>1,120</addStars>
       <contributors>
         <contributor>
@@ -115,6 +115,305 @@
           <avatar>https://avatars.githubusercontent.com/u/58001412?s=40&amp;v=4</avatar>
           <name>andreymlv</name>
           <url>https://github.com/andreymlv</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rexglue/rexglue-sdk</title>
+      <link>https://github.com/rexglue/rexglue-sdk</link>
+      <description>Xbox 360 Recompilation Runtime and Toolkit</description>
+      <guid>https://github.com/rexglue/rexglue-sdk</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>1,133</stars>
+      <forks>216</forks>
+      <addStars>246</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1568512?s=40&amp;v=4</avatar>
+          <name>tomcl7</name>
+          <url>https://github.com/tomcl7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/216443514?s=40&amp;v=4</avatar>
+          <name>Graine25</name>
+          <url>https://github.com/Graine25</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/206524406?s=40&amp;v=4</avatar>
+          <name>Loreaxe</name>
+          <url>https://github.com/Loreaxe</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1862720?s=40&amp;v=4</avatar>
+          <name>sanjay900</name>
+          <url>https://github.com/sanjay900</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38879884?s=40&amp;v=4</avatar>
+          <name>Mystixor</name>
+          <url>https://github.com/Mystixor</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>KernelSU-Next/KernelSU-Next</title>
+      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
+      <description>An advanced Kernel based root solution for Android</description>
+      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>4,548</stars>
+      <forks>1,201</forks>
+      <addStars>319</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
+          <name>tiann</name>
+          <url>https://github.com/tiann</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
+          <name>rifsxd</name>
+          <url>https://github.com/rifsxd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
+          <name>Ylarod</name>
+          <url>https://github.com/Ylarod</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
+          <name>5ec1cff</name>
+          <url>https://github.com/5ec1cff</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>libuv/libuv</title>
+      <link>https://github.com/libuv/libuv</link>
+      <description>Cross-platform asynchronous I/O</description>
+      <guid>https://github.com/libuv/libuv</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>27,274</stars>
+      <forks>3,960</forks>
+      <addStars>124</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4</avatar>
+          <name>bnoordhuis</name>
+          <url>https://github.com/bnoordhuis</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/218257?s=40&amp;v=4</avatar>
+          <name>piscisaureus</name>
+          <url>https://github.com/piscisaureus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/317464?s=40&amp;v=4</avatar>
+          <name>saghul</name>
+          <url>https://github.com/saghul</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/80?s=40&amp;v=4</avatar>
+          <name>ry</name>
+          <url>https://github.com/ry</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2512748?s=40&amp;v=4</avatar>
+          <name>cjihrig</name>
+          <url>https://github.com/cjihrig</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>systemd/systemd</title>
+      <link>https://github.com/systemd/systemd</link>
+      <description>The systemd System and Service Manager</description>
+      <guid>https://github.com/systemd/systemd</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>16,870</stars>
+      <forks>4,768</forks>
+      <addStars>182</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
+          <name>poettering</name>
+          <url>https://github.com/poettering</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
+          <name>yuwata</name>
+          <url>https://github.com/yuwata</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
+          <name>keszybz</name>
+          <url>https://github.com/keszybz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
+          <name>bluca</name>
+          <url>https://github.com/bluca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
+          <name>daandemeyer</name>
+          <url>https://github.com/daandemeyer</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>redis/redis</title>
+      <link>https://github.com/redis/redis</link>
+      <description>For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</description>
+      <guid>https://github.com/redis/redis</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>77,042</stars>
+      <forks>24,888</forks>
+      <addStars>964</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65632?s=40&amp;v=4</avatar>
+          <name>antirez</name>
+          <url>https://github.com/antirez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7045099?s=40&amp;v=4</avatar>
+          <name>oranagra</name>
+          <url>https://github.com/oranagra</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9845?s=40&amp;v=4</avatar>
+          <name>pietern</name>
+          <url>https://github.com/pietern</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/965798?s=40&amp;v=4</avatar>
+          <name>sundb</name>
+          <url>https://github.com/sundb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22811481?s=40&amp;v=4</avatar>
+          <name>enjoy-binbin</name>
+          <url>https://github.com/enjoy-binbin</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>HarbourMasters/Shipwright</title>
+      <link>https://github.com/HarbourMasters/Shipwright</link>
+      <description/>
+      <guid>https://github.com/HarbourMasters/Shipwright</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>5,690</stars>
+      <forks>927</forks>
+      <addStars>268</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/159546?s=40&amp;v=4</avatar>
+          <name>serprex</name>
+          <url>https://github.com/serprex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70942617?s=40&amp;v=4</avatar>
+          <name>briaguya0</name>
+          <url>https://github.com/briaguya0</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/774771?s=40&amp;v=4</avatar>
+          <name>Malkierian</name>
+          <url>https://github.com/Malkierian</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13861068?s=40&amp;v=4</avatar>
+          <name>Archez</name>
+          <url>https://github.com/Archez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7316699?s=40&amp;v=4</avatar>
+          <name>garrettjoecox</name>
+          <url>https://github.com/garrettjoecox</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ValdikSS/GoodbyeDPI</title>
+      <link>https://github.com/ValdikSS/GoodbyeDPI</link>
+      <description>GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)</description>
+      <guid>https://github.com/ValdikSS/GoodbyeDPI</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>28,790</stars>
+      <forks>2,239</forks>
+      <addStars>204</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3054729?s=40&amp;v=4</avatar>
+          <name>ValdikSS</name>
+          <url>https://github.com/ValdikSS</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/157705588?s=40&amp;v=4</avatar>
+          <name>EgorWeders</name>
+          <url>https://github.com/EgorWeders</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/240344?s=40&amp;v=4</avatar>
+          <name>KOLANICH</name>
+          <url>https://github.com/KOLANICH</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2335215?s=40&amp;v=4</avatar>
+          <name>pash7ka</name>
+          <url>https://github.com/pash7ka</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4</avatar>
+          <name>eltociear</name>
+          <url>https://github.com/eltociear</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>hathach/tinyusb</title>
+      <link>https://github.com/hathach/tinyusb</link>
+      <description>An open source cross-platform USB stack for embedded system</description>
+      <guid>https://github.com/hathach/tinyusb</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>7,223</stars>
+      <forks>1,560</forks>
+      <addStars>121</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/249515?s=40&amp;v=4</avatar>
+          <name>hathach</name>
+          <url>https://github.com/hathach</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4375114?s=40&amp;v=4</avatar>
+          <name>HiFiPhile</name>
+          <url>https://github.com/HiFiPhile</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14810130?s=40&amp;v=4</avatar>
+          <name>pigrew</name>
+          <url>https://github.com/pigrew</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45088311?s=40&amp;v=4</avatar>
+          <name>kkitayam</name>
+          <url>https://github.com/kkitayam</url>
         </contributor>
       </contributors>
     </item>
@@ -157,351 +456,14 @@
       </contributors>
     </item>
     <item>
-      <title>rexglue/rexglue-sdk</title>
-      <link>https://github.com/rexglue/rexglue-sdk</link>
-      <description>Xbox 360 Recompilation Runtime and Toolkit</description>
-      <guid>https://github.com/rexglue/rexglue-sdk</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>1,130</stars>
-      <forks>213</forks>
-      <addStars>246</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1568512?s=40&amp;v=4</avatar>
-          <name>tomcl7</name>
-          <url>https://github.com/tomcl7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/216443514?s=40&amp;v=4</avatar>
-          <name>Graine25</name>
-          <url>https://github.com/Graine25</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/206524406?s=40&amp;v=4</avatar>
-          <name>Loreaxe</name>
-          <url>https://github.com/Loreaxe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1862720?s=40&amp;v=4</avatar>
-          <name>sanjay900</name>
-          <url>https://github.com/sanjay900</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38879884?s=40&amp;v=4</avatar>
-          <name>Mystixor</name>
-          <url>https://github.com/Mystixor</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>KernelSU-Next/KernelSU-Next</title>
-      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
-      <description>An advanced Kernel based root solution for Android</description>
-      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>4,547</stars>
-      <forks>1,201</forks>
-      <addStars>319</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
-          <name>tiann</name>
-          <url>https://github.com/tiann</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
-          <name>rifsxd</name>
-          <url>https://github.com/rifsxd</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
-          <name>Ylarod</name>
-          <url>https://github.com/Ylarod</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
-          <name>5ec1cff</name>
-          <url>https://github.com/5ec1cff</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>libuv/libuv</title>
-      <link>https://github.com/libuv/libuv</link>
-      <description>Cross-platform asynchronous I/O</description>
-      <guid>https://github.com/libuv/libuv</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>27,272</stars>
-      <forks>3,959</forks>
-      <addStars>124</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/275871?s=40&amp;v=4</avatar>
-          <name>bnoordhuis</name>
-          <url>https://github.com/bnoordhuis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/218257?s=40&amp;v=4</avatar>
-          <name>piscisaureus</name>
-          <url>https://github.com/piscisaureus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/317464?s=40&amp;v=4</avatar>
-          <name>saghul</name>
-          <url>https://github.com/saghul</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/80?s=40&amp;v=4</avatar>
-          <name>ry</name>
-          <url>https://github.com/ry</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2512748?s=40&amp;v=4</avatar>
-          <name>cjihrig</name>
-          <url>https://github.com/cjihrig</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hathach/tinyusb</title>
-      <link>https://github.com/hathach/tinyusb</link>
-      <description>An open source cross-platform USB stack for embedded system</description>
-      <guid>https://github.com/hathach/tinyusb</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>7,223</stars>
-      <forks>1,559</forks>
-      <addStars>121</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/249515?s=40&amp;v=4</avatar>
-          <name>hathach</name>
-          <url>https://github.com/hathach</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4375114?s=40&amp;v=4</avatar>
-          <name>HiFiPhile</name>
-          <url>https://github.com/HiFiPhile</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14810130?s=40&amp;v=4</avatar>
-          <name>pigrew</name>
-          <url>https://github.com/pigrew</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45088311?s=40&amp;v=4</avatar>
-          <name>kkitayam</name>
-          <url>https://github.com/kkitayam</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>openssl/openssl</title>
-      <link>https://github.com/openssl/openssl</link>
-      <description>General purpose TLS and crypto library</description>
-      <guid>https://github.com/openssl/openssl</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>30,991</stars>
-      <forks>11,534</forks>
-      <addStars>338</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/698918?s=40&amp;v=4</avatar>
-          <name>levitte</name>
-          <url>https://github.com/levitte</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7422273?s=40&amp;v=4</avatar>
-          <name>mattcaswell</name>
-          <url>https://github.com/mattcaswell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9038069?s=40&amp;v=4</avatar>
-          <name>dot-asm</name>
-          <url>https://github.com/dot-asm</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17916609?s=40&amp;v=4</avatar>
-          <name>paulidale</name>
-          <url>https://github.com/paulidale</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6590984?s=40&amp;v=4</avatar>
-          <name>snhenson</name>
-          <url>https://github.com/snhenson</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>systemd/systemd</title>
-      <link>https://github.com/systemd/systemd</link>
-      <description>The systemd System and Service Manager</description>
-      <guid>https://github.com/systemd/systemd</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>16,861</stars>
-      <forks>4,767</forks>
-      <addStars>182</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
-          <name>poettering</name>
-          <url>https://github.com/poettering</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
-          <name>yuwata</name>
-          <url>https://github.com/yuwata</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
-          <name>keszybz</name>
-          <url>https://github.com/keszybz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
-          <name>bluca</name>
-          <url>https://github.com/bluca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
-          <name>daandemeyer</name>
-          <url>https://github.com/daandemeyer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HarbourMasters/Shipwright</title>
-      <link>https://github.com/HarbourMasters/Shipwright</link>
-      <description/>
-      <guid>https://github.com/HarbourMasters/Shipwright</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>5,688</stars>
-      <forks>927</forks>
-      <addStars>268</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/159546?s=40&amp;v=4</avatar>
-          <name>serprex</name>
-          <url>https://github.com/serprex</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70942617?s=40&amp;v=4</avatar>
-          <name>briaguya0</name>
-          <url>https://github.com/briaguya0</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/774771?s=40&amp;v=4</avatar>
-          <name>Malkierian</name>
-          <url>https://github.com/Malkierian</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13861068?s=40&amp;v=4</avatar>
-          <name>Archez</name>
-          <url>https://github.com/Archez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7316699?s=40&amp;v=4</avatar>
-          <name>garrettjoecox</name>
-          <url>https://github.com/garrettjoecox</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ValdikSS/GoodbyeDPI</title>
-      <link>https://github.com/ValdikSS/GoodbyeDPI</link>
-      <description>GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)</description>
-      <guid>https://github.com/ValdikSS/GoodbyeDPI</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>28,789</stars>
-      <forks>2,238</forks>
-      <addStars>204</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3054729?s=40&amp;v=4</avatar>
-          <name>ValdikSS</name>
-          <url>https://github.com/ValdikSS</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/157705588?s=40&amp;v=4</avatar>
-          <name>EgorWeders</name>
-          <url>https://github.com/EgorWeders</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/240344?s=40&amp;v=4</avatar>
-          <name>KOLANICH</name>
-          <url>https://github.com/KOLANICH</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2335215?s=40&amp;v=4</avatar>
-          <name>pash7ka</name>
-          <url>https://github.com/pash7ka</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22633385?s=40&amp;v=4</avatar>
-          <name>eltociear</name>
-          <url>https://github.com/eltociear</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>redis/redis</title>
-      <link>https://github.com/redis/redis</link>
-      <description>For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</description>
-      <guid>https://github.com/redis/redis</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>77,050</stars>
-      <forks>24,888</forks>
-      <addStars>964</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65632?s=40&amp;v=4</avatar>
-          <name>antirez</name>
-          <url>https://github.com/antirez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7045099?s=40&amp;v=4</avatar>
-          <name>oranagra</name>
-          <url>https://github.com/oranagra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9845?s=40&amp;v=4</avatar>
-          <name>pietern</name>
-          <url>https://github.com/pietern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/965798?s=40&amp;v=4</avatar>
-          <name>sundb</name>
-          <url>https://github.com/sundb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22811481?s=40&amp;v=4</avatar>
-          <name>enjoy-binbin</name>
-          <url>https://github.com/enjoy-binbin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>raysan5/raylib</title>
       <link>https://github.com/raysan5/raylib</link>
       <description>A simple and easy-to-use library to enjoy videogames programming</description>
       <guid>https://github.com/raysan5/raylib</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>35,332</stars>
-      <forks>3,345</forks>
+      <stars>35,336</stars>
+      <forks>3,347</forks>
       <addStars>657</addStars>
       <contributors>
         <contributor>
@@ -533,7 +495,7 @@
       <guid>https://github.com/ventoy/Ventoy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>80,196</stars>
+      <stars>80,217</stars>
       <forks>4,998</forks>
       <addStars>946</addStars>
       <contributors>
@@ -565,14 +527,52 @@
       </contributors>
     </item>
     <item>
+      <title>openssl/openssl</title>
+      <link>https://github.com/openssl/openssl</link>
+      <description>General purpose TLS and crypto library</description>
+      <guid>https://github.com/openssl/openssl</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>30,993</stars>
+      <forks>11,537</forks>
+      <addStars>338</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/698918?s=40&amp;v=4</avatar>
+          <name>levitte</name>
+          <url>https://github.com/levitte</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7422273?s=40&amp;v=4</avatar>
+          <name>mattcaswell</name>
+          <url>https://github.com/mattcaswell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9038069?s=40&amp;v=4</avatar>
+          <name>dot-asm</name>
+          <url>https://github.com/dot-asm</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17916609?s=40&amp;v=4</avatar>
+          <name>paulidale</name>
+          <url>https://github.com/paulidale</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6590984?s=40&amp;v=4</avatar>
+          <name>snhenson</name>
+          <url>https://github.com/snhenson</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>reactos/reactos</title>
       <link>https://github.com/reactos/reactos</link>
       <description>A free Windows-compatible Operating System</description>
       <guid>https://github.com/reactos/reactos</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>18,271</stars>
-      <forks>2,272</forks>
+      <stars>18,281</stars>
+      <forks>2,274</forks>
       <addStars>204</addStars>
       <contributors>
         <contributor>
@@ -603,51 +603,13 @@
       </contributors>
     </item>
     <item>
-      <title>mit-pdos/xv6-riscv</title>
-      <link>https://github.com/mit-pdos/xv6-riscv</link>
-      <description>Xv6 for RISC-V</description>
-      <guid>https://github.com/mit-pdos/xv6-riscv</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>10,668</stars>
-      <forks>4,425</forks>
-      <addStars>272</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1111495?s=40&amp;v=4</avatar>
-          <name>kaashoek</name>
-          <url>https://github.com/kaashoek</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/828308?s=40&amp;v=4</avatar>
-          <name>zeldovich</name>
-          <url>https://github.com/zeldovich</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25902862?s=40&amp;v=4</avatar>
-          <name>segfauIt</name>
-          <url>https://github.com/segfauIt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28621075?s=40&amp;v=4</avatar>
-          <name>4ge32</name>
-          <url>https://github.com/4ge32</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3526486?s=40&amp;v=4</avatar>
-          <name>anishathalye</name>
-          <url>https://github.com/anishathalye</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>xiaojieonly/Ehviewer_CN_SXJ</title>
       <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
       <description>ehviewer，用爱发电，快乐前行</description>
       <guid>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>27,929</stars>
+      <stars>27,940</stars>
       <forks>739</forks>
       <addStars>1,024</addStars>
       <contributors>
@@ -685,7 +647,7 @@
       <guid>https://github.com/EchoStretch/kstuff-lite</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>776</stars>
+      <stars>782</stars>
       <forks>60</forks>
       <addStars>356</addStars>
       <contributors>
@@ -717,78 +679,40 @@
       </contributors>
     </item>
     <item>
-      <title>git/git</title>
-      <link>https://github.com/git/git</link>
-      <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
-      <guid>https://github.com/git/git</guid>
+      <title>mit-pdos/xv6-riscv</title>
+      <link>https://github.com/mit-pdos/xv6-riscv</link>
+      <description>Xv6 for RISC-V</description>
+      <guid>https://github.com/mit-pdos/xv6-riscv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>63,906</stars>
-      <forks>28,586</forks>
-      <addStars>1,039</addStars>
+      <stars>10,669</stars>
+      <forks>4,425</forks>
+      <addStars>272</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54884?s=40&amp;v=4</avatar>
-          <name>gitster</name>
-          <url>https://github.com/gitster</url>
+          <avatar>https://avatars.githubusercontent.com/u/1111495?s=40&amp;v=4</avatar>
+          <name>kaashoek</name>
+          <url>https://github.com/kaashoek</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45925?s=40&amp;v=4</avatar>
-          <name>peff</name>
-          <url>https://github.com/peff</url>
+          <avatar>https://avatars.githubusercontent.com/u/828308?s=40&amp;v=4</avatar>
+          <name>zeldovich</name>
+          <url>https://github.com/zeldovich</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/127790?s=40&amp;v=4</avatar>
-          <name>dscho</name>
-          <url>https://github.com/dscho</url>
+          <avatar>https://avatars.githubusercontent.com/u/25902862?s=40&amp;v=4</avatar>
+          <name>segfauIt</name>
+          <url>https://github.com/segfauIt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4056630?s=40&amp;v=4</avatar>
-          <name>pks-t</name>
-          <url>https://github.com/pks-t</url>
+          <avatar>https://avatars.githubusercontent.com/u/28621075?s=40&amp;v=4</avatar>
+          <name>4ge32</name>
+          <url>https://github.com/4ge32</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45301?s=40&amp;v=4</avatar>
-          <name>avar</name>
-          <url>https://github.com/avar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>curl/curl</title>
-      <link>https://github.com/curl/curl</link>
-      <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-      <guid>https://github.com/curl/curl</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>43,180</stars>
-      <forks>7,437</forks>
-      <addStars>626</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/177011?s=40&amp;v=4</avatar>
-          <name>bagder</name>
-          <url>https://github.com/bagder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1446897?s=40&amp;v=4</avatar>
-          <name>vszakats</name>
-          <url>https://github.com/vszakats</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/242954?s=40&amp;v=4</avatar>
-          <name>yangtse</name>
-          <url>https://github.com/yangtse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1523871?s=40&amp;v=4</avatar>
-          <name>captain-caveman2k</name>
-          <url>https://github.com/captain-caveman2k</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/228259?s=40&amp;v=4</avatar>
-          <name>dfandrich</name>
-          <url>https://github.com/dfandrich</url>
+          <avatar>https://avatars.githubusercontent.com/u/3526486?s=40&amp;v=4</avatar>
+          <name>anishathalye</name>
+          <url>https://github.com/anishathalye</url>
         </contributor>
       </contributors>
     </item>
