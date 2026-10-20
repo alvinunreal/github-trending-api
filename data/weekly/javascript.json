@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 17:47:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
   "items": [
     {
       "title": "michael-denyer/pstack-claude",
@@ -10,8 +10,8 @@
       "description": "Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,164",
-      "forks": "303",
+      "stars": "3,173",
+      "forks": "298",
       "addStars": "1,198",
       "contributors": [
         {
@@ -42,50 +42,13 @@
       ]
     },
     {
-      "title": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "99,769",
-      "forks": "6,785",
-      "addStars": "4,460",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
-          "name": "Leonxlnx",
-          "url": "https://github.com/Leonxlnx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122161868?s=40&v=4",
-          "name": "HugoSpy",
-          "url": "https://github.com/HugoSpy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/96955327?s=40&v=4",
-          "name": "flexi767",
-          "url": "https://github.com/flexi767"
-        }
-      ]
-    },
-    {
       "title": "hmjz100/LinkSwift",
       "url": "https://github.com/hmjz100/LinkSwift",
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,482",
-      "forks": "1,738",
+      "stars": "26,499",
+      "forks": "1,739",
       "addStars": "4,558",
       "contributors": [
         {
@@ -121,8 +84,8 @@
       "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,116",
-      "forks": "1,785",
+      "stars": "14,151",
+      "forks": "1,798",
       "addStars": "3,621",
       "contributors": [
         {
@@ -158,19 +121,29 @@
       "description": "",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "6,576",
-      "forks": "1,053",
+      "stars": "6,610",
+      "forks": "1,058",
       "addStars": "1,157",
       "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2501329?s=40&v=4",
+          "name": "guillaumeboniface",
+          "url": "https://github.com/guillaumeboniface"
+        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/262926223?s=40&v=4",
           "name": "lauramionel",
           "url": "https://github.com/lauramionel"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2501329?s=40&v=4",
-          "name": "guillaumeboniface",
-          "url": "https://github.com/guillaumeboniface"
+          "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
+          "name": "kevin9327",
+          "url": "https://github.com/kevin9327"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/218489957?s=40&v=4",
+          "name": "ShiroKSH",
+          "url": "https://github.com/ShiroKSH"
         }
       ]
     },
@@ -180,8 +153,8 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "251,562",
-      "forks": "51,560",
+      "stars": "251,595",
+      "forks": "51,561",
       "addStars": "809",
       "contributors": [
         {
@@ -217,7 +190,7 @@
       "description": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,054",
+      "stars": "20,060",
       "forks": "1,939",
       "addStars": "344",
       "contributors": [
@@ -254,8 +227,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,101",
-      "forks": "992",
+      "stars": "18,141",
+      "forks": "994",
       "addStars": "538",
       "contributors": [
         {
@@ -291,8 +264,8 @@
       "description": "Turn Claude into a senior design architect: DTCG tokens, 52 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 50 objective gates that fail the build instead of faking success.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,482",
-      "forks": "259",
+      "stars": "2,526",
+      "forks": "250",
       "addStars": "797",
       "contributors": [
         {
@@ -323,8 +296,8 @@
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,031",
-      "forks": "5,722",
+      "stars": "31,055",
+      "forks": "5,725",
       "addStars": "761",
       "contributors": [
         {
@@ -360,8 +333,8 @@
       "description": "DeepSeek v4.1 flash 逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,181",
-      "forks": "335",
+      "stars": "3,196",
+      "forks": "336",
       "addStars": "420",
       "contributors": [
         {

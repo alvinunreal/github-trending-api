@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 17:47:29 GMT",
+  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
   "items": [
     {
       "title": "storytold/artcraft",
@@ -10,8 +10,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,362",
-      "forks": "5,438",
+      "stars": "34,477",
+      "forks": "5,462",
       "addStars": "13,572",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,845",
-      "forks": "842",
+      "stars": "11,893",
+      "forks": "844",
       "addStars": "1,976",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,319",
-      "forks": "726",
+      "stars": "12,412",
+      "forks": "739",
       "addStars": "5,573",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,454",
-      "forks": "154",
+      "stars": "2,456",
+      "forks": "148",
       "addStars": "197",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,334",
-      "forks": "160",
+      "stars": "1,339",
+      "forks": "159",
       "addStars": "364",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "ArtCraft-X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "978",
-      "forks": "852",
+      "stars": "982",
+      "forks": "855",
       "addStars": "251",
       "contributors": [
         {
@@ -213,6 +213,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/46063141?s=40&v=4",
           "name": "bflatastic",
           "url": "https://github.com/bflatastic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         }
       ]
     },
@@ -222,8 +227,8 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,354",
-      "forks": "393",
+      "stars": "3,358",
+      "forks": "395",
       "addStars": "438",
       "contributors": [
         {
@@ -259,7 +264,7 @@
       "description": "CUDA on non-NVIDIA GPUs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,113",
+      "stars": "15,114",
       "forks": "962",
       "addStars": "144",
       "contributors": [
@@ -292,7 +297,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "1,534",
-      "forks": "267",
+      "forks": "233",
       "addStars": "241",
       "contributors": [
         {
@@ -323,8 +328,8 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "120,650",
-      "forks": "18,881",
+      "stars": "120,628",
+      "forks": "18,657",
       "addStars": "1,287",
       "contributors": [
         {
