@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 12:36:50 GMT",
+  "pubDate": "Tue, 20 Oct 2026 17:47:29 GMT",
   "items": [
     {
       "title": "vxcontrol/pentagi",
@@ -10,8 +10,8 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,445",
-      "forks": "5,033",
+      "stars": "31,505",
+      "forks": "4,955",
       "addStars": "5,051",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "184,237",
-      "forks": "18,457",
+      "stars": "184,131",
+      "forks": "18,450",
       "addStars": "1,117",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "113,773",
+      "stars": "113,817",
       "forks": "6,580",
       "addStars": "2,606",
       "contributors": [
@@ -116,8 +116,8 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "139,413",
-      "forks": "22,759",
+      "stars": "139,417",
+      "forks": "22,480",
       "addStars": "550",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Agent Mesh",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,131",
+      "stars": "1,132",
       "forks": "184",
       "addStars": "125",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,830",
+      "stars": "8,835",
       "forks": "497",
       "addStars": "167",
       "contributors": [
@@ -213,7 +213,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "424",
-      "forks": "472",
+      "forks": "473",
       "addStars": "26",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,478",
-      "forks": "781",
+      "stars": "7,486",
+      "forks": "782",
       "addStars": "323",
       "contributors": [
         {
@@ -286,7 +286,7 @@
       "description": "Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "19,706",
+      "stars": "19,708",
       "forks": "3,079",
       "addStars": "88",
       "contributors": [
@@ -318,7 +318,7 @@
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "396",
+      "stars": "406",
       "forks": "111",
       "addStars": "134",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Monorepo for the Pearl network 🐚",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "376",
+      "stars": "377",
       "forks": "91",
       "addStars": "18",
       "contributors": [
@@ -392,8 +392,8 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,986",
-      "forks": "408",
+      "stars": "1,991",
+      "forks": "409",
       "addStars": "151",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "GitHub's official MCP Server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,790",
-      "forks": "5,411",
+      "stars": "33,798",
+      "forks": "5,324",
       "addStars": "249",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,588",
-      "forks": "7,303",
+      "stars": "58,587",
+      "forks": "7,305",
       "addStars": "148",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,154",
-      "forks": "2,429",
+      "stars": "30,159",
+      "forks": "2,373",
       "addStars": "269",
       "contributors": [
         {
@@ -530,7 +530,7 @@
       "description": "Linux Patch Management & Automation Platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,435",
+      "stars": "3,436",
       "forks": "195",
       "addStars": "30",
       "contributors": [
@@ -567,8 +567,8 @@
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,025",
-      "forks": "557",
+      "stars": "3,027",
+      "forks": "559",
       "addStars": "176",
       "contributors": [
         {
@@ -605,7 +605,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "47,889",
-      "forks": "5,078",
+      "forks": "5,077",
       "addStars": "43",
       "contributors": [
         {
@@ -636,8 +636,8 @@
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,219",
-      "forks": "703",
+      "stars": "6,220",
+      "forks": "692",
       "addStars": "134",
       "contributors": [
         {
@@ -673,8 +673,8 @@
       "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,771",
-      "forks": "4,522",
+      "stars": "49,785",
+      "forks": "4,524",
       "addStars": "287",
       "contributors": [
         {
