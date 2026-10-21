@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 17:54:54 GMT",
+  "pubDate": "Wed, 21 Oct 2026 22:12:52 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,500",
-      "forks": "2,231",
+      "stars": "36,129",
+      "forks": "2,259",
       "addStars": "1,997",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "94,771",
-      "forks": "23,729",
+      "stars": "94,827",
+      "forks": "23,737",
       "addStars": "439",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "100,927",
-      "forks": "6,381",
+      "stars": "101,139",
+      "forks": "6,396",
       "addStars": "1,543",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "77,130",
-      "forks": "5,986",
+      "stars": "77,207",
+      "forks": "5,989",
       "addStars": "477",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "171,184",
-      "forks": "9,316",
+      "stars": "171,465",
+      "forks": "9,335",
       "addStars": "2,051",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "141,350",
-      "forks": "16,714",
+      "stars": "141,460",
+      "forks": "16,722",
       "addStars": "914",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "112,807",
-      "forks": "16,870",
+      "stars": "112,940",
+      "forks": "16,911",
       "addStars": "509",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,976",
-      "forks": "9,653",
+      "stars": "59,102",
+      "forks": "9,658",
       "addStars": "105",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,709",
-      "forks": "7,054",
+      "stars": "42,788",
+      "forks": "7,066",
       "addStars": "570",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,199",
-      "forks": "235",
+      "stars": "2,337",
+      "forks": "243",
       "addStars": "396",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,176",
-      "forks": "863",
+      "stars": "12,272",
+      "forks": "868",
       "addStars": "303",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "131,301",
-      "forks": "12,610",
+      "stars": "131,533",
+      "forks": "12,628",
       "addStars": "1,434",
       "contributors": [
         {

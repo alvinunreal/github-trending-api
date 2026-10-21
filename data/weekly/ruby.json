@@ -2,45 +2,8 @@
   "title": "GitHub Ruby Languages Weekly Trending",
   "description": "Weekly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 17:54:54 GMT",
+  "pubDate": "Wed, 21 Oct 2026 22:12:52 GMT",
   "items": [
-    {
-      "title": "antiwork/gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "9,999",
-      "forks": "2,091",
-      "addStars": "134",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
-          "name": "gumclaw",
-          "url": "https://github.com/gumclaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
-          "name": "gianfrancopiana",
-          "url": "https://github.com/gianfrancopiana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
-          "name": "ershad",
-          "url": "https://github.com/ershad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
-          "name": "slavingia",
-          "url": "https://github.com/slavingia"
-        }
-      ]
-    },
     {
       "title": "ruby/ruby",
       "url": "https://github.com/ruby/ruby",
@@ -85,7 +48,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "48,003",
-      "forks": "9,047",
+      "forks": "9,048",
       "addStars": "53",
       "contributors": [
         {
@@ -116,8 +79,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "38,069",
-      "forks": "9,282",
+      "stars": "38,071",
+      "forks": "9,283",
       "addStars": "305",
       "contributors": [
         {
@@ -153,8 +116,8 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,203",
-      "forks": "14,996",
+      "stars": "39,202",
+      "forks": "14,997",
       "addStars": "71",
       "contributors": [
         {
@@ -191,7 +154,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "15,634",
-      "forks": "13,929",
+      "forks": "13,931",
       "addStars": "18",
       "contributors": [
         {
@@ -259,7 +222,7 @@
       "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "26,335",
+      "stars": "26,336",
       "forks": "3,150",
       "addStars": "25",
       "contributors": [
@@ -333,8 +296,8 @@
       "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,564",
-      "forks": "2,656",
+      "stars": "39,565",
+      "forks": "2,655",
       "addStars": "31",
       "contributors": [
         {
@@ -365,8 +328,8 @@
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,266",
-      "forks": "12,023",
+      "stars": "22,267",
+      "forks": "12,024",
       "addStars": "18",
       "contributors": [
         {
@@ -402,8 +365,8 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,539",
-      "forks": "3,586",
+      "stars": "16,543",
+      "forks": "3,587",
       "addStars": "122",
       "contributors": [
         {
@@ -476,7 +439,7 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "18,765",
+      "stars": "18,769",
       "forks": "1,898",
       "addStars": "56",
       "contributors": [

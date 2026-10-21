@@ -2,15 +2,47 @@
   "title": "GitHub Markdown Languages Weekly Trending",
   "description": "Weekly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 17:54:54 GMT",
+  "pubDate": "Wed, 21 Oct 2026 22:12:52 GMT",
   "items": [
+    {
+      "title": "emilkowalski/skills",
+      "url": "https://github.com/emilkowalski/skills",
+      "description": "Skills for Designers and Engineers.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "48,405",
+      "forks": "2,803",
+      "addStars": "2,221",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36730035?s=40&v=4",
+          "name": "emilkowalski",
+          "url": "https://github.com/emilkowalski"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/73425927?s=40&v=4",
+          "name": "cr2007",
+          "url": "https://github.com/cr2007"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/302537833?s=40&v=4",
+          "name": "CommanderClaude",
+          "url": "https://github.com/CommanderClaude"
+        }
+      ]
+    },
     {
       "title": "ellisonleao/magictools",
       "url": "https://github.com/ellisonleao/magictools",
       "description": "🎮 📝 A list of Game Development resources to make magic happen.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "17,539",
+      "stars": "17,542",
       "forks": "1,282",
       "addStars": "60",
       "contributors": [
@@ -47,8 +79,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "555,120",
-      "forks": "52,008",
+      "stars": "555,180",
+      "forks": "52,010",
       "addStars": "2,078",
       "contributors": [
         {
@@ -84,7 +116,7 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "8,124",
+      "stars": "8,128",
       "forks": "310",
       "addStars": "194",
       "contributors": [
@@ -106,8 +138,8 @@
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "205,207",
-      "forks": "4,552",
+      "stars": "205,244",
+      "forks": "4,555",
       "addStars": "1,444",
       "contributors": [
         {
@@ -128,8 +160,8 @@
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "64,010",
-      "forks": "5,505",
+      "stars": "64,009",
+      "forks": "5,503",
       "addStars": "90",
       "contributors": [
         {
@@ -203,7 +235,7 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "31,266",
-      "forks": "9,149",
+      "forks": "9,148",
       "addStars": "21",
       "contributors": [
         {
@@ -308,7 +340,7 @@
       "description": "Improve your README.md profile with these amazing badges.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "13,560",
+      "stars": "13,561",
       "forks": "1,680",
       "addStars": "34",
       "contributors": [

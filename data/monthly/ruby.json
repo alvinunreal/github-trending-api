@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 17:54:54 GMT",
+  "pubDate": "Wed, 21 Oct 2026 22:12:52 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -11,7 +11,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "58,843",
-      "forks": "25,190",
+      "forks": "25,227",
       "addStars": "171",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,613",
+      "stars": "10,616",
       "forks": "674",
       "addStars": "649",
       "contributors": [
@@ -97,43 +97,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/225?s=40&v=4",
           "name": "mjankowski",
           "url": "https://github.com/mjankowski"
-        }
-      ]
-    },
-    {
-      "title": "antiwork/gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": "9,999",
-      "forks": "2,091",
-      "addStars": "319",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
-          "name": "gumclaw",
-          "url": "https://github.com/gumclaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
-          "name": "gianfrancopiana",
-          "url": "https://github.com/gianfrancopiana"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
-          "name": "ershad",
-          "url": "https://github.com/ershad"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
-          "name": "slavingia",
-          "url": "https://github.com/slavingia"
         }
       ]
     },
@@ -254,8 +217,8 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,539",
-      "forks": "3,586",
+      "stars": "16,543",
+      "forks": "3,587",
       "addStars": "390",
       "contributors": [
         {
@@ -291,8 +254,8 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "42,274",
-      "forks": "6,044",
+      "stars": "42,276",
+      "forks": "6,043",
       "addStars": "191",
       "contributors": [
         {
@@ -329,7 +292,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "48,003",
-      "forks": "9,047",
+      "forks": "9,048",
       "addStars": "197",
       "contributors": [
         {
@@ -360,8 +323,8 @@
       "description": "The Ruby AI framework.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,478",
-      "forks": "520",
+      "stars": "4,479",
+      "forks": "521",
       "addStars": "89",
       "contributors": [
         {
@@ -397,8 +360,8 @@
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,266",
-      "forks": "12,023",
+      "stars": "22,267",
+      "forks": "12,024",
       "addStars": "75",
       "contributors": [
         {
@@ -434,8 +397,8 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,077",
-      "forks": "11,399",
+      "stars": "50,081",
+      "forks": "11,400",
       "addStars": "413",
       "contributors": [
         {
@@ -472,7 +435,7 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": "5,808",
-      "forks": "1,565",
+      "forks": "1,564",
       "addStars": "46",
       "contributors": [
         {
@@ -540,8 +503,8 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "39,203",
-      "forks": "14,996",
+      "stars": "39,202",
+      "forks": "14,997",
       "addStars": "240",
       "contributors": [
         {
@@ -577,7 +540,7 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,325",
+      "stars": "12,323",
       "forks": "595",
       "addStars": "75",
       "contributors": [
@@ -720,7 +683,7 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,723",
+      "stars": "51,724",
       "forks": "10,301",
       "addStars": "101",
       "contributors": [
