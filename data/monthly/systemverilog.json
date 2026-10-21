@@ -2,45 +2,8 @@
   "title": "GitHub Systemverilog Languages Monthly Trending",
   "description": "Monthly Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:48:31 GMT",
   "items": [
-    {
-      "title": "verilator/verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": "4,022",
-      "forks": "943",
-      "addStars": "88",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
-          "name": "wsnyder",
-          "url": "https://github.com/wsnyder"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
-          "name": "gezalore",
-          "url": "https://github.com/gezalore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
-          "name": "RRozak",
-          "url": "https://github.com/RRozak"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
-          "name": "toddstrader",
-          "url": "https://github.com/toddstrader"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
-          "name": "YilouWang",
-          "url": "https://github.com/YilouWang"
-        }
-      ]
-    },
     {
       "title": "chipsalliance/caliptra-ss",
       "url": "https://github.com/chipsalliance/caliptra-ss",
@@ -75,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/108370498?s=40&v=4",
           "name": "Nitsirks",
           "url": "https://github.com/Nitsirks"
+        }
+      ]
+    },
+    {
+      "title": "verilator/verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": "4,023",
+      "forks": "943",
+      "addStars": "88",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1180685?s=40&v=4",
+          "name": "wsnyder",
+          "url": "https://github.com/wsnyder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16000351?s=40&v=4",
+          "name": "gezalore",
+          "url": "https://github.com/gezalore"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26442738?s=40&v=4",
+          "name": "RRozak",
+          "url": "https://github.com/RRozak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6840496?s=40&v=4",
+          "name": "toddstrader",
+          "url": "https://github.com/toddstrader"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/140522618?s=40&v=4",
+          "name": "YilouWang",
+          "url": "https://github.com/YilouWang"
         }
       ]
     },
@@ -121,7 +121,7 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "2,126",
+      "stars": "2,127",
       "forks": "824",
       "addStars": "67",
       "contributors": [
@@ -158,8 +158,8 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": "13,118",
-      "forks": "1,263",
+      "stars": "13,119",
+      "forks": "1,264",
       "addStars": "147",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Monthly Trending",
   "description": "Monthly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:48:31 GMT",
   "items": [
     {
       "title": "NationalSecurityAgency/ghidra",
@@ -10,8 +10,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "92,262",
-      "forks": "10,330",
+      "stars": "92,432",
+      "forks": "10,352",
       "addStars": "13,031",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "81,750",
-      "forks": "44,797",
+      "stars": "81,747",
+      "forks": "44,764",
       "addStars": "544",
       "contributors": [
         {
@@ -79,12 +79,44 @@
       ]
     },
     {
+      "title": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "63,107",
+      "forks": "7,971",
+      "addStars": "2,111",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
+          "name": "agnostic-apollo",
+          "url": "https://github.com/agnostic-apollo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
+          "name": "fornwall",
+          "url": "https://github.com/fornwall"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
+          "name": "Grimler91",
+          "url": "https://github.com/Grimler91"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
+          "name": "maoabc",
+          "url": "https://github.com/maoabc"
+        }
+      ]
+    },
+    {
       "title": "LaurieWired/GhidraMCP",
       "url": "https://github.com/LaurieWired/GhidraMCP",
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "11,443",
+      "stars": "11,451",
       "forks": "1,204",
       "addStars": "1,355",
       "contributors": [
@@ -116,72 +148,13 @@
       ]
     },
     {
-      "title": "AndroidIDEOfficial/AndroidIDE",
-      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
-      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "3,283",
-      "forks": "732",
-      "addStars": "167",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46931079?s=40&v=4",
-          "name": "itsaky",
-          "url": "https://github.com/itsaky"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43380144?s=40&v=4",
-          "name": "MrIkso",
-          "url": "https://github.com/MrIkso"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75083264?s=40&v=4",
-          "name": "deepkrg",
-          "url": "https://github.com/deepkrg"
-        }
-      ]
-    },
-    {
-      "title": "termux/termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "63,085",
-      "forks": "7,971",
-      "addStars": "2,111",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
-          "name": "agnostic-apollo",
-          "url": "https://github.com/agnostic-apollo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
-          "name": "fornwall",
-          "url": "https://github.com/fornwall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
-          "name": "Grimler91",
-          "url": "https://github.com/Grimler91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
-          "name": "maoabc",
-          "url": "https://github.com/maoabc"
-        }
-      ]
-    },
-    {
       "title": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "78,332",
-      "forks": "26,112",
+      "stars": "78,333",
+      "forks": "26,107",
       "addStars": "524",
       "contributors": [
         {
@@ -212,13 +185,114 @@
       ]
     },
     {
+      "title": "AndroidIDEOfficial/AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "3,284",
+      "forks": "732",
+      "addStars": "167",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46931079?s=40&v=4",
+          "name": "itsaky",
+          "url": "https://github.com/itsaky"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43380144?s=40&v=4",
+          "name": "MrIkso",
+          "url": "https://github.com/MrIkso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75083264?s=40&v=4",
+          "name": "deepkrg",
+          "url": "https://github.com/deepkrg"
+        }
+      ]
+    },
+    {
+      "title": "HMCL-dev/HMCL",
+      "url": "https://github.com/HMCL-dev/HMCL",
+      "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "10,516",
+      "forks": "1,195",
+      "addStars": "449",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5411982?s=40&v=4",
+          "name": "huanghongxun",
+          "url": "https://github.com/huanghongxun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20694662?s=40&v=4",
+          "name": "Glavo",
+          "url": "https://github.com/Glavo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8373027?s=40&v=4",
+          "name": "yushijinhun",
+          "url": "https://github.com/yushijinhun"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109708109?s=40&v=4",
+          "name": "CiiLu",
+          "url": "https://github.com/CiiLu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158490944?s=40&v=4",
+          "name": "3gf8jv4dv",
+          "url": "https://github.com/3gf8jv4dv"
+        }
+      ]
+    },
+    {
+      "title": "skylot/jadx",
+      "url": "https://github.com/skylot/jadx",
+      "description": "Dex to Java decompiler",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "51,148",
+      "forks": "5,812",
+      "addStars": "679",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/118523?s=40&v=4",
+          "name": "skylot",
+          "url": "https://github.com/skylot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/924885?s=40&v=4",
+          "name": "jpstotz",
+          "url": "https://github.com/jpstotz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2410127?s=40&v=4",
+          "name": "asashour",
+          "url": "https://github.com/asashour"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43380144?s=40&v=4",
+          "name": "MrIkso",
+          "url": "https://github.com/MrIkso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58364572?s=40&v=4",
+          "name": "nitram84",
+          "url": "https://github.com/nitram84"
+        }
+      ]
+    },
+    {
       "title": "apache/kafka",
       "url": "https://github.com/apache/kafka",
       "description": "Apache Kafka - A distributed event streaming platform",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "34,097",
-      "forks": "15,618",
+      "stars": "34,099",
+      "forks": "15,620",
       "addStars": "504",
       "contributors": [
         {
@@ -254,8 +328,8 @@
       "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "29,911",
-      "forks": "3,452",
+      "stars": "29,921",
+      "forks": "3,444",
       "addStars": "1,802",
       "contributors": [
         {
@@ -281,82 +355,13 @@
       ]
     },
     {
-      "title": "shmykelsa/AAAD",
-      "url": "https://github.com/shmykelsa/AAAD",
-      "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "3,135",
-      "forks": "346",
-      "addStars": "166",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9965637?s=40&v=4",
-          "name": "shmykelsa",
-          "url": "https://github.com/shmykelsa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1552295?s=40&v=4",
-          "name": "frankkienl",
-          "url": "https://github.com/frankkienl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/69894187?s=40&v=4",
-          "name": "bunnypranav",
-          "url": "https://github.com/bunnypranav"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71540383?s=40&v=4",
-          "name": "Shockshwat",
-          "url": "https://github.com/Shockshwat"
-        }
-      ]
-    },
-    {
-      "title": "skylot/jadx",
-      "url": "https://github.com/skylot/jadx",
-      "description": "Dex to Java decompiler",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "51,137",
-      "forks": "5,815",
-      "addStars": "679",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/118523?s=40&v=4",
-          "name": "skylot",
-          "url": "https://github.com/skylot"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/924885?s=40&v=4",
-          "name": "jpstotz",
-          "url": "https://github.com/jpstotz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2410127?s=40&v=4",
-          "name": "asashour",
-          "url": "https://github.com/asashour"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43380144?s=40&v=4",
-          "name": "MrIkso",
-          "url": "https://github.com/MrIkso"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58364572?s=40&v=4",
-          "name": "nitram84",
-          "url": "https://github.com/nitram84"
-        }
-      ]
-    },
-    {
       "title": "bethington/ghidra-mcp",
       "url": "https://github.com/bethington/ghidra-mcp",
       "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,824",
-      "forks": "348",
+      "stars": "5,825",
+      "forks": "344",
       "addStars": "1,927",
       "contributors": [
         {
@@ -387,7 +392,7 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,436",
+      "stars": "1,438",
       "forks": "218",
       "addStars": "95",
       "contributors": [
@@ -424,8 +429,8 @@
       "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "26,414",
-      "forks": "4,108",
+      "stars": "26,451",
+      "forks": "4,114",
       "addStars": "740",
       "contributors": [
         {
@@ -456,8 +461,8 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "40,229",
-      "forks": "3,905",
+      "stars": "40,236",
+      "forks": "3,907",
       "addStars": "607",
       "contributors": [
         {
@@ -488,123 +493,12 @@
       ]
     },
     {
-      "title": "GeyserMC/Geyser",
-      "url": "https://github.com/GeyserMC/Geyser",
-      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "5,929",
-      "forks": "928",
-      "addStars": "139",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20743703?s=40&v=4",
-          "name": "Camotoy",
-          "url": "https://github.com/Camotoy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/105284508?s=40&v=4",
-          "name": "onebeastchris",
-          "url": "https://github.com/onebeastchris"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29153871?s=40&v=4",
-          "name": "Redned235",
-          "url": "https://github.com/Redned235"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5401186?s=40&v=4",
-          "name": "rtm516",
-          "url": "https://github.com/rtm516"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/116838833?s=40&v=4",
-          "name": "eclipseisoffline",
-          "url": "https://github.com/eclipseisoffline"
-        }
-      ]
-    },
-    {
-      "title": "MCRcortex/voxy",
-      "url": "https://github.com/MCRcortex/voxy",
-      "description": "An LoD rendering mod for minecraft",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "1,342",
-      "forks": "1,459",
-      "addStars": "113",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18544518?s=40&v=4",
-          "name": "MCRcortex",
-          "url": "https://github.com/MCRcortex"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36993134?s=40&v=4",
-          "name": "KaptainWutax",
-          "url": "https://github.com/KaptainWutax"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55595431?s=40&v=4",
-          "name": "boredhuman",
-          "url": "https://github.com/boredhuman"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13132490?s=40&v=4",
-          "name": "drouarb",
-          "url": "https://github.com/drouarb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28588188?s=40&v=4",
-          "name": "Xenthio",
-          "url": "https://github.com/Xenthio"
-        }
-      ]
-    },
-    {
-      "title": "TGX-Android/Telegram-X",
-      "url": "https://github.com/TGX-Android/Telegram-X",
-      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "6,104",
-      "forks": "1,153",
-      "addStars": "133",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6242627?s=40&v=4",
-          "name": "vkryl",
-          "url": "https://github.com/vkryl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135133545?s=40&v=4",
-          "name": "tgx-server",
-          "url": "https://github.com/tgx-server"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9827543?s=40&v=4",
-          "name": "iTaysonLab",
-          "url": "https://github.com/iTaysonLab"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4",
-          "name": "Arseny271",
-          "url": "https://github.com/Arseny271"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4970595?s=40&v=4",
-          "name": "nikita-toropov",
-          "url": "https://github.com/nikita-toropov"
-        }
-      ]
-    },
-    {
       "title": "logisim-evolution/logisim-evolution",
       "url": "https://github.com/logisim-evolution/logisim-evolution",
       "description": "Digital logic design tool and simulator",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "7,804",
+      "stars": "7,807",
       "forks": "1,038",
       "addStars": "193",
       "contributors": [
@@ -636,39 +530,108 @@
       ]
     },
     {
-      "title": "DrKLO/Telegram",
-      "url": "https://github.com/DrKLO/Telegram",
-      "description": "Telegram for Android source",
+      "title": "shmykelsa/AAAD",
+      "url": "https://github.com/shmykelsa/AAAD",
+      "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,122",
-      "forks": "10,281",
-      "addStars": "274",
+      "stars": "3,137",
+      "forks": "346",
+      "addStars": "166",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7038595?s=40&v=4",
-          "name": "xaxtix",
-          "url": "https://github.com/xaxtix"
+          "avatar": "https://avatars.githubusercontent.com/u/9965637?s=40&v=4",
+          "name": "shmykelsa",
+          "url": "https://github.com/shmykelsa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/69369?s=40&v=4",
-          "name": "DrKLO",
-          "url": "https://github.com/DrKLO"
+          "avatar": "https://avatars.githubusercontent.com/u/1552295?s=40&v=4",
+          "name": "frankkienl",
+          "url": "https://github.com/frankkienl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4",
-          "name": "Arseny271",
-          "url": "https://github.com/Arseny271"
+          "avatar": "https://avatars.githubusercontent.com/u/69894187?s=40&v=4",
+          "name": "bunnypranav",
+          "url": "https://github.com/bunnypranav"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10834227?s=40&v=4",
-          "name": "dkaraush",
-          "url": "https://github.com/dkaraush"
+          "avatar": "https://avatars.githubusercontent.com/u/71540383?s=40&v=4",
+          "name": "Shockshwat",
+          "url": "https://github.com/Shockshwat"
+        }
+      ]
+    },
+    {
+      "title": "MCRcortex/voxy",
+      "url": "https://github.com/MCRcortex/voxy",
+      "description": "An LoD rendering mod for minecraft",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "1,342",
+      "forks": "1,462",
+      "addStars": "113",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18544518?s=40&v=4",
+          "name": "MCRcortex",
+          "url": "https://github.com/MCRcortex"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/36993134?s=40&v=4",
+          "name": "KaptainWutax",
+          "url": "https://github.com/KaptainWutax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55595431?s=40&v=4",
+          "name": "boredhuman",
+          "url": "https://github.com/boredhuman"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/13132490?s=40&v=4",
+          "name": "drouarb",
+          "url": "https://github.com/drouarb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28588188?s=40&v=4",
+          "name": "Xenthio",
+          "url": "https://github.com/Xenthio"
+        }
+      ]
+    },
+    {
+      "title": "GeyserMC/Geyser",
+      "url": "https://github.com/GeyserMC/Geyser",
+      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "5,930",
+      "forks": "928",
+      "addStars": "139",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20743703?s=40&v=4",
+          "name": "Camotoy",
+          "url": "https://github.com/Camotoy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105284508?s=40&v=4",
+          "name": "onebeastchris",
+          "url": "https://github.com/onebeastchris"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29153871?s=40&v=4",
+          "name": "Redned235",
+          "url": "https://github.com/Redned235"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5401186?s=40&v=4",
+          "name": "rtm516",
+          "url": "https://github.com/rtm516"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/116838833?s=40&v=4",
+          "name": "eclipseisoffline",
+          "url": "https://github.com/eclipseisoffline"
         }
       ]
     },
@@ -678,8 +641,8 @@
       "description": "小说下载｜网文下载 | 网络小说",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,702",
-      "forks": "746",
+      "stars": "8,703",
+      "forks": "740",
       "addStars": "587",
       "contributors": [
         {
@@ -710,76 +673,76 @@
       ]
     },
     {
-      "title": "apache/shenyu",
-      "url": "https://github.com/apache/shenyu",
-      "description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",
+      "title": "TGX-Android/Telegram-X",
+      "url": "https://github.com/TGX-Android/Telegram-X",
+      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,898",
-      "forks": "3,100",
-      "addStars": "69",
+      "stars": "6,105",
+      "forks": "1,153",
+      "addStars": "133",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9673503?s=40&v=4",
-          "name": "yu199195",
-          "url": "https://github.com/yu199195"
+          "avatar": "https://avatars.githubusercontent.com/u/6242627?s=40&v=4",
+          "name": "vkryl",
+          "url": "https://github.com/vkryl"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25810623?s=40&v=4",
-          "name": "Aias00",
-          "url": "https://github.com/Aias00"
+          "avatar": "https://avatars.githubusercontent.com/u/135133545?s=40&v=4",
+          "name": "tgx-server",
+          "url": "https://github.com/tgx-server"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7796156?s=40&v=4",
-          "name": "dengliming",
-          "url": "https://github.com/dengliming"
+          "avatar": "https://avatars.githubusercontent.com/u/9827543?s=40&v=4",
+          "name": "iTaysonLab",
+          "url": "https://github.com/iTaysonLab"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20184263?s=40&v=4",
-          "name": "moremind",
-          "url": "https://github.com/moremind"
+          "avatar": "https://avatars.githubusercontent.com/u/56611696?s=40&v=4",
+          "name": "Arseny271",
+          "url": "https://github.com/Arseny271"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38336731?s=40&v=4",
-          "name": "loongs-zhang",
-          "url": "https://github.com/loongs-zhang"
+          "avatar": "https://avatars.githubusercontent.com/u/4970595?s=40&v=4",
+          "name": "nikita-toropov",
+          "url": "https://github.com/nikita-toropov"
         }
       ]
     },
     {
-      "title": "trinodb/trino",
-      "url": "https://github.com/trinodb/trino",
-      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+      "title": "FCL-Team/FoldCraftLauncher",
+      "url": "https://github.com/FCL-Team/FoldCraftLauncher",
+      "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,352",
-      "forks": "3,830",
-      "addStars": "106",
+      "stars": "5,006",
+      "forks": "349",
+      "addStars": "271",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/144328?s=40&v=4",
-          "name": "findepi",
-          "url": "https://github.com/findepi"
+          "avatar": "https://avatars.githubusercontent.com/u/19233890?s=40&v=4",
+          "name": "ShirosakiMio",
+          "url": "https://github.com/ShirosakiMio"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9230?s=40&v=4",
-          "name": "electrum",
-          "url": "https://github.com/electrum"
+          "avatar": "https://avatars.githubusercontent.com/u/74163103?s=40&v=4",
+          "name": "Tungstend",
+          "url": "https://github.com/Tungstend"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58298?s=40&v=4",
-          "name": "dain",
-          "url": "https://github.com/dain"
+          "avatar": "https://avatars.githubusercontent.com/u/58262801?s=40&v=4",
+          "name": "Reset1712",
+          "url": "https://github.com/Reset1712"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/66972?s=40&v=4",
-          "name": "wendigo",
-          "url": "https://github.com/wendigo"
+          "avatar": "https://avatars.githubusercontent.com/u/87926662?s=40&v=4",
+          "name": "Vera-Firefly",
+          "url": "https://github.com/Vera-Firefly"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/14387?s=40&v=4",
-          "name": "martint",
-          "url": "https://github.com/martint"
+          "avatar": "https://avatars.githubusercontent.com/u/25864932?s=40&v=4",
+          "name": "WesleyVanNeck",
+          "url": "https://github.com/WesleyVanNeck"
         }
       ]
     }

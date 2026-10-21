@@ -3,7 +3,45 @@
     <title>GitHub Restructuredtext Languages Daily Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Daily Trending of Restructuredtext Languages in GitHub</description>
-    <pubDate>Wed, 21 Oct 2026 05:41:03 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2026 12:48:31 GMT</pubDate>
+    <item>
+      <title>odoo/documentation</title>
+      <link>https://github.com/odoo/documentation</link>
+      <description>Odoo documentation sources</description>
+      <guid>https://github.com/odoo/documentation</guid>
+      <language>reStructuredText</language>
+      <languageColor>#141414</languageColor>
+      <stars>1,363</stars>
+      <forks>12,195</forks>
+      <addStars>0</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/564822?s=40&amp;v=4</avatar>
+          <name>mart-e</name>
+          <url>https://github.com/mart-e</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/121518652?s=40&amp;v=4</avatar>
+          <name>larm-odoo</name>
+          <url>https://github.com/larm-odoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8435879?s=40&amp;v=4</avatar>
+          <name>tivisse</name>
+          <url>https://github.com/tivisse</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12633088?s=40&amp;v=4</avatar>
+          <name>C3POdoo</name>
+          <url>https://github.com/C3POdoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15896813?s=40&amp;v=4</avatar>
+          <name>AntoineVDV</name>
+          <url>https://github.com/AntoineVDV</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>godotengine/godot-docs</title>
       <link>https://github.com/godotengine/godot-docs</link>
@@ -11,7 +49,7 @@
       <guid>https://github.com/godotengine/godot-docs</guid>
       <language>reStructuredText</language>
       <languageColor>#141414</languageColor>
-      <stars>5,836</stars>
+      <stars>5,839</stars>
       <forks>3,791</forks>
       <addStars>5</addStars>
       <contributors>
@@ -39,44 +77,6 @@
           <avatar>https://avatars.githubusercontent.com/u/12694995?s=40&amp;v=4</avatar>
           <name>NathanLovato</name>
           <url>https://github.com/NathanLovato</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>odoo/documentation</title>
-      <link>https://github.com/odoo/documentation</link>
-      <description>Odoo documentation sources</description>
-      <guid>https://github.com/odoo/documentation</guid>
-      <language>reStructuredText</language>
-      <languageColor>#141414</languageColor>
-      <stars>1,361</stars>
-      <forks>12,194</forks>
-      <addStars>0</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/564822?s=40&amp;v=4</avatar>
-          <name>mart-e</name>
-          <url>https://github.com/mart-e</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/121518652?s=40&amp;v=4</avatar>
-          <name>larm-odoo</name>
-          <url>https://github.com/larm-odoo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8435879?s=40&amp;v=4</avatar>
-          <name>tivisse</name>
-          <url>https://github.com/tivisse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12633088?s=40&amp;v=4</avatar>
-          <name>C3POdoo</name>
-          <url>https://github.com/C3POdoo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15896813?s=40&amp;v=4</avatar>
-          <name>AntoineVDV</name>
-          <url>https://github.com/AntoineVDV</url>
         </contributor>
       </contributors>
     </item>

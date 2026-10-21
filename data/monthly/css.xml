@@ -3,7 +3,7 @@
     <title>GitHub Css Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Css Languages in GitHub</description>
-    <pubDate>Wed, 21 Oct 2026 05:41:03 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2026 12:48:31 GMT</pubDate>
     <item>
       <title>OWASP/wstg</title>
       <link>https://github.com/OWASP/wstg</link>
@@ -50,7 +50,7 @@
       <language>CSS</language>
       <languageColor>#663399</languageColor>
       <stars>10,180</stars>
-      <forks>2,320</forks>
+      <forks>2,322</forks>
       <addStars>187</addStars>
       <contributors>
         <contributor>
@@ -81,52 +81,14 @@
       </contributors>
     </item>
     <item>
-      <title>isocpp/CppCoreGuidelines</title>
-      <link>https://github.com/isocpp/CppCoreGuidelines</link>
-      <description>The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</description>
-      <guid>https://github.com/isocpp/CppCoreGuidelines</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>45,395</stars>
-      <forks>5,553</forks>
-      <addStars>114</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1801526?s=40&amp;v=4</avatar>
-          <name>hsutter</name>
-          <url>https://github.com/hsutter</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11031650?s=40&amp;v=4</avatar>
-          <name>gdr-at-ms</name>
-          <url>https://github.com/gdr-at-ms</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1525116?s=40&amp;v=4</avatar>
-          <name>tkruse</name>
-          <url>https://github.com/tkruse</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9330739?s=40&amp;v=4</avatar>
-          <name>cubbimew</name>
-          <url>https://github.com/cubbimew</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10933044?s=40&amp;v=4</avatar>
-          <name>BjarneStroustrup</name>
-          <url>https://github.com/BjarneStroustrup</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>spring-projects/spring-petclinic</title>
       <link>https://github.com/spring-projects/spring-petclinic</link>
       <description>A sample Spring-based application</description>
       <guid>https://github.com/spring-projects/spring-petclinic</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>9,593</stars>
-      <forks>30,983</forks>
+      <stars>9,594</stars>
+      <forks>30,985</forks>
       <addStars>78</addStars>
       <contributors>
         <contributor>
@@ -164,7 +126,7 @@
       <language>CSS</language>
       <languageColor>#663399</languageColor>
       <stars>6,120</stars>
-      <forks>1,505</forks>
+      <forks>1,507</forks>
       <addStars>71</addStars>
       <contributors>
         <contributor>
@@ -191,6 +153,44 @@
           <avatar>https://avatars.githubusercontent.com/u/8521043?s=40&amp;v=4</avatar>
           <name>bewuethr</name>
           <url>https://github.com/bewuethr</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>isocpp/CppCoreGuidelines</title>
+      <link>https://github.com/isocpp/CppCoreGuidelines</link>
+      <description>The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</description>
+      <guid>https://github.com/isocpp/CppCoreGuidelines</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>45,393</stars>
+      <forks>5,553</forks>
+      <addStars>114</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1801526?s=40&amp;v=4</avatar>
+          <name>hsutter</name>
+          <url>https://github.com/hsutter</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11031650?s=40&amp;v=4</avatar>
+          <name>gdr-at-ms</name>
+          <url>https://github.com/gdr-at-ms</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1525116?s=40&amp;v=4</avatar>
+          <name>tkruse</name>
+          <url>https://github.com/tkruse</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9330739?s=40&amp;v=4</avatar>
+          <name>cubbimew</name>
+          <url>https://github.com/cubbimew</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10933044?s=40&amp;v=4</avatar>
+          <name>BjarneStroustrup</name>
+          <url>https://github.com/BjarneStroustrup</url>
         </contributor>
       </contributors>
     </item>
@@ -233,6 +233,44 @@
       </contributors>
     </item>
     <item>
+      <title>spicetify/spicetify-themes</title>
+      <link>https://github.com/spicetify/spicetify-themes</link>
+      <description>A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli</description>
+      <guid>https://github.com/spicetify/spicetify-themes</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>6,110</stars>
+      <forks>1,329</forks>
+      <addStars>49</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/36999173?s=40&amp;v=4</avatar>
+          <name>morpheusthewhite</name>
+          <url>https://github.com/morpheusthewhite</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/84175605?s=40&amp;v=4</avatar>
+          <name>harbassan</name>
+          <url>https://github.com/harbassan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19476925?s=40&amp;v=4</avatar>
+          <name>grasonchan</name>
+          <url>https://github.com/grasonchan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60494758?s=40&amp;v=4</avatar>
+          <name>CharlieS1103</name>
+          <url>https://github.com/CharlieS1103</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/111078063?s=40&amp;v=4</avatar>
+          <name>darkthemer</name>
+          <url>https://github.com/darkthemer</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>csstools/postcss-plugins</title>
       <link>https://github.com/csstools/postcss-plugins</link>
       <description>PostCSS Tools and Plugins</description>
@@ -266,78 +304,53 @@
       </contributors>
     </item>
     <item>
-      <title>spicetify/spicetify-themes</title>
-      <link>https://github.com/spicetify/spicetify-themes</link>
-      <description>A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli</description>
-      <guid>https://github.com/spicetify/spicetify-themes</guid>
+      <title>XiaomingX/ai-money-maker-handbook</title>
+      <link>https://github.com/XiaomingX/ai-money-maker-handbook</link>
+      <description>ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.</description>
+      <guid>https://github.com/XiaomingX/ai-money-maker-handbook</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>6,108</stars>
-      <forks>1,328</forks>
-      <addStars>49</addStars>
+      <stars>6,273</stars>
+      <forks>578</forks>
+      <addStars>996</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36999173?s=40&amp;v=4</avatar>
-          <name>morpheusthewhite</name>
-          <url>https://github.com/morpheusthewhite</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/84175605?s=40&amp;v=4</avatar>
-          <name>harbassan</name>
-          <url>https://github.com/harbassan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19476925?s=40&amp;v=4</avatar>
-          <name>grasonchan</name>
-          <url>https://github.com/grasonchan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60494758?s=40&amp;v=4</avatar>
-          <name>CharlieS1103</name>
-          <url>https://github.com/CharlieS1103</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/111078063?s=40&amp;v=4</avatar>
-          <name>darkthemer</name>
-          <url>https://github.com/darkthemer</url>
+          <avatar>https://avatars.githubusercontent.com/u/5387930?s=40&amp;v=4</avatar>
+          <name>XiaomingX</name>
+          <url>https://github.com/XiaomingX</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>jensimmons/cssremedy</title>
-      <link>https://github.com/jensimmons/cssremedy</link>
-      <description>Start your project with a remedy for the technical debt of CSS.</description>
-      <guid>https://github.com/jensimmons/cssremedy</guid>
+      <title>animate-css/animate.css</title>
+      <link>https://github.com/animate-css/animate.css</link>
+      <description>🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</description>
+      <guid>https://github.com/animate-css/animate.css</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>2,223</stars>
-      <forks>113</forks>
-      <addStars>2</addStars>
+      <stars>82,904</stars>
+      <forks>15,857</forks>
+      <addStars>191</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/108474?s=40&amp;v=4</avatar>
-          <name>jensimmons</name>
-          <url>https://github.com/jensimmons</url>
+          <avatar>https://avatars.githubusercontent.com/u/439365?s=40&amp;v=4</avatar>
+          <name>daneden</name>
+          <url>https://github.com/daneden</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/104161?s=40&amp;v=4</avatar>
-          <name>mirisuzanne</name>
-          <url>https://github.com/mirisuzanne</url>
+          <avatar>https://avatars.githubusercontent.com/u/5007208?s=40&amp;v=4</avatar>
+          <name>eltonmesquita</name>
+          <url>https://github.com/eltonmesquita</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24193?s=40&amp;v=4</avatar>
-          <name>callahad</name>
-          <url>https://github.com/callahad</url>
+          <avatar>https://avatars.githubusercontent.com/u/75607?s=40&amp;v=4</avatar>
+          <name>suissa</name>
+          <url>https://github.com/suissa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/175082?s=40&amp;v=4</avatar>
-          <name>thierryk</name>
-          <url>https://github.com/thierryk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78213?s=40&amp;v=4</avatar>
-          <name>nhoizey</name>
-          <url>https://github.com/nhoizey</url>
+          <avatar>https://avatars.githubusercontent.com/u/15052701?s=40&amp;v=4</avatar>
+          <name>warengonzaga</name>
+          <url>https://github.com/warengonzaga</url>
         </contributor>
       </contributors>
     </item>

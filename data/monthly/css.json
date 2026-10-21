@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
+  "pubDate": "Wed, 21 Oct 2026 12:48:31 GMT",
   "items": [
     {
       "title": "OWASP/wstg",
@@ -48,7 +48,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "10,180",
-      "forks": "2,320",
+      "forks": "2,322",
       "addStars": "187",
       "contributors": [
         {
@@ -79,50 +79,13 @@
       ]
     },
     {
-      "title": "isocpp/CppCoreGuidelines",
-      "url": "https://github.com/isocpp/CppCoreGuidelines",
-      "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "45,395",
-      "forks": "5,553",
-      "addStars": "114",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1801526?s=40&v=4",
-          "name": "hsutter",
-          "url": "https://github.com/hsutter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11031650?s=40&v=4",
-          "name": "gdr-at-ms",
-          "url": "https://github.com/gdr-at-ms"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1525116?s=40&v=4",
-          "name": "tkruse",
-          "url": "https://github.com/tkruse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9330739?s=40&v=4",
-          "name": "cubbimew",
-          "url": "https://github.com/cubbimew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10933044?s=40&v=4",
-          "name": "BjarneStroustrup",
-          "url": "https://github.com/BjarneStroustrup"
-        }
-      ]
-    },
-    {
       "title": "spring-projects/spring-petclinic",
       "url": "https://github.com/spring-projects/spring-petclinic",
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,593",
-      "forks": "30,983",
+      "stars": "9,594",
+      "forks": "30,985",
       "addStars": "78",
       "contributors": [
         {
@@ -159,7 +122,7 @@
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "6,120",
-      "forks": "1,505",
+      "forks": "1,507",
       "addStars": "71",
       "contributors": [
         {
@@ -186,6 +149,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/8521043?s=40&v=4",
           "name": "bewuethr",
           "url": "https://github.com/bewuethr"
+        }
+      ]
+    },
+    {
+      "title": "isocpp/CppCoreGuidelines",
+      "url": "https://github.com/isocpp/CppCoreGuidelines",
+      "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "45,393",
+      "forks": "5,553",
+      "addStars": "114",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1801526?s=40&v=4",
+          "name": "hsutter",
+          "url": "https://github.com/hsutter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11031650?s=40&v=4",
+          "name": "gdr-at-ms",
+          "url": "https://github.com/gdr-at-ms"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1525116?s=40&v=4",
+          "name": "tkruse",
+          "url": "https://github.com/tkruse"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9330739?s=40&v=4",
+          "name": "cubbimew",
+          "url": "https://github.com/cubbimew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10933044?s=40&v=4",
+          "name": "BjarneStroustrup",
+          "url": "https://github.com/BjarneStroustrup"
         }
       ]
     },
@@ -227,6 +227,43 @@
       ]
     },
     {
+      "title": "spicetify/spicetify-themes",
+      "url": "https://github.com/spicetify/spicetify-themes",
+      "description": "A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "6,110",
+      "forks": "1,329",
+      "addStars": "49",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36999173?s=40&v=4",
+          "name": "morpheusthewhite",
+          "url": "https://github.com/morpheusthewhite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84175605?s=40&v=4",
+          "name": "harbassan",
+          "url": "https://github.com/harbassan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19476925?s=40&v=4",
+          "name": "grasonchan",
+          "url": "https://github.com/grasonchan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/60494758?s=40&v=4",
+          "name": "CharlieS1103",
+          "url": "https://github.com/CharlieS1103"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111078063?s=40&v=4",
+          "name": "darkthemer",
+          "url": "https://github.com/darkthemer"
+        }
+      ]
+    },
+    {
       "title": "csstools/postcss-plugins",
       "url": "https://github.com/csstools/postcss-plugins",
       "description": "PostCSS Tools and Plugins",
@@ -259,76 +296,51 @@
       ]
     },
     {
-      "title": "spicetify/spicetify-themes",
-      "url": "https://github.com/spicetify/spicetify-themes",
-      "description": "A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli",
+      "title": "XiaomingX/ai-money-maker-handbook",
+      "url": "https://github.com/XiaomingX/ai-money-maker-handbook",
+      "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "6,108",
-      "forks": "1,328",
-      "addStars": "49",
+      "stars": "6,273",
+      "forks": "578",
+      "addStars": "996",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36999173?s=40&v=4",
-          "name": "morpheusthewhite",
-          "url": "https://github.com/morpheusthewhite"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/84175605?s=40&v=4",
-          "name": "harbassan",
-          "url": "https://github.com/harbassan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19476925?s=40&v=4",
-          "name": "grasonchan",
-          "url": "https://github.com/grasonchan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/60494758?s=40&v=4",
-          "name": "CharlieS1103",
-          "url": "https://github.com/CharlieS1103"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/111078063?s=40&v=4",
-          "name": "darkthemer",
-          "url": "https://github.com/darkthemer"
+          "avatar": "https://avatars.githubusercontent.com/u/5387930?s=40&v=4",
+          "name": "XiaomingX",
+          "url": "https://github.com/XiaomingX"
         }
       ]
     },
     {
-      "title": "jensimmons/cssremedy",
-      "url": "https://github.com/jensimmons/cssremedy",
-      "description": "Start your project with a remedy for the technical debt of CSS.",
+      "title": "animate-css/animate.css",
+      "url": "https://github.com/animate-css/animate.css",
+      "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "2,223",
-      "forks": "113",
-      "addStars": "2",
+      "stars": "82,904",
+      "forks": "15,857",
+      "addStars": "191",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108474?s=40&v=4",
-          "name": "jensimmons",
-          "url": "https://github.com/jensimmons"
+          "avatar": "https://avatars.githubusercontent.com/u/439365?s=40&v=4",
+          "name": "daneden",
+          "url": "https://github.com/daneden"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/104161?s=40&v=4",
-          "name": "mirisuzanne",
-          "url": "https://github.com/mirisuzanne"
+          "avatar": "https://avatars.githubusercontent.com/u/5007208?s=40&v=4",
+          "name": "eltonmesquita",
+          "url": "https://github.com/eltonmesquita"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24193?s=40&v=4",
-          "name": "callahad",
-          "url": "https://github.com/callahad"
+          "avatar": "https://avatars.githubusercontent.com/u/75607?s=40&v=4",
+          "name": "suissa",
+          "url": "https://github.com/suissa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/175082?s=40&v=4",
-          "name": "thierryk",
-          "url": "https://github.com/thierryk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78213?s=40&v=4",
-          "name": "nhoizey",
-          "url": "https://github.com/nhoizey"
+          "avatar": "https://avatars.githubusercontent.com/u/15052701?s=40&v=4",
+          "name": "warengonzaga",
+          "url": "https://github.com/warengonzaga"
         }
       ]
     },
