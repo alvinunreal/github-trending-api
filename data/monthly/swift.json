@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Monthly Trending",
   "description": "Monthly Trending of Swift Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
+  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
   "items": [
     {
       "title": "vorssaint/vorssaint-utils",
@@ -10,9 +10,9 @@
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "28,518",
-      "forks": "1,319",
-      "addStars": "8,518",
+      "stars": "28,571",
+      "forks": "1,325",
+      "addStars": "8,466",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/259901989?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "7,591",
+      "stars": "7,599",
       "forks": "410",
-      "addStars": "790",
+      "addStars": "795",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/85709?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "The Swift Programming Language",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "70,512",
+      "stars": "70,515",
       "forks": "10,865",
-      "addStars": "240",
+      "addStars": "230",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15467072?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "3,137",
-      "forks": "479",
-      "addStars": "369",
+      "stars": "3,140",
+      "forks": "480",
+      "addStars": "375",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36247722?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#F05138",
       "stars": "9,322",
       "forks": "3,099",
-      "addStars": "333",
+      "addStars": "360",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/491013?s=40&v=4",
@@ -196,8 +196,8 @@
       "language": "Swift",
       "languageColor": "#F05138",
       "stars": "46,853",
-      "forks": "2,966",
-      "addStars": "517",
+      "forks": "2,967",
+      "addStars": "520",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8478049?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "28,303",
-      "forks": "2,561",
-      "addStars": "1,221",
+      "stars": "28,315",
+      "forks": "2,564",
+      "addStars": "1,222",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54008264?s=40&v=4",
@@ -271,7 +271,7 @@
       "languageColor": "#F05138",
       "stars": "11,982",
       "forks": "1,011",
-      "addStars": "236",
+      "addStars": "233",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42140194?s=40&v=4",
@@ -306,9 +306,9 @@
       "description": "Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "4,084",
+      "stars": "4,089",
       "forks": "284",
-      "addStars": "330",
+      "addStars": "344",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/196477?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "An an app that installs Sidestore on iOS 27, fully on-device",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "1,128",
+      "stars": "1,131",
       "forks": "92",
-      "addStars": "371",
+      "addStars": "374",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/182496942?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "11,086",
+      "stars": "11,089",
       "forks": "1,125",
-      "addStars": "356",
+      "addStars": "357",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33609792?s=40&v=4",
@@ -392,14 +392,46 @@
       ]
     },
     {
+      "title": "momenbasel/PureMac",
+      "url": "https://github.com/momenbasel/PureMac",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": "7,267",
+      "forks": "417",
+      "addStars": "716",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8724766?s=40&v=4",
+          "name": "momenbasel",
+          "url": "https://github.com/momenbasel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79738961?s=40&v=4",
+          "name": "zeck00",
+          "url": "https://github.com/zeck00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1768446?s=40&v=4",
+          "name": "balcsida",
+          "url": "https://github.com/balcsida"
+        }
+      ]
+    },
+    {
       "title": "xtool-org/xtool",
       "url": "https://github.com/xtool-org/xtool",
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,100",
-      "forks": "670",
-      "addStars": "7,581",
+      "stars": "13,165",
+      "forks": "677",
+      "addStars": "7,630",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12706786?s=40&v=4",
@@ -434,9 +466,9 @@
       "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "13,867",
+      "stars": "13,869",
       "forks": "694",
-      "addStars": "314",
+      "addStars": "316",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5541715?s=40&v=4",
@@ -471,8 +503,8 @@
       "description": "AI coding assistant for Xcode",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "6,348",
-      "forks": "2,064",
+      "stars": "6,349",
+      "forks": "2,065",
       "addStars": "72",
       "contributors": [
         {
@@ -503,9 +535,9 @@
       "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "15,017",
-      "forks": "787",
-      "addStars": "365",
+      "stars": "15,022",
+      "forks": "788",
+      "addStars": "370",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25194972?s=40&v=4",
@@ -540,9 +572,9 @@
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "36,026",
-      "forks": "1,866",
-      "addStars": "509",
+      "stars": "36,029",
+      "forks": "1,867",
+      "addStars": "535",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50960678?s=40&v=4",
@@ -577,9 +609,9 @@
       "description": "Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": "913",
-      "forks": "166",
-      "addStars": "186",
+      "stars": "917",
+      "forks": "167",
+      "addStars": "180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66435047?s=40&v=4",

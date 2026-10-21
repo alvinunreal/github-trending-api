@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Monthly Trending",
   "description": "Monthly Trending of Ruby Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
+  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
   "items": [
     {
       "title": "rails/rails",
@@ -10,9 +10,9 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,840",
-      "forks": "25,191",
-      "addStars": "167",
+      "stars": "58,839",
+      "forks": "25,188",
+      "addStars": "171",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "10,599",
-      "forks": "673",
-      "addStars": "639",
+      "stars": "10,601",
+      "forks": "676",
+      "addStars": "649",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,424",
-      "forks": "7,522",
-      "addStars": "203",
+      "stars": "50,425",
+      "forks": "7,523",
+      "addStars": "207",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184731?s=40&v=4",
@@ -101,13 +101,50 @@
       ]
     },
     {
+      "title": "antiwork/gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "9,994",
+      "forks": "2,088",
+      "addStars": "319",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/265388744?s=40&v=4",
+          "name": "gumclaw",
+          "url": "https://github.com/gumclaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52470719?s=40&v=4",
+          "name": "gianfrancopiana",
+          "url": "https://github.com/gianfrancopiana"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106525?s=40&v=4",
+          "name": "ershad",
+          "url": "https://github.com/ershad"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74396?s=40&v=4",
+          "name": "slavingia",
+          "url": "https://github.com/slavingia"
+        }
+      ]
+    },
+    {
       "title": "ruby/ruby",
       "url": "https://github.com/ruby/ruby",
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "23,781",
-      "forks": "5,668",
+      "stars": "23,782",
+      "forks": "5,669",
       "addStars": "79",
       "contributors": [
         {
@@ -143,7 +180,7 @@
       "description": "Super simple group chat, without a subscription",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "4,794",
+      "stars": "4,793",
       "forks": "820",
       "addStars": "168",
       "contributors": [
@@ -158,14 +195,14 @@
           "url": "https://github.com/dhh"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/199?s=40&v=4",
           "name": "jeremy",
           "url": "https://github.com/jeremy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/176920116?s=40&v=4",
@@ -182,7 +219,7 @@
       "languageColor": "#701516",
       "stars": "6,021",
       "forks": "1,078",
-      "addStars": "100",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110226?s=40&v=4",
@@ -217,9 +254,9 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "50,063",
+      "stars": "50,068",
       "forks": "11,399",
-      "addStars": "417",
+      "addStars": "413",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/125011?s=40&v=4",
@@ -254,9 +291,9 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "42,271",
-      "forks": "6,043",
-      "addStars": "184",
+      "stars": "42,274",
+      "forks": "6,044",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/869950?s=40&v=4",
@@ -293,7 +330,7 @@
       "languageColor": "#701516",
       "stars": "47,999",
       "forks": "9,045",
-      "addStars": "195",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5213?s=40&v=4",
@@ -325,7 +362,7 @@
       "languageColor": "#701516",
       "stars": "10,701",
       "forks": "403",
-      "addStars": "284",
+      "addStars": "271",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3738638?s=40&v=4",
@@ -352,7 +389,7 @@
       "languageColor": "#701516",
       "stars": "4,475",
       "forks": "517",
-      "addStars": "92",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
@@ -387,9 +424,9 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,521",
-      "forks": "3,577",
-      "addStars": "365",
+      "stars": "16,526",
+      "forks": "3,581",
+      "addStars": "390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/459462?s=40&v=4",
@@ -424,9 +461,9 @@
       "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "22,263",
-      "forks": "12,018",
-      "addStars": "74",
+      "stars": "22,264",
+      "forks": "12,019",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1589480?s=40&v=4",
@@ -498,8 +535,8 @@
       "description": "🤖 Dependabot's core logic for creating update PRs.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "5,807",
-      "forks": "1,563",
+      "stars": "5,806",
+      "forks": "1,564",
       "addStars": "46",
       "contributors": [
         {
@@ -530,9 +567,9 @@
       "description": "The Rails application that powers OpenStreetMap",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "2,856",
+      "stars": "2,857",
       "forks": "1,099",
-      "addStars": "28",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/147741?s=40&v=4",
@@ -562,9 +599,9 @@
       "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "12,322",
+      "stars": "12,323",
       "forks": "595",
-      "addStars": "72",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3846?s=40&v=4",
@@ -599,9 +636,9 @@
       "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "51,722",
+      "stars": "51,723",
       "forks": "10,301",
-      "addStars": "103",
+      "addStars": "101",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/237985?s=40&v=4",
@@ -696,6 +733,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/4773225?s=40&v=4",
           "name": "bwiernik",
           "url": "https://github.com/bwiernik"
+        }
+      ]
+    },
+    {
+      "title": "rubysec/ruby-advisory-db",
+      "url": "https://github.com/rubysec/ruby-advisory-db",
+      "description": "A database of vulnerable Ruby Gems",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": "1,075",
+      "forks": "248",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43523?s=40&v=4",
+          "name": "jasnow",
+          "url": "https://github.com/jasnow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/352251?s=40&v=4",
+          "name": "reedloden",
+          "url": "https://github.com/reedloden"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12671?s=40&v=4",
+          "name": "postmodern",
+          "url": "https://github.com/postmodern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17770?s=40&v=4",
+          "name": "phillmv",
+          "url": "https://github.com/phillmv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34720?s=40&v=4",
+          "name": "mveytsman",
+          "url": "https://github.com/mveytsman"
         }
       ]
     }

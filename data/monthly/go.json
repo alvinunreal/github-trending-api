@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
+  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
   "items": [
     {
       "title": "agent-substrate/substrate",
@@ -10,9 +10,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,662",
-      "forks": "612",
-      "addStars": "3,612",
+      "stars": "5,687",
+      "forks": "614",
+      "addStars": "3,659",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "78,190",
+      "stars": "78,207",
       "forks": "5,166",
-      "addStars": "2,478",
+      "addStars": "2,479",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1128849?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,856",
-      "forks": "4,653",
-      "addStars": "7,550",
+      "stars": "34,901",
+      "forks": "4,664",
+      "addStars": "7,138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11257935?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,492",
-      "forks": "781",
-      "addStars": "786",
+      "stars": "7,496",
+      "forks": "782",
+      "addStars": "807",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111561081?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Agent Executor (AX) is Google's open agentic orchestration runtime",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "14,006",
-      "forks": "727",
-      "addStars": "12,038",
+      "stars": "14,010",
+      "forks": "728",
+      "addStars": "11,759",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/108380?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "184,064",
-      "forks": "18,449",
-      "addStars": "3,319",
+      "stars": "184,103",
+      "forks": "18,461",
+      "addStars": "3,696",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,537",
-      "forks": "4,858",
-      "addStars": "6,773",
+      "stars": "31,610",
+      "forks": "4,877",
+      "addStars": "6,927",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,295",
-      "forks": "1,867",
-      "addStars": "78",
+      "stars": "24,296",
+      "forks": "1,866",
+      "addStars": "82",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3200486?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,538",
+      "stars": "5,540",
       "forks": "257",
-      "addStars": "1,854",
+      "addStars": "1,882",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/55647468?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,075",
-      "forks": "188",
-      "addStars": "1,403",
+      "stars": "2,245",
+      "forks": "201",
+      "addStars": "1,421",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -372,7 +372,7 @@
       "languageColor": "#00ADD8",
       "stars": "4,583",
       "forks": "526",
-      "addStars": "1,249",
+      "addStars": "1,256",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/153495?s=40&v=4",
@@ -408,8 +408,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "3,029",
-      "forks": "559",
-      "addStars": "528",
+      "forks": "560",
+      "addStars": "535",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26513717?s=40&v=4",
@@ -444,9 +444,9 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "128,460",
-      "forks": "47,014",
-      "addStars": "1,385",
+      "stars": "128,448",
+      "forks": "47,013",
+      "addStars": "1,432",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
@@ -481,9 +481,9 @@
       "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,613",
-      "forks": "2,652",
-      "addStars": "671",
+      "stars": "28,618",
+      "forks": "2,653",
+      "addStars": "681",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28698778?s=40&v=4",
@@ -513,9 +513,9 @@
       "description": "A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,220",
+      "stars": "15,221",
       "forks": "2,240",
-      "addStars": "257",
+      "addStars": "258",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9232216?s=40&v=4",
@@ -545,9 +545,9 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "139,386",
+      "stars": "139,376",
       "forks": "22,254",
-      "addStars": "1,476",
+      "addStars": "1,507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/104030?s=40&v=4",
@@ -582,9 +582,9 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,986",
+      "stars": "49,993",
       "forks": "10,609",
-      "addStars": "512",
+      "addStars": "511",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35067?s=40&v=4",
@@ -619,9 +619,9 @@
       "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,609",
+      "stars": "8,615",
       "forks": "638",
-      "addStars": "1,147",
+      "addStars": "1,198",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28627?s=40&v=4",
@@ -652,7 +652,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "6,580",
-      "forks": "1,517",
+      "forks": "1,518",
       "addStars": "36",
       "contributors": [
         {
@@ -678,9 +678,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "66,666",
-      "forks": "10,918",
-      "addStars": "833",
+      "stars": "66,667",
+      "forks": "10,919",
+      "addStars": "852",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
@@ -710,9 +710,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,424",
+      "stars": "5,425",
       "forks": "596",
-      "addStars": "297",
+      "addStars": "293",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4",
@@ -732,8 +732,8 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "42,218",
-      "forks": "6,018",
+      "stars": "42,219",
+      "forks": "6,019",
       "addStars": "658",
       "contributors": [
         {
@@ -764,9 +764,9 @@
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,509",
-      "forks": "523",
-      "addStars": "1,089",
+      "stars": "5,516",
+      "forks": "524",
+      "addStars": "952",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54976075?s=40&v=4",
@@ -801,9 +801,9 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "35,640",
-      "forks": "3,083",
-      "addStars": "833",
+      "stars": "35,647",
+      "forks": "3,084",
+      "addStars": "848",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1543151?s=40&v=4",

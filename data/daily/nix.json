@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 20 Oct 2026 22:10:40 GMT",
+  "pubDate": "Wed, 21 Oct 2026 05:41:03 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,9 +10,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,552",
-      "forks": "20,441",
-      "addStars": "15",
+      "stars": "26,555",
+      "forks": "20,444",
+      "addStars": "14",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37933096?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "10,448",
+      "stars": "10,450",
       "forks": "2,492",
       "addStars": "6",
       "contributors": [
@@ -84,9 +84,9 @@
       "description": "Nix Flake for the Zen Browser, with automatic updates",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "174",
+      "stars": "175",
       "forks": "32",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38934577?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "Official documentation for getting things done with Nix.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "4,028",
-      "forks": "344",
+      "stars": "4,029",
+      "forks": "345",
       "addStars": "1",
       "contributors": [
         {
@@ -153,9 +153,9 @@
       "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "2,443",
+      "stars": "2,446",
       "forks": "375",
-      "addStars": "4",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/90870942?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "6,014",
-      "forks": "666",
-      "addStars": "5",
+      "stars": "6,016",
+      "forks": "667",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/689294?s=40&v=4",
