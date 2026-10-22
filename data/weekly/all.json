@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 21 Oct 2026 22:12:52 GMT",
+  "pubDate": "Thu, 22 Oct 2026 05:43:28 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "357,231",
-      "forks": "89,647",
-      "addStars": "157,631",
+      "stars": "359,605",
+      "forks": "90,280",
+      "addStars": "129,417",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -35,9 +35,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-          "name": "rudycelekli",
-          "url": "https://github.com/rudycelekli"
+          "avatar": "https://avatars.githubusercontent.com/u/342580529?s=40&v=4",
+          "name": "gensokyo-dev",
+          "url": "https://github.com/gensokyo-dev"
         }
       ]
     },
@@ -47,9 +47,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,617",
-      "forks": "4,600",
-      "addStars": "5,650",
+      "stars": "43,699",
+      "forks": "4,605",
+      "addStars": "5,703",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "53,569",
-      "forks": "4,729",
-      "addStars": "4,549",
+      "stars": "53,655",
+      "forks": "4,733",
+      "addStars": "4,719",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9168908?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "78,195",
-      "forks": "9,197",
-      "addStars": "3,143",
+      "stars": "78,263",
+      "forks": "9,209",
+      "addStars": "3,590",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "9,144",
-      "forks": "589",
-      "addStars": "1,255",
+      "stars": "9,169",
+      "forks": "591",
+      "addStars": "1,332",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "92,602",
-      "forks": "10,370",
-      "addStars": "6,184",
+      "stars": "92,730",
+      "forks": "10,394",
+      "addStars": "5,769",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "80,286",
-      "forks": "8,847",
-      "addStars": "17,057",
+      "stars": "80,738",
+      "forks": "8,913",
+      "addStars": "15,125",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,636",
-      "forks": "2,180",
-      "addStars": "3,556",
+      "stars": "31,703",
+      "forks": "2,182",
+      "addStars": "2,968",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "69,165",
-      "forks": "6,260",
-      "addStars": "5,994",
+      "stars": "69,377",
+      "forks": "6,287",
+      "addStars": "5,740",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,384",
-      "forks": "1,330",
-      "addStars": "2,040",
+      "stars": "13,457",
+      "forks": "1,339",
+      "addStars": "2,049",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,914",
-      "forks": "5,043",
-      "addStars": "3,587",
+      "stars": "56,018",
+      "forks": "5,052",
+      "addStars": "3,681",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,272",
-      "forks": "868",
-      "addStars": "2,640",
+      "stars": "12,485",
+      "forks": "880",
+      "addStars": "2,833",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2840?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "219,632",
-      "forks": "29,303",
-      "addStars": "5,792",
+      "stars": "219,823",
+      "forks": "29,379",
+      "addStars": "6,545",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/826656?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,468",
-      "forks": "4,403",
-      "addStars": "665",
+      "stars": "41,501",
+      "forks": "4,407",
+      "addStars": "785",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,261",
-      "forks": "2,178",
-      "addStars": "2,069",
+      "stars": "22,351",
+      "forks": "2,185",
+      "addStars": "2,000",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
@@ -525,9 +525,9 @@
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,139",
-      "forks": "6,396",
-      "addStars": "8,173",
+      "stars": "101,666",
+      "forks": "6,429",
+      "addStars": "8,705",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
