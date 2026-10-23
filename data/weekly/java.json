@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Weekly Trending",
   "description": "Weekly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 17:44:09 GMT",
+  "pubDate": "Fri, 23 Oct 2026 21:56:27 GMT",
   "items": [
     {
       "title": "NationalSecurityAgency/ghidra",
@@ -10,8 +10,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "93,542",
-      "forks": "10,502",
+      "stars": "93,620",
+      "forks": "10,515",
       "addStars": "4,892",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "10,624",
-      "forks": "1,237",
+      "stars": "10,628",
+      "forks": "1,240",
       "addStars": "358",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "26,600",
-      "forks": "4,133",
+      "stars": "26,610",
+      "forks": "4,137",
       "addStars": "599",
       "contributors": [
         {
@@ -116,7 +116,7 @@
       "description": "Dual pane Android file manager with focus on APKs",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "333",
+      "stars": "334",
       "forks": "38",
       "addStars": "76",
       "contributors": [
@@ -222,7 +222,7 @@
       "description": "小说下载｜网文下载 | 网络小说",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "8,733",
+      "stars": "8,734",
       "forks": "741",
       "addStars": "237",
       "contributors": [
@@ -296,7 +296,7 @@
       "description": "Dex to Java decompiler",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "51,214",
+      "stars": "51,217",
       "forks": "5,821",
       "addStars": "254",
       "contributors": [
@@ -333,7 +333,7 @@
       "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,025",
+      "stars": "5,024",
       "forks": "353",
       "addStars": "78",
       "contributors": [
@@ -407,8 +407,8 @@
       "description": "A launcher designed for Minecraft Bedrock Edition on Android",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "644",
-      "forks": "162",
+      "stars": "645",
+      "forks": "161",
       "addStars": "22",
       "contributors": [
         {
@@ -439,12 +439,49 @@
       ]
     },
     {
+      "title": "yash-srivastava/Overdrive-release",
+      "url": "https://github.com/yash-srivastava/Overdrive-release",
+      "description": "Advanced Sentry Mode for BYD Vehicles",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "384",
+      "forks": "110",
+      "addStars": "20",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16201916?s=40&v=4",
+          "name": "yash-srivastava",
+          "url": "https://github.com/yash-srivastava"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5331483?s=40&v=4",
+          "name": "francescodoffizi",
+          "url": "https://github.com/francescodoffizi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9726307?s=40&v=4",
+          "name": "paalkr",
+          "url": "https://github.com/paalkr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91417007?s=40&v=4",
+          "name": "UnrealSalty",
+          "url": "https://github.com/UnrealSalty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "LawnchairLauncher/lawnchair",
       "url": "https://github.com/LawnchairLauncher/lawnchair",
       "description": "No clever tagline needed.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,769",
+      "stars": "13,770",
       "forks": "1,748",
       "addStars": "62",
       "contributors": [
@@ -518,8 +555,8 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "63,273",
-      "forks": "7,995",
+      "stars": "63,279",
+      "forks": "7,998",
       "addStars": "551",
       "contributors": [
         {
@@ -587,7 +624,7 @@
       "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "42,778",
+      "stars": "42,782",
       "forks": "8,896",
       "addStars": "475",
       "contributors": [

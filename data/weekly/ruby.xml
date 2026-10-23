@@ -3,7 +3,7 @@
     <title>GitHub Ruby Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Ruby Languages in GitHub</description>
-    <pubDate>Fri, 23 Oct 2026 17:44:09 GMT</pubDate>
+    <pubDate>Fri, 23 Oct 2026 21:56:27 GMT</pubDate>
     <item>
       <title>chatwoot/chatwoot</title>
       <link>https://github.com/chatwoot/chatwoot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/chatwoot/chatwoot</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>38,136</stars>
-      <forks>9,311</forks>
+      <stars>38,149</stars>
+      <forks>9,313</forks>
       <addStars>298</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/ruby/ruby</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>23,791</stars>
+      <stars>23,792</stars>
       <forks>5,668</forks>
       <addStars>36</addStars>
       <contributors>
@@ -87,7 +87,7 @@
       <guid>https://github.com/opf/openproject</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>16,587</stars>
+      <stars>16,592</stars>
       <forks>3,605</forks>
       <addStars>144</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/Homebrew/brew</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>50,092</stars>
-      <forks>11,399</forks>
+      <stars>50,090</stars>
+      <forks>11,398</forks>
       <addStars>96</addStars>
       <contributors>
         <contributor>
@@ -163,7 +163,7 @@
       <guid>https://github.com/rapid7/metasploit-framework</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>39,217</stars>
+      <stars>39,218</stars>
       <forks>14,994</forks>
       <addStars>75</addStars>
       <contributors>
@@ -239,8 +239,8 @@
       <guid>https://github.com/discourse/discourse</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>48,000</stars>
-      <forks>9,051</forks>
+      <stars>48,002</stars>
+      <forks>9,052</forks>
       <addStars>51</addStars>
       <contributors>
         <contributor>
@@ -304,51 +304,13 @@
       </contributors>
     </item>
     <item>
-      <title>matteocrippa/awesome-swift</title>
-      <link>https://github.com/matteocrippa/awesome-swift</link>
-      <description>A collaborative list of awesome Swift libraries and resources. Feel free to contribute!</description>
-      <guid>https://github.com/matteocrippa/awesome-swift</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>26,340</stars>
-      <forks>3,150</forks>
-      <addStars>25</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19578692?s=40&amp;v=4</avatar>
-          <name>READMEbot</name>
-          <url>https://github.com/READMEbot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/475463?s=40&amp;v=4</avatar>
-          <name>matteocrippa</name>
-          <url>https://github.com/matteocrippa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4723115?s=40&amp;v=4</avatar>
-          <name>dkhamsing</name>
-          <url>https://github.com/dkhamsing</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3672477?s=40&amp;v=4</avatar>
-          <name>vpeschenkov</name>
-          <url>https://github.com/vpeschenkov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2134123?s=40&amp;v=4</avatar>
-          <name>kingiol</name>
-          <url>https://github.com/kingiol</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>huginn/huginn</title>
       <link>https://github.com/huginn/huginn</link>
       <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
       <guid>https://github.com/huginn/huginn</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>50,109</stars>
+      <stars>50,111</stars>
       <forks>4,313</forks>
       <addStars>62</addStars>
       <contributors>
@@ -408,51 +370,13 @@
       </contributors>
     </item>
     <item>
-      <title>rubysec/ruby-advisory-db</title>
-      <link>https://github.com/rubysec/ruby-advisory-db</link>
-      <description>A database of vulnerable Ruby Gems</description>
-      <guid>https://github.com/rubysec/ruby-advisory-db</guid>
-      <language>Ruby</language>
-      <languageColor>#701516</languageColor>
-      <stars>1,076</stars>
-      <forks>249</forks>
-      <addStars>2</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43523?s=40&amp;v=4</avatar>
-          <name>jasnow</name>
-          <url>https://github.com/jasnow</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/352251?s=40&amp;v=4</avatar>
-          <name>reedloden</name>
-          <url>https://github.com/reedloden</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12671?s=40&amp;v=4</avatar>
-          <name>postmodern</name>
-          <url>https://github.com/postmodern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17770?s=40&amp;v=4</avatar>
-          <name>phillmv</name>
-          <url>https://github.com/phillmv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/34720?s=40&amp;v=4</avatar>
-          <name>mveytsman</name>
-          <url>https://github.com/mveytsman</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>postalserver/postal</title>
       <link>https://github.com/postalserver/postal</link>
       <description>📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</description>
       <guid>https://github.com/postalserver/postal</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>16,889</stars>
+      <stars>16,888</stars>
       <forks>1,315</forks>
       <addStars>24</addStars>
       <contributors>
@@ -589,8 +513,8 @@
       <guid>https://github.com/hashicorp/vagrant</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>27,215</stars>
-      <forks>4,402</forks>
+      <stars>27,216</stars>
+      <forks>4,401</forks>
       <addStars>4</addStars>
       <contributors>
         <contributor>
@@ -628,7 +552,7 @@
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
       <stars>51,732</stars>
-      <forks>10,300</forks>
+      <forks>10,299</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
