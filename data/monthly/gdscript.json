@@ -2,48 +2,16 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
+  "pubDate": "Fri, 23 Oct 2026 12:29:47 GMT",
   "items": [
-    {
-      "title": "hi-godot/godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "3,154",
-      "forks": "187",
-      "addStars": "613",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
-          "name": "dsarno",
-          "url": "https://github.com/dsarno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
-          "name": "Clubhouse1661",
-          "url": "https://github.com/Clubhouse1661"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
-          "name": "azereki",
-          "url": "https://github.com/azereki"
-        }
-      ]
-    },
     {
       "title": "Orama-Interactive/Pixelorama",
       "url": "https://github.com/Orama-Interactive/Pixelorama",
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "10,772",
-      "forks": "579",
+      "stars": "10,792",
+      "forks": "582",
       "addStars": "381",
       "contributors": [
         {
@@ -70,6 +38,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/58960464?s=40&v=4",
           "name": "Erevoid",
           "url": "https://github.com/Erevoid"
+        }
+      ]
+    },
+    {
+      "title": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,161",
+      "forks": "187",
+      "addStars": "613",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
+          "name": "dsarno",
+          "url": "https://github.com/dsarno"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
+          "name": "Clubhouse1661",
+          "url": "https://github.com/Clubhouse1661"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
+          "name": "azereki",
+          "url": "https://github.com/azereki"
         }
       ]
     },
@@ -138,49 +138,12 @@
       ]
     },
     {
-      "title": "mbrlabs/Lorien",
-      "url": "https://github.com/mbrlabs/Lorien",
-      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "6,862",
-      "forks": "314",
-      "addStars": "62",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8750135?s=40&v=4",
-          "name": "mbrlabs",
-          "url": "https://github.com/mbrlabs"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/542105?s=40&v=4",
-          "name": "MrApplejuice",
-          "url": "https://github.com/MrApplejuice"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17379814?s=40&v=4",
-          "name": "tafode",
-          "url": "https://github.com/tafode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89324754?s=40&v=4",
-          "name": "Gurchain",
-          "url": "https://github.com/Gurchain"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
-          "name": "albanobattistella",
-          "url": "https://github.com/albanobattistella"
-        }
-      ]
-    },
-    {
       "title": "godotengine/godot-demo-projects",
       "url": "https://github.com/godotengine/godot-demo-projects",
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "9,692",
+      "stars": "9,697",
       "forks": "2,268",
       "addStars": "153",
       "contributors": [
@@ -212,12 +175,49 @@
       ]
     },
     {
+      "title": "ramokz/phantom-camera",
+      "url": "https://github.com/ramokz/phantom-camera",
+      "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,630",
+      "forks": "143",
+      "addStars": "66",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5159399?s=40&v=4",
+          "name": "ramokz",
+          "url": "https://github.com/ramokz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12200619?s=40&v=4",
+          "name": "ZenithStar",
+          "url": "https://github.com/ZenithStar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/123309403?s=40&v=4",
+          "name": "GabCoolDude",
+          "url": "https://github.com/GabCoolDude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55060124?s=40&v=4",
+          "name": "audeck",
+          "url": "https://github.com/audeck"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/504259?s=40&v=4",
+          "name": "TranquilMarmot",
+          "url": "https://github.com/TranquilMarmot"
+        }
+      ]
+    },
+    {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
       "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,262",
+      "stars": "3,263",
       "forks": "317",
       "addStars": "107",
       "contributors": [
@@ -249,13 +249,50 @@
       ]
     },
     {
+      "title": "mbrlabs/Lorien",
+      "url": "https://github.com/mbrlabs/Lorien",
+      "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "6,861",
+      "forks": "314",
+      "addStars": "62",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8750135?s=40&v=4",
+          "name": "mbrlabs",
+          "url": "https://github.com/mbrlabs"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/542105?s=40&v=4",
+          "name": "MrApplejuice",
+          "url": "https://github.com/MrApplejuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17379814?s=40&v=4",
+          "name": "tafode",
+          "url": "https://github.com/tafode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89324754?s=40&v=4",
+          "name": "Gurchain",
+          "url": "https://github.com/Gurchain"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
+          "name": "albanobattistella",
+          "url": "https://github.com/albanobattistella"
+        }
+      ]
+    },
+    {
       "title": "dialogic-godot/dialogic",
       "url": "https://github.com/dialogic-godot/dialogic",
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,100",
-      "forks": "361",
+      "stars": "6,108",
+      "forks": "362",
       "addStars": "85",
       "contributors": [
         {
@@ -286,39 +323,39 @@
       ]
     },
     {
-      "title": "VoylinsGamedevJourney/gozen",
-      "url": "https://github.com/VoylinsGamedevJourney/gozen",
-      "description": "This project moved to https://codeberg.org/gozen/gozen. The minimalistic video editor made with Godot.",
+      "title": "RodZill4/material-maker",
+      "url": "https://github.com/RodZill4/material-maker",
+      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "467",
-      "forks": "40",
-      "addStars": "46",
+      "stars": "6,014",
+      "forks": "390",
+      "addStars": "84",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/56970759?s=40&v=4",
-          "name": "voylin",
-          "url": "https://github.com/voylin"
+          "avatar": "https://avatars.githubusercontent.com/u/6957908?s=40&v=4",
+          "name": "RodZill4",
+          "url": "https://github.com/RodZill4"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/67533827?s=40&v=4",
-          "name": "SzczurekYT",
-          "url": "https://github.com/SzczurekYT"
+          "avatar": "https://avatars.githubusercontent.com/u/830253?s=40&v=4",
+          "name": "williamchange",
+          "url": "https://github.com/williamchange"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/102065761?s=40&v=4",
-          "name": "TheRealSlander",
-          "url": "https://github.com/TheRealSlander"
+          "avatar": "https://avatars.githubusercontent.com/u/42868150?s=40&v=4",
+          "name": "Jowan-Spooner",
+          "url": "https://github.com/Jowan-Spooner"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/35649969?s=40&v=4",
-          "name": "aappaapp",
-          "url": "https://github.com/aappaapp"
+          "avatar": "https://avatars.githubusercontent.com/u/4955051?s=40&v=4",
+          "name": "Arnklit",
+          "url": "https://github.com/Arnklit"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/63737630?s=40&v=4",
-          "name": "ManpreetXSingh",
-          "url": "https://github.com/ManpreetXSingh"
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
         }
       ]
     },

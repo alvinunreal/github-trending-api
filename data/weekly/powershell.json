@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Weekly Trending",
   "description": "Weekly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
+  "pubDate": "Fri, 23 Oct 2026 12:29:47 GMT",
   "items": [
     {
       "title": "Raphire/Win11Debloat",
@@ -10,8 +10,8 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "60,489",
-      "forks": "2,650",
+      "stars": "60,535",
+      "forks": "2,656",
       "addStars": "1,192",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "64,810",
-      "forks": "3,795",
+      "stars": "64,823",
+      "forks": "3,797",
       "addStars": "556",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "753",
+      "stars": "754",
       "forks": "48",
       "addStars": "77",
       "contributors": [
@@ -121,8 +121,8 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "13,516",
-      "forks": "3,943",
+      "stars": "13,517",
+      "forks": "3,946",
       "addStars": "42",
       "contributors": [
         {
@@ -143,12 +143,49 @@
       ]
     },
     {
+      "title": "psmux/psmux",
+      "url": "https://github.com/psmux/psmux",
+      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "3,728",
+      "forks": "231",
+      "addStars": "58",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52248669?s=40&v=4",
+          "name": "psmux",
+          "url": "https://github.com/psmux"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/323931?s=40&v=4",
+          "name": "computersrmyfriends",
+          "url": "https://github.com/computersrmyfriends"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61773469?s=40&v=4",
+          "name": "tanaeakihiko",
+          "url": "https://github.com/tanaeakihiko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/51421?s=40&v=4",
+          "name": "MattKotsenas",
+          "url": "https://github.com/MattKotsenas"
+        }
+      ]
+    },
+    {
       "title": "javaht/claude-desktop-zh-cn",
       "url": "https://github.com/javaht/claude-desktop-zh-cn",
       "description": "Claude Desktop Chinese Patch (macOS & Windows & Linux)",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "7,868",
+      "stars": "7,875",
       "forks": "367",
       "addStars": "234",
       "contributors": [
@@ -175,13 +212,40 @@
       ]
     },
     {
+      "title": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "1,564",
+      "forks": "340",
+      "addStars": "35",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4399970?s=40&v=4",
+          "name": "WilliamBerryiii",
+          "url": "https://github.com/WilliamBerryiii"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46459431?s=40&v=4",
+          "name": "jkim323",
+          "url": "https://github.com/jkim323"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/838216?s=40&v=4",
+          "name": "katriendg",
+          "url": "https://github.com/katriendg"
+        }
+      ]
+    },
+    {
       "title": "secretGeek/AwesomeCSV",
       "url": "https://github.com/secretGeek/AwesomeCSV",
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": "957",
-      "forks": "155",
+      "forks": "156",
       "addStars": "3",
       "contributors": [
         {
@@ -212,76 +276,76 @@
       ]
     },
     {
-      "title": "hak5/usbrubberducky-payloads",
-      "url": "https://github.com/hak5/usbrubberducky-payloads",
-      "description": "The Official USB Rubber Ducky Payload Repository",
+      "title": "PowerShellMafia/PowerSploit",
+      "url": "https://github.com/PowerShellMafia/PowerSploit",
+      "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "6,129",
-      "forks": "1,687",
-      "addStars": "15",
+      "stars": "13,076",
+      "forks": "4,707",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58374531?s=40&v=4",
-          "name": "aleff-github",
-          "url": "https://github.com/aleff-github"
+          "avatar": "https://avatars.githubusercontent.com/u/5504523?s=40&v=4",
+          "name": "HarmJ0y",
+          "url": "https://github.com/HarmJ0y"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9642419?s=40&v=4",
-          "name": "dallaswinger",
-          "url": "https://github.com/dallaswinger"
+          "avatar": "https://avatars.githubusercontent.com/u/4003012?s=40&v=4",
+          "name": "clymb3r",
+          "url": "https://github.com/clymb3r"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1307248?s=40&v=4",
-          "name": "hak5darren",
-          "url": "https://github.com/hak5darren"
+          "avatar": "https://avatars.githubusercontent.com/u/3047099?s=40&v=4",
+          "name": "obscuresec",
+          "url": "https://github.com/obscuresec"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/79219148?s=40&v=4",
-          "name": "0i41E",
-          "url": "https://github.com/0i41E"
+          "avatar": "https://avatars.githubusercontent.com/u/1940826?s=40&v=4",
+          "name": "webstersprodigy",
+          "url": "https://github.com/webstersprodigy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/115900893?s=40&v=4",
-          "name": "hak5peaks",
-          "url": "https://github.com/hak5peaks"
+          "avatar": "https://avatars.githubusercontent.com/u/10997340?s=40&v=4",
+          "name": "FuzzySecurity",
+          "url": "https://github.com/FuzzySecurity"
         }
       ]
     },
     {
-      "title": "psmux/psmux",
-      "url": "https://github.com/psmux/psmux",
-      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
+      "title": "SharePoint/sp-dev-docs",
+      "url": "https://github.com/SharePoint/sp-dev-docs",
+      "description": "SharePoint Developer Documentation",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "3,726",
-      "forks": "231",
-      "addStars": "58",
+      "stars": "1,386",
+      "forks": "1,050",
+      "addStars": "6",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/52248669?s=40&v=4",
-          "name": "psmux",
-          "url": "https://github.com/psmux"
+          "avatar": "https://avatars.githubusercontent.com/u/2068657?s=40&v=4",
+          "name": "andrewconnell",
+          "url": "https://github.com/andrewconnell"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/323931?s=40&v=4",
-          "name": "computersrmyfriends",
-          "url": "https://github.com/computersrmyfriends"
+          "avatar": "https://avatars.githubusercontent.com/u/7446437?s=40&v=4",
+          "name": "VesaJuvonen",
+          "url": "https://github.com/VesaJuvonen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/7451219?s=40&v=4",
+          "name": "jansenbe",
+          "url": "https://github.com/jansenbe"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/61773469?s=40&v=4",
-          "name": "tanaeakihiko",
-          "url": "https://github.com/tanaeakihiko"
+          "avatar": "https://avatars.githubusercontent.com/u/8559338?s=40&v=4",
+          "name": "davidchesnut",
+          "url": "https://github.com/davidchesnut"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/51421?s=40&v=4",
-          "name": "MattKotsenas",
-          "url": "https://github.com/MattKotsenas"
+          "avatar": "https://avatars.githubusercontent.com/u/7882052?s=40&v=4",
+          "name": "chakkaradeep",
+          "url": "https://github.com/chakkaradeep"
         }
       ]
     },
@@ -319,80 +383,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/28517890?s=40&v=4",
           "name": "yw4z",
           "url": "https://github.com/yw4z"
-        }
-      ]
-    },
-    {
-      "title": "SharePoint/sp-dev-docs",
-      "url": "https://github.com/SharePoint/sp-dev-docs",
-      "description": "SharePoint Developer Documentation",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "1,386",
-      "forks": "1,049",
-      "addStars": "6",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2068657?s=40&v=4",
-          "name": "andrewconnell",
-          "url": "https://github.com/andrewconnell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7446437?s=40&v=4",
-          "name": "VesaJuvonen",
-          "url": "https://github.com/VesaJuvonen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7451219?s=40&v=4",
-          "name": "jansenbe",
-          "url": "https://github.com/jansenbe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8559338?s=40&v=4",
-          "name": "davidchesnut",
-          "url": "https://github.com/davidchesnut"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7882052?s=40&v=4",
-          "name": "chakkaradeep",
-          "url": "https://github.com/chakkaradeep"
-        }
-      ]
-    },
-    {
-      "title": "dotnet/core",
-      "url": "https://github.com/dotnet/core",
-      "description": ".NET news, announcements, release notes, and more!",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "22,053",
-      "forks": "4,931",
-      "addStars": "12",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2212879?s=40&v=4",
-          "name": "leecow",
-          "url": "https://github.com/leecow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30737530?s=40&v=4",
-          "name": "rbhanda",
-          "url": "https://github.com/rbhanda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2608468?s=40&v=4",
-          "name": "richlander",
-          "url": "https://github.com/richlander"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12971179?s=40&v=4",
-          "name": "mairaw",
-          "url": "https://github.com/mairaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11581923?s=40&v=4",
-          "name": "vivmishra",
-          "url": "https://github.com/vivmishra"
         }
       ]
     }

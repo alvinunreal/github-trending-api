@@ -3,7 +3,7 @@
     <title>GitHub Powershell Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Powershell Languages in GitHub</description>
-    <pubDate>Fri, 23 Oct 2026 05:42:31 GMT</pubDate>
+    <pubDate>Fri, 23 Oct 2026 12:29:47 GMT</pubDate>
     <item>
       <title>Raphire/Win11Debloat</title>
       <link>https://github.com/Raphire/Win11Debloat</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Raphire/Win11Debloat</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>60,489</stars>
-      <forks>2,650</forks>
+      <stars>60,535</stars>
+      <forks>2,656</forks>
       <addStars>1,192</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ChrisTitusTech/winutil</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>64,810</stars>
-      <forks>3,795</forks>
+      <stars>64,823</stars>
+      <forks>3,797</forks>
       <addStars>556</addStars>
       <contributors>
         <contributor>
@@ -87,7 +87,7 @@
       <guid>https://github.com/Euro-Office/DesktopEditors</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>753</stars>
+      <stars>754</stars>
       <forks>48</forks>
       <addStars>77</addStars>
       <contributors>
@@ -125,8 +125,8 @@
       <guid>https://github.com/actions/runner-images</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>13,516</stars>
-      <forks>3,943</forks>
+      <stars>13,517</stars>
+      <forks>3,946</forks>
       <addStars>42</addStars>
       <contributors>
         <contributor>
@@ -147,13 +147,51 @@
       </contributors>
     </item>
     <item>
+      <title>psmux/psmux</title>
+      <link>https://github.com/psmux/psmux</link>
+      <description>Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀</description>
+      <guid>https://github.com/psmux/psmux</guid>
+      <language>PowerShell</language>
+      <languageColor>#012456</languageColor>
+      <stars>3,728</stars>
+      <forks>231</forks>
+      <addStars>58</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52248669?s=40&amp;v=4</avatar>
+          <name>psmux</name>
+          <url>https://github.com/psmux</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/323931?s=40&amp;v=4</avatar>
+          <name>computersrmyfriends</name>
+          <url>https://github.com/computersrmyfriends</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/61773469?s=40&amp;v=4</avatar>
+          <name>tanaeakihiko</name>
+          <url>https://github.com/tanaeakihiko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/51421?s=40&amp;v=4</avatar>
+          <name>MattKotsenas</name>
+          <url>https://github.com/MattKotsenas</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>javaht/claude-desktop-zh-cn</title>
       <link>https://github.com/javaht/claude-desktop-zh-cn</link>
       <description>Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux)</description>
       <guid>https://github.com/javaht/claude-desktop-zh-cn</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>7,868</stars>
+      <stars>7,875</stars>
       <forks>367</forks>
       <addStars>234</addStars>
       <contributors>
@@ -180,6 +218,34 @@
       </contributors>
     </item>
     <item>
+      <title>microsoft/hve-core</title>
+      <link>https://github.com/microsoft/hve-core</link>
+      <description>A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot</description>
+      <guid>https://github.com/microsoft/hve-core</guid>
+      <language>PowerShell</language>
+      <languageColor>#012456</languageColor>
+      <stars>1,564</stars>
+      <forks>340</forks>
+      <addStars>35</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4399970?s=40&amp;v=4</avatar>
+          <name>WilliamBerryiii</name>
+          <url>https://github.com/WilliamBerryiii</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46459431?s=40&amp;v=4</avatar>
+          <name>jkim323</name>
+          <url>https://github.com/jkim323</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/838216?s=40&amp;v=4</avatar>
+          <name>katriendg</name>
+          <url>https://github.com/katriendg</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>secretGeek/AwesomeCSV</title>
       <link>https://github.com/secretGeek/AwesomeCSV</link>
       <description>🕶️A curated list of awesome tools for dealing with CSV.</description>
@@ -187,7 +253,7 @@
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
       <stars>957</stars>
-      <forks>155</forks>
+      <forks>156</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>
@@ -218,78 +284,78 @@
       </contributors>
     </item>
     <item>
-      <title>hak5/usbrubberducky-payloads</title>
-      <link>https://github.com/hak5/usbrubberducky-payloads</link>
-      <description>The Official USB Rubber Ducky Payload Repository</description>
-      <guid>https://github.com/hak5/usbrubberducky-payloads</guid>
+      <title>PowerShellMafia/PowerSploit</title>
+      <link>https://github.com/PowerShellMafia/PowerSploit</link>
+      <description>PowerSploit - A PowerShell Post-Exploitation Framework</description>
+      <guid>https://github.com/PowerShellMafia/PowerSploit</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>6,129</stars>
-      <forks>1,687</forks>
-      <addStars>15</addStars>
+      <stars>13,076</stars>
+      <forks>4,707</forks>
+      <addStars>5</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58374531?s=40&amp;v=4</avatar>
-          <name>aleff-github</name>
-          <url>https://github.com/aleff-github</url>
+          <avatar>https://avatars.githubusercontent.com/u/5504523?s=40&amp;v=4</avatar>
+          <name>HarmJ0y</name>
+          <url>https://github.com/HarmJ0y</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9642419?s=40&amp;v=4</avatar>
-          <name>dallaswinger</name>
-          <url>https://github.com/dallaswinger</url>
+          <avatar>https://avatars.githubusercontent.com/u/4003012?s=40&amp;v=4</avatar>
+          <name>clymb3r</name>
+          <url>https://github.com/clymb3r</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1307248?s=40&amp;v=4</avatar>
-          <name>hak5darren</name>
-          <url>https://github.com/hak5darren</url>
+          <avatar>https://avatars.githubusercontent.com/u/3047099?s=40&amp;v=4</avatar>
+          <name>obscuresec</name>
+          <url>https://github.com/obscuresec</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/79219148?s=40&amp;v=4</avatar>
-          <name>0i41E</name>
-          <url>https://github.com/0i41E</url>
+          <avatar>https://avatars.githubusercontent.com/u/1940826?s=40&amp;v=4</avatar>
+          <name>webstersprodigy</name>
+          <url>https://github.com/webstersprodigy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/115900893?s=40&amp;v=4</avatar>
-          <name>hak5peaks</name>
-          <url>https://github.com/hak5peaks</url>
+          <avatar>https://avatars.githubusercontent.com/u/10997340?s=40&amp;v=4</avatar>
+          <name>FuzzySecurity</name>
+          <url>https://github.com/FuzzySecurity</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>psmux/psmux</title>
-      <link>https://github.com/psmux/psmux</link>
-      <description>Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀</description>
-      <guid>https://github.com/psmux/psmux</guid>
+      <title>SharePoint/sp-dev-docs</title>
+      <link>https://github.com/SharePoint/sp-dev-docs</link>
+      <description>SharePoint Developer Documentation</description>
+      <guid>https://github.com/SharePoint/sp-dev-docs</guid>
       <language>PowerShell</language>
       <languageColor>#012456</languageColor>
-      <stars>3,726</stars>
-      <forks>231</forks>
-      <addStars>58</addStars>
+      <stars>1,386</stars>
+      <forks>1,050</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52248669?s=40&amp;v=4</avatar>
-          <name>psmux</name>
-          <url>https://github.com/psmux</url>
+          <avatar>https://avatars.githubusercontent.com/u/2068657?s=40&amp;v=4</avatar>
+          <name>andrewconnell</name>
+          <url>https://github.com/andrewconnell</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/323931?s=40&amp;v=4</avatar>
-          <name>computersrmyfriends</name>
-          <url>https://github.com/computersrmyfriends</url>
+          <avatar>https://avatars.githubusercontent.com/u/7446437?s=40&amp;v=4</avatar>
+          <name>VesaJuvonen</name>
+          <url>https://github.com/VesaJuvonen</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/7451219?s=40&amp;v=4</avatar>
+          <name>jansenbe</name>
+          <url>https://github.com/jansenbe</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61773469?s=40&amp;v=4</avatar>
-          <name>tanaeakihiko</name>
-          <url>https://github.com/tanaeakihiko</url>
+          <avatar>https://avatars.githubusercontent.com/u/8559338?s=40&amp;v=4</avatar>
+          <name>davidchesnut</name>
+          <url>https://github.com/davidchesnut</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51421?s=40&amp;v=4</avatar>
-          <name>MattKotsenas</name>
-          <url>https://github.com/MattKotsenas</url>
+          <avatar>https://avatars.githubusercontent.com/u/7882052?s=40&amp;v=4</avatar>
+          <name>chakkaradeep</name>
+          <url>https://github.com/chakkaradeep</url>
         </contributor>
       </contributors>
     </item>
@@ -328,82 +394,6 @@
           <avatar>https://avatars.githubusercontent.com/u/28517890?s=40&amp;v=4</avatar>
           <name>yw4z</name>
           <url>https://github.com/yw4z</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>SharePoint/sp-dev-docs</title>
-      <link>https://github.com/SharePoint/sp-dev-docs</link>
-      <description>SharePoint Developer Documentation</description>
-      <guid>https://github.com/SharePoint/sp-dev-docs</guid>
-      <language>PowerShell</language>
-      <languageColor>#012456</languageColor>
-      <stars>1,386</stars>
-      <forks>1,049</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2068657?s=40&amp;v=4</avatar>
-          <name>andrewconnell</name>
-          <url>https://github.com/andrewconnell</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7446437?s=40&amp;v=4</avatar>
-          <name>VesaJuvonen</name>
-          <url>https://github.com/VesaJuvonen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7451219?s=40&amp;v=4</avatar>
-          <name>jansenbe</name>
-          <url>https://github.com/jansenbe</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8559338?s=40&amp;v=4</avatar>
-          <name>davidchesnut</name>
-          <url>https://github.com/davidchesnut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7882052?s=40&amp;v=4</avatar>
-          <name>chakkaradeep</name>
-          <url>https://github.com/chakkaradeep</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>dotnet/core</title>
-      <link>https://github.com/dotnet/core</link>
-      <description>.NET news, announcements, release notes, and more!</description>
-      <guid>https://github.com/dotnet/core</guid>
-      <language>PowerShell</language>
-      <languageColor>#012456</languageColor>
-      <stars>22,053</stars>
-      <forks>4,931</forks>
-      <addStars>12</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2212879?s=40&amp;v=4</avatar>
-          <name>leecow</name>
-          <url>https://github.com/leecow</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30737530?s=40&amp;v=4</avatar>
-          <name>rbhanda</name>
-          <url>https://github.com/rbhanda</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2608468?s=40&amp;v=4</avatar>
-          <name>richlander</name>
-          <url>https://github.com/richlander</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12971179?s=40&amp;v=4</avatar>
-          <name>mairaw</name>
-          <url>https://github.com/mairaw</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11581923?s=40&amp;v=4</avatar>
-          <name>vivmishra</name>
-          <url>https://github.com/vivmishra</url>
         </contributor>
       </contributors>
     </item>

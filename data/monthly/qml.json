@@ -2,47 +2,15 @@
   "title": "GitHub Qml Languages Monthly Trending",
   "description": "Monthly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
+  "pubDate": "Fri, 23 Oct 2026 12:29:47 GMT",
   "items": [
-    {
-      "title": "ladybug-me/caelestia-kde",
-      "url": "https://github.com/ladybug-me/caelestia-kde",
-      "description": "Caelestia ported to KDE Plasma 6",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "983",
-      "forks": "60",
-      "addStars": "297",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
-          "name": "soramanew",
-          "url": "https://github.com/soramanew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89823371?s=40&v=4",
-          "name": "0xSolanaceae",
-          "url": "https://github.com/0xSolanaceae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165172025?s=40&v=4",
-          "name": "ladybug-me",
-          "url": "https://github.com/ladybug-me"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
-          "name": "atdma",
-          "url": "https://github.com/atdma"
-        }
-      ]
-    },
     {
       "title": "snowarch/iNiR",
       "url": "https://github.com/snowarch/iNiR",
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,856",
+      "stars": "1,858",
       "forks": "107",
       "addStars": "238",
       "contributors": [
@@ -70,6 +38,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/198324830?s=40&v=4",
           "name": "everyoneexe",
           "url": "https://github.com/everyoneexe"
+        }
+      ]
+    },
+    {
+      "title": "ladybug-me/caelestia-kde",
+      "url": "https://github.com/ladybug-me/caelestia-kde",
+      "description": "Caelestia ported to KDE Plasma 6",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "982",
+      "forks": "60",
+      "addStars": "297",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
+          "name": "soramanew",
+          "url": "https://github.com/soramanew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/89823371?s=40&v=4",
+          "name": "0xSolanaceae",
+          "url": "https://github.com/0xSolanaceae"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165172025?s=40&v=4",
+          "name": "ladybug-me",
+          "url": "https://github.com/ladybug-me"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
+          "name": "atdma",
+          "url": "https://github.com/atdma"
         }
       ]
     },
@@ -116,7 +116,7 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,031",
+      "stars": "13,034",
       "forks": "970",
       "addStars": "639",
       "contributors": [
@@ -148,7 +148,7 @@
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,514",
+      "stars": "3,521",
       "forks": "217",
       "addStars": "406",
       "contributors": [
@@ -176,80 +176,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/145242435?s=40&v=4",
           "name": "nvtank",
           "url": "https://github.com/nvtank"
-        }
-      ]
-    },
-    {
-      "title": "ilyamiro/serpantinum",
-      "url": "https://github.com/ilyamiro/serpantinum",
-      "description": "A shell for wayland compositors",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "7,448",
-      "forks": "326",
-      "addStars": "540",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/142908366?s=40&v=4",
-          "name": "ilyamiro",
-          "url": "https://github.com/ilyamiro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48689803?s=40&v=4",
-          "name": "TheRinder2",
-          "url": "https://github.com/TheRinder2"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/151051379?s=40&v=4",
-          "name": "Pigeon78",
-          "url": "https://github.com/Pigeon78"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/179175113?s=40&v=4",
-          "name": "kranks-uga",
-          "url": "https://github.com/kranks-uga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/55718218?s=40&v=4",
-          "name": "minh-tg",
-          "url": "https://github.com/minh-tg"
-        }
-      ]
-    },
-    {
-      "title": "Sn3akyy1/lucid",
-      "url": "https://github.com/Sn3akyy1/lucid",
-      "description": "A dynamic desktop shell for Hyprland",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "312",
-      "forks": "18",
-      "addStars": "110",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167647965?s=40&v=4",
-          "name": "Sn3akyy1",
-          "url": "https://github.com/Sn3akyy1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/254792447?s=40&v=4",
-          "name": "ciroenrique4-eng",
-          "url": "https://github.com/ciroenrique4-eng"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/194412810?s=40&v=4",
-          "name": "naevui",
-          "url": "https://github.com/naevui"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15087157?s=40&v=4",
-          "name": "MrZtone",
-          "url": "https://github.com/MrZtone"
         }
       ]
     },
@@ -296,8 +222,8 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "16,436",
-      "forks": "1,403",
+      "stars": "16,438",
+      "forks": "1,402",
       "addStars": "351",
       "contributors": [
         {
