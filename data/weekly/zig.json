@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Weekly Trending",
   "description": "Weekly Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 22:13:01 GMT",
+  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
   "items": [
     {
       "title": "zigtools/zls",
@@ -10,9 +10,9 @@
       "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "5,285",
+      "stars": "5,287",
       "forks": "465",
-      "addStars": "45",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19954306?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "36,867",
-      "forks": "1,784",
-      "addStars": "367",
+      "stars": "36,884",
+      "forks": "1,786",
+      "addStars": "341",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Pacman alternative for ArchLinux, designed with you in mind.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,209",
+      "stars": "1,212",
       "forks": "98",
-      "addStars": "24",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/40698010?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#ec915c",
       "stars": "3,282",
       "forks": "119",
-      "addStars": "30",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,516",
-      "forks": "3,689",
-      "addStars": "303",
+      "stars": "62,529",
+      "forks": "3,691",
+      "addStars": "292",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Unix like coding agent",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "3,561",
+      "stars": "3,569",
       "forks": "402",
-      "addStars": "99",
+      "addStars": "119",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/221089582?s=40&v=4",
@@ -261,7 +261,7 @@
       "languageColor": "#ec915c",
       "stars": "43,273",
       "forks": "3,125",
-      "addStars": "23",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106511?s=40&v=4",
@@ -298,7 +298,7 @@
       "languageColor": "#ec915c",
       "stars": "570",
       "forks": "23",
-      "addStars": "33",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62560250?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "7,806",
+      "stars": "7,807",
       "forks": "330",
-      "addStars": "29",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,225",
+      "stars": "2,227",
       "forks": "174",
-      "addStars": "16",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1940365?s=40&v=4",
@@ -407,8 +407,8 @@
       "description": "Async I/O framework for Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "677",
-      "forks": "46",
+      "stars": "678",
+      "forks": "47",
       "addStars": "15",
       "contributors": [
         {

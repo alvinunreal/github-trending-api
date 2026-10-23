@@ -2,7 +2,7 @@
   "title": "GitHub Tex Languages Monthly Trending",
   "description": "Monthly Trending of Tex Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 22:13:01 GMT",
+  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
   "items": [
     {
       "title": "exacity/deeplearningbook-chinese",
@@ -10,9 +10,9 @@
       "description": "Deep Learning Book Chinese Translation",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "37,948",
-      "forks": "9,168",
-      "addStars": "306",
+      "stars": "37,955",
+      "forks": "9,170",
+      "addStars": "440",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1974742?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "📄 Awesome CV is LaTeX template for your outstanding job application",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "28,771",
-      "forks": "5,285",
+      "stars": "28,772",
+      "forks": "5,284",
       "addStars": "260",
       "contributors": [
         {
@@ -81,7 +81,7 @@
       "languageColor": "#3D6117",
       "stars": "233",
       "forks": "816",
-      "addStars": "14",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23412755?s=40&v=4",
@@ -118,7 +118,7 @@
       "languageColor": "#3D6117",
       "stars": "6,435",
       "forks": "1,944",
-      "addStars": "24",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5965649?s=40&v=4",
@@ -148,14 +148,51 @@
       ]
     },
     {
+      "title": "lervag/vimtex",
+      "url": "https://github.com/lervag/vimtex",
+      "description": "VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.",
+      "language": "TeX",
+      "languageColor": "#3D6117",
+      "stars": "6,397",
+      "forks": "416",
+      "addStars": "37",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/998898?s=40&v=4",
+          "name": "lervag",
+          "url": "https://github.com/lervag"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7195553?s=40&v=4",
+          "name": "Konfekt",
+          "url": "https://github.com/Konfekt"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/371756?s=40&v=4",
+          "name": "kiryph",
+          "url": "https://github.com/kiryph"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50270681?s=40&v=4",
+          "name": "ejmastnak",
+          "url": "https://github.com/ejmastnak"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50843046?s=40&v=4",
+          "name": "TornaxO7",
+          "url": "https://github.com/TornaxO7"
+        }
+      ]
+    },
+    {
       "title": "HarisIqbal88/PlotNeuralNet",
       "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
       "description": "Latex code for making neural networks diagrams",
       "language": "TeX",
       "languageColor": "#3D6117",
-      "stars": "25,042",
+      "stars": "25,043",
       "forks": "3,056",
-      "addStars": "77",
+      "addStars": "79",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17570785?s=40&v=4",
@@ -229,7 +266,7 @@
       "languageColor": "#3D6117",
       "stars": "13,752",
       "forks": "796",
-      "addStars": "56",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4818719?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Just Languages Weekly Trending",
   "description": "Weekly Trending of Just Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 22:13:01 GMT",
+  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
   "items": [
     {
       "title": "ublue-os/bazzite",
@@ -10,8 +10,8 @@
       "description": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
       "language": "Just",
       "languageColor": "#384d54",
-      "stars": "9,208",
-      "forks": "1,143",
+      "stars": "9,209",
+      "forks": "1,144",
       "addStars": "37",
       "contributors": [
         {
@@ -32,6 +32,33 @@
       ]
     },
     {
+      "title": "Diaoul/home-ops",
+      "url": "https://github.com/Diaoul/home-ops",
+      "description": "My GitOps-managed home Kubernetes cluster... and more! ⛵",
+      "language": "Just",
+      "languageColor": "#384d54",
+      "stars": "120",
+      "forks": "2",
+      "addStars": "0",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/319220?s=40&v=4",
+          "name": "Diaoul",
+          "url": "https://github.com/Diaoul"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25180681?s=40&v=4",
+          "name": "renovate-bot",
+          "url": "https://github.com/renovate-bot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "pop-os/cosmic-epoch",
       "url": "https://github.com/pop-os/cosmic-epoch",
       "description": "Next generation Cosmic desktop environment",
@@ -39,7 +66,7 @@
       "languageColor": "#384d54",
       "stars": "6,942",
       "forks": "215",
-      "addStars": "30",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7741236?s=40&v=4",

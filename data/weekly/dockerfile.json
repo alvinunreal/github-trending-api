@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Weekly Trending",
   "description": "Weekly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 22 Oct 2026 22:13:01 GMT",
+  "pubDate": "Fri, 23 Oct 2026 05:42:31 GMT",
   "items": [
     {
       "title": "mikeroyal/Self-Hosting-Guide",
@@ -10,9 +10,9 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "23,263",
+      "stars": "23,267",
       "forks": "1,168",
-      "addStars": "170",
+      "addStars": "211",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Docker Official Image packaging for PHP",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,113",
-      "forks": "2,030",
-      "addStars": "69",
+      "stars": "4,114",
+      "forks": "2,031",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "15,257",
+      "stars": "15,273",
       "forks": "1,138",
       "addStars": "13",
       "contributors": [
@@ -121,7 +121,7 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "2,620",
+      "stars": "2,622",
       "forks": "315",
       "addStars": "7",
       "contributors": [
@@ -144,7 +144,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "508",
-      "forks": "638",
+      "forks": "639",
       "addStars": "1",
       "contributors": [
         {
@@ -180,9 +180,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,669",
+      "stars": "105,668",
       "forks": "10,717",
-      "addStars": "43",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8571500?s=40&v=4",
@@ -214,7 +214,7 @@
       "languageColor": "#384d54",
       "stars": "12,173",
       "forks": "3,738",
-      "addStars": "16",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
@@ -278,7 +278,7 @@
       "languageColor": "#384d54",
       "stars": "267",
       "forks": "718",
-      "addStars": "7",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/185170039?s=40&v=4",
@@ -298,9 +298,9 @@
       "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,681",
-      "forks": "4,329",
-      "addStars": "1",
+      "stars": "12,680",
+      "forks": "4,330",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1983984?s=40&v=4",
@@ -331,7 +331,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "176",
-      "forks": "1,256",
+      "forks": "1,258",
       "addStars": "1",
       "contributors": [
         {
@@ -352,9 +352,9 @@
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,201",
-      "forks": "479",
-      "addStars": "9",
+      "stars": "4,203",
+      "forks": "478",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26030610?s=40&v=4",
@@ -389,9 +389,9 @@
       "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "15,244",
+      "stars": "15,245",
       "forks": "2,222",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1680273?s=40&v=4",
@@ -444,8 +444,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "269",
-      "forks": "950",
-      "addStars": "1",
+      "forks": "951",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/203268300?s=40&v=4",
@@ -475,9 +475,9 @@
       "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "6,173",
-      "forks": "497",
-      "addStars": "33",
+      "stars": "6,174",
+      "forks": "498",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/98458308?s=40&v=4",
