@@ -2,8 +2,82 @@
   "title": "GitHub Gdscript Languages Weekly Trending",
   "description": "Weekly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 24 Oct 2026 05:21:08 GMT",
+  "pubDate": "Sat, 24 Oct 2026 11:54:35 GMT",
   "items": [
+    {
+      "title": "Orama-Interactive/Pixelorama",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "10,811",
+      "forks": "584",
+      "addStars": "244",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35376950?s=40&v=4",
+          "name": "OverloadedOrama",
+          "url": "https://github.com/OverloadedOrama"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/77773850?s=40&v=4",
+          "name": "Variable-ind",
+          "url": "https://github.com/Variable-ind"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8699302?s=40&v=4",
+          "name": "LoonyMoth",
+          "url": "https://github.com/LoonyMoth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58960464?s=40&v=4",
+          "name": "Erevoid",
+          "url": "https://github.com/Erevoid"
+        }
+      ]
+    },
+    {
+      "title": "godotengine/godot-demo-projects",
+      "url": "https://github.com/godotengine/godot-demo-projects",
+      "description": "Demonstration and Template Projects",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "9,703",
+      "forks": "2,269",
+      "addStars": "49",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
+          "name": "aaronfranke",
+          "url": "https://github.com/aaronfranke"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
+          "name": "akien-mga",
+          "url": "https://github.com/akien-mga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
+          "name": "reduz",
+          "url": "https://github.com/reduz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25082678?s=40&v=4",
+          "name": "TwistedTwigleg",
+          "url": "https://github.com/TwistedTwigleg"
+        }
+      ]
+    },
     {
       "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
       "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
@@ -42,86 +116,12 @@
       ]
     },
     {
-      "title": "Orama-Interactive/Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "10,806",
-      "forks": "584",
-      "addStars": "244",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/35376950?s=40&v=4",
-          "name": "OverloadedOrama",
-          "url": "https://github.com/OverloadedOrama"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/77773850?s=40&v=4",
-          "name": "Variable-ind",
-          "url": "https://github.com/Variable-ind"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8699302?s=40&v=4",
-          "name": "LoonyMoth",
-          "url": "https://github.com/LoonyMoth"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58960464?s=40&v=4",
-          "name": "Erevoid",
-          "url": "https://github.com/Erevoid"
-        }
-      ]
-    },
-    {
-      "title": "godotengine/godot-demo-projects",
-      "url": "https://github.com/godotengine/godot-demo-projects",
-      "description": "Demonstration and Template Projects",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "9,700",
-      "forks": "2,269",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
-          "name": "aaronfranke",
-          "url": "https://github.com/aaronfranke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
-          "name": "akien-mga",
-          "url": "https://github.com/akien-mga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
-          "name": "reduz",
-          "url": "https://github.com/reduz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25082678?s=40&v=4",
-          "name": "TwistedTwigleg",
-          "url": "https://github.com/TwistedTwigleg"
-        }
-      ]
-    },
-    {
       "title": "dialogic-godot/dialogic",
       "url": "https://github.com/dialogic-godot/dialogic",
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,109",
+      "stars": "6,111",
       "forks": "364",
       "addStars": "41",
       "contributors": [
@@ -149,112 +149,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/65981767?s=40&v=4",
           "name": "CakeVR",
           "url": "https://github.com/CakeVR"
-        }
-      ]
-    },
-    {
-      "title": "hi-godot/godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "3,171",
-      "forks": "187",
-      "addStars": "161",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
-          "name": "dsarno",
-          "url": "https://github.com/dsarno"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
-          "name": "Clubhouse1661",
-          "url": "https://github.com/Clubhouse1661"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
-          "name": "azereki",
-          "url": "https://github.com/azereki"
-        }
-      ]
-    },
-    {
-      "title": "Alexofp/BDCC",
-      "url": "https://github.com/Alexofp/BDCC",
-      "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "363",
-      "forks": "127",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14040378?s=40&v=4",
-          "name": "Alexofp",
-          "url": "https://github.com/Alexofp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/29272208?s=40&v=4",
-          "name": "keerifox",
-          "url": "https://github.com/keerifox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/174571210?s=40&v=4",
-          "name": "AverageAcee",
-          "url": "https://github.com/AverageAcee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/155451800?s=40&v=4",
-          "name": "Selinoccino",
-          "url": "https://github.com/Selinoccino"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26345275?s=40&v=4",
-          "name": "CKRainbow",
-          "url": "https://github.com/CKRainbow"
-        }
-      ]
-    },
-    {
-      "title": "RodZill4/material-maker",
-      "url": "https://github.com/RodZill4/material-maker",
-      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "6,016",
-      "forks": "391",
-      "addStars": "21",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6957908?s=40&v=4",
-          "name": "RodZill4",
-          "url": "https://github.com/RodZill4"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/830253?s=40&v=4",
-          "name": "williamchange",
-          "url": "https://github.com/williamchange"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/42868150?s=40&v=4",
-          "name": "Jowan-Spooner",
-          "url": "https://github.com/Jowan-Spooner"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4955051?s=40&v=4",
-          "name": "Arnklit",
-          "url": "https://github.com/Arnklit"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
         }
       ]
     },
@@ -292,6 +186,75 @@
           "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
           "name": "albanobattistella",
           "url": "https://github.com/albanobattistella"
+        }
+      ]
+    },
+    {
+      "title": "hi-godot/godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,174",
+      "forks": "188",
+      "addStars": "161",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2432103?s=40&v=4",
+          "name": "dsarno",
+          "url": "https://github.com/dsarno"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/177586398?s=40&v=4",
+          "name": "Clubhouse1661",
+          "url": "https://github.com/Clubhouse1661"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11672598?s=40&v=4",
+          "name": "azereki",
+          "url": "https://github.com/azereki"
+        }
+      ]
+    },
+    {
+      "title": "Alexofp/BDCC",
+      "url": "https://github.com/Alexofp/BDCC",
+      "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "364",
+      "forks": "127",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14040378?s=40&v=4",
+          "name": "Alexofp",
+          "url": "https://github.com/Alexofp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29272208?s=40&v=4",
+          "name": "keerifox",
+          "url": "https://github.com/keerifox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174571210?s=40&v=4",
+          "name": "AverageAcee",
+          "url": "https://github.com/AverageAcee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/155451800?s=40&v=4",
+          "name": "Selinoccino",
+          "url": "https://github.com/Selinoccino"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26345275?s=40&v=4",
+          "name": "CKRainbow",
+          "url": "https://github.com/CKRainbow"
         }
       ]
     },
@@ -366,6 +329,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/180658163?s=40&v=4",
           "name": "ImPetrM",
           "url": "https://github.com/ImPetrM"
+        }
+      ]
+    },
+    {
+      "title": "RodZill4/material-maker",
+      "url": "https://github.com/RodZill4/material-maker",
+      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "6,016",
+      "forks": "391",
+      "addStars": "21",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6957908?s=40&v=4",
+          "name": "RodZill4",
+          "url": "https://github.com/RodZill4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/830253?s=40&v=4",
+          "name": "williamchange",
+          "url": "https://github.com/williamchange"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/42868150?s=40&v=4",
+          "name": "Jowan-Spooner",
+          "url": "https://github.com/Jowan-Spooner"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4955051?s=40&v=4",
+          "name": "Arnklit",
+          "url": "https://github.com/Arnklit"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
         }
       ]
     }

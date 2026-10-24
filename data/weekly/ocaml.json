@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Weekly Trending",
   "description": "Weekly Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 24 Oct 2026 05:21:08 GMT",
+  "pubDate": "Sat, 24 Oct 2026 11:54:35 GMT",
   "items": [
     {
       "title": "MinaProtocol/mina",
@@ -79,12 +79,49 @@
       ]
     },
     {
+      "title": "ocaml/dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": "1,933",
+      "forks": "506",
+      "addStars": "7",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139003?s=40&v=4",
+          "name": "rgrinberg",
+          "url": "https://github.com/rgrinberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8614547?s=40&v=4",
+          "name": "Alizter",
+          "url": "https://github.com/Alizter"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/661909?s=40&v=4",
+          "name": "anmonteiro",
+          "url": "https://github.com/anmonteiro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/496345?s=40&v=4",
+          "name": "emillon",
+          "url": "https://github.com/emillon"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/617530?s=40&v=4",
+          "name": "mefyl",
+          "url": "https://github.com/mefyl"
+        }
+      ]
+    },
+    {
       "title": "facebook/infer",
       "url": "https://github.com/facebook/infer",
       "description": "A static analyzer for Java, C, C++, and Objective-C",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "15,729",
+      "stars": "15,728",
       "forks": "2,099",
       "addStars": "8",
       "contributors": [
@@ -190,43 +227,6 @@
       ]
     },
     {
-      "title": "ocaml/dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": "1,933",
-      "forks": "506",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/139003?s=40&v=4",
-          "name": "rgrinberg",
-          "url": "https://github.com/rgrinberg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8614547?s=40&v=4",
-          "name": "Alizter",
-          "url": "https://github.com/Alizter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/661909?s=40&v=4",
-          "name": "anmonteiro",
-          "url": "https://github.com/anmonteiro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/496345?s=40&v=4",
-          "name": "emillon",
-          "url": "https://github.com/emillon"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/617530?s=40&v=4",
-          "name": "mefyl",
-          "url": "https://github.com/mefyl"
-        }
-      ]
-    },
-    {
       "title": "ocaml/opam",
       "url": "https://github.com/ocaml/opam",
       "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
@@ -269,7 +269,7 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": "6,605",
+      "stars": "6,606",
       "forks": "1,369",
       "addStars": "15",
       "contributors": [
