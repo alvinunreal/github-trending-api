@@ -3,7 +3,7 @@
     <title>GitHub Zig Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Zig Languages in GitHub</description>
-    <pubDate>Sun, 25 Oct 2026 05:38:03 GMT</pubDate>
+    <pubDate>Sun, 25 Oct 2026 12:25:14 GMT</pubDate>
     <item>
       <title>zigtools/zls</title>
       <link>https://github.com/zigtools/zls</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/zigtools/zls</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>5,293</stars>
+      <stars>5,295</stars>
       <forks>468</forks>
       <addStars>48</addStars>
       <contributors>
@@ -43,13 +43,117 @@
       </contributors>
     </item>
     <item>
+      <title>roc-lang/roc</title>
+      <link>https://github.com/roc-lang/roc</link>
+      <description>A fast, friendly, functional language.</description>
+      <guid>https://github.com/roc-lang/roc</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>6,160</stars>
+      <forks>427</forks>
+      <addStars>43</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1094080?s=40&amp;v=4</avatar>
+          <name>rtfeldman</name>
+          <url>https://github.com/rtfeldman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7949978?s=40&amp;v=4</avatar>
+          <name>folkertdev</name>
+          <url>https://github.com/folkertdev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17049058?s=40&amp;v=4</avatar>
+          <name>Anton-4</name>
+          <url>https://github.com/Anton-4</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2679227?s=40&amp;v=4</avatar>
+          <name>lukewilliamboswell</name>
+          <url>https://github.com/lukewilliamboswell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ghostty-org/ghostty</title>
+      <link>https://github.com/ghostty-org/ghostty</link>
+      <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
+      <guid>https://github.com/ghostty-org/ghostty</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>62,575</stars>
+      <forks>3,714</forks>
+      <addStars>283</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
+          <name>mitchellh</name>
+          <url>https://github.com/mitchellh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
+          <name>jcollie</name>
+          <url>https://github.com/jcollie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4</avatar>
+          <name>qwerasd205</name>
+          <url>https://github.com/qwerasd205</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ziglang/zig</title>
+      <link>https://github.com/ziglang/zig</link>
+      <description>Moved to Codeberg</description>
+      <guid>https://github.com/ziglang/zig</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>43,270</stars>
+      <forks>3,124</forks>
+      <addStars>23</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/106511?s=40&amp;v=4</avatar>
+          <name>andrewrk</name>
+          <url>https://github.com/andrewrk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1519747?s=40&amp;v=4</avatar>
+          <name>kubkon</name>
+          <url>https://github.com/kubkon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44076?s=40&amp;v=4</avatar>
+          <name>alexrp</name>
+          <url>https://github.com/alexrp</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15308111?s=40&amp;v=4</avatar>
+          <name>Vexu</name>
+          <url>https://github.com/Vexu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15544577?s=40&amp;v=4</avatar>
+          <name>jacobly0</name>
+          <url>https://github.com/jacobly0</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vercel-labs/fx</title>
       <link>https://github.com/vercel-labs/fx</link>
       <description>Unix like coding agent</description>
       <guid>https://github.com/vercel-labs/fx</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>3,597</stars>
+      <stars>3,601</stars>
       <forks>403</forks>
       <addStars>133</addStars>
       <contributors>
@@ -81,155 +185,13 @@
       </contributors>
     </item>
     <item>
-      <title>lightpanda-io/browser</title>
-      <link>https://github.com/lightpanda-io/browser</link>
-      <description>Lightpanda: the headless browser designed for AI and automation</description>
-      <guid>https://github.com/lightpanda-io/browser</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>36,954</stars>
-      <forks>1,788</forks>
-      <addStars>341</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/206480?s=40&amp;v=4</avatar>
-          <name>karlseguin</name>
-          <url>https://github.com/karlseguin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4</avatar>
-          <name>krichprollsch</name>
-          <url>https://github.com/krichprollsch</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1671644?s=40&amp;v=4</avatar>
-          <name>arrufat</name>
-          <url>https://github.com/arrufat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26614015?s=40&amp;v=4</avatar>
-          <name>mookums</name>
-          <url>https://github.com/mookums</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4337696?s=40&amp;v=4</avatar>
-          <name>nikneym</name>
-          <url>https://github.com/nikneym</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ziglang/zig</title>
-      <link>https://github.com/ziglang/zig</link>
-      <description>Moved to Codeberg</description>
-      <guid>https://github.com/ziglang/zig</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>43,268</stars>
-      <forks>3,123</forks>
-      <addStars>23</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/106511?s=40&amp;v=4</avatar>
-          <name>andrewrk</name>
-          <url>https://github.com/andrewrk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1519747?s=40&amp;v=4</avatar>
-          <name>kubkon</name>
-          <url>https://github.com/kubkon</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44076?s=40&amp;v=4</avatar>
-          <name>alexrp</name>
-          <url>https://github.com/alexrp</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15308111?s=40&amp;v=4</avatar>
-          <name>Vexu</name>
-          <url>https://github.com/Vexu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15544577?s=40&amp;v=4</avatar>
-          <name>jacobly0</name>
-          <url>https://github.com/jacobly0</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Seafoam-Labs/Shelly-ALPM</title>
-      <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
-      <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
-      <guid>https://github.com/Seafoam-Labs/Shelly-ALPM</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>1,221</stars>
-      <forks>100</forks>
-      <addStars>29</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/40698010?s=40&amp;v=4</avatar>
-          <name>ZoeyErinBauer</name>
-          <url>https://github.com/ZoeyErinBauer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69315797?s=40&amp;v=4</avatar>
-          <name>caroberrie</name>
-          <url>https://github.com/caroberrie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6123841?s=40&amp;v=4</avatar>
-          <name>azdanov</name>
-          <url>https://github.com/azdanov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/142009768?s=40&amp;v=4</avatar>
-          <name>VinnyQF</name>
-          <url>https://github.com/VinnyQF</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6131799?s=40&amp;v=4</avatar>
-          <name>Henry2o1o</name>
-          <url>https://github.com/Henry2o1o</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ghostty-org/ghostty</title>
-      <link>https://github.com/ghostty-org/ghostty</link>
-      <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
-      <guid>https://github.com/ghostty-org/ghostty</guid>
-      <language>Zig</language>
-      <languageColor>#ec915c</languageColor>
-      <stars>62,572</stars>
-      <forks>3,710</forks>
-      <addStars>283</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1299?s=40&amp;v=4</avatar>
-          <name>mitchellh</name>
-          <url>https://github.com/mitchellh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/740022?s=40&amp;v=4</avatar>
-          <name>jcollie</name>
-          <url>https://github.com/jcollie</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7241851?s=40&amp;v=4</avatar>
-          <name>qwerasd205</name>
-          <url>https://github.com/qwerasd205</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>vercel-labs/native</title>
       <link>https://github.com/vercel-labs/native</link>
       <description>Toolkit for building native desktop apps</description>
       <guid>https://github.com/vercel-labs/native</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>7,808</stars>
+      <stars>7,809</stars>
       <forks>330</forks>
       <addStars>33</addStars>
       <contributors>
@@ -261,35 +223,78 @@
       </contributors>
     </item>
     <item>
-      <title>lalinsky/zio</title>
-      <link>https://github.com/lalinsky/zio</link>
-      <description>Async I/O framework for Zig</description>
-      <guid>https://github.com/lalinsky/zio</guid>
+      <title>lightpanda-io/browser</title>
+      <link>https://github.com/lightpanda-io/browser</link>
+      <description>Lightpanda: the headless browser designed for AI and automation</description>
+      <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>684</stars>
-      <forks>48</forks>
-      <addStars>20</addStars>
+      <stars>36,968</stars>
+      <forks>1,788</forks>
+      <addStars>341</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/220839?s=40&amp;v=4</avatar>
-          <name>lalinsky</name>
-          <url>https://github.com/lalinsky</url>
+          <avatar>https://avatars.githubusercontent.com/u/206480?s=40&amp;v=4</avatar>
+          <name>karlseguin</name>
+          <url>https://github.com/karlseguin</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66304707?s=40&amp;v=4</avatar>
-          <name>notxorand</name>
-          <url>https://github.com/notxorand</url>
+          <avatar>https://avatars.githubusercontent.com/u/562696?s=40&amp;v=4</avatar>
+          <name>krichprollsch</name>
+          <url>https://github.com/krichprollsch</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/1671644?s=40&amp;v=4</avatar>
+          <name>arrufat</name>
+          <url>https://github.com/arrufat</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/215562925?s=40&amp;v=4</avatar>
-          <name>rsaunderson-i3v</name>
-          <url>https://github.com/rsaunderson-i3v</url>
+          <avatar>https://avatars.githubusercontent.com/u/26614015?s=40&amp;v=4</avatar>
+          <name>mookums</name>
+          <url>https://github.com/mookums</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4337696?s=40&amp;v=4</avatar>
+          <name>nikneym</name>
+          <url>https://github.com/nikneym</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Seafoam-Labs/Shelly-ALPM</title>
+      <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
+      <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
+      <guid>https://github.com/Seafoam-Labs/Shelly-ALPM</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>1,223</stars>
+      <forks>101</forks>
+      <addStars>29</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40698010?s=40&amp;v=4</avatar>
+          <name>ZoeyErinBauer</name>
+          <url>https://github.com/ZoeyErinBauer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/69315797?s=40&amp;v=4</avatar>
+          <name>caroberrie</name>
+          <url>https://github.com/caroberrie</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6123841?s=40&amp;v=4</avatar>
+          <name>azdanov</name>
+          <url>https://github.com/azdanov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/142009768?s=40&amp;v=4</avatar>
+          <name>VinnyQF</name>
+          <url>https://github.com/VinnyQF</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6131799?s=40&amp;v=4</avatar>
+          <name>Henry2o1o</name>
+          <url>https://github.com/Henry2o1o</url>
         </contributor>
       </contributors>
     </item>
@@ -332,14 +337,47 @@
       </contributors>
     </item>
     <item>
+      <title>lalinsky/zio</title>
+      <link>https://github.com/lalinsky/zio</link>
+      <description>Async I/O framework for Zig</description>
+      <guid>https://github.com/lalinsky/zio</guid>
+      <language>Zig</language>
+      <languageColor>#ec915c</languageColor>
+      <stars>685</stars>
+      <forks>48</forks>
+      <addStars>20</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/220839?s=40&amp;v=4</avatar>
+          <name>lalinsky</name>
+          <url>https://github.com/lalinsky</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66304707?s=40&amp;v=4</avatar>
+          <name>notxorand</name>
+          <url>https://github.com/notxorand</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/215562925?s=40&amp;v=4</avatar>
+          <name>rsaunderson-i3v</name>
+          <url>https://github.com/rsaunderson-i3v</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>ddalcu/mlx-serve</title>
       <link>https://github.com/ddalcu/mlx-serve</link>
       <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation.</description>
       <guid>https://github.com/ddalcu/mlx-serve</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>2,085</stars>
-      <forks>220</forks>
+      <stars>2,090</stars>
+      <forks>219</forks>
       <addStars>122</addStars>
       <contributors>
         <contributor>
