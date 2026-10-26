@@ -2,7 +2,7 @@
   "title": "GitHub Crystal Languages Monthly Trending",
   "description": "Monthly Trending of Crystal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 05:44:40 GMT",
+  "pubDate": "Mon, 26 Oct 2026 14:01:39 GMT",
   "items": [
     {
       "title": "crystal-lang/crystal",
@@ -10,7 +10,7 @@
       "description": "The Crystal Programming Language",
       "language": "Crystal",
       "languageColor": "#000100",
-      "stars": "20,475",
+      "stars": "20,476",
       "forks": "1,724",
       "addStars": "73",
       "contributors": [
@@ -38,6 +38,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/47380?s=40&v=4",
           "name": "ysbaddaden",
           "url": "https://github.com/ysbaddaden"
+        }
+      ]
+    },
+    {
+      "title": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "languageColor": "#000100",
+      "stars": "25,783",
+      "forks": "2,882",
+      "addStars": "1,085",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14208607?s=40&v=4",
+          "name": "omarroth",
+          "url": "https://github.com/omarroth"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52980486?s=40&v=4",
+          "name": "SamantazFox",
+          "url": "https://github.com/SamantazFox"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
+          "name": "weblate",
+          "url": "https://github.com/weblate"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70992037?s=40&v=4",
+          "name": "syeopite",
+          "url": "https://github.com/syeopite"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47571719?s=40&v=4",
+          "name": "TheFrenchGhosty",
+          "url": "https://github.com/TheFrenchGhosty"
         }
       ]
     }

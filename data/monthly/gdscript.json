@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Monthly Trending",
   "description": "Monthly Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 05:44:40 GMT",
+  "pubDate": "Mon, 26 Oct 2026 14:01:39 GMT",
   "items": [
     {
       "title": "Orama-Interactive/Pixelorama",
@@ -10,8 +10,8 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "10,836",
-      "forks": "587",
+      "stars": "10,842",
+      "forks": "588",
       "addStars": "482",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,210",
-      "forks": "189",
+      "stars": "3,220",
+      "forks": "190",
       "addStars": "616",
       "contributors": [
         {
@@ -138,13 +138,50 @@
       ]
     },
     {
+      "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": "3,275",
+      "forks": "319",
+      "addStars": "120",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97353363?s=40&v=4",
+          "name": "JHDev2006",
+          "url": "https://github.com/JHDev2006"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/29716454?s=40&v=4",
+          "name": "SkyanUltra",
+          "url": "https://github.com/SkyanUltra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70983335?s=40&v=4",
+          "name": "KirbyKid256",
+          "url": "https://github.com/KirbyKid256"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58278276?s=40&v=4",
+          "name": "DanisLixo",
+          "url": "https://github.com/DanisLixo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17443689?s=40&v=4",
+          "name": "jdaster64",
+          "url": "https://github.com/jdaster64"
+        }
+      ]
+    },
+    {
       "title": "ramokz/phantom-camera",
       "url": "https://github.com/ramokz/phantom-camera",
       "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,639",
-      "forks": "143",
+      "stars": "3,640",
+      "forks": "142",
       "addStars": "73",
       "contributors": [
         {
@@ -180,8 +217,8 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,117",
-      "forks": "365",
+      "stars": "6,121",
+      "forks": "366",
       "addStars": "108",
       "contributors": [
         {
@@ -217,7 +254,7 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "6,023",
+      "stars": "6,024",
       "forks": "393",
       "addStars": "87",
       "contributors": [
@@ -249,39 +286,39 @@
       ]
     },
     {
-      "title": "JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+      "title": "godotengine/godot-demo-projects",
+      "url": "https://github.com/godotengine/godot-demo-projects",
+      "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": "3,274",
-      "forks": "318",
-      "addStars": "120",
+      "stars": "9,709",
+      "forks": "2,270",
+      "addStars": "158",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97353363?s=40&v=4",
-          "name": "JHDev2006",
-          "url": "https://github.com/JHDev2006"
+          "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
+          "name": "aaronfranke",
+          "url": "https://github.com/aaronfranke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29716454?s=40&v=4",
-          "name": "SkyanUltra",
-          "url": "https://github.com/SkyanUltra"
+          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
+          "name": "Calinou",
+          "url": "https://github.com/Calinou"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/70983335?s=40&v=4",
-          "name": "KirbyKid256",
-          "url": "https://github.com/KirbyKid256"
+          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
+          "name": "akien-mga",
+          "url": "https://github.com/akien-mga"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/58278276?s=40&v=4",
-          "name": "DanisLixo",
-          "url": "https://github.com/DanisLixo"
+          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
+          "name": "reduz",
+          "url": "https://github.com/reduz"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17443689?s=40&v=4",
-          "name": "jdaster64",
-          "url": "https://github.com/jdaster64"
+          "avatar": "https://avatars.githubusercontent.com/u/25082678?s=40&v=4",
+          "name": "TwistedTwigleg",
+          "url": "https://github.com/TwistedTwigleg"
         }
       ]
     },
@@ -319,43 +356,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/34811668?s=40&v=4",
           "name": "albanobattistella",
           "url": "https://github.com/albanobattistella"
-        }
-      ]
-    },
-    {
-      "title": "godotengine/godot-demo-projects",
-      "url": "https://github.com/godotengine/godot-demo-projects",
-      "description": "Demonstration and Template Projects",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": "9,708",
-      "forks": "2,270",
-      "addStars": "158",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1646875?s=40&v=4",
-          "name": "aaronfranke",
-          "url": "https://github.com/aaronfranke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/180032?s=40&v=4",
-          "name": "Calinou",
-          "url": "https://github.com/Calinou"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4701338?s=40&v=4",
-          "name": "akien-mga",
-          "url": "https://github.com/akien-mga"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6265307?s=40&v=4",
-          "name": "reduz",
-          "url": "https://github.com/reduz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25082678?s=40&v=4",
-          "name": "TwistedTwigleg",
-          "url": "https://github.com/TwistedTwigleg"
         }
       ]
     }
