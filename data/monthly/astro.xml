@@ -3,7 +3,7 @@
     <title>GitHub Astro Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Astro Languages in GitHub</description>
-    <pubDate>Tue, 27 Oct 2026 05:57:24 GMT</pubDate>
+    <pubDate>Tue, 27 Oct 2026 13:03:59 GMT</pubDate>
     <item>
       <title>hilmanski/freeStuffDev</title>
       <link>https://github.com/hilmanski/freeStuffDev</link>
@@ -49,8 +49,8 @@
       <guid>https://github.com/twbs/icons</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>8,162</stars>
-      <forks>1,120</forks>
+      <stars>8,161</stars>
+      <forks>1,121</forks>
       <addStars>41</addStars>
       <contributors>
         <contributor>
@@ -67,39 +67,6 @@
           <avatar>https://avatars.githubusercontent.com/u/1212885?s=40&amp;v=4</avatar>
           <name>coliff</name>
           <url>https://github.com/coliff</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>music-assistant/music-assistant.io</title>
-      <link>https://github.com/music-assistant/music-assistant.io</link>
-      <description>Documentation repo for Music Assistant</description>
-      <guid>https://github.com/music-assistant/music-assistant.io</guid>
-      <language>Astro</language>
-      <languageColor>#ff5a03</languageColor>
-      <stars>29</stars>
-      <forks>156</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19848947?s=40&amp;v=4</avatar>
-          <name>OzGav</name>
-          <url>https://github.com/OzGav</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60214390?s=40&amp;v=4</avatar>
-          <name>jozefKruszynski</name>
-          <url>https://github.com/jozefKruszynski</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4980085?s=40&amp;v=4</avatar>
-          <name>dan-long-dev</name>
-          <url>https://github.com/dan-long-dev</url>
         </contributor>
       </contributors>
     </item>
@@ -144,7 +111,7 @@
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
       <stars>41,957</stars>
-      <forks>4,432</forks>
+      <forks>4,433</forks>
       <addStars>238</addStars>
       <contributors>
         <contributor>
@@ -166,6 +133,100 @@
           <avatar>https://avatars.githubusercontent.com/u/160743?s=40&amp;v=4</avatar>
           <name>rjd22</name>
           <url>https://github.com/rjd22</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>music-assistant/music-assistant.io</title>
+      <link>https://github.com/music-assistant/music-assistant.io</link>
+      <description>Documentation repo for Music Assistant</description>
+      <guid>https://github.com/music-assistant/music-assistant.io</guid>
+      <language>Astro</language>
+      <languageColor>#ff5a03</languageColor>
+      <stars>29</stars>
+      <forks>156</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19848947?s=40&amp;v=4</avatar>
+          <name>OzGav</name>
+          <url>https://github.com/OzGav</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60214390?s=40&amp;v=4</avatar>
+          <name>jozefKruszynski</name>
+          <url>https://github.com/jozefKruszynski</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4980085?s=40&amp;v=4</avatar>
+          <name>dan-long-dev</name>
+          <url>https://github.com/dan-long-dev</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>RiccardoBiosas/awesome-MLSecOps</title>
+      <link>https://github.com/RiccardoBiosas/awesome-MLSecOps</link>
+      <description>A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.</description>
+      <guid>https://github.com/RiccardoBiosas/awesome-MLSecOps</guid>
+      <language>Astro</language>
+      <languageColor>#ff5a03</languageColor>
+      <stars>481</stars>
+      <forks>126</forks>
+      <addStars>7</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65150720?s=40&amp;v=4</avatar>
+          <name>RiccardoBiosas</name>
+          <url>https://github.com/RiccardoBiosas</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129667548?s=40&amp;v=4</avatar>
+          <name>wearetyomsmnv</name>
+          <url>https://github.com/wearetyomsmnv</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/590347?s=40&amp;v=4</avatar>
+          <name>badarahmed</name>
+          <url>https://github.com/badarahmed</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>saicaca/fuwari</title>
+      <link>https://github.com/saicaca/fuwari</link>
+      <description>✨A static blog template built with Astro.</description>
+      <guid>https://github.com/saicaca/fuwari</guid>
+      <language>Astro</language>
+      <languageColor>#ff5a03</languageColor>
+      <stars>5,122</stars>
+      <forks>1,277</forks>
+      <addStars>110</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25200299?s=40&amp;v=4</avatar>
+          <name>saicaca</name>
+          <url>https://github.com/saicaca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/70247011?s=40&amp;v=4</avatar>
+          <name>L4Ph</name>
+          <url>https://github.com/L4Ph</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20017165?s=40&amp;v=4</avatar>
+          <name>CarlosCB1986</name>
+          <url>https://github.com/CarlosCB1986</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20734256?s=40&amp;v=4</avatar>
+          <name>wsafight</name>
+          <url>https://github.com/wsafight</url>
         </contributor>
       </contributors>
     </item>
@@ -199,7 +260,7 @@
       <guid>https://github.com/RyanFitzgerald/devportfolio</guid>
       <language>Astro</language>
       <languageColor>#ff5a03</languageColor>
-      <stars>4,992</stars>
+      <stars>4,991</stars>
       <forks>4,162</forks>
       <addStars>26</addStars>
       <contributors>
@@ -222,67 +283,6 @@
           <avatar>https://avatars.githubusercontent.com/u/999235?s=40&amp;v=4</avatar>
           <name>yousefamar</name>
           <url>https://github.com/yousefamar</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>RiccardoBiosas/awesome-MLSecOps</title>
-      <link>https://github.com/RiccardoBiosas/awesome-MLSecOps</link>
-      <description>A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.</description>
-      <guid>https://github.com/RiccardoBiosas/awesome-MLSecOps</guid>
-      <language>Astro</language>
-      <languageColor>#ff5a03</languageColor>
-      <stars>481</stars>
-      <forks>125</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65150720?s=40&amp;v=4</avatar>
-          <name>RiccardoBiosas</name>
-          <url>https://github.com/RiccardoBiosas</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129667548?s=40&amp;v=4</avatar>
-          <name>wearetyomsmnv</name>
-          <url>https://github.com/wearetyomsmnv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/590347?s=40&amp;v=4</avatar>
-          <name>badarahmed</name>
-          <url>https://github.com/badarahmed</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>saicaca/fuwari</title>
-      <link>https://github.com/saicaca/fuwari</link>
-      <description>✨A static blog template built with Astro.</description>
-      <guid>https://github.com/saicaca/fuwari</guid>
-      <language>Astro</language>
-      <languageColor>#ff5a03</languageColor>
-      <stars>5,120</stars>
-      <forks>1,278</forks>
-      <addStars>110</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25200299?s=40&amp;v=4</avatar>
-          <name>saicaca</name>
-          <url>https://github.com/saicaca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/70247011?s=40&amp;v=4</avatar>
-          <name>L4Ph</name>
-          <url>https://github.com/L4Ph</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20017165?s=40&amp;v=4</avatar>
-          <name>CarlosCB1986</name>
-          <url>https://github.com/CarlosCB1986</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20734256?s=40&amp;v=4</avatar>
-          <name>wsafight</name>
-          <url>https://github.com/wsafight</url>
         </contributor>
       </contributors>
     </item>
@@ -316,39 +316,6 @@
           <avatar>https://avatars.githubusercontent.com/u/77577746?s=40&amp;v=4</avatar>
           <name>kyrie25</name>
           <url>https://github.com/kyrie25</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zen-browser/www</title>
-      <link>https://github.com/zen-browser/www</link>
-      <description>Homepage for @zen-browser!</description>
-      <guid>https://github.com/zen-browser/www</guid>
-      <language>Astro</language>
-      <languageColor>#ff5a03</languageColor>
-      <stars>1,475</stars>
-      <forks>266</forks>
-      <addStars>50</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91018726?s=40&amp;v=4</avatar>
-          <name>mr-cheffy</name>
-          <url>https://github.com/mr-cheffy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61367823?s=40&amp;v=4</avatar>
-          <name>taroj1205</name>
-          <url>https://github.com/taroj1205</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/158103554?s=40&amp;v=4</avatar>
-          <name>nocanoa</name>
-          <url>https://github.com/nocanoa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/171479949?s=40&amp;v=4</avatar>
-          <name>KyleDL101</name>
-          <url>https://github.com/KyleDL101</url>
         </contributor>
       </contributors>
     </item>
