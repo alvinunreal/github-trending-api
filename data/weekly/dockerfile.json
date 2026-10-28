@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Weekly Trending",
   "description": "Weekly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Oct 2026 22:54:10 GMT",
+  "pubDate": "Wed, 28 Oct 2026 06:35:54 GMT",
   "items": [
     {
       "title": "mikeroyal/Self-Hosting-Guide",
@@ -10,9 +10,9 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "23,369",
+      "stars": "23,372",
       "forks": "1,173",
-      "addStars": "244",
+      "addStars": "197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45159366?s=40&v=4",
@@ -47,7 +47,7 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,681",
+      "stars": "105,682",
       "forks": "10,734",
       "addStars": "45",
       "contributors": [
@@ -79,9 +79,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "12,195",
+      "stars": "12,196",
       "forks": "3,742",
-      "addStars": "34",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
@@ -108,7 +108,7 @@
       "languageColor": "#384d54",
       "stars": "21,418",
       "forks": "4,817",
-      "addStars": "54",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5711185?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Docker Official Image packaging for PHP",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "4,121",
+      "stars": "4,120",
       "forks": "2,036",
-      "addStars": "84",
+      "addStars": "85",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",
@@ -180,7 +180,7 @@
       "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "8,597",
+      "stars": "8,598",
       "forks": "1,975",
       "addStars": "6",
       "contributors": [
@@ -249,13 +249,45 @@
       ]
     },
     {
+      "title": "zabbix/zabbix-docker",
+      "url": "https://github.com/zabbix/zabbix-docker",
+      "description": "Official Zabbix Dockerfiles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "2,853",
+      "forks": "1,432",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10911965?s=40&v=4",
+          "name": "dotneft",
+          "url": "https://github.com/dotneft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17094454?s=40&v=4",
+          "name": "saranf",
+          "url": "https://github.com/saranf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/198607025?s=40&v=4",
+          "name": "marsunin",
+          "url": "https://github.com/marsunin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30318953?s=40&v=4",
+          "name": "kernbug",
+          "url": "https://github.com/kernbug"
+        }
+      ]
+    },
+    {
       "title": "freeCodeCamp/rdb-alpha",
       "url": "https://github.com/freeCodeCamp/rdb-alpha",
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "177",
-      "forks": "1,275",
+      "forks": "1,276",
       "addStars": "2",
       "contributors": [
         {
@@ -277,8 +309,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "12,680",
-      "forks": "4,330",
-      "addStars": "8",
+      "forks": "4,329",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1983984?s=40&v=4",
@@ -310,7 +342,7 @@
       "languageColor": "#384d54",
       "stars": "2,628",
       "forks": "315",
-      "addStars": "8",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17500430?s=40&v=4",
@@ -367,7 +399,7 @@
       "description": "Collect JS Frameworks, Web components library and Admin Template.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "1,633",
+      "stars": "1,632",
       "forks": "197",
       "addStars": "1",
       "contributors": [
@@ -401,7 +433,7 @@
       "languageColor": "#384d54",
       "stars": "2,794",
       "forks": "1,113",
-      "addStars": "4",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11618900?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Swift Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Swift Languages in GitHub</description>
-    <pubDate>Tue, 27 Oct 2026 22:54:10 GMT</pubDate>
+    <pubDate>Wed, 28 Oct 2026 06:35:54 GMT</pubDate>
     <item>
       <title>pauljoda/Crest</title>
       <link>https://github.com/pauljoda/Crest</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/pauljoda/Crest</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>908</stars>
-      <forks>79</forks>
-      <addStars>424</addStars>
+      <stars>929</stars>
+      <forks>82</forks>
+      <addStars>465</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3199533?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/permissionlesstech/bitchat</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>36,923</stars>
-      <forks>5,872</forks>
-      <addStars>249</addStars>
+      <stars>36,949</stars>
+      <forks>5,877</forks>
+      <addStars>284</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/212554440?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/LiveContainer/LiveContainer</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>13,466</stars>
-      <forks>1,241</forks>
-      <addStars>300</addStars>
+      <stars>13,474</stars>
+      <forks>1,243</forks>
+      <addStars>265</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60165378?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/altstoreio/AltStore</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>14,783</stars>
-      <forks>1,672</forks>
-      <addStars>99</addStars>
+      <stars>14,785</stars>
+      <forks>1,674</forks>
+      <addStars>97</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/705880?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/kaishi00/hermes-conduit</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>467</stars>
-      <forks>61</forks>
-      <addStars>136</addStars>
+      <stars>473</stars>
+      <forks>64</forks>
+      <addStars>140</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6590895?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/utmapp/UTM</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>36,568</stars>
-      <forks>1,886</forks>
-      <addStars>572</addStars>
+      <stars>36,575</stars>
+      <forks>1,885</forks>
+      <addStars>566</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50960678?s=40&amp;v=4</avatar>
@@ -228,15 +228,48 @@
       </contributors>
     </item>
     <item>
+      <title>carloslfu/slotstream</title>
+      <link>https://github.com/carloslfu/slotstream</link>
+      <description>Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.</description>
+      <guid>https://github.com/carloslfu/slotstream</guid>
+      <language>Swift</language>
+      <languageColor>#F05138</languageColor>
+      <stars>602</stars>
+      <forks>50</forks>
+      <addStars>126</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5993168?s=40&amp;v=4</avatar>
+          <name>carloslfu</name>
+          <url>https://github.com/carloslfu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24597095?s=40&amp;v=4</avatar>
+          <name>spikezz</name>
+          <url>https://github.com/spikezz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/294532706?s=40&amp;v=4</avatar>
+          <name>Pybsama</name>
+          <url>https://github.com/Pybsama</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/82156740?s=40&amp;v=4</avatar>
+          <name>msx98</name>
+          <url>https://github.com/msx98</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>iFurySt/open-computer-use</title>
       <link>https://github.com/iFurySt/open-computer-use</link>
       <description>👾 Open Computer Use – Open-Source Alternative to Codex Computer Use</description>
       <guid>https://github.com/iFurySt/open-computer-use</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>2,737</stars>
+      <stars>2,742</stars>
       <forks>250</forks>
-      <addStars>196</addStars>
+      <addStars>169</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16201837?s=40&amp;v=4</avatar>
@@ -272,9 +305,9 @@
       <guid>https://github.com/scosman/Biscotti</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>418</stars>
+      <stars>419</stars>
       <forks>48</forks>
-      <addStars>89</addStars>
+      <addStars>78</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/848343?s=40&amp;v=4</avatar>
@@ -310,9 +343,9 @@
       <guid>https://github.com/gauthierpiarrette/highball</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>1,947</stars>
+      <stars>1,958</stars>
       <forks>82</forks>
-      <addStars>251</addStars>
+      <addStars>239</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28540426?s=40&amp;v=4</avatar>
@@ -348,9 +381,9 @@
       <guid>https://github.com/momenbasel/PureMac</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>7,443</stars>
-      <forks>431</forks>
-      <addStars>190</addStars>
+      <stars>7,444</stars>
+      <forks>433</forks>
+      <addStars>188</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8724766?s=40&amp;v=4</avatar>
@@ -381,7 +414,7 @@
       <guid>https://github.com/milika/SmartTubeIOS</guid>
       <language>Swift</language>
       <languageColor>#F05138</languageColor>
-      <stars>502</stars>
+      <stars>503</stars>
       <forks>76</forks>
       <addStars>89</addStars>
       <contributors>
@@ -459,7 +492,7 @@
       <languageColor>#F05138</languageColor>
       <stars>416</stars>
       <forks>133</forks>
-      <addStars>17</addStars>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60165378?s=40&amp;v=4</avatar>

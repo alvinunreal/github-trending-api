@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Monthly Trending",
   "description": "Monthly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 27 Oct 2026 22:54:10 GMT",
+  "pubDate": "Wed, 28 Oct 2026 06:35:54 GMT",
   "items": [
     {
       "title": "php/php-src",
@@ -10,9 +10,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "41,694",
-      "forks": "8,447",
-      "addStars": "1,369",
+      "stars": "41,698",
+      "forks": "8,454",
+      "addStars": "1,374",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "153,312",
-      "forks": "14,072",
-      "addStars": "3,262",
+      "stars": "153,345",
+      "forks": "14,075",
+      "addStars": "3,297",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/543275?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,901",
-      "forks": "363",
-      "addStars": "2,243",
+      "stars": "2,914",
+      "forks": "364",
+      "addStars": "2,179",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,51 +116,14 @@
       ]
     },
     {
-      "title": "matz/spinel",
-      "url": "https://github.com/matz/spinel",
-      "description": "Ruby AOT compiler",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "2,283",
-      "forks": "166",
-      "addStars": "337",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30733?s=40&v=4",
-          "name": "matz",
-          "url": "https://github.com/matz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/919278?s=40&v=4",
-          "name": "FrancescoK",
-          "url": "https://github.com/FrancescoK"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6679325?s=40&v=4",
-          "name": "makenowjust",
-          "url": "https://github.com/makenowjust"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163873?s=40&v=4",
-          "name": "ryanseys",
-          "url": "https://github.com/ryanseys"
-        }
-      ]
-    },
-    {
       "title": "EpicGames/raddebugger",
       "url": "https://github.com/EpicGames/raddebugger",
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "8,690",
-      "forks": "431",
-      "addStars": "1,171",
+      "stars": "8,694",
+      "forks": "432",
+      "addStars": "1,189",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
@@ -195,8 +158,8 @@
       "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,185",
-      "forks": "244",
+      "stars": "1,187",
+      "forks": "243",
       "addStars": "283",
       "contributors": [
         {
@@ -232,9 +195,9 @@
       "description": "An advanced Kernel based root solution for Android",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "4,631",
-      "forks": "1,231",
-      "addStars": "362",
+      "stars": "4,636",
+      "forks": "1,233",
+      "addStars": "363",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
@@ -264,9 +227,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "78,388",
-      "forks": "10,906",
-      "addStars": "1,810",
+      "stars": "78,428",
+      "forks": "10,920",
+      "addStars": "1,860",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",
@@ -301,9 +264,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,318",
+      "stars": "28,328",
       "forks": "755",
-      "addStars": "1,264",
+      "addStars": "1,278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49278135?s=40&v=4",
@@ -338,9 +301,9 @@
       "description": "A new bootable USB solution.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "80,396",
-      "forks": "5,012",
-      "addStars": "960",
+      "stars": "80,408",
+      "forks": "5,013",
+      "addStars": "969",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59477474?s=40&v=4",
@@ -375,9 +338,9 @@
       "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,951",
-      "forks": "4,787",
-      "addStars": "226",
+      "stars": "16,953",
+      "forks": "4,788",
+      "addStars": "230",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2130732?s=40&v=4",
@@ -412,9 +375,9 @@
       "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "77,137",
-      "forks": "24,937",
-      "addStars": "1,048",
+      "stars": "77,141",
+      "forks": "24,946",
+      "addStars": "1,051",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
@@ -449,9 +412,9 @@
       "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "35,449",
+      "stars": "35,453",
       "forks": "3,360",
-      "addStars": "690",
+      "addStars": "691",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4",
@@ -481,9 +444,9 @@
       "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,808",
-      "forks": "2,243",
-      "addStars": "203",
+      "stars": "28,809",
+      "forks": "2,241",
+      "addStars": "202",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3054729?s=40&v=4",
@@ -518,9 +481,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,098",
-      "forks": "11,555",
-      "addStars": "389",
+      "stars": "31,099",
+      "forks": "11,558",
+      "addStars": "405",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
@@ -555,9 +518,9 @@
       "description": "An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,492",
-      "forks": "374",
-      "addStars": "122",
+      "stars": "1,494",
+      "forks": "375",
+      "addStars": "121",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44549182?s=40&v=4",
@@ -592,9 +555,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "830",
-      "forks": "64",
-      "addStars": "363",
+      "stars": "832",
+      "forks": "65",
+      "addStars": "371",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1344732?s=40&v=4",
