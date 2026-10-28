@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 18:40:10 GMT",
+  "pubDate": "Wed, 28 Oct 2026 23:01:40 GMT",
   "items": [
     {
       "title": "AgriciDaniel/claude-seo",
@@ -10,8 +10,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,242",
-      "forks": "3,145",
+      "stars": "23,346",
+      "forks": "3,148",
       "addStars": "3,081",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,609",
-      "forks": "3,698",
+      "stars": "33,646",
+      "forks": "3,702",
       "addStars": "2,789",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,794",
-      "forks": "22,543",
+      "stars": "117,861",
+      "forks": "22,552",
       "addStars": "4,882",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "137,656",
-      "forks": "13,124",
+      "stars": "137,811",
+      "forks": "13,136",
       "addStars": "7,268",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,733",
-      "forks": "10,254",
+      "stars": "92,932",
+      "forks": "10,277",
       "addStars": "12,866",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "95,782",
-      "forks": "24,104",
+      "stars": "95,785",
+      "forks": "24,111",
       "addStars": "1,404",
       "contributors": [
         {
@@ -222,7 +222,7 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,764",
+      "stars": "1,768",
       "forks": "329",
       "addStars": "406",
       "contributors": [
@@ -259,8 +259,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,328",
-      "forks": "416",
+      "stars": "3,330",
+      "forks": "417",
       "addStars": "397",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,772",
-      "forks": "5,724",
+      "stars": "65,788",
+      "forks": "5,725",
       "addStars": "874",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,244",
+      "stars": "104,259",
       "forks": "10,140",
       "addStars": "1,089",
       "contributors": [
@@ -350,8 +350,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,826",
-      "forks": "5,615",
+      "stars": "45,873",
+      "forks": "5,618",
       "addStars": "3,545",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,731",
-      "forks": "5,932",
+      "stars": "47,903",
+      "forks": "5,944",
       "addStars": "5,182",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,705",
-      "forks": "1,308",
+      "stars": "9,718",
+      "forks": "1,309",
       "addStars": "1,994",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,023",
-      "forks": "1,991",
+      "stars": "23,061",
+      "forks": "1,996",
       "addStars": "2,140",
       "contributors": [
         {
