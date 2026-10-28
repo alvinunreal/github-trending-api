@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 13:54:04 GMT",
+  "pubDate": "Wed, 28 Oct 2026 18:40:10 GMT",
   "items": [
     {
       "title": "HKUDS/DeepTutor",
@@ -10,8 +10,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,390",
-      "forks": "5,900",
+      "stars": "47,731",
+      "forks": "5,932",
       "addStars": "2,376",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,417",
-      "forks": "10,226",
+      "stars": "92,733",
+      "forks": "10,254",
       "addStars": "1,831",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,918",
-      "forks": "4,195",
+      "stars": "36,961",
+      "forks": "4,196",
       "addStars": "282",
       "contributors": [
         {
@@ -111,9 +111,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,090",
-      "forks": "3,128",
-      "addStars": "711",
+      "stars": "23,242",
+      "forks": "3,145",
+      "addStars": "585",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -143,8 +143,8 @@
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,438",
-      "forks": "3,130",
+      "stars": "29,488",
+      "forks": "3,136",
       "addStars": "504",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "143,516",
-      "forks": "12,849",
+      "stars": "143,608",
+      "forks": "12,865",
       "addStars": "386",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,677",
-      "forks": "22,516",
+      "stars": "117,794",
+      "forks": "22,543",
       "addStars": "727",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,937",
-      "forks": "1,982",
+      "stars": "23,023",
+      "forks": "1,991",
       "addStars": "267",
       "contributors": [
         {
@@ -261,13 +261,45 @@
       ]
     },
     {
+      "title": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "4,813",
+      "forks": "538",
+      "addStars": "453",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19245630?s=40&v=4",
+          "name": "beenuar",
+          "url": "https://github.com/beenuar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22677210?s=40&v=4",
+          "name": "alexmateescu",
+          "url": "https://github.com/alexmateescu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/154232170?s=40&v=4",
+          "name": "prince30121",
+          "url": "https://github.com/prince30121"
+        }
+      ]
+    },
+    {
       "title": "shitagaki-lab/see-through",
       "url": "https://github.com/shitagaki-lab/see-through",
       "description": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026 Conference Paper)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,076",
-      "forks": "447",
+      "stars": "5,090",
+      "forks": "450",
       "addStars": "78",
       "contributors": [
         {
@@ -303,8 +335,8 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "64,496",
-      "forks": "10,055",
+      "stars": "64,577",
+      "forks": "10,067",
       "addStars": "498",
       "contributors": [
         {
