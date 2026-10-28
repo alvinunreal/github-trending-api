@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 28 Oct 2026 06:35:54 GMT</pubDate>
+    <pubDate>Wed, 28 Oct 2026 13:54:04 GMT</pubDate>
     <item>
       <title>Gaurav-Gosain/tuios</title>
       <link>https://github.com/Gaurav-Gosain/tuios</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Gaurav-Gosain/tuios</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,171</stars>
-      <forks>285</forks>
+      <stars>6,178</stars>
+      <forks>287</forks>
       <addStars>2,413</addStars>
       <contributors>
         <contributor>
@@ -38,52 +38,14 @@
       </contributors>
     </item>
     <item>
-      <title>ollama/ollama</title>
-      <link>https://github.com/ollama/ollama</link>
-      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
-      <guid>https://github.com/ollama/ollama</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>185,064</stars>
-      <forks>18,667</forks>
-      <addStars>4,257</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2372640?s=40&amp;v=4</avatar>
-          <name>mxyng</name>
-          <url>https://github.com/mxyng</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4033016?s=40&amp;v=4</avatar>
-          <name>dhiltgen</name>
-          <url>https://github.com/dhiltgen</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/251292?s=40&amp;v=4</avatar>
-          <name>jmorganca</name>
-          <url>https://github.com/jmorganca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5853428?s=40&amp;v=4</avatar>
-          <name>BruceMacD</name>
-          <url>https://github.com/BruceMacD</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6468499?s=40&amp;v=4</avatar>
-          <name>jessegross</name>
-          <url>https://github.com/jessegross</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>caddyserver/caddy</title>
       <link>https://github.com/caddyserver/caddy</link>
       <description>Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</description>
       <guid>https://github.com/caddyserver/caddy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>78,499</stars>
-      <forks>5,193</forks>
+      <stars>78,511</stars>
+      <forks>5,198</forks>
       <addStars>2,546</addStars>
       <contributors>
         <contributor>
@@ -114,13 +76,51 @@
       </contributors>
     </item>
     <item>
+      <title>ollama/ollama</title>
+      <link>https://github.com/ollama/ollama</link>
+      <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+      <guid>https://github.com/ollama/ollama</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>185,098</stars>
+      <forks>18,681</forks>
+      <addStars>4,257</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2372640?s=40&amp;v=4</avatar>
+          <name>mxyng</name>
+          <url>https://github.com/mxyng</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4033016?s=40&amp;v=4</avatar>
+          <name>dhiltgen</name>
+          <url>https://github.com/dhiltgen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/251292?s=40&amp;v=4</avatar>
+          <name>jmorganca</name>
+          <url>https://github.com/jmorganca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5853428?s=40&amp;v=4</avatar>
+          <name>BruceMacD</name>
+          <url>https://github.com/BruceMacD</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6468499?s=40&amp;v=4</avatar>
+          <name>jessegross</name>
+          <url>https://github.com/jessegross</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vxcontrol/pentagi</title>
       <link>https://github.com/vxcontrol/pentagi</link>
       <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>32,605</stars>
+      <stars>32,629</stars>
       <forks>5,082</forks>
       <addStars>7,778</addStars>
       <contributors>
@@ -152,14 +152,47 @@
       </contributors>
     </item>
     <item>
+      <title>oauth2-proxy/oauth2-proxy</title>
+      <link>https://github.com/oauth2-proxy/oauth2-proxy</link>
+      <description>A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</description>
+      <guid>https://github.com/oauth2-proxy/oauth2-proxy</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>15,283</stars>
+      <forks>2,251</forks>
+      <addStars>289</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9232216?s=40&amp;v=4</avatar>
+          <name>JoelSpeed</name>
+          <url>https://github.com/JoelSpeed</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18513179?s=40&amp;v=4</avatar>
+          <name>tuunit</name>
+          <url>https://github.com/tuunit</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/45028?s=40&amp;v=4</avatar>
+          <name>jehiah</name>
+          <url>https://github.com/jehiah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/301547?s=40&amp;v=4</avatar>
+          <name>mbland</name>
+          <url>https://github.com/mbland</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>lharries/whatsapp-mcp</title>
       <link>https://github.com/lharries/whatsapp-mcp</link>
       <description>WhatsApp MCP server</description>
       <guid>https://github.com/lharries/whatsapp-mcp</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,750</stars>
-      <forks>1,450</forks>
+      <stars>6,752</stars>
+      <forks>1,451</forks>
       <addStars>445</addStars>
       <contributors>
         <contributor>
@@ -190,13 +223,122 @@
       </contributors>
     </item>
     <item>
+      <title>kubernetes/kubernetes</title>
+      <link>https://github.com/kubernetes/kubernetes</link>
+      <description>Production-Grade Container Scheduling and Management</description>
+      <guid>https://github.com/kubernetes/kubernetes</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>128,580</stars>
+      <forks>46,378</forks>
+      <addStars>1,564</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4</avatar>
+          <name>k8s-ci-robot</name>
+          <url>https://github.com/k8s-ci-robot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/980082?s=40&amp;v=4</avatar>
+          <name>liggitt</name>
+          <url>https://github.com/liggitt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5595220?s=40&amp;v=4</avatar>
+          <name>thockin</name>
+          <url>https://github.com/thockin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10743879?s=40&amp;v=4</avatar>
+          <name>wojtek-t</name>
+          <url>https://github.com/wojtek-t</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5751682?s=40&amp;v=4</avatar>
+          <name>brendandburns</name>
+          <url>https://github.com/brendandburns</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>aquasecurity/trivy</title>
+      <link>https://github.com/aquasecurity/trivy</link>
+      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
+      <guid>https://github.com/aquasecurity/trivy</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>38,807</stars>
+      <forks>806</forks>
+      <addStars>752</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4</avatar>
+          <name>knqyf263</name>
+          <url>https://github.com/knqyf263</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4</avatar>
+          <name>DmitriyLewen</name>
+          <url>https://github.com/DmitriyLewen</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4</avatar>
+          <name>nikpivkin</name>
+          <url>https://github.com/nikpivkin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4</avatar>
+          <name>simar7</name>
+          <url>https://github.com/simar7</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Gentleman-Programming/engram</title>
+      <link>https://github.com/Gentleman-Programming/engram</link>
+      <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
+      <guid>https://github.com/Gentleman-Programming/engram</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>7,665</stars>
+      <forks>803</forks>
+      <addStars>797</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/111561081?s=40&amp;v=4</avatar>
+          <name>dnlrsls</name>
+          <url>https://github.com/dnlrsls</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6935240?s=40&amp;v=4</avatar>
+          <name>Alan-TheGentleman</name>
+          <url>https://github.com/Alan-TheGentleman</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5764171?s=40&amp;v=4</avatar>
+          <name>danielgap</name>
+          <url>https://github.com/danielgap</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18334564?s=40&amp;v=4</avatar>
+          <name>egdev6</name>
+          <url>https://github.com/egdev6</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/231132982?s=40&amp;v=4</avatar>
+          <name>Reaan06</name>
+          <url>https://github.com/Reaan06</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>Asymptote-Labs/agent-beacon</title>
       <link>https://github.com/Asymptote-Labs/agent-beacon</link>
       <description>The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu</description>
       <guid>https://github.com/Asymptote-Labs/agent-beacon</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,881</stars>
+      <stars>2,883</stars>
       <forks>262</forks>
       <addStars>1,294</addStars>
       <contributors>
@@ -228,243 +370,106 @@
       </contributors>
     </item>
     <item>
-      <title>aquasecurity/trivy</title>
-      <link>https://github.com/aquasecurity/trivy</link>
-      <description>Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</description>
-      <guid>https://github.com/aquasecurity/trivy</guid>
+      <title>php/frankenphp</title>
+      <link>https://github.com/php/frankenphp</link>
+      <description>🧟 The modern PHP app server</description>
+      <guid>https://github.com/php/frankenphp</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>38,794</stars>
-      <forks>804</forks>
-      <addStars>752</addStars>
+      <stars>11,487</stars>
+      <forks>504</forks>
+      <addStars>134</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4</avatar>
-          <name>knqyf263</name>
-          <url>https://github.com/knqyf263</url>
+          <avatar>https://avatars.githubusercontent.com/u/57224?s=40&amp;v=4</avatar>
+          <name>dunglas</name>
+          <url>https://github.com/dunglas</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/91113035?s=40&amp;v=4</avatar>
-          <name>DmitriyLewen</name>
-          <url>https://github.com/DmitriyLewen</url>
+          <avatar>https://avatars.githubusercontent.com/u/7896469?s=40&amp;v=4</avatar>
+          <name>henderkes</name>
+          <url>https://github.com/henderkes</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/100182843?s=40&amp;v=4</avatar>
-          <name>nikpivkin</name>
-          <url>https://github.com/nikpivkin</url>
+          <avatar>https://avatars.githubusercontent.com/u/2144837?s=40&amp;v=4</avatar>
+          <name>alexandre-daubois</name>
+          <url>https://github.com/alexandre-daubois</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1254783?s=40&amp;v=4</avatar>
-          <name>simar7</name>
-          <url>https://github.com/simar7</url>
+          <avatar>https://avatars.githubusercontent.com/u/45872305?s=40&amp;v=4</avatar>
+          <name>AlliBalliBaba</name>
+          <url>https://github.com/AlliBalliBaba</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1883296?s=40&amp;v=4</avatar>
+          <name>withinboredom</name>
+          <url>https://github.com/withinboredom</url>
         </contributor>
       </contributors>
     </item>
     <item>
-      <title>gosom/google-maps-scraper</title>
-      <link>https://github.com/gosom/google-maps-scraper</link>
-      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
-      <guid>https://github.com/gosom/google-maps-scraper</guid>
+      <title>keploy/keploy</title>
+      <link>https://github.com/keploy/keploy</link>
+      <description>Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.</description>
+      <guid>https://github.com/keploy/keploy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,944</stars>
-      <forks>1,078</forks>
-      <addStars>794</addStars>
+      <stars>18,870</stars>
+      <forks>2,435</forks>
+      <addStars>489</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/454718?s=40&amp;v=4</avatar>
-          <name>gosom</name>
-          <url>https://github.com/gosom</url>
+          <avatar>https://avatars.githubusercontent.com/u/12831254?s=40&amp;v=4</avatar>
+          <name>slayerjain</name>
+          <url>https://github.com/slayerjain</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/131368?s=40&amp;v=4</avatar>
-          <name>dredozubov</name>
-          <url>https://github.com/dredozubov</url>
+          <avatar>https://avatars.githubusercontent.com/u/44055698?s=40&amp;v=4</avatar>
+          <name>gouravkrosx</name>
+          <url>https://github.com/gouravkrosx</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/92176188?s=40&amp;v=4</avatar>
-          <name>sbOogway</name>
-          <url>https://github.com/sbOogway</url>
+          <avatar>https://avatars.githubusercontent.com/u/60891544?s=40&amp;v=4</avatar>
+          <name>shivamsouravjha</name>
+          <url>https://github.com/shivamsouravjha</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22743?s=40&amp;v=4</avatar>
-          <name>fidalgo</name>
-          <url>https://github.com/fidalgo</url>
+          <avatar>https://avatars.githubusercontent.com/u/60597329?s=40&amp;v=4</avatar>
+          <name>re-Tick</name>
+          <url>https://github.com/re-Tick</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50234097?s=40&amp;v=4</avatar>
+          <name>Sarthak160</name>
+          <url>https://github.com/Sarthak160</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>strelov1/freehire</title>
+      <link>https://github.com/strelov1/freehire</link>
+      <description>freehire — the open-source search engine for job seekers</description>
+      <guid>https://github.com/strelov1/freehire</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>3,269</stars>
+      <forks>339</forks>
+      <addStars>2,654</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10761735?s=40&amp;v=4</avatar>
+          <name>strelov1</name>
+          <url>https://github.com/strelov1</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
         </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>kubernetes/kubernetes</title>
-      <link>https://github.com/kubernetes/kubernetes</link>
-      <description>Production-Grade Container Scheduling and Management</description>
-      <guid>https://github.com/kubernetes/kubernetes</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>128,579</stars>
-      <forks>46,371</forks>
-      <addStars>1,564</addStars>
-      <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4</avatar>
-          <name>k8s-ci-robot</name>
-          <url>https://github.com/k8s-ci-robot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/980082?s=40&amp;v=4</avatar>
-          <name>liggitt</name>
-          <url>https://github.com/liggitt</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5595220?s=40&amp;v=4</avatar>
-          <name>thockin</name>
-          <url>https://github.com/thockin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10743879?s=40&amp;v=4</avatar>
-          <name>wojtek-t</name>
-          <url>https://github.com/wojtek-t</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5751682?s=40&amp;v=4</avatar>
-          <name>brendandburns</name>
-          <url>https://github.com/brendandburns</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>trufflesecurity/trufflehog</title>
-      <link>https://github.com/trufflesecurity/trufflehog</link>
-      <description>Find, verify, and analyze leaked credentials</description>
-      <guid>https://github.com/trufflesecurity/trufflehog</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>28,743</stars>
-      <forks>2,671</forks>
-      <addStars>682</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28698778?s=40&amp;v=4</avatar>
-          <name>lonmarsDev</name>
-          <url>https://github.com/lonmarsDev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51393035?s=40&amp;v=4</avatar>
-          <name>roxanne-tampus</name>
-          <url>https://github.com/roxanne-tampus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21311841?s=40&amp;v=4</avatar>
-          <name>ahrav</name>
-          <url>https://github.com/ahrav</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6031416?s=40&amp;v=4</avatar>
-          <name>dustin-decker</name>
-          <url>https://github.com/dustin-decker</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Gentleman-Programming/engram</title>
-      <link>https://github.com/Gentleman-Programming/engram</link>
-      <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
-      <guid>https://github.com/Gentleman-Programming/engram</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>7,659</stars>
-      <forks>802</forks>
-      <addStars>797</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/111561081?s=40&amp;v=4</avatar>
-          <name>dnlrsls</name>
-          <url>https://github.com/dnlrsls</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6935240?s=40&amp;v=4</avatar>
-          <name>Alan-TheGentleman</name>
-          <url>https://github.com/Alan-TheGentleman</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5764171?s=40&amp;v=4</avatar>
-          <name>danielgap</name>
-          <url>https://github.com/danielgap</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18334564?s=40&amp;v=4</avatar>
-          <name>egdev6</name>
-          <url>https://github.com/egdev6</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/231132982?s=40&amp;v=4</avatar>
-          <name>Reaan06</name>
-          <url>https://github.com/Reaan06</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>github/gh-aw</title>
-      <link>https://github.com/github/gh-aw</link>
-      <description>GitHub Agentic Workflows</description>
-      <guid>https://github.com/github/gh-aw</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>5,493</stars>
-      <forks>605</forks>
-      <addStars>324</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4175913?s=40&amp;v=4</avatar>
-          <name>pelikhan</name>
-          <url>https://github.com/pelikhan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7204669?s=40&amp;v=4</avatar>
-          <name>dsyme</name>
-          <url>https://github.com/dsyme</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>google/gvisor</title>
-      <link>https://github.com/google/gvisor</link>
-      <description>Application Kernel for Containers</description>
-      <guid>https://github.com/google/gvisor</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>19,805</stars>
-      <forks>2,039</forks>
-      <addStars>409</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/51218664?s=40&amp;v=4</avatar>
-          <name>gvisor-bot</name>
-          <url>https://github.com/gvisor-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21375263?s=40&amp;v=4</avatar>
-          <name>ayushr2</name>
-          <url>https://github.com/ayushr2</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1049830?s=40&amp;v=4</avatar>
-          <name>avagin</name>
-          <url>https://github.com/avagin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1330673?s=40&amp;v=4</avatar>
-          <name>EtiennePerot</name>
-          <url>https://github.com/EtiennePerot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3537533?s=40&amp;v=4</avatar>
-          <name>fvoznika</name>
-          <url>https://github.com/fvoznika</url>
+          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
+          <name>cursoragent</name>
+          <url>https://github.com/cursoragent</url>
         </contributor>
       </contributors>
     </item>
@@ -475,8 +480,8 @@
       <guid>https://github.com/golang/go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>139,477</stars>
-      <forks>21,580</forks>
+      <stars>139,485</stars>
+      <forks>21,583</forks>
       <addStars>1,682</addStars>
       <contributors>
         <contributor>
@@ -513,8 +518,8 @@
       <guid>https://github.com/XTLS/Xray-core</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>42,395</stars>
-      <forks>6,050</forks>
+      <stars>42,402</stars>
+      <forks>6,052</forks>
       <addStars>713</addStars>
       <contributors>
         <contributor>
@@ -540,127 +545,13 @@
       </contributors>
     </item>
     <item>
-      <title>php/frankenphp</title>
-      <link>https://github.com/php/frankenphp</link>
-      <description>🧟 The modern PHP app server</description>
-      <guid>https://github.com/php/frankenphp</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>11,483</stars>
-      <forks>503</forks>
-      <addStars>134</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/57224?s=40&amp;v=4</avatar>
-          <name>dunglas</name>
-          <url>https://github.com/dunglas</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7896469?s=40&amp;v=4</avatar>
-          <name>henderkes</name>
-          <url>https://github.com/henderkes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2144837?s=40&amp;v=4</avatar>
-          <name>alexandre-daubois</name>
-          <url>https://github.com/alexandre-daubois</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/45872305?s=40&amp;v=4</avatar>
-          <name>AlliBalliBaba</name>
-          <url>https://github.com/AlliBalliBaba</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1883296?s=40&amp;v=4</avatar>
-          <name>withinboredom</name>
-          <url>https://github.com/withinboredom</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Armur-Ai/Pentest-Swarm-AI</title>
-      <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
-      <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
-      <guid>https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>3,067</stars>
-      <forks>563</forks>
-      <addStars>450</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26513717?s=40&amp;v=4</avatar>
-          <name>AkhilSharma90</name>
-          <url>https://github.com/AkhilSharma90</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71404936?s=40&amp;v=4</avatar>
-          <name>Kuro0911</name>
-          <url>https://github.com/Kuro0911</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52309794?s=40&amp;v=4</avatar>
-          <name>siwacarn</name>
-          <url>https://github.com/siwacarn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/165267987?s=40&amp;v=4</avatar>
-          <name>akhilairi</name>
-          <url>https://github.com/akhilairi</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>microsoft/TypeScript</title>
-      <link>https://github.com/microsoft/TypeScript</link>
-      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
-      <guid>https://github.com/microsoft/TypeScript</guid>
-      <language>Go</language>
-      <languageColor>#00ADD8</languageColor>
-      <stars>111,642</stars>
-      <forks>16,037</forks>
-      <addStars>648</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4</avatar>
-          <name>ahejlsberg</name>
-          <url>https://github.com/ahejlsberg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8052792?s=40&amp;v=4</avatar>
-          <name>sheetalkamat</name>
-          <url>https://github.com/sheetalkamat</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/972891?s=40&amp;v=4</avatar>
-          <name>DanielRosenwasser</name>
-          <url>https://github.com/DanielRosenwasser</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/293473?s=40&amp;v=4</avatar>
-          <name>sandersn</name>
-          <url>https://github.com/sandersn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
-          <name>mhegazy</name>
-          <url>https://github.com/mhegazy</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>docker/docker-agent</title>
       <link>https://github.com/docker/docker-agent</link>
       <description>AI Agent Builder and Runtime by Docker Engineering</description>
       <guid>https://github.com/docker/docker-agent</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,615</stars>
+      <stars>4,616</stars>
       <forks>535</forks>
       <addStars>1,270</addStars>
       <contributors>
@@ -692,40 +583,149 @@
       </contributors>
     </item>
     <item>
-      <title>rclone/rclone</title>
-      <link>https://github.com/rclone/rclone</link>
-      <description>"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</description>
-      <guid>https://github.com/rclone/rclone</guid>
+      <title>microsoft/TypeScript</title>
+      <link>https://github.com/microsoft/TypeScript</link>
+      <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
+      <guid>https://github.com/microsoft/TypeScript</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>60,585</stars>
-      <forks>5,603</forks>
-      <addStars>711</addStars>
+      <stars>111,649</stars>
+      <forks>16,039</forks>
+      <addStars>648</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/536803?s=40&amp;v=4</avatar>
-          <name>ncw</name>
-          <url>https://github.com/ncw</url>
+          <avatar>https://avatars.githubusercontent.com/u/4226954?s=40&amp;v=4</avatar>
+          <name>ahejlsberg</name>
+          <url>https://github.com/ahejlsberg</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12441419?s=40&amp;v=4</avatar>
-          <name>albertony</name>
-          <url>https://github.com/albertony</url>
+          <avatar>https://avatars.githubusercontent.com/u/8052792?s=40&amp;v=4</avatar>
+          <name>sheetalkamat</name>
+          <url>https://github.com/sheetalkamat</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31582349?s=40&amp;v=4</avatar>
-          <name>nielash</name>
-          <url>https://github.com/nielash</url>
+          <avatar>https://avatars.githubusercontent.com/u/972891?s=40&amp;v=4</avatar>
+          <name>DanielRosenwasser</name>
+          <url>https://github.com/DanielRosenwasser</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9028053?s=40&amp;v=4</avatar>
-          <name>ivandeex</name>
-          <url>https://github.com/ivandeex</url>
+          <avatar>https://avatars.githubusercontent.com/u/293473?s=40&amp;v=4</avatar>
+          <name>sandersn</name>
+          <url>https://github.com/sandersn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/448169?s=40&amp;v=4</avatar>
-          <name>B4dM4n</name>
-          <url>https://github.com/B4dM4n</url>
+          <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
+          <name>mhegazy</name>
+          <url>https://github.com/mhegazy</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Armur-Ai/Pentest-Swarm-AI</title>
+      <link>https://github.com/Armur-Ai/Pentest-Swarm-AI</link>
+      <description>Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.</description>
+      <guid>https://github.com/Armur-Ai/Pentest-Swarm-AI</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>3,068</stars>
+      <forks>563</forks>
+      <addStars>450</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26513717?s=40&amp;v=4</avatar>
+          <name>AkhilSharma90</name>
+          <url>https://github.com/AkhilSharma90</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71404936?s=40&amp;v=4</avatar>
+          <name>Kuro0911</name>
+          <url>https://github.com/Kuro0911</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52309794?s=40&amp;v=4</avatar>
+          <name>siwacarn</name>
+          <url>https://github.com/siwacarn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/165267987?s=40&amp;v=4</avatar>
+          <name>akhilairi</name>
+          <url>https://github.com/akhilairi</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>gtsteffaniak/filebrowser</title>
+      <link>https://github.com/gtsteffaniak/filebrowser</link>
+      <description>📂 Web File Browser</description>
+      <guid>https://github.com/gtsteffaniak/filebrowser</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>8,942</stars>
+      <forks>507</forks>
+      <addStars>535</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42989099?s=40&amp;v=4</avatar>
+          <name>gtsteffaniak</name>
+          <url>https://github.com/gtsteffaniak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/178341547?s=40&amp;v=4</avatar>
+          <name>Kurami32</name>
+          <url>https://github.com/Kurami32</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10008599?s=40&amp;v=4</avatar>
+          <name>Stephan-P</name>
+          <url>https://github.com/Stephan-P</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tailscale/tailscale</title>
+      <link>https://github.com/tailscale/tailscale</link>
+      <description>The easiest, most secure way to use WireGuard and 2FA.</description>
+      <guid>https://github.com/tailscale/tailscale</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>38,217</stars>
+      <forks>3,371</forks>
+      <addStars>1,365</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4</avatar>
+          <name>bradfitz</name>
+          <url>https://github.com/bradfitz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1918?s=40&amp;v=4</avatar>
+          <name>danderson</name>
+          <url>https://github.com/danderson</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67496?s=40&amp;v=4</avatar>
+          <name>josharian</name>
+          <url>https://github.com/josharian</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/348?s=40&amp;v=4</avatar>
+          <name>raggi</name>
+          <url>https://github.com/raggi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1079173?s=40&amp;v=4</avatar>
+          <name>andrew-d</name>
+          <url>https://github.com/andrew-d</url>
         </contributor>
       </contributors>
     </item>

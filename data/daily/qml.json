@@ -2,8 +2,225 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 06:35:54 GMT",
+  "pubDate": "Wed, 28 Oct 2026 13:54:04 GMT",
   "items": [
+    {
+      "title": "ilyamiro/serpantinum",
+      "url": "https://github.com/ilyamiro/serpantinum",
+      "description": "A shell for wayland compositors",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "7,517",
+      "forks": "336",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/142908366?s=40&v=4",
+          "name": "ilyamiro",
+          "url": "https://github.com/ilyamiro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/48689803?s=40&v=4",
+          "name": "TheRinder2",
+          "url": "https://github.com/TheRinder2"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/151051379?s=40&v=4",
+          "name": "Pigeon78",
+          "url": "https://github.com/Pigeon78"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/179175113?s=40&v=4",
+          "name": "kranks-uga",
+          "url": "https://github.com/kranks-uga"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55718218?s=40&v=4",
+          "name": "minh-tg",
+          "url": "https://github.com/minh-tg"
+        }
+      ]
+    },
+    {
+      "title": "end-4/dots-hyprland",
+      "url": "https://github.com/end-4/dots-hyprland",
+      "description": "Usability-first dotfiles",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "16,486",
+      "forks": "1,409",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&v=4",
+          "name": "end-4",
+          "url": "https://github.com/end-4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129247596?s=40&v=4",
+          "name": "clsty",
+          "url": "https://github.com/clsty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84292598?s=40&v=4",
+          "name": "jwihardi",
+          "url": "https://github.com/jwihardi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173799252?s=40&v=4",
+          "name": "vaguesyntax",
+          "url": "https://github.com/vaguesyntax"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45454768?s=40&v=4",
+          "name": "H0mire",
+          "url": "https://github.com/H0mire"
+        }
+      ]
+    },
+    {
+      "title": "caelestia-dots/shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "13,116",
+      "forks": "981",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
+          "name": "soramanew",
+          "url": "https://github.com/soramanew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
+          "name": "atdma",
+          "url": "https://github.com/atdma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76127109?s=40&v=4",
+          "name": "dxnnv",
+          "url": "https://github.com/dxnnv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5213174?s=40&v=4",
+          "name": "PixelKhaos",
+          "url": "https://github.com/PixelKhaos"
+        }
+      ]
+    },
+    {
+      "title": "Keyitdev/sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "3,353",
+      "forks": "215",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70140437?s=40&v=4",
+          "name": "Keyitdev",
+          "url": "https://github.com/Keyitdev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104923373?s=40&v=4",
+          "name": "NonameBlank007",
+          "url": "https://github.com/NonameBlank007"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22172536?s=40&v=4",
+          "name": "asrma7",
+          "url": "https://github.com/asrma7"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26424330?s=40&v=4",
+          "name": "esdrasjnr",
+          "url": "https://github.com/esdrasjnr"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45244201?s=40&v=4",
+          "name": "louis-vinchon",
+          "url": "https://github.com/louis-vinchon"
+        }
+      ]
+    },
+    {
+      "title": "Swordfish90/cool-retro-term",
+      "url": "https://github.com/Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "26,543",
+      "forks": "1,043",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6009070?s=40&v=4",
+          "name": "Swordfish90",
+          "url": "https://github.com/Swordfish90"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2480569?s=40&v=4",
+          "name": "probonopd",
+          "url": "https://github.com/probonopd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3259076?s=40&v=4",
+          "name": "KAMiKAZOW",
+          "url": "https://github.com/KAMiKAZOW"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14829816?s=40&v=4",
+          "name": "kz6fittycent",
+          "url": "https://github.com/kz6fittycent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184714?s=40&v=4",
+          "name": "rbanffy",
+          "url": "https://github.com/rbanffy"
+        }
+      ]
+    },
+    {
+      "title": "ech678/Nyxuri",
+      "url": "https://github.com/ech678/Nyxuri",
+      "description": "✿ A modular desktop configuration system for Arch / CachyOS",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "577",
+      "forks": "49",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/101497799?s=40&v=4",
+          "name": "ech678",
+          "url": "https://github.com/ech678"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/135683413?s=40&v=4",
+          "name": "ylh440104",
+          "url": "https://github.com/ylh440104"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/257538681?s=40&v=4",
+          "name": "Accel-White",
+          "url": "https://github.com/Accel-White"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/160737596?s=40&v=4",
+          "name": "sijin-xb",
+          "url": "https://github.com/sijin-xb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
     {
       "title": "snowarch/iNiR",
       "url": "https://github.com/snowarch/iNiR",
@@ -42,182 +259,39 @@
       ]
     },
     {
-      "title": "end-4/dots-hyprland",
-      "url": "https://github.com/end-4/dots-hyprland",
-      "description": "Usability-first dotfiles",
+      "title": "Axenide/Ambxst",
+      "url": "https://github.com/Axenide/Ambxst",
+      "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "16,484",
-      "forks": "1,409",
-      "addStars": "15",
+      "stars": "1,867",
+      "forks": "127",
+      "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97237370?s=40&v=4",
-          "name": "end-4",
-          "url": "https://github.com/end-4"
+          "avatar": "https://avatars.githubusercontent.com/u/66109459?s=40&v=4",
+          "name": "Axenide",
+          "url": "https://github.com/Axenide"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/129247596?s=40&v=4",
-          "name": "clsty",
-          "url": "https://github.com/clsty"
+          "avatar": "https://avatars.githubusercontent.com/u/69222296?s=40&v=4",
+          "name": "flathead",
+          "url": "https://github.com/flathead"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/84292598?s=40&v=4",
-          "name": "jwihardi",
-          "url": "https://github.com/jwihardi"
+          "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&v=4",
+          "name": "sisyphus-dev-ai",
+          "url": "https://github.com/sisyphus-dev-ai"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/173799252?s=40&v=4",
-          "name": "vaguesyntax",
-          "url": "https://github.com/vaguesyntax"
+          "avatar": "https://avatars.githubusercontent.com/u/77577746?s=40&v=4",
+          "name": "kyrie25",
+          "url": "https://github.com/kyrie25"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/45454768?s=40&v=4",
-          "name": "H0mire",
-          "url": "https://github.com/H0mire"
-        }
-      ]
-    },
-    {
-      "title": "Darkkal44/qylock",
-      "url": "https://github.com/Darkkal44/qylock",
-      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "2,985",
-      "forks": "124",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91195954?s=40&v=4",
-          "name": "Darkkal44",
-          "url": "https://github.com/Darkkal44"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/148079567?s=40&v=4",
-          "name": "LuisMIguelFurlanettoSousa",
-          "url": "https://github.com/LuisMIguelFurlanettoSousa"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19275665?s=40&v=4",
-          "name": "LordHerdier",
-          "url": "https://github.com/LordHerdier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/210601020?s=40&v=4",
-          "name": "Kaonaci",
-          "url": "https://github.com/Kaonaci"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53659497?s=40&v=4",
-          "name": "Username404-59",
-          "url": "https://github.com/Username404-59"
-        }
-      ]
-    },
-    {
-      "title": "caelestia-dots/shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "13,108",
-      "forks": "980",
-      "addStars": "27",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
-          "name": "soramanew",
-          "url": "https://github.com/soramanew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
-          "name": "atdma",
-          "url": "https://github.com/atdma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76127109?s=40&v=4",
-          "name": "dxnnv",
-          "url": "https://github.com/dxnnv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5213174?s=40&v=4",
-          "name": "PixelKhaos",
-          "url": "https://github.com/PixelKhaos"
-        }
-      ]
-    },
-    {
-      "title": "ech678/Nyxuri",
-      "url": "https://github.com/ech678/Nyxuri",
-      "description": "✿ A modular desktop configuration system for Arch / CachyOS",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "575",
-      "forks": "49",
-      "addStars": "4",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/101497799?s=40&v=4",
-          "name": "ech678",
-          "url": "https://github.com/ech678"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/135683413?s=40&v=4",
-          "name": "ylh440104",
-          "url": "https://github.com/ylh440104"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/257538681?s=40&v=4",
-          "name": "Accel-White",
-          "url": "https://github.com/Accel-White"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/160737596?s=40&v=4",
-          "name": "sijin-xb",
-          "url": "https://github.com/sijin-xb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "pctrade/end4-pC",
-      "url": "https://github.com/pctrade/end4-pC",
-      "description": "Custom end4",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "3,616",
-      "forks": "223",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/185014097?s=40&v=4",
-          "name": "pctrade",
-          "url": "https://github.com/pctrade"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/168896653?s=40&v=4",
-          "name": "Satoxyan",
-          "url": "https://github.com/Satoxyan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/159245947?s=40&v=4",
-          "name": "SDcold",
-          "url": "https://github.com/SDcold"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36095491?s=40&v=4",
-          "name": "na-ive",
-          "url": "https://github.com/na-ive"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/145242435?s=40&v=4",
-          "name": "nvtank",
-          "url": "https://github.com/nvtank"
+          "avatar": "https://avatars.githubusercontent.com/u/95265895?s=40&v=4",
+          "name": "versenilvis",
+          "url": "https://github.com/versenilvis"
         }
       ]
     }
