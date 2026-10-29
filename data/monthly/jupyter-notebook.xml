@@ -3,7 +3,7 @@
     <title>GitHub Jupyter-notebook Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Jupyter-notebook Languages in GitHub</description>
-    <pubDate>Thu, 29 Oct 2026 06:43:46 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 13:59:51 GMT</pubDate>
     <item>
       <title>lyogavin/airllm</title>
       <link>https://github.com/lyogavin/airllm</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/lyogavin/airllm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>41,150</stars>
-      <forks>4,205</forks>
+      <stars>41,197</stars>
+      <forks>4,210</forks>
       <addStars>6,172</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/xiaolai/the-craft-of-selfteaching</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,697</stars>
-      <forks>17,909</forks>
+      <stars>18,821</stars>
+      <forks>17,931</forks>
       <addStars>1,301</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/microsoft/generative-ai-for-beginners</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>122,372</stars>
-      <forks>65,136</forks>
+      <stars>122,401</stars>
+      <forks>65,166</forks>
       <addStars>2,080</addStars>
       <contributors>
         <contributor>
@@ -114,13 +114,51 @@
       </contributors>
     </item>
     <item>
+      <title>NirDiamant/RAG_Techniques</title>
+      <link>https://github.com/NirDiamant/RAG_Techniques</link>
+      <description>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.</description>
+      <guid>https://github.com/NirDiamant/RAG_Techniques</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>30,081</stars>
+      <forks>3,684</forks>
+      <addStars>484</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4</avatar>
+          <name>NirDiamant</name>
+          <url>https://github.com/NirDiamant</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39863822?s=40&amp;v=4</avatar>
+          <name>tevfikcagridural</name>
+          <url>https://github.com/tevfikcagridural</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/97222085?s=40&amp;v=4</avatar>
+          <name>lzytitan494</name>
+          <url>https://github.com/lzytitan494</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5808240?s=40&amp;v=4</avatar>
+          <name>Ori226</name>
+          <url>https://github.com/Ori226</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>facebookresearch/sam2</title>
       <link>https://github.com/facebookresearch/sam2</link>
       <description>The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
       <guid>https://github.com/facebookresearch/sam2</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>20,076</stars>
+      <stars>20,078</stars>
       <forks>2,583</forks>
       <addStars>168</addStars>
       <contributors>
@@ -152,151 +190,14 @@
       </contributors>
     </item>
     <item>
-      <title>NirDiamant/RAG_Techniques</title>
-      <link>https://github.com/NirDiamant/RAG_Techniques</link>
-      <description>This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.</description>
-      <guid>https://github.com/NirDiamant/RAG_Techniques</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>30,055</stars>
-      <forks>3,682</forks>
-      <addStars>484</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4</avatar>
-          <name>NirDiamant</name>
-          <url>https://github.com/NirDiamant</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39863822?s=40&amp;v=4</avatar>
-          <name>tevfikcagridural</name>
-          <url>https://github.com/tevfikcagridural</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/97222085?s=40&amp;v=4</avatar>
-          <name>lzytitan494</name>
-          <url>https://github.com/lzytitan494</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5808240?s=40&amp;v=4</avatar>
-          <name>Ori226</name>
-          <url>https://github.com/Ori226</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>hugo2046/QuantsPlaybook</title>
-      <link>https://github.com/hugo2046/QuantsPlaybook</link>
-      <description>量化研究-券商金工研报复现</description>
-      <guid>https://github.com/hugo2046/QuantsPlaybook</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>6,782</stars>
-      <forks>1,533</forks>
-      <addStars>498</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15089267?s=40&amp;v=4</avatar>
-          <name>hugo2046</name>
-          <url>https://github.com/hugo2046</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>AI4Finance-Foundation/FinRL</title>
-      <link>https://github.com/AI4Finance-Foundation/FinRL</link>
-      <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
-      <guid>https://github.com/AI4Finance-Foundation/FinRL</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>16,851</stars>
-      <forks>3,592</forks>
-      <addStars>468</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31713746?s=40&amp;v=4</avatar>
-          <name>BruceYanghy</name>
-          <url>https://github.com/BruceYanghy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43677883?s=40&amp;v=4</avatar>
-          <name>zhumingpassional</name>
-          <url>https://github.com/zhumingpassional</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26531973?s=40&amp;v=4</avatar>
-          <name>YangletLiu</name>
-          <url>https://github.com/YangletLiu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/77958037?s=40&amp;v=4</avatar>
-          <name>ZiyiXia</name>
-          <url>https://github.com/ZiyiXia</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61444295?s=40&amp;v=4</avatar>
-          <name>rayrui312</name>
-          <url>https://github.com/rayrui312</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NirDiamant/agents-towards-production</title>
-      <link>https://github.com/NirDiamant/agents-towards-production</link>
-      <description>End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.</description>
-      <guid>https://github.com/NirDiamant/agents-towards-production</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>21,790</stars>
-      <forks>2,884</forks>
-      <addStars>321</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4</avatar>
-          <name>NirDiamant</name>
-          <url>https://github.com/NirDiamant</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63067900?s=40&amp;v=4</avatar>
-          <name>FareedKhan-dev</name>
-          <url>https://github.com/FareedKhan-dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/59469935?s=40&amp;v=4</avatar>
-          <name>NitishGourishetty</name>
-          <url>https://github.com/NitishGourishetty</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28788271?s=40&amp;v=4</avatar>
-          <name>ranshn</name>
-          <url>https://github.com/ranshn</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>NVIDIA/accelerated-computing-hub</title>
       <link>https://github.com/NVIDIA/accelerated-computing-hub</link>
       <description>NVIDIA curated collection of educational resources related to general purpose GPU programming.</description>
       <guid>https://github.com/NVIDIA/accelerated-computing-hub</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>2,140</stars>
-      <forks>358</forks>
+      <stars>2,141</stars>
+      <forks>359</forks>
       <addStars>130</addStars>
       <contributors>
         <contributor>
@@ -327,14 +228,37 @@
       </contributors>
     </item>
     <item>
+      <title>hugo2046/QuantsPlaybook</title>
+      <link>https://github.com/hugo2046/QuantsPlaybook</link>
+      <description>量化研究-券商金工研报复现</description>
+      <guid>https://github.com/hugo2046/QuantsPlaybook</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>6,789</stars>
+      <forks>1,532</forks>
+      <addStars>498</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15089267?s=40&amp;v=4</avatar>
+          <name>hugo2046</name>
+          <url>https://github.com/hugo2046</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>datawhalechina/diy-llm</title>
       <link>https://github.com/datawhalechina/diy-llm</link>
       <description>Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference &amp; alignment .6 progressive code assignments for full-stack LLM learning | 涵盖预训练数据、分词器、Transformer、MoE、分布式训练、缩放定律、推理与对齐，6 项渐进代码作业，掌握 LLM 全栈知识</description>
       <guid>https://github.com/datawhalechina/diy-llm</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>2,024</stars>
-      <forks>204</forks>
+      <stars>2,209</stars>
+      <forks>213</forks>
       <addStars>545</addStars>
       <contributors>
         <contributor>
@@ -371,8 +295,8 @@
       <guid>https://github.com/AI4Finance-Foundation/FinGPT</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>21,482</stars>
-      <forks>3,036</forks>
+      <stars>21,485</stars>
+      <forks>3,038</forks>
       <addStars>242</addStars>
       <contributors>
         <contributor>
@@ -403,47 +327,14 @@
       </contributors>
     </item>
     <item>
-      <title>google-research/google-research</title>
-      <link>https://github.com/google-research/google-research</link>
-      <description>Google Research</description>
-      <guid>https://github.com/google-research/google-research</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>39,052</stars>
-      <forks>8,489</forks>
-      <addStars>256</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6813603?s=40&amp;v=4</avatar>
-          <name>rybakov</name>
-          <url>https://github.com/rybakov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35786058?s=40&amp;v=4</avatar>
-          <name>agutkin</name>
-          <url>https://github.com/agutkin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86793140?s=40&amp;v=4</avatar>
-          <name>vratnakar</name>
-          <url>https://github.com/vratnakar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/581947?s=40&amp;v=4</avatar>
-          <name>yilei</name>
-          <url>https://github.com/yilei</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>chiphuyen/aie-book</title>
       <link>https://github.com/chiphuyen/aie-book</link>
       <description>[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)</description>
       <guid>https://github.com/chiphuyen/aie-book</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>18,155</stars>
-      <forks>2,667</forks>
+      <stars>18,161</stars>
+      <forks>2,666</forks>
       <addStars>571</addStars>
       <contributors>
         <contributor>
@@ -474,14 +365,131 @@
       </contributors>
     </item>
     <item>
+      <title>google-research/google-research</title>
+      <link>https://github.com/google-research/google-research</link>
+      <description>Google Research</description>
+      <guid>https://github.com/google-research/google-research</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>39,056</stars>
+      <forks>8,489</forks>
+      <addStars>256</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6813603?s=40&amp;v=4</avatar>
+          <name>rybakov</name>
+          <url>https://github.com/rybakov</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35786058?s=40&amp;v=4</avatar>
+          <name>agutkin</name>
+          <url>https://github.com/agutkin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/86793140?s=40&amp;v=4</avatar>
+          <name>vratnakar</name>
+          <url>https://github.com/vratnakar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/581947?s=40&amp;v=4</avatar>
+          <name>yilei</name>
+          <url>https://github.com/yilei</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>NirDiamant/agents-towards-production</title>
+      <link>https://github.com/NirDiamant/agents-towards-production</link>
+      <description>End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.</description>
+      <guid>https://github.com/NirDiamant/agents-towards-production</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>21,791</stars>
+      <forks>2,884</forks>
+      <addStars>321</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28316913?s=40&amp;v=4</avatar>
+          <name>NirDiamant</name>
+          <url>https://github.com/NirDiamant</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/63067900?s=40&amp;v=4</avatar>
+          <name>FareedKhan-dev</name>
+          <url>https://github.com/FareedKhan-dev</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59469935?s=40&amp;v=4</avatar>
+          <name>NitishGourishetty</name>
+          <url>https://github.com/NitishGourishetty</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28788271?s=40&amp;v=4</avatar>
+          <name>ranshn</name>
+          <url>https://github.com/ranshn</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>anthropics/prompt-eng-interactive-tutorial</title>
+      <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
+      <description>Anthropic's Interactive Prompt Engineering Tutorial</description>
+      <guid>https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>38,912</stars>
+      <forks>4,315</forks>
+      <addStars>662</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4</avatar>
+          <name>maggie-vo</name>
+          <url>https://github.com/maggie-vo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4</avatar>
+          <name>jawhnycooke</name>
+          <url>https://github.com/jawhnycooke</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>karpathy/micrograd</title>
+      <link>https://github.com/karpathy/micrograd</link>
+      <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
+      <guid>https://github.com/karpathy/micrograd</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>18,216</stars>
+      <forks>2,910</forks>
+      <addStars>531</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1837749?s=40&amp;v=4</avatar>
+          <name>bpesquet</name>
+          <url>https://github.com/bpesquet</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>facebookresearch/audiocraft</title>
       <link>https://github.com/facebookresearch/audiocraft</link>
       <description>Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.</description>
       <guid>https://github.com/facebookresearch/audiocraft</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>23,779</stars>
-      <forks>2,708</forks>
+      <stars>23,778</stars>
+      <forks>2,709</forks>
       <addStars>160</addStars>
       <contributors>
         <contributor>
@@ -518,8 +526,8 @@
       <guid>https://github.com/guipsamora/pandas_exercises</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>13,296</stars>
-      <forks>9,065</forks>
+      <stars>13,297</stars>
+      <forks>9,064</forks>
       <addStars>197</addStars>
       <contributors>
         <contributor>
@@ -550,119 +558,30 @@
       </contributors>
     </item>
     <item>
-      <title>anthropics/prompt-eng-interactive-tutorial</title>
-      <link>https://github.com/anthropics/prompt-eng-interactive-tutorial</link>
-      <description>Anthropic's Interactive Prompt Engineering Tutorial</description>
-      <guid>https://github.com/anthropics/prompt-eng-interactive-tutorial</guid>
+      <title>UFund-Me/Qbot</title>
+      <link>https://github.com/UFund-Me/Qbot</link>
+      <description>[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant</description>
+      <guid>https://github.com/UFund-Me/Qbot</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>38,904</stars>
-      <forks>4,313</forks>
-      <addStars>662</addStars>
+      <stars>18,749</stars>
+      <forks>2,614</forks>
+      <addStars>257</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/143411590?s=40&amp;v=4</avatar>
-          <name>maggie-vo</name>
-          <url>https://github.com/maggie-vo</url>
+          <avatar>https://avatars.githubusercontent.com/u/29084184?s=40&amp;v=4</avatar>
+          <name>Charmve</name>
+          <url>https://github.com/Charmve</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11808002?s=40&amp;v=4</avatar>
-          <name>jawhnycooke</name>
-          <url>https://github.com/jawhnycooke</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>udlbook/udlbook</title>
-      <link>https://github.com/udlbook/udlbook</link>
-      <description>Understanding Deep Learning - Simon J.D. Prince</description>
-      <guid>https://github.com/udlbook/udlbook</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>10,112</stars>
-      <forks>2,403</forks>
-      <addStars>169</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/110402648?s=40&amp;v=4</avatar>
-          <name>udlbook</name>
-          <url>https://github.com/udlbook</url>
+          <avatar>https://avatars.githubusercontent.com/u/48309329?s=40&amp;v=4</avatar>
+          <name>merdan-9</name>
+          <url>https://github.com/merdan-9</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50220137?s=40&amp;v=4</avatar>
-          <name>tomheaton</name>
-          <url>https://github.com/tomheaton</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38562595?s=40&amp;v=4</avatar>
-          <name>pitmonticone</name>
-          <url>https://github.com/pitmonticone</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10063907?s=40&amp;v=4</avatar>
-          <name>yrahal</name>
-          <url>https://github.com/yrahal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/111278851?s=40&amp;v=4</avatar>
-          <name>aleksandrskoselevs</name>
-          <url>https://github.com/aleksandrskoselevs</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>karpathy/micrograd</title>
-      <link>https://github.com/karpathy/micrograd</link>
-      <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
-      <guid>https://github.com/karpathy/micrograd</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>18,212</stars>
-      <forks>2,909</forks>
-      <addStars>531</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
-          <name>karpathy</name>
-          <url>https://github.com/karpathy</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1837749?s=40&amp;v=4</avatar>
-          <name>bpesquet</name>
-          <url>https://github.com/bpesquet</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>higgsfield-ai/higgsfield</title>
-      <link>https://github.com/higgsfield-ai/higgsfield</link>
-      <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
-      <guid>https://github.com/higgsfield-ai/higgsfield</guid>
-      <language>Jupyter Notebook</language>
-      <languageColor>#DA5B0B</languageColor>
-      <stars>6,252</stars>
-      <forks>1,145</forks>
-      <addStars>466</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14979358?s=40&amp;v=4</avatar>
-          <name>arpanetus</name>
-          <url>https://github.com/arpanetus</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24421551?s=40&amp;v=4</avatar>
-          <name>higgsfield</name>
-          <url>https://github.com/higgsfield</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3302371?s=40&amp;v=4</avatar>
-          <name>zxcjhg</name>
-          <url>https://github.com/zxcjhg</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/65916846?s=40&amp;v=4</avatar>
+          <name>actions-user</name>
+          <url>https://github.com/actions-user</url>
         </contributor>
       </contributors>
     </item>
@@ -674,7 +593,7 @@
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
       <stars>25,836</stars>
-      <forks>3,776</forks>
+      <forks>3,779</forks>
       <addStars>79</addStars>
       <contributors>
         <contributor>
@@ -700,40 +619,111 @@
       </contributors>
     </item>
     <item>
-      <title>openai/CLIP</title>
-      <link>https://github.com/openai/CLIP</link>
-      <description>CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</description>
-      <guid>https://github.com/openai/CLIP</guid>
+      <title>FinanceFlash/unvibecode</title>
+      <link>https://github.com/FinanceFlash/unvibecode</link>
+      <description>Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.</description>
+      <guid>https://github.com/FinanceFlash/unvibecode</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>34,541</stars>
-      <forks>4,065</forks>
-      <addStars>200</addStars>
+      <stars>626</stars>
+      <forks>116</forks>
+      <addStars>497</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/266841?s=40&amp;v=4</avatar>
-          <name>jongwook</name>
-          <url>https://github.com/jongwook</url>
+          <avatar>https://avatars.githubusercontent.com/u/157355312?s=40&amp;v=4</avatar>
+          <name>divyafinanceflash</name>
+          <url>https://github.com/divyafinanceflash</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3905501?s=40&amp;v=4</avatar>
-          <name>bryant1410</name>
-          <url>https://github.com/bryant1410</url>
+          <avatar>https://avatars.githubusercontent.com/u/82748800?s=40&amp;v=4</avatar>
+          <name>nasrsuresh</name>
+          <url>https://github.com/nasrsuresh</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16820751?s=40&amp;v=4</avatar>
-          <name>jiahuei</name>
-          <url>https://github.com/jiahuei</url>
+          <avatar>https://avatars.githubusercontent.com/u/105164256?s=40&amp;v=4</avatar>
+          <name>HariomPCode</name>
+          <url>https://github.com/HariomPCode</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22434019?s=40&amp;v=4</avatar>
-          <name>kcosta42</name>
-          <url>https://github.com/kcosta42</url>
+          <avatar>https://avatars.githubusercontent.com/u/150519254?s=40&amp;v=4</avatar>
+          <name>SinghAstra</name>
+          <url>https://github.com/SinghAstra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49984106?s=40&amp;v=4</avatar>
-          <name>or-toledano</name>
-          <url>https://github.com/or-toledano</url>
+          <avatar>https://avatars.githubusercontent.com/u/257315626?s=40&amp;v=4</avatar>
+          <name>dgowdaan-cmyk</name>
+          <url>https://github.com/dgowdaan-cmyk</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>zju3dv/GVHMR</title>
+      <link>https://github.com/zju3dv/GVHMR</link>
+      <description>Code for "GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates", Siggraph Asia 2024, TPAMI 2026</description>
+      <guid>https://github.com/zju3dv/GVHMR</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>2,229</stars>
+      <forks>258</forks>
+      <addStars>180</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25296730?s=40&amp;v=4</avatar>
+          <name>zehongs</name>
+          <url>https://github.com/zehongs</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11582122?s=40&amp;v=4</avatar>
+          <name>pengsida</name>
+          <url>https://github.com/pengsida</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48550237?s=40&amp;v=4</avatar>
+          <name>IsshikiHugh</name>
+          <url>https://github.com/IsshikiHugh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39985159?s=40&amp;v=4</avatar>
+          <name>PLUS-WAVE</name>
+          <url>https://github.com/PLUS-WAVE</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>higgsfield-ai/higgsfield</title>
+      <link>https://github.com/higgsfield-ai/higgsfield</link>
+      <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
+      <guid>https://github.com/higgsfield-ai/higgsfield</guid>
+      <language>Jupyter Notebook</language>
+      <languageColor>#DA5B0B</languageColor>
+      <stars>6,252</stars>
+      <forks>1,146</forks>
+      <addStars>466</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14979358?s=40&amp;v=4</avatar>
+          <name>arpanetus</name>
+          <url>https://github.com/arpanetus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/24421551?s=40&amp;v=4</avatar>
+          <name>higgsfield</name>
+          <url>https://github.com/higgsfield</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3302371?s=40&amp;v=4</avatar>
+          <name>zxcjhg</name>
+          <url>https://github.com/zxcjhg</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>

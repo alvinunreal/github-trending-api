@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Monthly Trending",
   "description": "Monthly Trending of Glsl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 06:43:46 GMT",
+  "pubDate": "Thu, 29 Oct 2026 13:59:51 GMT",
   "items": [
     {
       "title": "KhronosGroup/SPIRV-Cross",
@@ -42,43 +42,6 @@
       ]
     },
     {
-      "title": "X0nk/Bliss-Shader",
-      "url": "https://github.com/X0nk/Bliss-Shader",
-      "description": "A minecraft shader which is an edit of chocapic v9",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": "1,010",
-      "forks": "154",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122314734?s=40&v=4",
-          "name": "X0nk",
-          "url": "https://github.com/X0nk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79966387?s=40&v=4",
-          "name": "MikiP98",
-          "url": "https://github.com/MikiP98"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17755767?s=40&v=4",
-          "name": "null511",
-          "url": "https://github.com/null511"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75141113?s=40&v=4",
-          "name": "NakiriRuri",
-          "url": "https://github.com/NakiriRuri"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/109946006?s=40&v=4",
-          "name": "NekoNoct",
-          "url": "https://github.com/NekoNoct"
-        }
-      ]
-    },
-    {
       "title": "SaschaWillems/Vulkan",
       "url": "https://github.com/SaschaWillems/Vulkan",
       "description": "C++ examples for the Vulkan graphics API",
@@ -112,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/43107451?s=40&v=4",
           "name": "robotchaoX",
           "url": "https://github.com/robotchaoX"
+        }
+      ]
+    },
+    {
+      "title": "X0nk/Bliss-Shader",
+      "url": "https://github.com/X0nk/Bliss-Shader",
+      "description": "A minecraft shader which is an edit of chocapic v9",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": "1,011",
+      "forks": "154",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122314734?s=40&v=4",
+          "name": "X0nk",
+          "url": "https://github.com/X0nk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79966387?s=40&v=4",
+          "name": "MikiP98",
+          "url": "https://github.com/MikiP98"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17755767?s=40&v=4",
+          "name": "null511",
+          "url": "https://github.com/null511"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/75141113?s=40&v=4",
+          "name": "NakiriRuri",
+          "url": "https://github.com/NakiriRuri"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/109946006?s=40&v=4",
+          "name": "NekoNoct",
+          "url": "https://github.com/NekoNoct"
         }
       ]
     },
@@ -158,7 +158,7 @@
       "description": "A gameplay-focused shader pack for Minecraft",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": "1,941",
+      "stars": "1,942",
       "forks": "342",
       "addStars": "40",
       "contributors": [
