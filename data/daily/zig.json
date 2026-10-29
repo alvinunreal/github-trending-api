@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 23:01:40 GMT",
+  "pubDate": "Thu, 29 Oct 2026 06:43:46 GMT",
   "items": [
     {
       "title": "ghostty-org/ghostty",
@@ -10,9 +10,9 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "62,864",
-      "forks": "3,755",
-      "addStars": "187",
+      "stars": "62,895",
+      "forks": "3,761",
+      "addStars": "177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1299?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "37,102",
-      "forks": "1,802",
-      "addStars": "49",
+      "stars": "37,156",
+      "forks": "1,804",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/206480?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "1,521",
+      "stars": "1,528",
       "forks": "315",
-      "addStars": "19",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71890694?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "The financial transactions database designed for mission critical safety and performance.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "17,262",
-      "forks": "926",
-      "addStars": "4",
+      "stars": "17,265",
+      "forks": "927",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/461112?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,165",
+      "stars": "2,171",
       "forks": "72",
-      "addStars": "10",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33665156?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "4,203",
+      "stars": "4,204",
       "forks": "199",
-      "addStars": "1",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1839807?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,245",
+      "stars": "2,246",
       "forks": "174",
-      "addStars": "8",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1940365?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Flow Control: a programmer's text editor",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,500",
+      "stars": "2,501",
       "forks": "129",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1552770?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,846",
-      "forks": "166",
-      "addStars": "1",
+      "stars": "2,845",
+      "forks": "165",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42089082?s=40&v=4",
@@ -318,7 +318,7 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "43,264",
+      "stars": "43,265",
       "forks": "3,124",
       "addStars": "3",
       "contributors": [
