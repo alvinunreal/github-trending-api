@@ -2,7 +2,7 @@
   "title": "GitHub Vue Languages Monthly Trending",
   "description": "Monthly Trending of Vue Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 23:09:28 GMT",
+  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
   "items": [
     {
       "title": "MoeKoeMusic/MoeKoeMusic",
@@ -10,9 +10,9 @@
       "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux / Web",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "7,028",
+      "stars": "7,031",
       "forks": "437",
-      "addStars": "682",
+      "addStars": "697",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32321958?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "3,373",
-      "forks": "262",
-      "addStars": "595",
+      "stars": "3,386",
+      "forks": "264",
+      "addStars": "612",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59796136?s=40&v=4",
@@ -81,7 +81,7 @@
       "languageColor": "#41b883",
       "stars": "1,827",
       "forks": "140",
-      "addStars": "150",
+      "addStars": "148",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87368454?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "33,489",
+      "stars": "33,492",
       "forks": "4,665",
-      "addStars": "257",
+      "addStars": "259",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/68148142?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "24,795",
-      "forks": "3,033",
-      "addStars": "597",
+      "stars": "24,806",
+      "forks": "3,031",
+      "addStars": "612",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1527893?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "17,135",
+      "stars": "17,139",
       "forks": "1,390",
-      "addStars": "366",
+      "addStars": "365",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45055748?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "An Open Source YouTube app for privacy",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "22,252",
-      "forks": "1,561",
-      "addStars": "320",
+      "stars": "22,259",
+      "forks": "1,560",
+      "addStars": "335",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48293849?s=40&v=4",
@@ -314,8 +314,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "4,133",
-      "forks": "240",
-      "addStars": "712",
+      "forks": "242",
+      "addStars": "660",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36072047?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "90,112",
+      "stars": "90,115",
       "forks": "30,231",
-      "addStars": "55",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8121621?s=40&v=4",
@@ -387,8 +387,8 @@
       "description": "A Vue.js 2.0 UI Toolkit for Web",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "54,000",
-      "forks": "14,371",
+      "stars": "53,999",
+      "forks": "14,369",
       "addStars": "20",
       "contributors": [
         {
@@ -426,7 +426,7 @@
       "languageColor": "#41b883",
       "stars": "2,808",
       "forks": "476",
-      "addStars": "76",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67830747?s=40&v=4",
@@ -462,8 +462,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "473",
-      "forks": "72,556",
-      "addStars": "27",
+      "forks": "72,612",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,004",
-      "forks": "111",
-      "addStars": "87",
+      "stars": "2,005",
+      "forks": "112",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/41194731?s=40&v=4",
@@ -564,7 +564,7 @@
       "languageColor": "#41b883",
       "stars": "1,248",
       "forks": "254",
-      "addStars": "10",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11502495?s=40&v=4",
@@ -589,9 +589,9 @@
       "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": "2,064",
+      "stars": "2,065",
       "forks": "528",
-      "addStars": "135",
+      "addStars": "141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4928?s=40&v=4",
@@ -622,8 +622,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": "7,016",
-      "forks": "350",
-      "addStars": "58",
+      "forks": "351",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22910497?s=40&v=4",

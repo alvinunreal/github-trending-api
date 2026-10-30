@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Weekly Trending",
   "description": "Weekly Trending of Lua Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 23:09:28 GMT",
+  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
   "items": [
     {
       "title": "koreader/koreader",
@@ -12,7 +12,7 @@
       "languageColor": "#000080",
       "stars": "30,740",
       "forks": "2,010",
-      "addStars": "225",
+      "addStars": "231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/670302?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "27,759",
+      "stars": "27,761",
       "forks": "1,832",
-      "addStars": "69",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/292349?s=40&v=4",
@@ -81,7 +81,7 @@
       "languageColor": "#000080",
       "stars": "192",
       "forks": "19",
-      "addStars": "7",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/221589917?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "A file explorer tree for neovim written in lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "8,669",
+      "stars": "8,671",
       "forks": "643",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/23156099?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "6,645",
+      "stars": "6,646",
       "forks": "372",
-      "addStars": "10",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10467983?s=40&v=4",
@@ -187,7 +187,7 @@
       "languageColor": "#000080",
       "stars": "13,990",
       "forks": "2,504",
-      "addStars": "16",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13316262?s=40&v=4",
@@ -214,7 +214,7 @@
       "languageColor": "#000080",
       "stars": "311",
       "forks": "20",
-      "addStars": "10",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/83970636?s=40&v=4",
@@ -249,7 +249,7 @@
       "description": "Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,950",
+      "stars": "3,951",
       "forks": "225",
       "addStars": "1",
       "contributors": [
@@ -288,7 +288,7 @@
       "languageColor": "#000080",
       "stars": "12,281",
       "forks": "965",
-      "addStars": "19",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/151335?s=40&v=4",
@@ -357,7 +357,7 @@
       "languageColor": "#000080",
       "stars": "1,046",
       "forks": "22",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21299126?s=40&v=4",
@@ -387,7 +387,7 @@
       "description": "Neovim plugin to manage the file system and other tree like structures.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "5,636",
+      "stars": "5,637",
       "forks": "309",
       "addStars": "6",
       "contributors": [
@@ -426,7 +426,7 @@
       "languageColor": "#000080",
       "stars": "4,476",
       "forks": "275",
-      "addStars": "7",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59988195?s=40&v=4",
@@ -463,7 +463,7 @@
       "languageColor": "#000080",
       "stars": "266",
       "forks": "32",
-      "addStars": "9",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/123184923?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "🧩 Claude Code Neovim IDE Extension",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,144",
+      "stars": "3,143",
       "forks": "223",
-      "addStars": "14",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2198487?s=40&v=4",
@@ -525,9 +525,9 @@
       "description": "GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "802",
+      "stars": "801",
       "forks": "379",
-      "addStars": "12",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/83774342?s=40&v=4",
@@ -547,9 +547,9 @@
       "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "1,004",
+      "stars": "1,006",
       "forks": "116",
-      "addStars": "58",
+      "addStars": "61",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39994066?s=40&v=4",
@@ -584,9 +584,9 @@
       "description": "Canary Server 15.25 for OpenTibia community.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "664",
+      "stars": "665",
       "forks": "918",
-      "addStars": "3",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8551443?s=40&v=4",
@@ -621,9 +621,9 @@
       "description": "🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": "3,154",
+      "stars": "3,155",
       "forks": "135",
-      "addStars": "5",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12857160?s=40&v=4",

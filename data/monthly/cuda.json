@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Monthly Trending",
   "description": "Monthly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 23:09:28 GMT",
+  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
   "items": [
     {
       "title": "deepseek-ai/DeepGEMM",
@@ -10,9 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,128",
-      "forks": "1,489",
-      "addStars": "1,276",
+      "stars": "9,130",
+      "forks": "1,490",
+      "addStars": "1,278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,817",
+      "stars": "6,820",
       "forks": "1,661",
-      "addStars": "300",
+      "addStars": "305",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -84,8 +84,8 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,384",
-      "forks": "1,528",
+      "stars": "10,387",
+      "forks": "1,529",
       "addStars": "188",
       "contributors": [
         {
@@ -121,9 +121,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,285",
-      "forks": "3,788",
-      "addStars": "252",
+      "stars": "31,286",
+      "forks": "3,787",
+      "addStars": "249",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -160,7 +160,7 @@
       "languageColor": "#3A4E3A",
       "stars": "1,082",
       "forks": "250",
-      "addStars": "31",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42624703?s=40&v=4",

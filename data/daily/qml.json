@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 29 Oct 2026 23:09:28 GMT",
+  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
   "items": [
     {
       "title": "caelestia-dots/shell",
@@ -10,9 +10,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,152",
-      "forks": "986",
-      "addStars": "33",
+      "stars": "13,155",
+      "forks": "987",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
@@ -44,7 +44,7 @@
       "languageColor": "#44a51c",
       "stars": "376",
       "forks": "100",
-      "addStars": "1",
+      "addStars": "0",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11926403?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "2,993",
+      "stars": "2,995",
       "forks": "124",
-      "addStars": "4",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91195954?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,876",
+      "stars": "1,877",
       "forks": "112",
-      "addStars": "6",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/190140834?s=40&v=4",
@@ -144,6 +144,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/198324830?s=40&v=4",
           "name": "everyoneexe",
           "url": "https://github.com/everyoneexe"
+        }
+      ]
+    },
+    {
+      "title": "andreumassanet/impasto",
+      "url": "https://github.com/andreumassanet/impasto",
+      "description": "Arch Linux + Hyprland desktop: a Quickshell shell with a dynamic island, desktop widgets, notes and tasks, and a one-script installer",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "407",
+      "forks": "34",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172328762?s=40&v=4",
+          "name": "andreumassanet",
+          "url": "https://github.com/andreumassanet"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/121257724?s=40&v=4",
+          "name": "BaylieBuffel",
+          "url": "https://github.com/BaylieBuffel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/221158347?s=40&v=4",
+          "name": "OfficialAbhinavSingh",
+          "url": "https://github.com/OfficialAbhinavSingh"
         }
       ]
     }
