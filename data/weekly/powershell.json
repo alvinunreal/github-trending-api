@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Weekly Trending",
   "description": "Weekly Trending of Powershell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "cisagov/ScubaGear",
@@ -10,7 +10,7 @@
       "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "2,769",
+      "stars": "2,774",
       "forks": "407",
       "addStars": "34",
       "contributors": [
@@ -42,12 +42,49 @@
       ]
     },
     {
+      "title": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "61,296",
+      "forks": "2,711",
+      "addStars": "864",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
+          "name": "Raphire",
+          "url": "https://github.com/Raphire"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
+          "name": "HetCreep",
+          "url": "https://github.com/HetCreep"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&v=4",
+          "name": "SashankBhamidi",
+          "url": "https://github.com/SashankBhamidi"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/291670853?s=40&v=4",
+          "name": "wang13zhe",
+          "url": "https://github.com/wang13zhe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&v=4",
+          "name": "N0tHorizon",
+          "url": "https://github.com/N0tHorizon"
+        }
+      ]
+    },
+    {
       "title": "ChrisTitusTech/winutil",
       "url": "https://github.com/ChrisTitusTech/winutil",
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "65,261",
+      "stars": "65,293",
       "forks": "3,823",
       "addStars": "531",
       "contributors": [
@@ -79,49 +116,12 @@
       ]
     },
     {
-      "title": "Raphire/Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "61,255",
-      "forks": "2,709",
-      "addStars": "864",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9938813?s=40&v=4",
-          "name": "Raphire",
-          "url": "https://github.com/Raphire"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/239326951?s=40&v=4",
-          "name": "HetCreep",
-          "url": "https://github.com/HetCreep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66299104?s=40&v=4",
-          "name": "SashankBhamidi",
-          "url": "https://github.com/SashankBhamidi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/291670853?s=40&v=4",
-          "name": "wang13zhe",
-          "url": "https://github.com/wang13zhe"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/100943586?s=40&v=4",
-          "name": "N0tHorizon",
-          "url": "https://github.com/N0tHorizon"
-        }
-      ]
-    },
-    {
       "title": "microsoft/hve-core",
       "url": "https://github.com/microsoft/hve-core",
       "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "1,588",
+      "stars": "1,587",
       "forks": "349",
       "addStars": "27",
       "contributors": [
@@ -143,12 +143,49 @@
       ]
     },
     {
+      "title": "dotnet/core",
+      "url": "https://github.com/dotnet/core",
+      "description": ".NET news, announcements, release notes, and more!",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "22,064",
+      "forks": "4,929",
+      "addStars": "16",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2212879?s=40&v=4",
+          "name": "leecow",
+          "url": "https://github.com/leecow"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30737530?s=40&v=4",
+          "name": "rbhanda",
+          "url": "https://github.com/rbhanda"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2608468?s=40&v=4",
+          "name": "richlander",
+          "url": "https://github.com/richlander"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12971179?s=40&v=4",
+          "name": "mairaw",
+          "url": "https://github.com/mairaw"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11581923?s=40&v=4",
+          "name": "vivmishra",
+          "url": "https://github.com/vivmishra"
+        }
+      ]
+    },
+    {
       "title": "zoicware/RemoveWindowsAI",
       "url": "https://github.com/zoicware/RemoveWindowsAI",
       "description": "Force Remove Copilot, Recall and More in Windows 11",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "13,532",
+      "stars": "13,538",
       "forks": "475",
       "addStars": "102",
       "contributors": [
@@ -180,12 +217,44 @@
       ]
     },
     {
+      "title": "javaht/claude-desktop-zh-cn",
+      "url": "https://github.com/javaht/claude-desktop-zh-cn",
+      "description": "Claude Desktop Chinese Patch (macOS & Windows & Linux)",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "8,076",
+      "forks": "385",
+      "addStars": "229",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54611681?s=40&v=4",
+          "name": "javaht",
+          "url": "https://github.com/javaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238786982?s=40&v=4",
+          "name": "Po1nt9",
+          "url": "https://github.com/Po1nt9"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/74033012?s=40&v=4",
+          "name": "yanhanv",
+          "url": "https://github.com/yanhanv"
+        }
+      ]
+    },
+    {
       "title": "Euro-Office/DesktopEditors",
       "url": "https://github.com/Euro-Office/DesktopEditors",
       "description": "",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "801",
+      "stars": "805",
       "forks": "51",
       "addStars": "49",
       "contributors": [
@@ -217,283 +286,39 @@
       ]
     },
     {
-      "title": "dotnet/core",
-      "url": "https://github.com/dotnet/core",
-      "description": ".NET news, announcements, release notes, and more!",
+      "title": "microsoft/AL",
+      "url": "https://github.com/microsoft/AL",
+      "description": "Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": "22,063",
-      "forks": "4,930",
-      "addStars": "16",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2212879?s=40&v=4",
-          "name": "leecow",
-          "url": "https://github.com/leecow"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30737530?s=40&v=4",
-          "name": "rbhanda",
-          "url": "https://github.com/rbhanda"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2608468?s=40&v=4",
-          "name": "richlander",
-          "url": "https://github.com/richlander"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12971179?s=40&v=4",
-          "name": "mairaw",
-          "url": "https://github.com/mairaw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11581923?s=40&v=4",
-          "name": "vivmishra",
-          "url": "https://github.com/vivmishra"
-        }
-      ]
-    },
-    {
-      "title": "javaht/claude-desktop-zh-cn",
-      "url": "https://github.com/javaht/claude-desktop-zh-cn",
-      "description": "Claude Desktop Chinese Patch (macOS & Windows & Linux)",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "8,060",
-      "forks": "382",
-      "addStars": "229",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54611681?s=40&v=4",
-          "name": "javaht",
-          "url": "https://github.com/javaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238786982?s=40&v=4",
-          "name": "Po1nt9",
-          "url": "https://github.com/Po1nt9"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74033012?s=40&v=4",
-          "name": "yanhanv",
-          "url": "https://github.com/yanhanv"
-        }
-      ]
-    },
-    {
-      "title": "dataplat/dbatools",
-      "url": "https://github.com/dataplat/dbatools",
-      "description": "🚀 SQL Server automation and instance migrations have never been safer, faster or freer",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "2,857",
-      "forks": "868",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8278033?s=40&v=4",
-          "name": "potatoqualitee",
-          "url": "https://github.com/potatoqualitee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11204251?s=40&v=4",
-          "name": "wsmelton",
-          "url": "https://github.com/wsmelton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66946165?s=40&v=4",
-          "name": "andreasjordan",
-          "url": "https://github.com/andreasjordan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5613670?s=40&v=4",
-          "name": "Stuart-Moore",
-          "url": "https://github.com/Stuart-Moore"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/122119?s=40&v=4",
-          "name": "niphlod",
-          "url": "https://github.com/niphlod"
-        }
-      ]
-    },
-    {
-      "title": "cmderdev/cmder",
-      "url": "https://github.com/cmderdev/cmder",
-      "description": "Lovely console emulator package for Windows",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "27,007",
-      "forks": "2,073",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4673812?s=40&v=4",
-          "name": "DRSDavidSoft",
-          "url": "https://github.com/DRSDavidSoft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7318053?s=40&v=4",
-          "name": "daxgames",
-          "url": "https://github.com/daxgames"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/75278?s=40&v=4",
-          "name": "Stanzilla",
-          "url": "https://github.com/Stanzilla"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1244603?s=40&v=4",
-          "name": "MartiUK",
-          "url": "https://github.com/MartiUK"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2674600?s=40&v=4",
-          "name": "samvasko",
-          "url": "https://github.com/samvasko"
-        }
-      ]
-    },
-    {
-      "title": "actions/runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "13,546",
-      "forks": "3,963",
-      "addStars": "40",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/72681142?s=40&v=4",
-          "name": "459680",
-          "url": "https://github.com/459680"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47745270?s=40&v=4",
-          "name": "al-cheb",
-          "url": "https://github.com/al-cheb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48208649?s=40&v=4",
-          "name": "miketimofeev",
-          "url": "https://github.com/miketimofeev"
-        }
-      ]
-    },
-    {
-      "title": "Azure/Azure-Functions",
-      "url": "https://github.com/Azure/Azure-Functions",
-      "description": "",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "1,126",
-      "forks": "215",
-      "addStars": "1",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22549328?s=40&v=4",
-          "name": "alexkarcher-msft",
-          "url": "https://github.com/alexkarcher-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7132626?s=40&v=4",
-          "name": "jeffhollan",
-          "url": "https://github.com/jeffhollan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4260261?s=40&v=4",
-          "name": "lindydonna",
-          "url": "https://github.com/lindydonna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17131343?s=40&v=4",
-          "name": "justcla",
-          "url": "https://github.com/justcla"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6309070?s=40&v=4",
-          "name": "cartermp",
-          "url": "https://github.com/cartermp"
-        }
-      ]
-    },
-    {
-      "title": "SharePoint/sp-dev-docs",
-      "url": "https://github.com/SharePoint/sp-dev-docs",
-      "description": "SharePoint Developer Documentation",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "1,388",
-      "forks": "1,050",
+      "stars": "891",
+      "forks": "286",
       "addStars": "2",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2068657?s=40&v=4",
-          "name": "andrewconnell",
-          "url": "https://github.com/andrewconnell"
+          "avatar": "https://avatars.githubusercontent.com/u/12556556?s=40&v=4",
+          "name": "SusanneWindfeldPedersen",
+          "url": "https://github.com/SusanneWindfeldPedersen"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7446437?s=40&v=4",
-          "name": "VesaJuvonen",
-          "url": "https://github.com/VesaJuvonen"
+          "avatar": "https://avatars.githubusercontent.com/u/9417259?s=40&v=4",
+          "name": "SBalslev",
+          "url": "https://github.com/SBalslev"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7451219?s=40&v=4",
-          "name": "jansenbe",
-          "url": "https://github.com/jansenbe"
+          "avatar": "https://avatars.githubusercontent.com/u/39045749?s=40&v=4",
+          "name": "thloke",
+          "url": "https://github.com/thloke"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8559338?s=40&v=4",
-          "name": "davidchesnut",
-          "url": "https://github.com/davidchesnut"
+          "avatar": "https://avatars.githubusercontent.com/u/16351673?s=40&v=4",
+          "name": "Gallimathias",
+          "url": "https://github.com/Gallimathias"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7882052?s=40&v=4",
-          "name": "chakkaradeep",
-          "url": "https://github.com/chakkaradeep"
-        }
-      ]
-    },
-    {
-      "title": "microsoftgraph/microsoft-graph-docs-contrib",
-      "url": "https://github.com/microsoftgraph/microsoft-graph-docs-contrib",
-      "description": "Documentation for the Microsoft Graph REST API",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": "153",
-      "forks": "552",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8648854?s=40&v=4",
-          "name": "Lauragra",
-          "url": "https://github.com/Lauragra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26866873?s=40&v=4",
-          "name": "JarbasHorst",
-          "url": "https://github.com/JarbasHorst"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14026935?s=40&v=4",
-          "name": "FaithOmbongi",
-          "url": "https://github.com/FaithOmbongi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/92937694?s=40&v=4",
-          "name": "Danielabom",
-          "url": "https://github.com/Danielabom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8966342?s=40&v=4",
-          "name": "jasonjoh",
-          "url": "https://github.com/jasonjoh"
+          "avatar": "https://avatars.githubusercontent.com/u/3097909?s=40&v=4",
+          "name": "atoader",
+          "url": "https://github.com/atoader"
         }
       ]
     },
@@ -531,6 +356,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/25461193?s=40&v=4",
           "name": "Syul968",
           "url": "https://github.com/Syul968"
+        }
+      ]
+    },
+    {
+      "title": "SharePoint/sp-dev-docs",
+      "url": "https://github.com/SharePoint/sp-dev-docs",
+      "description": "SharePoint Developer Documentation",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": "1,388",
+      "forks": "1,051",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2068657?s=40&v=4",
+          "name": "andrewconnell",
+          "url": "https://github.com/andrewconnell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7446437?s=40&v=4",
+          "name": "VesaJuvonen",
+          "url": "https://github.com/VesaJuvonen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7451219?s=40&v=4",
+          "name": "jansenbe",
+          "url": "https://github.com/jansenbe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8559338?s=40&v=4",
+          "name": "davidchesnut",
+          "url": "https://github.com/davidchesnut"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7882052?s=40&v=4",
+          "name": "chakkaradeep",
+          "url": "https://github.com/chakkaradeep"
         }
       ]
     }

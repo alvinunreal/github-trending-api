@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Monthly Trending",
   "description": "Monthly Trending of Elixir Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "teslamate-org/teslamate",
@@ -10,7 +10,7 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "9,209",
+      "stars": "9,210",
       "forks": "1,034",
       "addStars": "171",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "26,698",
-      "forks": "3,704",
+      "stars": "26,699",
+      "forks": "3,713",
       "addStars": "61",
       "contributors": [
         {
@@ -80,7 +80,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": "23,211",
-      "forks": "3,203",
+      "forks": "3,212",
       "addStars": "62",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "2,547",
+      "stars": "2,548",
       "forks": "465",
       "addStars": "41",
       "contributors": [
@@ -165,6 +165,75 @@
       ]
     },
     {
+      "title": "plausible/analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "29,725",
+      "forks": "1,924",
+      "addStars": "511",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
+          "name": "ukutaht",
+          "url": "https://github.com/ukutaht"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
+          "name": "aerosol",
+          "url": "https://github.com/aerosol"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
+          "name": "zoldar",
+          "url": "https://github.com/zoldar"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
+          "name": "RobertJoonas",
+          "url": "https://github.com/RobertJoonas"
+        }
+      ]
+    },
+    {
+      "title": "phoenixframework/phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "6,835",
+      "forks": "1,061",
+      "addStars": "14",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
+          "name": "chrismccord",
+          "url": "https://github.com/chrismccord"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
+          "name": "josevalim",
+          "url": "https://github.com/josevalim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4116351?s=40&v=4",
+          "name": "SteffenDE",
+          "url": "https://github.com/SteffenDE"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168677?s=40&v=4",
+          "name": "mcrumm",
+          "url": "https://github.com/mcrumm"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7374640?s=40&v=4",
+          "name": "snewcomer",
+          "url": "https://github.com/snewcomer"
+        }
+      ]
+    },
+    {
       "title": "supabase/realtime",
       "url": "https://github.com/supabase/realtime",
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
@@ -202,44 +271,12 @@
       ]
     },
     {
-      "title": "plausible/analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "29,720",
-      "forks": "1,924",
-      "addStars": "511",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3731516?s=40&v=4",
-          "name": "ukutaht",
-          "url": "https://github.com/ukutaht"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/173738?s=40&v=4",
-          "name": "aerosol",
-          "url": "https://github.com/aerosol"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/588351?s=40&v=4",
-          "name": "zoldar",
-          "url": "https://github.com/zoldar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56999674?s=40&v=4",
-          "name": "RobertJoonas",
-          "url": "https://github.com/RobertJoonas"
-        }
-      ]
-    },
-    {
       "title": "blockscout/blockscout",
       "url": "https://github.com/blockscout/blockscout",
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": "4,768",
+      "stars": "4,769",
       "forks": "3,211",
       "addStars": "63",
       "contributors": [
@@ -262,43 +299,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/298259?s=40&v=4",
           "name": "KronicDeth",
           "url": "https://github.com/KronicDeth"
-        }
-      ]
-    },
-    {
-      "title": "phoenixframework/phoenix_live_view",
-      "url": "https://github.com/phoenixframework/phoenix_live_view",
-      "description": "Rich, real-time user experiences with server-rendered HTML",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": "6,834",
-      "forks": "1,061",
-      "addStars": "14",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/576796?s=40&v=4",
-          "name": "chrismccord",
-          "url": "https://github.com/chrismccord"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9582?s=40&v=4",
-          "name": "josevalim",
-          "url": "https://github.com/josevalim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4116351?s=40&v=4",
-          "name": "SteffenDE",
-          "url": "https://github.com/SteffenDE"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/168677?s=40&v=4",
-          "name": "mcrumm",
-          "url": "https://github.com/mcrumm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7374640?s=40&v=4",
-          "name": "snewcomer",
-          "url": "https://github.com/snewcomer"
         }
       ]
     },
@@ -336,6 +336,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/9973?s=40&v=4",
           "name": "axelson",
           "url": "https://github.com/axelson"
+        }
+      ]
+    },
+    {
+      "title": "kieraneglin/pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": "5,434",
+      "forks": "188",
+      "addStars": "71",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/569917?s=40&v=4",
+          "name": "kieraneglin",
+          "url": "https://github.com/kieraneglin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64379246?s=40&v=4",
+          "name": "robertkleinschuster",
+          "url": "https://github.com/robertkleinschuster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/213795?s=40&v=4",
+          "name": "onedr0p",
+          "url": "https://github.com/onedr0p"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33544?s=40&v=4",
+          "name": "philips",
+          "url": "https://github.com/philips"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/271673?s=40&v=4",
+          "name": "ddacunha",
+          "url": "https://github.com/ddacunha"
         }
       ]
     }

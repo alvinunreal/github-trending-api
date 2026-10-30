@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Monthly Trending",
   "description": "Monthly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "snowarch/iNiR",
@@ -10,7 +10,7 @@
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,877",
+      "stars": "1,881",
       "forks": "112",
       "addStars": "203",
       "contributors": [
@@ -79,45 +79,13 @@
       ]
     },
     {
-      "title": "caelestia-dots/shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "13,155",
-      "forks": "987",
-      "addStars": "642",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
-          "name": "soramanew",
-          "url": "https://github.com/soramanew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
-          "name": "atdma",
-          "url": "https://github.com/atdma"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/76127109?s=40&v=4",
-          "name": "dxnnv",
-          "url": "https://github.com/dxnnv"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5213174?s=40&v=4",
-          "name": "PixelKhaos",
-          "url": "https://github.com/PixelKhaos"
-        }
-      ]
-    },
-    {
       "title": "pctrade/end4-pC",
       "url": "https://github.com/pctrade/end4-pC",
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,646",
-      "forks": "229",
+      "stars": "3,657",
+      "forks": "230",
       "addStars": "469",
       "contributors": [
         {
@@ -148,12 +116,44 @@
       ]
     },
     {
+      "title": "caelestia-dots/shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": "13,167",
+      "forks": "986",
+      "addStars": "642",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
+          "name": "soramanew",
+          "url": "https://github.com/soramanew"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
+          "name": "atdma",
+          "url": "https://github.com/atdma"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/76127109?s=40&v=4",
+          "name": "dxnnv",
+          "url": "https://github.com/dxnnv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5213174?s=40&v=4",
+          "name": "PixelKhaos",
+          "url": "https://github.com/PixelKhaos"
+        }
+      ]
+    },
+    {
       "title": "ilyamiro/serpantinum",
       "url": "https://github.com/ilyamiro/serpantinum",
       "description": "A shell for wayland compositors",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "7,534",
+      "stars": "7,541",
       "forks": "339",
       "addStars": "525",
       "contributors": [
@@ -190,8 +190,8 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "26,545",
-      "forks": "1,044",
+      "stars": "26,544",
+      "forks": "1,045",
       "addStars": "116",
       "contributors": [
         {
@@ -222,44 +222,12 @@
       ]
     },
     {
-      "title": "ladybug-me/caelestia-kde",
-      "url": "https://github.com/ladybug-me/caelestia-kde",
-      "description": "Caelestia ported to KDE Plasma 6",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": "1,016",
-      "forks": "63",
-      "addStars": "165",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/61896496?s=40&v=4",
-          "name": "soramanew",
-          "url": "https://github.com/soramanew"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89823371?s=40&v=4",
-          "name": "0xSolanaceae",
-          "url": "https://github.com/0xSolanaceae"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165172025?s=40&v=4",
-          "name": "ladybug-me",
-          "url": "https://github.com/ladybug-me"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/242878146?s=40&v=4",
-          "name": "atdma",
-          "url": "https://github.com/atdma"
-        }
-      ]
-    },
-    {
       "title": "mylinuxforwork/dotfiles",
       "url": "https://github.com/mylinuxforwork/dotfiles",
       "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "5,088",
+      "stars": "5,090",
       "forks": "385",
       "addStars": "69",
       "contributors": [

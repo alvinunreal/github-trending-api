@@ -3,7 +3,7 @@
     <title>GitHub Css Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Css Languages in GitHub</description>
-    <pubDate>Fri, 30 Oct 2026 06:45:00 GMT</pubDate>
+    <pubDate>Fri, 30 Oct 2026 18:25:37 GMT</pubDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>42,273</stars>
-      <forks>2,191</forks>
+      <stars>42,751</stars>
+      <forks>2,223</forks>
       <addStars>12,501</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/OWASP/wstg</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>10,150</stars>
-      <forks>1,724</forks>
+      <stars>10,155</stars>
+      <forks>1,725</forks>
       <addStars>254</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/XiaomingX/ai-money-maker-handbook</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>6,663</stars>
-      <forks>615</forks>
+      <stars>6,675</stars>
+      <forks>616</forks>
       <addStars>1,248</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/spring-projects/spring-petclinic</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>9,614</stars>
-      <forks>31,046</forks>
+      <stars>9,617</stars>
+      <forks>31,051</forks>
       <addStars>81</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/thewhiteh4t/seeker</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>10,213</stars>
-      <forks>2,325</forks>
+      <stars>10,215</stars>
+      <forks>2,326</forks>
       <addStars>188</addStars>
       <contributors>
         <contributor>
@@ -175,44 +175,6 @@
       </contributors>
     </item>
     <item>
-      <title>jerrykuku/luci-theme-argon</title>
-      <link>https://github.com/jerrykuku/luci-theme-argon</link>
-      <description>Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</description>
-      <guid>https://github.com/jerrykuku/luci-theme-argon</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>5,572</stars>
-      <forks>956</forks>
-      <addStars>101</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9485680?s=40&amp;v=4</avatar>
-          <name>jerrykuku</name>
-          <url>https://github.com/jerrykuku</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/26134687?s=40&amp;v=4</avatar>
-          <name>yhl452493373</name>
-          <url>https://github.com/yhl452493373</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3896703?s=40&amp;v=4</avatar>
-          <name>jjm2473</name>
-          <url>https://github.com/jjm2473</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2673520?s=40&amp;v=4</avatar>
-          <name>McGiverGim</name>
-          <url>https://github.com/McGiverGim</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6158590?s=40&amp;v=4</avatar>
-          <name>SpeedPartner</name>
-          <url>https://github.com/SpeedPartner</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>lestercorderomurillo/macos-tahoe-liquid-kde</title>
       <link>https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde</link>
       <description>MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+</description>
@@ -220,7 +182,7 @@
       <language>CSS</language>
       <languageColor>#663399</languageColor>
       <stars>241</stars>
-      <forks>29</forks>
+      <forks>31</forks>
       <addStars>63</addStars>
       <contributors>
         <contributor>
@@ -251,13 +213,51 @@
       </contributors>
     </item>
     <item>
+      <title>jerrykuku/luci-theme-argon</title>
+      <link>https://github.com/jerrykuku/luci-theme-argon</link>
+      <description>Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.</description>
+      <guid>https://github.com/jerrykuku/luci-theme-argon</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>5,572</stars>
+      <forks>955</forks>
+      <addStars>101</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9485680?s=40&amp;v=4</avatar>
+          <name>jerrykuku</name>
+          <url>https://github.com/jerrykuku</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/26134687?s=40&amp;v=4</avatar>
+          <name>yhl452493373</name>
+          <url>https://github.com/yhl452493373</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3896703?s=40&amp;v=4</avatar>
+          <name>jjm2473</name>
+          <url>https://github.com/jjm2473</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2673520?s=40&amp;v=4</avatar>
+          <name>McGiverGim</name>
+          <url>https://github.com/McGiverGim</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6158590?s=40&amp;v=4</avatar>
+          <name>SpeedPartner</name>
+          <url>https://github.com/SpeedPartner</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>kepano/obsidian-minimal</title>
       <link>https://github.com/kepano/obsidian-minimal</link>
       <description>A distraction-free and highly customizable theme for Obsidian.</description>
       <guid>https://github.com/kepano/obsidian-minimal</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>5,463</stars>
+      <stars>5,464</stars>
       <forks>283</forks>
       <addStars>83</addStars>
       <contributors>
@@ -333,7 +333,7 @@
       <guid>https://github.com/isocpp/CppCoreGuidelines</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>45,393</stars>
+      <stars>45,395</stars>
       <forks>5,556</forks>
       <addStars>110</addStars>
       <contributors>
@@ -361,6 +361,44 @@
           <avatar>https://avatars.githubusercontent.com/u/10933044?s=40&amp;v=4</avatar>
           <name>BjarneStroustrup</name>
           <url>https://github.com/BjarneStroustrup</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>google/google-api-javascript-client</title>
+      <link>https://github.com/google/google-api-javascript-client</link>
+      <description>Google APIs Client Library for browser JavaScript, aka gapi.</description>
+      <guid>https://github.com/google/google-api-javascript-client</guid>
+      <language>CSS</language>
+      <languageColor>#663399</languageColor>
+      <stars>3,527</stars>
+      <forks>1,171</forks>
+      <addStars>3</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/744973?s=40&amp;v=4</avatar>
+          <name>grant</name>
+          <url>https://github.com/grant</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/873665?s=40&amp;v=4</avatar>
+          <name>dvanderb</name>
+          <url>https://github.com/dvanderb</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3308339?s=40&amp;v=4</avatar>
+          <name>bochunz</name>
+          <url>https://github.com/bochunz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/596919?s=40&amp;v=4</avatar>
+          <name>silvolu</name>
+          <url>https://github.com/silvolu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6642209?s=40&amp;v=4</avatar>
+          <name>wonderfly</name>
+          <url>https://github.com/wonderfly</url>
         </contributor>
       </contributors>
     </item>
@@ -399,39 +437,6 @@
           <avatar>https://avatars.githubusercontent.com/u/111078063?s=40&amp;v=4</avatar>
           <name>darkthemer</name>
           <url>https://github.com/darkthemer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>csstools/postcss-plugins</title>
-      <link>https://github.com/csstools/postcss-plugins</link>
-      <description>PostCSS Tools and Plugins</description>
-      <guid>https://github.com/csstools/postcss-plugins</guid>
-      <language>CSS</language>
-      <languageColor>#663399</languageColor>
-      <stars>1,061</stars>
-      <forks>83</forks>
-      <addStars>7</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11521496?s=40&amp;v=4</avatar>
-          <name>romainmenke</name>
-          <url>https://github.com/romainmenke</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/946645?s=40&amp;v=4</avatar>
-          <name>Antonio-Laguna</name>
-          <url>https://github.com/Antonio-Laguna</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/188426?s=40&amp;v=4</avatar>
-          <name>jonathantneal</name>
-          <url>https://github.com/jonathantneal</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/157534?s=40&amp;v=4</avatar>
-          <name>MoOx</name>
-          <url>https://github.com/MoOx</url>
         </contributor>
       </contributors>
     </item>

@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Monthly Trending",
   "description": "Monthly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "Nutlope/hallmark",
@@ -10,8 +10,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "42,273",
-      "forks": "2,191",
+      "stars": "42,751",
+      "forks": "2,223",
       "addStars": "12,501",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "10,150",
-      "forks": "1,724",
+      "stars": "10,155",
+      "forks": "1,725",
       "addStars": "254",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "6,663",
-      "forks": "615",
+      "stars": "6,675",
+      "forks": "616",
       "addStars": "1,248",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,614",
-      "forks": "31,046",
+      "stars": "9,617",
+      "forks": "31,051",
       "addStars": "81",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "Accurately Locate Smartphones using Social Engineering",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "10,213",
-      "forks": "2,325",
+      "stars": "10,215",
+      "forks": "2,326",
       "addStars": "188",
       "contributors": [
         {
@@ -170,50 +170,13 @@
       ]
     },
     {
-      "title": "jerrykuku/luci-theme-argon",
-      "url": "https://github.com/jerrykuku/luci-theme-argon",
-      "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "5,572",
-      "forks": "956",
-      "addStars": "101",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9485680?s=40&v=4",
-          "name": "jerrykuku",
-          "url": "https://github.com/jerrykuku"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26134687?s=40&v=4",
-          "name": "yhl452493373",
-          "url": "https://github.com/yhl452493373"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3896703?s=40&v=4",
-          "name": "jjm2473",
-          "url": "https://github.com/jjm2473"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2673520?s=40&v=4",
-          "name": "McGiverGim",
-          "url": "https://github.com/McGiverGim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6158590?s=40&v=4",
-          "name": "SpeedPartner",
-          "url": "https://github.com/SpeedPartner"
-        }
-      ]
-    },
-    {
       "title": "lestercorderomurillo/macos-tahoe-liquid-kde",
       "url": "https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde",
       "description": "MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+",
       "language": "CSS",
       "languageColor": "#663399",
       "stars": "241",
-      "forks": "29",
+      "forks": "31",
       "addStars": "63",
       "contributors": [
         {
@@ -244,12 +207,49 @@
       ]
     },
     {
+      "title": "jerrykuku/luci-theme-argon",
+      "url": "https://github.com/jerrykuku/luci-theme-argon",
+      "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "5,572",
+      "forks": "955",
+      "addStars": "101",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9485680?s=40&v=4",
+          "name": "jerrykuku",
+          "url": "https://github.com/jerrykuku"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26134687?s=40&v=4",
+          "name": "yhl452493373",
+          "url": "https://github.com/yhl452493373"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3896703?s=40&v=4",
+          "name": "jjm2473",
+          "url": "https://github.com/jjm2473"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2673520?s=40&v=4",
+          "name": "McGiverGim",
+          "url": "https://github.com/McGiverGim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6158590?s=40&v=4",
+          "name": "SpeedPartner",
+          "url": "https://github.com/SpeedPartner"
+        }
+      ]
+    },
+    {
       "title": "kepano/obsidian-minimal",
       "url": "https://github.com/kepano/obsidian-minimal",
       "description": "A distraction-free and highly customizable theme for Obsidian.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,463",
+      "stars": "5,464",
       "forks": "283",
       "addStars": "83",
       "contributors": [
@@ -323,7 +323,7 @@
       "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "45,393",
+      "stars": "45,395",
       "forks": "5,556",
       "addStars": "110",
       "contributors": [
@@ -351,6 +351,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/10933044?s=40&v=4",
           "name": "BjarneStroustrup",
           "url": "https://github.com/BjarneStroustrup"
+        }
+      ]
+    },
+    {
+      "title": "google/google-api-javascript-client",
+      "url": "https://github.com/google/google-api-javascript-client",
+      "description": "Google APIs Client Library for browser JavaScript, aka gapi.",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "3,527",
+      "forks": "1,171",
+      "addStars": "3",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/744973?s=40&v=4",
+          "name": "grant",
+          "url": "https://github.com/grant"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/873665?s=40&v=4",
+          "name": "dvanderb",
+          "url": "https://github.com/dvanderb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3308339?s=40&v=4",
+          "name": "bochunz",
+          "url": "https://github.com/bochunz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/596919?s=40&v=4",
+          "name": "silvolu",
+          "url": "https://github.com/silvolu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6642209?s=40&v=4",
+          "name": "wonderfly",
+          "url": "https://github.com/wonderfly"
         }
       ]
     },
@@ -388,38 +425,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/111078063?s=40&v=4",
           "name": "darkthemer",
           "url": "https://github.com/darkthemer"
-        }
-      ]
-    },
-    {
-      "title": "csstools/postcss-plugins",
-      "url": "https://github.com/csstools/postcss-plugins",
-      "description": "PostCSS Tools and Plugins",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "1,061",
-      "forks": "83",
-      "addStars": "7",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11521496?s=40&v=4",
-          "name": "romainmenke",
-          "url": "https://github.com/romainmenke"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/946645?s=40&v=4",
-          "name": "Antonio-Laguna",
-          "url": "https://github.com/Antonio-Laguna"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188426?s=40&v=4",
-          "name": "jonathantneal",
-          "url": "https://github.com/jonathantneal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/157534?s=40&v=4",
-          "name": "MoOx",
-          "url": "https://github.com/MoOx"
         }
       ]
     }

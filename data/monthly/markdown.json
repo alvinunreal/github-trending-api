@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Monthly Trending",
   "description": "Monthly Trending of Markdown Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "ellisonleao/magictools",
@@ -10,7 +10,7 @@
       "description": "🎮 📝 A list of Game Development resources to make magic happen.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "17,636",
+      "stars": "17,647",
       "forks": "1,314",
       "addStars": "287",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "11,109",
+      "stars": "11,112",
       "forks": "23,275",
       "addStars": "116",
       "contributors": [
@@ -84,8 +84,8 @@
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "206,377",
-      "forks": "4,613",
+      "stars": "206,465",
+      "forks": "4,620",
       "addStars": "6,038",
       "contributors": [
         {
@@ -97,6 +97,33 @@
           "avatar": "https://avatars.githubusercontent.com/u/67411716?s=40&v=4",
           "name": "AnkitKrYadav",
           "url": "https://github.com/AnkitKrYadav"
+        }
+      ]
+    },
+    {
+      "title": "cbrock84/headcount",
+      "url": "https://github.com/cbrock84/headcount",
+      "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "2,524",
+      "forks": "413",
+      "addStars": "803",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/15268570?s=40&v=4",
+          "name": "cbrock84",
+          "url": "https://github.com/cbrock84"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58703829?s=40&v=4",
+          "name": "chris-brock",
+          "url": "https://github.com/chris-brock"
         }
       ]
     },
@@ -138,35 +165,13 @@
       ]
     },
     {
-      "title": "jakubkrehel/skills",
-      "url": "https://github.com/jakubkrehel/skills",
-      "description": "A collection of agent skills that help you build great interfaces.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "9,233",
-      "forks": "349",
-      "addStars": "1,898",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
-          "name": "jakubkrehel",
-          "url": "https://github.com/jakubkrehel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "tldr-pages/tldr",
       "url": "https://github.com/tldr-pages/tldr",
       "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "64,077",
-      "forks": "5,596",
+      "stars": "64,087",
+      "forks": "5,606",
       "addStars": "387",
       "contributors": [
         {
@@ -197,12 +202,34 @@
       ]
     },
     {
+      "title": "jakubkrehel/skills",
+      "url": "https://github.com/jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "9,309",
+      "forks": "354",
+      "addStars": "1,898",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
+          "name": "jakubkrehel",
+          "url": "https://github.com/jakubkrehel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "rust-lang/rfcs",
       "url": "https://github.com/rust-lang/rfcs",
       "description": "RFCs for changes to Rust",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,622",
+      "stars": "6,623",
       "forks": "1,706",
       "addStars": "21",
       "contributors": [
@@ -234,40 +261,13 @@
       ]
     },
     {
-      "title": "cbrock84/headcount",
-      "url": "https://github.com/cbrock84/headcount",
-      "description": "An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "2,512",
-      "forks": "411",
-      "addStars": "803",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/15268570?s=40&v=4",
-          "name": "cbrock84",
-          "url": "https://github.com/cbrock84"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58703829?s=40&v=4",
-          "name": "chris-brock",
-          "url": "https://github.com/chris-brock"
-        }
-      ]
-    },
-    {
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "557,415",
-      "forks": "52,163",
+      "stars": "557,587",
+      "forks": "52,178",
       "addStars": "8,149",
       "contributors": [
         {
@@ -298,50 +298,13 @@
       ]
     },
     {
-      "title": "OAI/OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": "31,287",
-      "forks": "9,148",
-      "addStars": "90",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/951576?s=40&v=4",
-          "name": "ralfhandl",
-          "url": "https://github.com/ralfhandl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2358015?s=40&v=4",
-          "name": "handrews",
-          "url": "https://github.com/handrews"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/241629?s=40&v=4",
-          "name": "webron",
-          "url": "https://github.com/webron"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
-          "name": "fehguy",
-          "url": "https://github.com/fehguy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/172607?s=40&v=4",
-          "name": "lornajane",
-          "url": "https://github.com/lornajane"
-        }
-      ]
-    },
-    {
       "title": "mdn/translated-content",
       "url": "https://github.com/mdn/translated-content",
       "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": "2,041",
-      "forks": "8,299",
+      "forks": "8,300",
       "addStars": "20",
       "contributors": [
         {
@@ -377,8 +340,8 @@
       "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "6,682",
-      "forks": "5,805",
+      "stars": "6,683",
+      "forks": "5,804",
       "addStars": "50",
       "contributors": [
         {
@@ -409,13 +372,50 @@
       ]
     },
     {
+      "title": "OAI/OpenAPI-Specification",
+      "url": "https://github.com/OAI/OpenAPI-Specification",
+      "description": "The OpenAPI Specification Repository",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": "31,287",
+      "forks": "9,147",
+      "addStars": "90",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/951576?s=40&v=4",
+          "name": "ralfhandl",
+          "url": "https://github.com/ralfhandl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2358015?s=40&v=4",
+          "name": "handrews",
+          "url": "https://github.com/handrews"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/241629?s=40&v=4",
+          "name": "webron",
+          "url": "https://github.com/webron"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/249413?s=40&v=4",
+          "name": "fehguy",
+          "url": "https://github.com/fehguy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/172607?s=40&v=4",
+          "name": "lornajane",
+          "url": "https://github.com/lornajane"
+        }
+      ]
+    },
+    {
       "title": "privacyguides/privacyguides.org",
       "url": "https://github.com/privacyguides/privacyguides.org",
       "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "4,332",
-      "forks": "297",
+      "stars": "4,334",
+      "forks": "296",
       "addStars": "64",
       "contributors": [
         {

@@ -2,16 +2,53 @@
   "title": "GitHub C Languages Monthly Trending",
   "description": "Monthly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
+    {
+      "title": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "description": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "8,719",
+      "forks": "439",
+      "addStars": "1,209",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
+          "name": "ryanfleury",
+          "url": "https://github.com/ryanfleury"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
+          "name": "NikitaSmith057",
+          "url": "https://github.com/NikitaSmith057"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&v=4",
+          "name": "mmozeiko",
+          "url": "https://github.com/mmozeiko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&v=4",
+          "name": "NikitaAtEpic",
+          "url": "https://github.com/NikitaAtEpic"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&v=4",
+          "name": "andreymlv",
+          "url": "https://github.com/andreymlv"
+        }
+      ]
+    },
     {
       "title": "php/php-src",
       "url": "https://github.com/php/php-src",
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "41,728",
-      "forks": "8,495",
+      "stars": "41,732",
+      "forks": "8,501",
       "addStars": "1,388",
       "contributors": [
         {
@@ -47,8 +84,8 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "2,969",
-      "forks": "373",
+      "stars": "2,981",
+      "forks": "374",
       "addStars": "1,926",
       "contributors": [
         {
@@ -84,8 +121,8 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "153,541",
-      "forks": "14,093",
+      "stars": "153,589",
+      "forks": "14,098",
       "addStars": "3,372",
       "contributors": [
         {
@@ -116,50 +153,13 @@
       ]
     },
     {
-      "title": "EpicGames/raddebugger",
-      "url": "https://github.com/EpicGames/raddebugger",
-      "description": "A native, user-mode, multi-process, graphical debugger.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "8,715",
-      "forks": "439",
-      "addStars": "1,209",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/12454169?s=40&v=4",
-          "name": "ryanfleury",
-          "url": "https://github.com/ryanfleury"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4572155?s=40&v=4",
-          "name": "NikitaSmith057",
-          "url": "https://github.com/NikitaSmith057"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1665010?s=40&v=4",
-          "name": "mmozeiko",
-          "url": "https://github.com/mmozeiko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/167924611?s=40&v=4",
-          "name": "NikitaAtEpic",
-          "url": "https://github.com/NikitaAtEpic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58001412?s=40&v=4",
-          "name": "andreymlv",
-          "url": "https://github.com/andreymlv"
-        }
-      ]
-    },
-    {
       "title": "obsproject/obs-studio",
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "78,594",
-      "forks": "10,959",
+      "stars": "78,622",
+      "forks": "10,972",
       "addStars": "1,977",
       "contributors": [
         {
@@ -190,13 +190,45 @@
       ]
     },
     {
+      "title": "KernelSU-Next/KernelSU-Next",
+      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
+      "description": "An advanced Kernel based root solution for Android",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "4,663",
+      "forks": "1,237",
+      "addStars": "379",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
+          "name": "tiann",
+          "url": "https://github.com/tiann"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/33044977?s=40&v=4",
+          "name": "rifsxd",
+          "url": "https://github.com/rifsxd"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30978685?s=40&v=4",
+          "name": "Ylarod",
+          "url": "https://github.com/Ylarod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56485584?s=40&v=4",
+          "name": "5ec1cff",
+          "url": "https://github.com/5ec1cff"
+        }
+      ]
+    },
+    {
       "title": "rexglue/rexglue-sdk",
       "url": "https://github.com/rexglue/rexglue-sdk",
       "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "1,205",
-      "forks": "251",
+      "stars": "1,210",
+      "forks": "253",
       "addStars": "286",
       "contributors": [
         {
@@ -227,44 +259,12 @@
       ]
     },
     {
-      "title": "KernelSU-Next/KernelSU-Next",
-      "url": "https://github.com/KernelSU-Next/KernelSU-Next",
-      "description": "An advanced Kernel based root solution for Android",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "4,658",
-      "forks": "1,237",
-      "addStars": "379",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
-          "name": "tiann",
-          "url": "https://github.com/tiann"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/33044977?s=40&v=4",
-          "name": "rifsxd",
-          "url": "https://github.com/rifsxd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30978685?s=40&v=4",
-          "name": "Ylarod",
-          "url": "https://github.com/Ylarod"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56485584?s=40&v=4",
-          "name": "5ec1cff",
-          "url": "https://github.com/5ec1cff"
-        }
-      ]
-    },
-    {
       "title": "xiaojieonly/Ehviewer_CN_SXJ",
       "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,409",
+      "stars": "28,437",
       "forks": "758",
       "addStars": "1,296",
       "contributors": [
@@ -301,7 +301,7 @@
       "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,956",
+      "stars": "16,959",
       "forks": "4,792",
       "addStars": "226",
       "contributors": [
@@ -333,119 +333,13 @@
       ]
     },
     {
-      "title": "ventoy/Ventoy",
-      "url": "https://github.com/ventoy/Ventoy",
-      "description": "A new bootable USB solution.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "80,460",
-      "forks": "5,021",
-      "addStars": "987",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59477474?s=40&v=4",
-          "name": "ventoy",
-          "url": "https://github.com/ventoy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/67432394?s=40&v=4",
-          "name": "wiz64",
-          "url": "https://github.com/wiz64"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&v=4",
-          "name": "VenusGirl",
-          "url": "https://github.com/VenusGirl"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/54566818?s=40&v=4",
-          "name": "crasadure",
-          "url": "https://github.com/crasadure"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31486344?s=40&v=4",
-          "name": "AnomSanjaya",
-          "url": "https://github.com/AnomSanjaya"
-        }
-      ]
-    },
-    {
-      "title": "raysan5/raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "35,476",
-      "forks": "3,361",
-      "addStars": "702",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4",
-          "name": "raysan5",
-          "url": "https://github.com/raysan5"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/322174?s=40&v=4",
-          "name": "JeffM2501",
-          "url": "https://github.com/JeffM2501"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5204368?s=40&v=4",
-          "name": "a3f",
-          "url": "https://github.com/a3f"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10688349?s=40&v=4",
-          "name": "victorfisac",
-          "url": "https://github.com/victorfisac"
-        }
-      ]
-    },
-    {
-      "title": "redis/redis",
-      "url": "https://github.com/redis/redis",
-      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "77,092",
-      "forks": "24,979",
-      "addStars": "1,049",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
-          "name": "antirez",
-          "url": "https://github.com/antirez"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7045099?s=40&v=4",
-          "name": "oranagra",
-          "url": "https://github.com/oranagra"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
-          "name": "pietern",
-          "url": "https://github.com/pietern"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4",
-          "name": "sundb",
-          "url": "https://github.com/sundb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
-          "name": "enjoy-binbin",
-          "url": "https://github.com/enjoy-binbin"
-        }
-      ]
-    },
-    {
       "title": "ValdikSS/GoodbyeDPI",
       "url": "https://github.com/ValdikSS/GoodbyeDPI",
       "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,819",
-      "forks": "2,243",
+      "stars": "28,822",
+      "forks": "2,245",
       "addStars": "204",
       "contributors": [
         {
@@ -476,50 +370,13 @@
       ]
     },
     {
-      "title": "matz/spinel",
-      "url": "https://github.com/matz/spinel",
-      "description": "Ruby AOT compiler",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "2,289",
-      "forks": "168",
-      "addStars": "289",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/30733?s=40&v=4",
-          "name": "matz",
-          "url": "https://github.com/matz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/919278?s=40&v=4",
-          "name": "FrancescoK",
-          "url": "https://github.com/FrancescoK"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6679325?s=40&v=4",
-          "name": "makenowjust",
-          "url": "https://github.com/makenowjust"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163873?s=40&v=4",
-          "name": "ryanseys",
-          "url": "https://github.com/ryanseys"
-        }
-      ]
-    },
-    {
       "title": "reactos/reactos",
       "url": "https://github.com/reactos/reactos",
       "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "18,400",
-      "forks": "2,315",
+      "stars": "18,402",
+      "forks": "2,316",
       "addStars": "289",
       "contributors": [
         {
@@ -550,13 +407,156 @@
       ]
     },
     {
+      "title": "raysan5/raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "35,490",
+      "forks": "3,360",
+      "addStars": "702",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5766837?s=40&v=4",
+          "name": "raysan5",
+          "url": "https://github.com/raysan5"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/322174?s=40&v=4",
+          "name": "JeffM2501",
+          "url": "https://github.com/JeffM2501"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5204368?s=40&v=4",
+          "name": "a3f",
+          "url": "https://github.com/a3f"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10688349?s=40&v=4",
+          "name": "victorfisac",
+          "url": "https://github.com/victorfisac"
+        }
+      ]
+    },
+    {
+      "title": "redis/redis",
+      "url": "https://github.com/redis/redis",
+      "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "77,096",
+      "forks": "24,987",
+      "addStars": "1,049",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
+          "name": "antirez",
+          "url": "https://github.com/antirez"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7045099?s=40&v=4",
+          "name": "oranagra",
+          "url": "https://github.com/oranagra"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9845?s=40&v=4",
+          "name": "pietern",
+          "url": "https://github.com/pietern"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/965798?s=40&v=4",
+          "name": "sundb",
+          "url": "https://github.com/sundb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22811481?s=40&v=4",
+          "name": "enjoy-binbin",
+          "url": "https://github.com/enjoy-binbin"
+        }
+      ]
+    },
+    {
+      "title": "ventoy/Ventoy",
+      "url": "https://github.com/ventoy/Ventoy",
+      "description": "A new bootable USB solution.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "80,474",
+      "forks": "5,026",
+      "addStars": "987",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59477474?s=40&v=4",
+          "name": "ventoy",
+          "url": "https://github.com/ventoy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/67432394?s=40&v=4",
+          "name": "wiz64",
+          "url": "https://github.com/wiz64"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&v=4",
+          "name": "VenusGirl",
+          "url": "https://github.com/VenusGirl"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54566818?s=40&v=4",
+          "name": "crasadure",
+          "url": "https://github.com/crasadure"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31486344?s=40&v=4",
+          "name": "AnomSanjaya",
+          "url": "https://github.com/AnomSanjaya"
+        }
+      ]
+    },
+    {
+      "title": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": "140,283",
+      "forks": "8,677",
+      "addStars": "1,698",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
+          "name": "crutkas",
+          "url": "https://github.com/crutkas"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1169912?s=40&v=4",
+          "name": "bao-qian",
+          "url": "https://github.com/bao-qian"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9866362?s=40&v=4",
+          "name": "niels9001",
+          "url": "https://github.com/niels9001"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1725475?s=40&v=4",
+          "name": "qianlifeng",
+          "url": "https://github.com/qianlifeng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26118718?s=40&v=4",
+          "name": "jaimecbernardo",
+          "url": "https://github.com/jaimecbernardo"
+        }
+      ]
+    },
+    {
       "title": "EchoStretch/kstuff-lite",
       "url": "https://github.com/EchoStretch/kstuff-lite",
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "849",
-      "forks": "65",
+      "stars": "855",
+      "forks": "66",
       "addStars": "376",
       "contributors": [
         {
@@ -583,43 +583,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/52703?s=40&v=4",
           "name": "ItsAllAboutTheCode",
           "url": "https://github.com/ItsAllAboutTheCode"
-        }
-      ]
-    },
-    {
-      "title": "yugabyte/yugabyte-db",
-      "url": "https://github.com/yugabyte/yugabyte-db",
-      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": "10,637",
-      "forks": "1,448",
-      "addStars": "84",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/79169168?s=40&v=4",
-          "name": "ddhodge",
-          "url": "https://github.com/ddhodge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/891914?s=40&v=4",
-          "name": "spolitov",
-          "url": "https://github.com/spolitov"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5341399?s=40&v=4",
-          "name": "aishwarya24",
-          "url": "https://github.com/aishwarya24"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/552936?s=40&v=4",
-          "name": "mbautin",
-          "url": "https://github.com/mbautin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/16715704?s=40&v=4",
-          "name": "jaki",
-          "url": "https://github.com/jaki"
         }
       ]
     }

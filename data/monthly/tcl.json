@@ -2,7 +2,7 @@
   "title": "GitHub Tcl Languages Monthly Trending",
   "description": "Monthly Trending of Tcl Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 06:45:00 GMT",
+  "pubDate": "Fri, 30 Oct 2026 18:25:37 GMT",
   "items": [
     {
       "title": "macports/macports-base",
@@ -10,7 +10,7 @@
       "description": "The MacPorts command-line client",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": "1,071",
+      "stars": "1,072",
       "forks": "290",
       "addStars": "26",
       "contributors": [
@@ -42,49 +42,12 @@
       ]
     },
     {
-      "title": "Digilent/digilent-xdc",
-      "url": "https://github.com/Digilent/digilent-xdc",
-      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
-      "language": "Tcl",
-      "languageColor": "#e4cc98",
-      "stars": "724",
-      "forks": "580",
-      "addStars": "15",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2454802?s=40&v=4",
-          "name": "artvvb",
-          "url": "https://github.com/artvvb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7504975?s=40&v=4",
-          "name": "sbobrowicz",
-          "url": "https://github.com/sbobrowicz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3580280?s=40&v=4",
-          "name": "PhantomMachine",
-          "url": "https://github.com/PhantomMachine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7438625?s=40&v=4",
-          "name": "elodg",
-          "url": "https://github.com/elodg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10267203?s=40&v=4",
-          "name": "bg2d",
-          "url": "https://github.com/bg2d"
-        }
-      ]
-    },
-    {
       "title": "macports/macports-ports",
       "url": "https://github.com/macports/macports-ports",
       "description": "The MacPorts ports tree",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": "1,874",
+      "stars": "1,875",
       "forks": "1,599",
       "addStars": "31",
       "contributors": [
@@ -116,13 +79,50 @@
       ]
     },
     {
+      "title": "Digilent/digilent-xdc",
+      "url": "https://github.com/Digilent/digilent-xdc",
+      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": "725",
+      "forks": "580",
+      "addStars": "15",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2454802?s=40&v=4",
+          "name": "artvvb",
+          "url": "https://github.com/artvvb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7504975?s=40&v=4",
+          "name": "sbobrowicz",
+          "url": "https://github.com/sbobrowicz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3580280?s=40&v=4",
+          "name": "PhantomMachine",
+          "url": "https://github.com/PhantomMachine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7438625?s=40&v=4",
+          "name": "elodg",
+          "url": "https://github.com/elodg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10267203?s=40&v=4",
+          "name": "bg2d",
+          "url": "https://github.com/bg2d"
+        }
+      ]
+    },
+    {
       "title": "analogdevicesinc/hdl",
       "url": "https://github.com/analogdevicesinc/hdl",
       "description": "HDL libraries and projects",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": "2,044",
-      "forks": "1,694",
+      "stars": "2,045",
+      "forks": "1,695",
       "addStars": "25",
       "contributors": [
         {
