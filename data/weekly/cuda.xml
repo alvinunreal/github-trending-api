@@ -3,45 +3,7 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Sat, 31 Oct 2026 06:36:04 GMT</pubDate>
-    <item>
-      <title>flashinfer-ai/flashinfer</title>
-      <link>https://github.com/flashinfer-ai/flashinfer</link>
-      <description>FlashInfer: Kernel Library for LLM Serving</description>
-      <guid>https://github.com/flashinfer-ai/flashinfer</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>6,825</stars>
-      <forks>1,673</forks>
-      <addStars>67</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52445717?s=40&amp;v=4</avatar>
-          <name>yyihuang</name>
-          <url>https://github.com/yyihuang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11773619?s=40&amp;v=4</avatar>
-          <name>yzh119</name>
-          <url>https://github.com/yzh119</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/219764253?s=40&amp;v=4</avatar>
-          <name>averyhNV</name>
-          <url>https://github.com/averyhNV</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/43616432?s=40&amp;v=4</avatar>
-          <name>bkryu</name>
-          <url>https://github.com/bkryu</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Sat, 31 Oct 2026 13:28:12 GMT</pubDate>
     <item>
       <title>karpathy/llm.c</title>
       <link>https://github.com/karpathy/llm.c</link>
@@ -49,7 +11,7 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>31,312</stars>
+      <stars>31,316</stars>
       <forks>3,792</forks>
       <addStars>103</addStars>
       <contributors>
@@ -81,13 +43,51 @@
       </contributors>
     </item>
     <item>
+      <title>flashinfer-ai/flashinfer</title>
+      <link>https://github.com/flashinfer-ai/flashinfer</link>
+      <description>FlashInfer: Kernel Library for LLM Serving</description>
+      <guid>https://github.com/flashinfer-ai/flashinfer</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>6,824</stars>
+      <forks>1,673</forks>
+      <addStars>67</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/52445717?s=40&amp;v=4</avatar>
+          <name>yyihuang</name>
+          <url>https://github.com/yyihuang</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/11773619?s=40&amp;v=4</avatar>
+          <name>yzh119</name>
+          <url>https://github.com/yzh119</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/219764253?s=40&amp;v=4</avatar>
+          <name>averyhNV</name>
+          <url>https://github.com/averyhNV</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/43616432?s=40&amp;v=4</avatar>
+          <name>bkryu</name>
+          <url>https://github.com/bkryu</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>deepseek-ai/DeepEP</title>
       <link>https://github.com/deepseek-ai/DeepEP</link>
       <description>DeepEP: an efficient expert-parallel communication library</description>
       <guid>https://github.com/deepseek-ai/DeepEP</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>10,390</stars>
+      <stars>10,392</stars>
       <forks>1,532</forks>
       <addStars>48</addStars>
       <contributors>
@@ -125,7 +125,7 @@
       <guid>https://github.com/NVIDIA/cuopt</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,086</stars>
+      <stars>1,087</stars>
       <forks>250</forks>
       <addStars>10</addStars>
       <contributors>
@@ -229,82 +229,6 @@
           <avatar>https://avatars.githubusercontent.com/u/24669680?s=40&amp;v=4</avatar>
           <name>Bonjourz</name>
           <url>https://github.com/Bonjourz</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HazyResearch/ThunderKittens</title>
-      <link>https://github.com/HazyResearch/ThunderKittens</link>
-      <description>Tile primitives for speedy kernels</description>
-      <guid>https://github.com/HazyResearch/ThunderKittens</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>3,786</stars>
-      <forks>341</forks>
-      <addStars>9</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11230781?s=40&amp;v=4</avatar>
-          <name>benjaminfspector</name>
-          <url>https://github.com/benjaminfspector</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/31910389?s=40&amp;v=4</avatar>
-          <name>StuartSul</name>
-          <url>https://github.com/StuartSul</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48185825?s=40&amp;v=4</avatar>
-          <name>Aaryan0404</name>
-          <url>https://github.com/Aaryan0404</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42813008?s=40&amp;v=4</avatar>
-          <name>jordan-benjamin</name>
-          <url>https://github.com/jordan-benjamin</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29069240?s=40&amp;v=4</avatar>
-          <name>simran-arora</name>
-          <url>https://github.com/simran-arora</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>NVlabs/instant-ngp</title>
-      <link>https://github.com/NVlabs/instant-ngp</link>
-      <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
-      <guid>https://github.com/NVlabs/instant-ngp</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>17,583</stars>
-      <forks>2,065</forks>
-      <addStars>11</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4923655?s=40&amp;v=4</avatar>
-          <name>Tom94</name>
-          <url>https://github.com/Tom94</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7601391?s=40&amp;v=4</avatar>
-          <name>FlorisE</name>
-          <url>https://github.com/FlorisE</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29726242?s=40&amp;v=4</avatar>
-          <name>jc211</name>
-          <url>https://github.com/jc211</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24607227?s=40&amp;v=4</avatar>
-          <name>ziyi-zhang</name>
-          <url>https://github.com/ziyi-zhang</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7057863?s=40&amp;v=4</avatar>
-          <name>yenchenlin</name>
-          <url>https://github.com/yenchenlin</url>
         </contributor>
       </contributors>
     </item>
