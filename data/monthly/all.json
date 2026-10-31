@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 31 Oct 2026 13:28:12 GMT",
+  "pubDate": "Sat, 31 Oct 2026 17:30:47 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "54,785",
-      "forks": "3,560",
+      "stars": "55,012",
+      "forks": "3,580",
       "addStars": "30,721",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,329",
-      "forks": "6,971",
+      "stars": "76,457",
+      "forks": "6,985",
       "addStars": "22,149",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "43,475",
-      "forks": "2,279",
+      "stars": "43,683",
+      "forks": "2,291",
       "addStars": "13,397",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,125",
-      "forks": "3,762",
+      "stars": "34,155",
+      "forks": "3,764",
       "addStars": "8,279",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "96,337",
-      "forks": "10,683",
+      "stars": "96,556",
+      "forks": "10,714",
       "addStars": "49,116",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "97,742",
-      "forks": "5,764",
+      "stars": "97,991",
+      "forks": "5,779",
       "addStars": "24,624",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Design physical products with AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,434",
+      "stars": "24,479",
       "forks": "2,345",
       "addStars": "7,976",
       "contributors": [
@@ -239,8 +239,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "96,353",
-      "forks": "10,870",
+      "stars": "96,405",
+      "forks": "10,878",
       "addStars": "16,470",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,802",
-      "forks": "8,713",
+      "stars": "34,562",
+      "forks": "8,745",
       "addStars": "8,676",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "107,113",
-      "forks": "9,414",
+      "stars": "107,422",
+      "forks": "9,435",
       "addStars": "11,124",
       "contributors": [
         {
@@ -350,7 +350,7 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,507",
+      "stars": "45,532",
       "forks": "4,744",
       "addStars": "8,442",
       "contributors": [
@@ -382,7 +382,7 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,991",
+      "stars": "33,017",
       "forks": "2,278",
       "addStars": "8,913",
       "contributors": [
@@ -414,7 +414,7 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,435",
+      "stars": "8,457",
       "forks": "694",
       "addStars": "6,245",
       "contributors": [
@@ -451,8 +451,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,806",
-      "forks": "1,525",
+      "stars": "14,833",
+      "forks": "1,527",
       "addStars": "5,817",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "106,693",
-      "forks": "7,215",
+      "stars": "106,843",
+      "forks": "7,228",
       "addStars": "15,496",
       "contributors": [
         {
@@ -525,8 +525,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "180,794",
-      "forks": "33,402",
+      "stars": "180,812",
+      "forks": "33,406",
       "addStars": "2,145",
       "contributors": [
         {
@@ -562,7 +562,7 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,137",
+      "stars": "10,149",
       "forks": "661",
       "addStars": "2,506",
       "contributors": [
@@ -599,8 +599,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "293,721",
-      "forks": "43,463",
+      "stars": "293,856",
+      "forks": "43,492",
       "addStars": "25,494",
       "contributors": [
         {
@@ -631,8 +631,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,804",
-      "forks": "3,297",
+      "stars": "24,901",
+      "forks": "3,304",
       "addStars": "6,415",
       "contributors": [
         {
