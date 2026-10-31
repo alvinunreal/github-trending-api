@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 22:52:02 GMT",
+  "pubDate": "Sat, 31 Oct 2026 06:36:04 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,9 +10,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "54,047",
-      "forks": "3,490",
-      "addStars": "14,320",
+      "stars": "54,383",
+      "forks": "3,524",
+      "addStars": "12,838",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -37,9 +37,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,478",
-      "forks": "3,260",
-      "addStars": "4,110",
+      "stars": "24,634",
+      "forks": "3,278",
+      "addStars": "4,478",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "96,973",
-      "forks": "5,713",
-      "addStars": "9,713",
+      "stars": "97,365",
+      "forks": "5,736",
+      "addStars": "11,323",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "309,389",
-      "forks": "27,519",
-      "addStars": "4,894",
+      "stars": "309,564",
+      "forks": "27,546",
+      "addStars": "5,474",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45416?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "118,691",
-      "forks": "22,691",
-      "addStars": "5,557",
+      "stars": "118,781",
+      "forks": "22,704",
+      "addStars": "5,490",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48253104?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "226,832",
-      "forks": "22,647",
-      "addStars": "4,250",
+      "stars": "227,004",
+      "forks": "22,661",
+      "addStars": "4,178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "106,290",
-      "forks": "7,189",
-      "addStars": "4,359",
+      "stars": "106,479",
+      "forks": "7,205",
+      "addStars": "4,712",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": "9,349",
-      "forks": "357",
-      "addStars": "980",
+      "stars": "9,416",
+      "forks": "359",
+      "addStars": "1,107",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87530089?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,687",
-      "forks": "8,650",
-      "addStars": "2,142",
+      "stars": "33,039",
+      "forks": "8,678",
+      "addStars": "2,775",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -308,9 +308,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,024",
-      "forks": "3,747",
-      "addStars": "2,504",
+      "stars": "34,082",
+      "forks": "3,757",
+      "addStars": "2,083",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -340,9 +340,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "293,371",
-      "forks": "43,411",
-      "addStars": "6,594",
+      "stars": "293,538",
+      "forks": "43,435",
+      "addStars": "6,506",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -372,9 +372,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "185,264",
-      "forks": "21,891",
-      "addStars": "1,877",
+      "stars": "185,508",
+      "forks": "21,907",
+      "addStars": "1,888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "80,290",
+      "stars": "80,331",
       "forks": "9,416",
-      "addStars": "1,854",
+      "addStars": "1,723",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",

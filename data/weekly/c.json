@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Weekly Trending",
   "description": "Weekly Trending of C Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 22:52:02 GMT",
+  "pubDate": "Sat, 31 Oct 2026 06:36:04 GMT",
   "items": [
     {
       "title": "php/php-src",
@@ -10,9 +10,9 @@
       "description": "The PHP Interpreter",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "41,732",
-      "forks": "8,501",
-      "addStars": "960",
+      "stars": "41,736",
+      "forks": "8,504",
+      "addStars": "241",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2510034?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "76,013",
-      "forks": "5,028",
-      "addStars": "1,214",
+      "stars": "76,028",
+      "forks": "5,034",
+      "addStars": "1,012",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "140,298",
+      "stars": "140,312",
       "forks": "8,679",
-      "addStars": "718",
+      "addStars": "749",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1462282?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,961",
-      "forks": "10,314",
-      "addStars": "91",
+      "stars": "16,962",
+      "forks": "10,315",
+      "addStars": "92",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/180017?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,136",
+      "stars": "31,137",
       "forks": "11,570",
-      "addStars": "124",
+      "addStars": "126",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/698918?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,198",
-      "forks": "3,597",
-      "addStars": "157",
+      "stars": "27,201",
+      "forks": "3,596",
+      "addStars": "166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10434361?s=40&v=4",
@@ -227,7 +227,7 @@
       "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "22,172",
+      "stars": "22,174",
       "forks": "9,031",
       "addStars": "31",
       "contributors": [
@@ -264,9 +264,9 @@
       "description": "Disk encryption with strong security based on TrueCrypt",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,010",
-      "forks": "1,385",
-      "addStars": "100",
+      "stars": "12,013",
+      "forks": "1,384",
+      "addStars": "102",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4698669?s=40&v=4",
@@ -301,9 +301,9 @@
       "description": "ehviewer，用爱发电，快乐前行",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "28,442",
+      "stars": "28,455",
       "forks": "758",
-      "addStars": "371",
+      "addStars": "339",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49278135?s=40&v=4",
@@ -338,9 +338,9 @@
       "description": "The systemd System and Service Manager",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "16,960",
-      "forks": "4,792",
-      "addStars": "76",
+      "stars": "16,963",
+      "forks": "4,793",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2130732?s=40&v=4",
@@ -377,7 +377,7 @@
       "languageColor": "#555555",
       "stars": "4,955",
       "forks": "466",
-      "addStars": "51",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111028570?s=40&v=4",
@@ -412,9 +412,9 @@
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "27,569",
-      "forks": "1,501",
-      "addStars": "75",
+      "stars": "27,567",
+      "forks": "1,500",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65632?s=40&v=4",
@@ -449,9 +449,9 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "7,038",
+      "stars": "7,041",
       "forks": "3,007",
-      "addStars": "23",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26596258?s=40&v=4",
@@ -487,8 +487,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": "43,324",
-      "forks": "7,470",
-      "addStars": "130",
+      "forks": "7,471",
+      "addStars": "133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/177011?s=40&v=4",
@@ -523,9 +523,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "78,633",
-      "forks": "10,975",
-      "addStars": "682",
+      "stars": "78,652",
+      "forks": "10,979",
+      "addStars": "691",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2084112?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 30 Oct 2026 22:52:02 GMT",
+  "pubDate": "Sat, 31 Oct 2026 06:36:04 GMT",
   "items": [
     {
       "title": "quarkusio/quarkus",
@@ -10,9 +10,9 @@
       "description": "Quarkus: Supersonic Subatomic Java.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "15,971",
-      "forks": "3,354",
-      "addStars": "4",
+      "stars": "15,972",
+      "forks": "3,355",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1279749?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Apache Iceberg",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,390",
+      "stars": "9,391",
       "forks": "3,642",
-      "addStars": "3",
+      "addStars": "5",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87915?s=40&v=4",
@@ -74,8 +74,8 @@
       "description": "🔎 Open source distributed and RESTful search engine.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "13,937",
-      "forks": "3,078",
+      "stars": "13,938",
+      "forks": "3,079",
       "addStars": "3",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "27,372",
-      "forks": "3,019",
+      "stars": "27,392",
+      "forks": "3,021",
       "addStars": "73",
       "contributors": [
         {
@@ -143,9 +143,9 @@
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "23,482",
+      "stars": "23,483",
       "forks": "6,591",
-      "addStars": "4",
+      "addStars": "6",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1858943?s=40&v=4",
@@ -180,8 +180,8 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "37,615",
-      "forks": "9,120",
+      "stars": "37,617",
+      "forks": "9,121",
       "addStars": "24",
       "contributors": [
         {
@@ -251,7 +251,7 @@
       "languageColor": "#b07219",
       "stars": "9,777",
       "forks": "2,451",
-      "addStars": "6",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2291859?s=40&v=4",
@@ -288,7 +288,7 @@
       "languageColor": "#b07219",
       "stars": "13,386",
       "forks": "3,847",
-      "addStars": "2",
+      "addStars": "1",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/144328?s=40&v=4",
@@ -323,7 +323,7 @@
       "description": "Build distributed, production-grade, long-running agents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "6,198",
+      "stars": "6,201",
       "forks": "1,548",
       "addStars": "16",
       "contributors": [
@@ -355,7 +355,7 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "10,635",
+      "stars": "10,643",
       "forks": "1,518",
       "addStars": "23",
       "contributors": [
@@ -382,8 +382,8 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "78,426",
-      "forks": "26,194",
+      "stars": "78,429",
+      "forks": "26,197",
       "addStars": "14",
       "contributors": [
         {
@@ -419,7 +419,7 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "26,019",
+      "stars": "26,020",
       "forks": "4,669",
       "addStars": "6",
       "contributors": [
@@ -451,8 +451,8 @@
       "description": "Jenkins automation server",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "26,707",
-      "forks": "9,815",
+      "stars": "26,710",
+      "forks": "9,814",
       "addStars": "5",
       "contributors": [
         {
@@ -483,9 +483,9 @@
       "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "16,161",
+      "stars": "16,159",
       "forks": "4,005",
-      "addStars": "5",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2899462?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "Automated mass refactoring of source code.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,835",
+      "stars": "3,836",
       "forks": "588",
-      "addStars": "6",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1697736?s=40&v=4",
@@ -621,7 +621,7 @@
       "description": "Apache Druid: a high performance real-time analytics database.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "14,091",
+      "stars": "14,092",
       "forks": "3,811",
       "addStars": "1",
       "contributors": [
@@ -658,8 +658,8 @@
       "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "52,250",
-      "forks": "4,438",
+      "stars": "52,251",
+      "forks": "4,437",
       "addStars": "11",
       "contributors": [
         {
@@ -732,7 +732,7 @@
       "description": "Spring Security",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,657",
+      "stars": "9,658",
       "forks": "6,374",
       "addStars": "1",
       "contributors": [
@@ -766,7 +766,7 @@
       "languageColor": "#b07219",
       "stars": "1,956",
       "forks": "4,458",
-      "addStars": "3",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1390773?s=40&v=4",
@@ -796,9 +796,9 @@
       "description": "An Application Framework for AI Engineering",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "9,606",
-      "forks": "3,016",
-      "addStars": "3",
+      "stars": "9,608",
+      "forks": "3,015",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1351573?s=40&v=4",
