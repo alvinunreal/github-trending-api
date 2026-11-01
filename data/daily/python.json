@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 31 Oct 2026 22:22:15 GMT",
+  "pubDate": "Sun, 01 Nov 2026 07:05:58 GMT",
   "items": [
     {
       "title": "HKUDS/DeepTutor",
@@ -10,9 +10,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,742",
-      "forks": "6,457",
-      "addStars": "1,035",
+      "stars": "53,117",
+      "forks": "6,504",
+      "addStars": "1,034",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "85,937",
-      "forks": "20,542",
-      "addStars": "341",
+      "stars": "86,143",
+      "forks": "20,560",
+      "addStars": "342",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37985796?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,762",
-      "forks": "473",
-      "addStars": "51",
+      "stars": "4,791",
+      "forks": "474",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/148287731?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "185,844",
-      "forks": "21,940",
-      "addStars": "756",
+      "stars": "186,017",
+      "forks": "21,960",
+      "addStars": "754",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,941",
-      "forks": "9,690",
-      "addStars": "564",
+      "stars": "74,092",
+      "forks": "9,714",
+      "addStars": "583",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "97,471",
-      "forks": "14,208",
-      "addStars": "44",
+      "stars": "97,487",
+      "forks": "14,214",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1267200?s=40&v=4",
@@ -207,14 +207,46 @@
       ]
     },
     {
+      "title": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "48,936",
+      "forks": "7,104",
+      "addStars": "74",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/184072420?s=40&v=4",
+          "name": "sickn33",
+          "url": "https://github.com/sickn33"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/188885273?s=40&v=4",
+          "name": "sck000",
+          "url": "https://github.com/sck000"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/84014263?s=40&v=4",
+          "name": "WHOISABHISHEKADHIKARI",
+          "url": "https://github.com/WHOISABHISHEKADHIKARI"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "144,376",
-      "forks": "12,934",
-      "addStars": "166",
+      "stars": "144,559",
+      "forks": "12,952",
+      "addStars": "154",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -239,9 +271,9 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,456",
-      "forks": "3,317",
-      "addStars": "66",
+      "stars": "47,481",
+      "forks": "3,321",
+      "addStars": "80",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4887959?s=40&v=4",
@@ -271,9 +303,9 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "140,004",
-      "forks": "13,350",
-      "addStars": "686",
+      "stars": "140,151",
+      "forks": "13,378",
+      "addStars": "660",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -296,9 +328,9 @@
           "url": "https://github.com/rajatnagda45"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/182421137?s=40&v=4",
-          "name": "abhay-codes07",
-          "url": "https://github.com/abhay-codes07"
+          "avatar": "https://avatars.githubusercontent.com/u/6143578?s=40&v=4",
+          "name": "oleksii-tumanov",
+          "url": "https://github.com/oleksii-tumanov"
         }
       ]
     },
@@ -308,7 +340,7 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,191",
+      "stars": "60,206",
       "forks": "7,628",
       "addStars": "49",
       "contributors": [
@@ -345,9 +377,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,851",
-      "forks": "596",
-      "addStars": "276",
+      "stars": "6,889",
+      "forks": "602",
+      "addStars": "266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
@@ -382,9 +414,9 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,844",
-      "forks": "2,031",
-      "addStars": "118",
+      "stars": "13,848",
+      "forks": "2,032",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21198860?s=40&v=4",
@@ -414,9 +446,9 @@
       "description": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,703",
-      "forks": "764",
-      "addStars": "213",
+      "stars": "3,768",
+      "forks": "774",
+      "addStars": "218",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/249879463?s=40&v=4",
@@ -451,9 +483,9 @@
       "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,411",
-      "forks": "1,673",
-      "addStars": "37",
+      "stars": "8,429",
+      "forks": "1,679",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1306534?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Astro Languages Monthly Trending",
   "description": "Monthly Trending of Astro Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 31 Oct 2026 22:22:15 GMT",
+  "pubDate": "Sun, 01 Nov 2026 07:05:58 GMT",
   "items": [
     {
       "title": "twbs/icons",
@@ -10,9 +10,9 @@
       "description": "Official open source SVG icon library for Bootstrap.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "8,164",
-      "forks": "1,121",
-      "addStars": "47",
+      "stars": "8,165",
+      "forks": "1,123",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/349621?s=40&v=4",
@@ -38,7 +38,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "1,966",
-      "forks": "1,248",
+      "forks": "1,249",
       "addStars": "18",
       "contributors": [
         {
@@ -75,7 +75,7 @@
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": "4,492",
-      "forks": "841",
+      "forks": "842",
       "addStars": "145",
       "contributors": [
         {
@@ -138,9 +138,9 @@
       "description": "Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "41,981",
-      "forks": "4,436",
-      "addStars": "247",
+      "stars": "41,980",
+      "forks": "4,435",
+      "addStars": "245",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1282324?s=40&v=4",
@@ -204,7 +204,7 @@
       "languageColor": "#ff5a03",
       "stars": "484",
       "forks": "126",
-      "addStars": "9",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65150720?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "✨A static blog template built with Astro.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": "5,138",
-      "forks": "1,274",
-      "addStars": "114",
+      "stars": "5,139",
+      "forks": "1,273",
+      "addStars": "116",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25200299?s=40&v=4",
@@ -263,7 +263,7 @@
       "languageColor": "#ff5a03",
       "stars": "284",
       "forks": "115",
-      "addStars": "65",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3090527?s=40&v=4",
@@ -300,7 +300,7 @@
       "languageColor": "#ff5a03",
       "stars": "1,472",
       "forks": "265",
-      "addStars": "51",
+      "addStars": "47",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91018726?s=40&v=4",
@@ -321,6 +321,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/171479949?s=40&v=4",
           "name": "KyleDL101",
           "url": "https://github.com/KyleDL101"
+        }
+      ]
+    },
+    {
+      "title": "ColorlibHQ/AdminLTE",
+      "url": "https://github.com/ColorlibHQ/AdminLTE",
+      "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": "45,670",
+      "forks": "18,112",
+      "addStars": "123",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1554582?s=40&v=4",
+          "name": "REJack",
+          "url": "https://github.com/REJack"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1512664?s=40&v=4",
+          "name": "almasaeed2010",
+          "url": "https://github.com/almasaeed2010"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50356015?s=40&v=4",
+          "name": "danny007in",
+          "url": "https://github.com/danny007in"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3451398?s=40&v=4",
+          "name": "puikinsh",
+          "url": "https://github.com/puikinsh"
         }
       ]
     }

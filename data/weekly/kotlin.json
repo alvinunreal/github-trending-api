@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 31 Oct 2026 22:22:15 GMT",
+  "pubDate": "Sun, 01 Nov 2026 07:05:58 GMT",
   "items": [
     {
       "title": "android/skills",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,163",
-      "forks": "662",
-      "addStars": "716",
+      "stars": "10,184",
+      "forks": "664",
+      "addStars": "599",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/133978327?s=40&v=4",
@@ -44,12 +44,12 @@
     {
       "title": "CYQawa/YunX",
       "url": "https://github.com/CYQawa/YunX",
-      "description": "✨一个安卓网盘解析下载app✨",
+      "description": "✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,099",
-      "forks": "315",
-      "addStars": "779",
+      "stars": "6,125",
+      "forks": "318",
+      "addStars": "675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/197054527?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Kernel-based Android Root Solution & KPM",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,777",
+      "stars": "6,782",
       "forks": "1,394",
-      "addStars": "133",
+      "addStars": "134",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109797057?s=40&v=4",
@@ -121,7 +121,7 @@
       "description": "New mask, same task. All patches answer to Doom.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "986",
+      "stars": "987",
       "forks": "69",
       "addStars": "67",
       "contributors": [
@@ -153,9 +153,9 @@
       "description": "Fast, reliable download accelerator and video downloader since 2013",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,229",
+      "stars": "8,238",
       "forks": "1,213",
-      "addStars": "136",
+      "addStars": "180",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8403090?s=40&v=4",
@@ -191,8 +191,8 @@
       "language": "Kotlin",
       "languageColor": "#A97BFF",
       "stars": "459",
-      "forks": "43",
-      "addStars": "210",
+      "forks": "44",
+      "addStars": "121",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21023829?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "15,276",
+      "stars": "15,282",
       "forks": "658",
-      "addStars": "140",
+      "addStars": "125",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52178347?s=40&v=4",
@@ -261,7 +261,7 @@
       "languageColor": "#A97BFF",
       "stars": "29,563",
       "forks": "6,931",
-      "addStars": "52",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37311915?s=40&v=4",
@@ -296,19 +296,19 @@
       "description": "A modern sleek music player.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "392",
-      "forks": "29",
-      "addStars": "159",
+      "stars": "407",
+      "forks": "30",
+      "addStars": "177",
       "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/341597425?s=40&v=4",
-          "name": "ryukeicii",
-          "url": "https://github.com/ryukeicii"
-        },
         {
           "avatar": "https://avatars.githubusercontent.com/u/123474119?s=40&v=4",
           "name": "realidkroo",
           "url": "https://github.com/realidkroo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/341597425?s=40&v=4",
+          "name": "ryukeicii",
+          "url": "https://github.com/ryukeicii"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/215938563?s=40&v=4",
@@ -319,6 +319,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/82929413?s=40&v=4",
           "name": "dirhaam",
           "url": "https://github.com/dirhaam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/193412982?s=40&v=4",
+          "name": "InlitX",
+          "url": "https://github.com/InlitX"
         }
       ]
     },
@@ -328,9 +333,9 @@
       "description": "The Magic Mask for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "63,655",
-      "forks": "19,120",
-      "addStars": "247",
+      "stars": "63,659",
+      "forks": "19,129",
+      "addStars": "246",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7337301?s=40&v=4",
@@ -365,9 +370,9 @@
       "description": "Open-source Android camera application focused on static photography",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "610",
-      "forks": "60",
-      "addStars": "73",
+      "stars": "612",
+      "forks": "61",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3062432?s=40&v=4",
@@ -397,9 +402,9 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "32,539",
-      "forks": "3,501",
-      "addStars": "483",
+      "stars": "32,564",
+      "forks": "3,504",
+      "addStars": "492",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12999176?s=40&v=4",
@@ -434,9 +439,9 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,908",
-      "forks": "4,829",
-      "addStars": "325",
+      "stars": "19,926",
+      "forks": "4,832",
+      "addStars": "327",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
@@ -466,9 +471,9 @@
       "description": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,041",
-      "forks": "503",
-      "addStars": "736",
+      "stars": "5,069",
+      "forks": "509",
+      "addStars": "722",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/105504280?s=40&v=4",
@@ -498,9 +503,9 @@
       "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,964",
+      "stars": "1,967",
       "forks": "83",
-      "addStars": "144",
+      "addStars": "147",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/45147847?s=40&v=4",
