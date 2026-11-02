@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Weekly Trending",
   "description": "Weekly Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 01 Nov 2026 22:38:32 GMT",
+  "pubDate": "Mon, 02 Nov 2026 07:10:29 GMT",
   "items": [
     {
       "title": "xiaolai/the-craft-of-selfteaching",
@@ -10,9 +10,9 @@
       "description": "One has no future if one couldn't teach themself.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,977",
-      "forks": "17,960",
-      "addStars": "1,005",
+      "stars": "18,998",
+      "forks": "17,961",
+      "addStars": "1,048",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/152970?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "40,179",
-      "forks": "6,480",
-      "addStars": "1,286",
+      "stars": "40,609",
+      "forks": "6,514",
+      "addStars": "1,681",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/38653995?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,542",
-      "forks": "2,950",
-      "addStars": "342",
+      "stars": "18,587",
+      "forks": "2,955",
+      "addStars": "487",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -101,14 +101,46 @@
       ]
     },
     {
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": "122,795",
+      "forks": "65,663",
+      "addStars": "656",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
+          "name": "skytin1004",
+          "url": "https://github.com/skytin1004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
+          "name": "koreyspace",
+          "url": "https://github.com/koreyspace"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
+          "name": "leestott",
+          "url": "https://github.com/leestott"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&v=4",
+          "name": "john0isaac",
+          "url": "https://github.com/john0isaac"
+        }
+      ]
+    },
+    {
       "title": "karpathy/nn-zero-to-hero",
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,189",
-      "forks": "3,665",
-      "addStars": "214",
+      "stars": "25,204",
+      "forks": "3,671",
+      "addStars": "248",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -128,9 +160,9 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "58,769",
-      "forks": "7,002",
-      "addStars": "1,261",
+      "stars": "58,809",
+      "forks": "7,010",
+      "addStars": "1,095",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59903352?s=40&v=4",
@@ -165,9 +197,9 @@
       "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,097",
+      "stars": "18,101",
       "forks": "2,504",
-      "addStars": "72",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6355024?s=40&v=4",
@@ -202,9 +234,9 @@
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,187",
+      "stars": "18,191",
       "forks": "2,672",
-      "addStars": "205",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11997567?s=40&v=4",
@@ -239,9 +271,9 @@
       "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,911",
-      "forks": "2,084",
-      "addStars": "107",
+      "stars": "14,914",
+      "forks": "2,085",
+      "addStars": "125",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&v=4",
@@ -276,9 +308,9 @@
       "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "44,916",
+      "stars": "44,931",
       "forks": "9,396",
-      "addStars": "320",
+      "addStars": "325",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4583288?s=40&v=4",
@@ -313,9 +345,9 @@
       "description": "Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,735",
-      "forks": "420",
-      "addStars": "95",
+      "stars": "2,738",
+      "forks": "421",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14981636?s=40&v=4",
@@ -350,9 +382,9 @@
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,882",
+      "stars": "37,886",
       "forks": "7,625",
-      "addStars": "185",
+      "addStars": "196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
@@ -382,9 +414,9 @@
       "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "78,612",
-      "forks": "25,741",
-      "addStars": "774",
+      "stars": "78,664",
+      "forks": "25,754",
+      "addStars": "792",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
@@ -414,9 +446,9 @@
       "description": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,263",
+      "stars": "2,266",
       "forks": "465",
-      "addStars": "52",
+      "addStars": "53",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/161380339?s=40&v=4",
@@ -446,9 +478,9 @@
       "description": "Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "934",
-      "forks": "135",
-      "addStars": "525",
+      "stars": "946",
+      "forks": "136",
+      "addStars": "546",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/157355312?s=40&v=4",
@@ -483,9 +515,9 @@
       "description": "Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference & alignment .6 progressive code assignments for full-stack LLM learning | 涵盖预训练数据、分词器、Transformer、MoE、分布式训练、缩放定律、推理与对齐，6 项渐进代码作业，掌握 LLM 全栈知识",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "2,621",
-      "forks": "245",
-      "addStars": "825",
+      "stars": "2,661",
+      "forks": "250",
+      "addStars": "819",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184539312?s=40&v=4",
@@ -520,9 +552,9 @@
       "description": "A simple screen parsing tool towards pure vision based GUI agent",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,599",
+      "stars": "25,601",
       "forks": "2,238",
-      "addStars": "58",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/109304525?s=40&v=4",
@@ -557,9 +589,9 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "54,071",
-      "forks": "6,529",
-      "addStars": "285",
+      "stars": "54,075",
+      "forks": "6,530",
+      "addStars": "300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/346275?s=40&v=4",
@@ -594,9 +626,9 @@
       "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "7,471",
+      "stars": "7,474",
       "forks": "4,242",
-      "addStars": "175",
+      "addStars": "173",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16750345?s=40&v=4",
@@ -631,9 +663,9 @@
       "description": "Anthropic's educational courses",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "22,958",
+      "stars": "22,959",
       "forks": "2,527",
-      "addStars": "38",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5498438?s=40&v=4",
@@ -668,9 +700,9 @@
       "description": "Anthropic's Interactive Prompt Engineering Tutorial",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "38,982",
-      "forks": "4,321",
-      "addStars": "257",
+      "stars": "38,992",
+      "forks": "4,322",
+      "addStars": "251",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/143411590?s=40&v=4",
@@ -692,7 +724,7 @@
       "languageColor": "#DA5B0B",
       "stars": "8,141",
       "forks": "3,766",
-      "addStars": "64",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77543865?s=40&v=4",
