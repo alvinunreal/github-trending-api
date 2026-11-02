@@ -3,7 +3,7 @@
     <title>GitHub Scss Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Scss Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 07:10:29 GMT</pubDate>
+    <pubDate>Mon, 02 Nov 2026 16:54:46 GMT</pubDate>
     <item>
       <title>material-components/material-web</title>
       <link>https://github.com/material-components/material-web</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/material-components/material-web</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>11,400</stars>
-      <forks>1,165</forks>
+      <stars>11,404</stars>
+      <forks>1,166</forks>
       <addStars>122</addStars>
       <contributors>
         <contributor>
@@ -50,7 +50,7 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>17,772</stars>
-      <forks>9,821</forks>
+      <forks>9,825</forks>
       <addStars>128</addStars>
       <contributors>
         <contributor>
@@ -88,7 +88,7 @@
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
       <stars>581</stars>
-      <forks>1,065</forks>
+      <forks>1,066</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/RayeRen/acad-homepage.github.io</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>2,982</stars>
-      <forks>5,943</forks>
+      <stars>2,981</stars>
+      <forks>5,941</forks>
       <addStars>25</addStars>
       <contributors>
         <contributor>
@@ -176,7 +176,7 @@
       <guid>https://github.com/LineageOS/lineage_wiki</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>891</stars>
+      <stars>892</stars>
       <forks>548</forks>
       <addStars>22</addStars>
       <contributors>
@@ -214,7 +214,7 @@
       <guid>https://github.com/cobiwave/simplefolio</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>14,220</stars>
+      <stars>14,219</stars>
       <forks>6,081</forks>
       <addStars>30</addStars>
       <contributors>
@@ -246,14 +246,47 @@
       </contributors>
     </item>
     <item>
+      <title>primer/css</title>
+      <link>https://github.com/primer/css</link>
+      <description>Primer is GitHub's design system. This is the CSS implementation</description>
+      <guid>https://github.com/primer/css</guid>
+      <language>SCSS</language>
+      <languageColor>#c6538c</languageColor>
+      <stars>13,050</stars>
+      <forks>1,291</forks>
+      <addStars>43</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/113896?s=40&amp;v=4</avatar>
+          <name>shawnbot</name>
+          <url>https://github.com/shawnbot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54012?s=40&amp;v=4</avatar>
+          <name>jonrohan</name>
+          <url>https://github.com/jonrohan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/378023?s=40&amp;v=4</avatar>
+          <name>simurai</name>
+          <url>https://github.com/simurai</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/334891?s=40&amp;v=4</avatar>
+          <name>broccolini</name>
+          <url>https://github.com/broccolini</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vinceliuice/Orchis-theme</title>
       <link>https://github.com/vinceliuice/Orchis-theme</link>
       <description>Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.</description>
       <guid>https://github.com/vinceliuice/Orchis-theme</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>4,154</stars>
-      <forks>264</forks>
+      <stars>4,155</stars>
+      <forks>265</forks>
       <addStars>55</addStars>
       <contributors>
         <contributor>
@@ -284,68 +317,40 @@
       </contributors>
     </item>
     <item>
-      <title>primer/css</title>
-      <link>https://github.com/primer/css</link>
-      <description>Primer is GitHub's design system. This is the CSS implementation</description>
-      <guid>https://github.com/primer/css</guid>
+      <title>pages-themes/minimal</title>
+      <link>https://github.com/pages-themes/minimal</link>
+      <description>Minimal is a Jekyll theme for GitHub Pages</description>
+      <guid>https://github.com/pages-themes/minimal</guid>
       <language>SCSS</language>
       <languageColor>#c6538c</languageColor>
-      <stars>13,051</stars>
-      <forks>1,291</forks>
-      <addStars>43</addStars>
+      <stars>1,816</stars>
+      <forks>6,403</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113896?s=40&amp;v=4</avatar>
-          <name>shawnbot</name>
-          <url>https://github.com/shawnbot</url>
+          <avatar>https://avatars.githubusercontent.com/u/282759?s=40&amp;v=4</avatar>
+          <name>benbalter</name>
+          <url>https://github.com/benbalter</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54012?s=40&amp;v=4</avatar>
-          <name>jonrohan</name>
-          <url>https://github.com/jonrohan</url>
+          <avatar>https://avatars.githubusercontent.com/u/237985?s=40&amp;v=4</avatar>
+          <name>parkr</name>
+          <url>https://github.com/parkr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/378023?s=40&amp;v=4</avatar>
-          <name>simurai</name>
-          <url>https://github.com/simurai</url>
+          <avatar>https://avatars.githubusercontent.com/u/27039604?s=40&amp;v=4</avatar>
+          <name>tsusdere</name>
+          <url>https://github.com/tsusdere</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/334891?s=40&amp;v=4</avatar>
-          <name>broccolini</name>
-          <url>https://github.com/broccolini</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>patternfly/patternfly</title>
-      <link>https://github.com/patternfly/patternfly</link>
-      <description>This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.</description>
-      <guid>https://github.com/patternfly/patternfly</guid>
-      <language>SCSS</language>
-      <languageColor>#c6538c</languageColor>
-      <stars>822</stars>
-      <forks>117</forks>
-      <addStars>5</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35148959?s=40&amp;v=4</avatar>
-          <name>mcoker</name>
-          <url>https://github.com/mcoker</url>
+          <avatar>https://avatars.githubusercontent.com/u/615115?s=40&amp;v=4</avatar>
+          <name>Jmuccigr</name>
+          <url>https://github.com/Jmuccigr</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5385435?s=40&amp;v=4</avatar>
-          <name>mattnolting</name>
-          <url>https://github.com/mattnolting</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/19825616?s=40&amp;v=4</avatar>
-          <name>srambach</name>
-          <url>https://github.com/srambach</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20118816?s=40&amp;v=4</avatar>
-          <name>christiemolloy</name>
-          <url>https://github.com/christiemolloy</url>
+          <avatar>https://avatars.githubusercontent.com/u/3324775?s=40&amp;v=4</avatar>
+          <name>EricFromCanada</name>
+          <url>https://github.com/EricFromCanada</url>
         </contributor>
       </contributors>
     </item>

@@ -2,7 +2,7 @@
   "title": "GitHub Batchfile Languages Monthly Trending",
   "description": "Monthly Trending of Batchfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 07:10:29 GMT",
+  "pubDate": "Mon, 02 Nov 2026 16:54:46 GMT",
   "items": [
     {
       "title": "TeeKay87/HEN-Cheats-Collection",
@@ -32,8 +32,8 @@
       "description": "",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "35,543",
-      "forks": "2,724",
+      "stars": "35,564",
+      "forks": "2,723",
       "addStars": "1,429",
       "contributors": [
         {
@@ -64,45 +64,13 @@
       ]
     },
     {
-      "title": "TheBeardofKnowledge/TBOK-Win11Optimizer",
-      "url": "https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer",
-      "description": "Windows 11 Optimizer that's also safe for business use. This is how Windows 11 should work OOBE, not what we were given by Microsoft.",
-      "language": "Batchfile",
-      "languageColor": "#C1F12E",
-      "stars": "383",
-      "forks": "34",
-      "addStars": "196",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181420662?s=40&v=4",
-          "name": "TheBeardofKnowledge",
-          "url": "https://github.com/TheBeardofKnowledge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/104723680?s=40&v=4",
-          "name": "LiamJ74",
-          "url": "https://github.com/LiamJ74"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22783445?s=40&v=4",
-          "name": "peter9811",
-          "url": "https://github.com/peter9811"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
       "title": "Atlas-OS/Atlas",
       "url": "https://github.com/Atlas-OS/Atlas",
       "description": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "21,995",
-      "forks": "777",
+      "stars": "22,003",
+      "forks": "778",
       "addStars": "371",
       "contributors": [
         {
@@ -155,6 +123,38 @@
       ]
     },
     {
+      "title": "TheBeardofKnowledge/TBOK-Win11Optimizer",
+      "url": "https://github.com/TheBeardofKnowledge/TBOK-Win11Optimizer",
+      "description": "Windows 11 Optimizer that's also safe for business use. This is how Windows 11 should work OOBE, not what we were given by Microsoft.",
+      "language": "Batchfile",
+      "languageColor": "#C1F12E",
+      "stars": "384",
+      "forks": "34",
+      "addStars": "196",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181420662?s=40&v=4",
+          "name": "TheBeardofKnowledge",
+          "url": "https://github.com/TheBeardofKnowledge"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/104723680?s=40&v=4",
+          "name": "LiamJ74",
+          "url": "https://github.com/LiamJ74"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/22783445?s=40&v=4",
+          "name": "peter9811",
+          "url": "https://github.com/peter9811"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "StunlockStudios/vrising-dedicated-server-instructions",
       "url": "https://github.com/StunlockStudios/vrising-dedicated-server-instructions",
       "description": "V Rising Dedicated Server Instructions",
@@ -193,7 +193,7 @@
       "language": "Batchfile",
       "languageColor": "#C1F12E",
       "stars": "820",
-      "forks": "112",
+      "forks": "113",
       "addStars": "17",
       "contributors": [
         {
@@ -214,7 +214,7 @@
       "description": "A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.",
       "language": "Batchfile",
       "languageColor": "#C1F12E",
-      "stars": "8,639",
+      "stars": "8,642",
       "forks": "549",
       "addStars": "210",
       "contributors": [

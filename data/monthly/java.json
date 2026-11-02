@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Monthly Trending",
   "description": "Monthly Trending of Java Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 07:10:29 GMT",
+  "pubDate": "Mon, 02 Nov 2026 16:54:46 GMT",
   "items": [
     {
       "title": "NationalSecurityAgency/ghidra",
@@ -10,8 +10,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "96,917",
-      "forks": "10,950",
+      "stars": "97,084",
+      "forks": "10,976",
       "addStars": "16,858",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "10,865",
-      "forks": "1,296",
+      "stars": "10,872",
+      "forks": "1,297",
       "addStars": "756",
       "contributors": [
         {
@@ -79,45 +79,13 @@
       ]
     },
     {
-      "title": "iBotPeaches/Apktool",
-      "url": "https://github.com/iBotPeaches/Apktool",
-      "description": "A tool for reverse engineering Android apk files",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "26,909",
-      "forks": "4,199",
-      "addStars": "1,245",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/611784?s=40&v=4",
-          "name": "iBotPeaches",
-          "url": "https://github.com/iBotPeaches"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/405138?s=40&v=4",
-          "name": "broo2s",
-          "url": "https://github.com/broo2s"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8811086?s=40&v=4",
-          "name": "IgorEisberg",
-          "url": "https://github.com/IgorEisberg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/106383?s=40&v=4",
-          "name": "JesusFreke",
-          "url": "https://github.com/JesusFreke"
-        }
-      ]
-    },
-    {
       "title": "LaurieWired/GhidraMCP",
       "url": "https://github.com/LaurieWired/GhidraMCP",
       "description": "MCP Server for Ghidra",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "11,697",
-      "forks": "1,253",
+      "stars": "11,709",
+      "forks": "1,255",
       "addStars": "1,509",
       "contributors": [
         {
@@ -148,13 +116,67 @@
       ]
     },
     {
+      "title": "iBotPeaches/Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "description": "A tool for reverse engineering Android apk files",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "26,929",
+      "forks": "4,204",
+      "addStars": "1,245",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/611784?s=40&v=4",
+          "name": "iBotPeaches",
+          "url": "https://github.com/iBotPeaches"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/405138?s=40&v=4",
+          "name": "broo2s",
+          "url": "https://github.com/broo2s"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8811086?s=40&v=4",
+          "name": "IgorEisberg",
+          "url": "https://github.com/IgorEisberg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/106383?s=40&v=4",
+          "name": "JesusFreke",
+          "url": "https://github.com/JesusFreke"
+        }
+      ]
+    },
+    {
+      "title": "mlmvpn/mlmvpn_android",
+      "url": "https://github.com/mlmvpn/mlmvpn_android",
+      "description": "Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "641",
+      "forks": "106",
+      "addStars": "407",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/224180434?s=40&v=4",
+          "name": "mlmvpn",
+          "url": "https://github.com/mlmvpn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "FCL-Team/FoldCraftLauncher",
       "url": "https://github.com/FCL-Team/FoldCraftLauncher",
       "description": "Fold Craft Launcher, an Android Minecraft : Java Edition launcher.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "5,125",
-      "forks": "365",
+      "stars": "5,127",
+      "forks": "366",
       "addStars": "335",
       "contributors": [
         {
@@ -190,8 +212,8 @@
       "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "81,726",
-      "forks": "43,464",
+      "stars": "81,731",
+      "forks": "43,465",
       "addStars": "547",
       "contributors": [
         {
@@ -222,13 +244,45 @@
       ]
     },
     {
+      "title": "bethington/ghidra-mcp",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "6,062",
+      "forks": "374",
+      "addStars": "1,999",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5455441?s=40&v=4",
+          "name": "bethington",
+          "url": "https://github.com/bethington"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1699754?s=40&v=4",
+          "name": "heeen",
+          "url": "https://github.com/heeen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/243025451?s=40&v=4",
+          "name": "huehuehuehueing",
+          "url": "https://github.com/huehuehuehueing"
+        }
+      ]
+    },
+    {
       "title": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "78,457",
-      "forks": "26,234",
+      "stars": "78,460",
+      "forks": "26,239",
       "addStars": "442",
       "contributors": [
         {
@@ -259,77 +313,13 @@
       ]
     },
     {
-      "title": "bethington/ghidra-mcp",
-      "url": "https://github.com/bethington/ghidra-mcp",
-      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "6,055",
-      "forks": "371",
-      "addStars": "1,999",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5455441?s=40&v=4",
-          "name": "bethington",
-          "url": "https://github.com/bethington"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1699754?s=40&v=4",
-          "name": "heeen",
-          "url": "https://github.com/heeen"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/243025451?s=40&v=4",
-          "name": "huehuehuehueing",
-          "url": "https://github.com/huehuehuehueing"
-        }
-      ]
-    },
-    {
-      "title": "termux/termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "63,926",
-      "forks": "8,142",
-      "addStars": "2,325",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
-          "name": "agnostic-apollo",
-          "url": "https://github.com/agnostic-apollo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
-          "name": "fornwall",
-          "url": "https://github.com/fornwall"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
-          "name": "Grimler91",
-          "url": "https://github.com/Grimler91"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
-          "name": "maoabc",
-          "url": "https://github.com/maoabc"
-        }
-      ]
-    },
-    {
       "title": "apache/flink",
       "url": "https://github.com/apache/flink",
       "description": "Apache Flink",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "26,443",
-      "forks": "14,207",
+      "stars": "26,444",
+      "forks": "14,209",
       "addStars": "96",
       "contributors": [
         {
@@ -360,12 +350,49 @@
       ]
     },
     {
+      "title": "zed-0xff/ZombieBuddy",
+      "url": "https://github.com/zed-0xff/ZombieBuddy",
+      "description": "Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": "297",
+      "forks": "76",
+      "addStars": "182",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5986?s=40&v=4",
+          "name": "zed-0xff",
+          "url": "https://github.com/zed-0xff"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/24696530?s=40&v=4",
+          "name": "Loukious",
+          "url": "https://github.com/Loukious"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/320973124?s=40&v=4",
+          "name": "alswyn",
+          "url": "https://github.com/alswyn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3634635?s=40&v=4",
+          "name": "mibby",
+          "url": "https://github.com/mibby"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79613030?s=40&v=4",
+          "name": "Kernzs",
+          "url": "https://github.com/Kernzs"
+        }
+      ]
+    },
+    {
       "title": "AndroidIDEOfficial/AndroidIDE",
       "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
       "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "3,341",
+      "stars": "3,344",
       "forks": "751",
       "addStars": "174",
       "contributors": [
@@ -387,71 +414,34 @@
       ]
     },
     {
-      "title": "yash-srivastava/Overdrive-release",
-      "url": "https://github.com/yash-srivastava/Overdrive-release",
-      "description": "Advanced Sentry Mode for BYD Vehicles",
+      "title": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "408",
-      "forks": "118",
-      "addStars": "115",
+      "stars": "63,957",
+      "forks": "8,154",
+      "addStars": "2,325",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16201916?s=40&v=4",
-          "name": "yash-srivastava",
-          "url": "https://github.com/yash-srivastava"
+          "avatar": "https://avatars.githubusercontent.com/u/31106828?s=40&v=4",
+          "name": "agnostic-apollo",
+          "url": "https://github.com/agnostic-apollo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5331483?s=40&v=4",
-          "name": "francescodoffizi",
-          "url": "https://github.com/francescodoffizi"
+          "avatar": "https://avatars.githubusercontent.com/u/277251?s=40&v=4",
+          "name": "fornwall",
+          "url": "https://github.com/fornwall"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9726307?s=40&v=4",
-          "name": "paalkr",
-          "url": "https://github.com/paalkr"
+          "avatar": "https://avatars.githubusercontent.com/u/18900601?s=40&v=4",
+          "name": "Grimler91",
+          "url": "https://github.com/Grimler91"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/91417007?s=40&v=4",
-          "name": "UnrealSalty",
-          "url": "https://github.com/UnrealSalty"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "DependencyTrack/dependency-track",
-      "url": "https://github.com/DependencyTrack/dependency-track",
-      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "4,396",
-      "forks": "851",
-      "addStars": "150",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5693141?s=40&v=4",
-          "name": "nscuro",
-          "url": "https://github.com/nscuro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3878933?s=40&v=4",
-          "name": "stevespringett",
-          "url": "https://github.com/stevespringett"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5709882?s=40&v=4",
-          "name": "sahibamittal",
-          "url": "https://github.com/sahibamittal"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26340948?s=40&v=4",
-          "name": "mehab",
-          "url": "https://github.com/mehab"
+          "avatar": "https://avatars.githubusercontent.com/u/3536343?s=40&v=4",
+          "name": "maoabc",
+          "url": "https://github.com/maoabc"
         }
       ]
     },
@@ -461,8 +451,8 @@
       "description": "Dex to Java decompiler",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "51,460",
-      "forks": "5,860",
+      "stars": "51,483",
+      "forks": "5,866",
       "addStars": "853",
       "contributors": [
         {
@@ -493,34 +483,34 @@
       ]
     },
     {
-      "title": "TheAlgorithms/Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
+      "title": "DependencyTrack/dependency-track",
+      "url": "https://github.com/DependencyTrack/dependency-track",
+      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "66,708",
-      "forks": "21,465",
-      "addStars": "478",
+      "stars": "4,398",
+      "forks": "851",
+      "addStars": "150",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4",
-          "name": "alxkm",
-          "url": "https://github.com/alxkm"
+          "avatar": "https://avatars.githubusercontent.com/u/5693141?s=40&v=4",
+          "name": "nscuro",
+          "url": "https://github.com/nscuro"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4",
-          "name": "vil02",
-          "url": "https://github.com/vil02"
+          "avatar": "https://avatars.githubusercontent.com/u/3878933?s=40&v=4",
+          "name": "stevespringett",
+          "url": "https://github.com/stevespringett"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
-          "name": "Hardvan",
-          "url": "https://github.com/Hardvan"
+          "avatar": "https://avatars.githubusercontent.com/u/5709882?s=40&v=4",
+          "name": "sahibamittal",
+          "url": "https://github.com/sahibamittal"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
-          "name": "yanglbme",
-          "url": "https://github.com/yanglbme"
+          "avatar": "https://avatars.githubusercontent.com/u/26340948?s=40&v=4",
+          "name": "mehab",
+          "url": "https://github.com/mehab"
         }
       ]
     },
@@ -530,8 +520,8 @@
       "description": "Everything you need to know to get the job.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "65,535",
-      "forks": "12,929",
+      "stars": "65,538",
+      "forks": "12,932",
       "addStars": "333",
       "contributors": [
         {
@@ -562,39 +552,34 @@
       ]
     },
     {
-      "title": "AndreyPavlenko/Fermata",
-      "url": "https://github.com/AndreyPavlenko/Fermata",
-      "description": "",
+      "title": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "1,476",
-      "forks": "230",
-      "addStars": "100",
+      "stars": "66,711",
+      "forks": "21,465",
+      "addStars": "478",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1067755?s=40&v=4",
-          "name": "AndreyPavlenko",
-          "url": "https://github.com/AndreyPavlenko"
+          "avatar": "https://avatars.githubusercontent.com/u/19151554?s=40&v=4",
+          "name": "alxkm",
+          "url": "https://github.com/alxkm"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/28661149?s=40&v=4",
-          "name": "Vladi69",
-          "url": "https://github.com/Vladi69"
+          "avatar": "https://avatars.githubusercontent.com/u/65706193?s=40&v=4",
+          "name": "vil02",
+          "url": "https://github.com/vil02"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26366403?s=40&v=4",
-          "name": "fcaronte",
-          "url": "https://github.com/fcaronte"
+          "avatar": "https://avatars.githubusercontent.com/u/97388607?s=40&v=4",
+          "name": "Hardvan",
+          "url": "https://github.com/Hardvan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/25730751?s=40&v=4",
-          "name": "apollotsantos",
-          "url": "https://github.com/apollotsantos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59016399?s=40&v=4",
-          "name": "quocvuong1105",
-          "url": "https://github.com/quocvuong1105"
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?s=40&v=4",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme"
         }
       ]
     },
@@ -605,7 +590,7 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": "8,911",
-      "forks": "3,106",
+      "forks": "3,105",
       "addStars": "77",
       "contributors": [
         {
@@ -636,71 +621,39 @@
       ]
     },
     {
-      "title": "kestra-io/kestra",
-      "url": "https://github.com/kestra-io/kestra",
-      "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+      "title": "AndreyPavlenko/Fermata",
+      "url": "https://github.com/AndreyPavlenko/Fermata",
+      "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "30,115",
-      "forks": "3,496",
-      "addStars": "1,590",
+      "stars": "1,477",
+      "forks": "230",
+      "addStars": "100",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1819009?s=40&v=4",
-          "name": "loicmathieu",
-          "url": "https://github.com/loicmathieu"
+          "avatar": "https://avatars.githubusercontent.com/u/1067755?s=40&v=4",
+          "name": "AndreyPavlenko",
+          "url": "https://github.com/AndreyPavlenko"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2064609?s=40&v=4",
-          "name": "tchiotludo",
-          "url": "https://github.com/tchiotludo"
+          "avatar": "https://avatars.githubusercontent.com/u/28661149?s=40&v=4",
+          "name": "Vladi69",
+          "url": "https://github.com/Vladi69"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/62475782?s=40&v=4",
-          "name": "MilosPaunovic",
-          "url": "https://github.com/MilosPaunovic"
+          "avatar": "https://avatars.githubusercontent.com/u/26366403?s=40&v=4",
+          "name": "fcaronte",
+          "url": "https://github.com/fcaronte"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37618489?s=40&v=4",
-          "name": "brian-mulier-p",
-          "url": "https://github.com/brian-mulier-p"
-        }
-      ]
-    },
-    {
-      "title": "TeamNewPipe/NewPipe",
-      "url": "https://github.com/TeamNewPipe/NewPipe",
-      "description": "A libre lightweight streaming front-end for Android.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": "40,398",
-      "forks": "3,945",
-      "addStars": "687",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17365767?s=40&v=4",
-          "name": "TobiGr",
-          "url": "https://github.com/TobiGr"
+          "avatar": "https://avatars.githubusercontent.com/u/25730751?s=40&v=4",
+          "name": "apollotsantos",
+          "url": "https://github.com/apollotsantos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/36421898?s=40&v=4",
-          "name": "Stypox",
-          "url": "https://github.com/Stypox"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1891273?s=40&v=4",
-          "name": "theScrabi",
-          "url": "https://github.com/theScrabi"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1607653?s=40&v=4",
-          "name": "weblate",
-          "url": "https://github.com/weblate"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40789489?s=40&v=4",
-          "name": "litetex",
-          "url": "https://github.com/litetex"
+          "avatar": "https://avatars.githubusercontent.com/u/59016399?s=40&v=4",
+          "name": "quocvuong1105",
+          "url": "https://github.com/quocvuong1105"
         }
       ]
     }

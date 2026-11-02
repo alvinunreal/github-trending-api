@@ -2,52 +2,15 @@
   "title": "GitHub Pascal Languages Weekly Trending",
   "description": "Weekly Trending of Pascal Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 07:10:29 GMT",
+  "pubDate": "Mon, 02 Nov 2026 16:54:46 GMT",
   "items": [
-    {
-      "title": "stascorp/rdpwrap",
-      "url": "https://github.com/stascorp/rdpwrap",
-      "description": "RDP Wrapper Library",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "16,954",
-      "forks": "4,062",
-      "addStars": "24",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/578406?s=40&v=4",
-          "name": "binarymaster",
-          "url": "https://github.com/binarymaster"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5298618?s=40&v=4",
-          "name": "WisdomWolf",
-          "url": "https://github.com/WisdomWolf"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3249612?s=40&v=4",
-          "name": "DerekL0576",
-          "url": "https://github.com/DerekL0576"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3586205?s=40&v=4",
-          "name": "galeksandrp",
-          "url": "https://github.com/galeksandrp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1047813?s=40&v=4",
-          "name": "ksmyth",
-          "url": "https://github.com/ksmyth"
-        }
-      ]
-    },
     {
       "title": "doublecmd/doublecmd",
       "url": "https://github.com/doublecmd/doublecmd",
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "4,714",
+      "stars": "4,718",
       "forks": "377",
       "addStars": "37",
       "contributors": [
@@ -75,43 +38,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/53147200?s=40&v=4",
           "name": "VenusGirl",
           "url": "https://github.com/VenusGirl"
-        }
-      ]
-    },
-    {
-      "title": "keymanapp/keyman",
-      "url": "https://github.com/keymanapp/keyman",
-      "description": "Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": "541",
-      "forks": "146",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4498365?s=40&v=4",
-          "name": "mcdurdin",
-          "url": "https://github.com/mcdurdin"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25213402?s=40&v=4",
-          "name": "jahorton",
-          "url": "https://github.com/jahorton"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7358010?s=40&v=4",
-          "name": "darcywong00",
-          "url": "https://github.com/darcywong00"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/181336?s=40&v=4",
-          "name": "ermshiperete",
-          "url": "https://github.com/ermshiperete"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7018967?s=40&v=4",
-          "name": "keyman-server",
-          "url": "https://github.com/keyman-server"
         }
       ]
     },
@@ -190,13 +116,50 @@
       ]
     },
     {
+      "title": "keymanapp/keyman",
+      "url": "https://github.com/keymanapp/keyman",
+      "description": "Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "541",
+      "forks": "146",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4498365?s=40&v=4",
+          "name": "mcdurdin",
+          "url": "https://github.com/mcdurdin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25213402?s=40&v=4",
+          "name": "jahorton",
+          "url": "https://github.com/jahorton"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7358010?s=40&v=4",
+          "name": "darcywong00",
+          "url": "https://github.com/darcywong00"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/181336?s=40&v=4",
+          "name": "ermshiperete",
+          "url": "https://github.com/ermshiperete"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7018967?s=40&v=4",
+          "name": "keyman-server",
+          "url": "https://github.com/keyman-server"
+        }
+      ]
+    },
+    {
       "title": "HeidiSQL/HeidiSQL",
       "url": "https://github.com/HeidiSQL/HeidiSQL",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
       "stars": "6,313",
-      "forks": "599",
+      "forks": "600",
       "addStars": "12",
       "contributors": [
         {
@@ -232,7 +195,7 @@
       "description": "Goverlay is an easy graphical interface to configure linux gaming applications",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": "1,579",
+      "stars": "1,581",
       "forks": "69",
       "addStars": "19",
       "contributors": [
@@ -260,6 +223,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/119701717?s=40&v=4",
           "name": "Twig6943",
           "url": "https://github.com/Twig6943"
+        }
+      ]
+    },
+    {
+      "title": "stascorp/rdpwrap",
+      "url": "https://github.com/stascorp/rdpwrap",
+      "description": "RDP Wrapper Library",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": "16,952",
+      "forks": "4,060",
+      "addStars": "24",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/578406?s=40&v=4",
+          "name": "binarymaster",
+          "url": "https://github.com/binarymaster"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5298618?s=40&v=4",
+          "name": "WisdomWolf",
+          "url": "https://github.com/WisdomWolf"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3249612?s=40&v=4",
+          "name": "DerekL0576",
+          "url": "https://github.com/DerekL0576"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3586205?s=40&v=4",
+          "name": "galeksandrp",
+          "url": "https://github.com/galeksandrp"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1047813?s=40&v=4",
+          "name": "ksmyth",
+          "url": "https://github.com/ksmyth"
         }
       ]
     },
