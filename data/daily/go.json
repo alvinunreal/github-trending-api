@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 16:54:46 GMT",
+  "pubDate": "Mon, 02 Nov 2026 22:09:57 GMT",
   "items": [
     {
       "title": "gastownhall/beads",
@@ -10,7 +10,7 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,421",
+      "stars": "28,432",
       "forks": "1,918",
       "addStars": "42",
       "contributors": [
@@ -47,9 +47,9 @@
       "description": "smart charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,495",
-      "forks": "1,608",
-      "addStars": "11",
+      "stars": "7,498",
+      "forks": "1,606",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "49,155",
-      "forks": "12,625",
-      "addStars": "86",
+      "stars": "49,161",
+      "forks": "12,631",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33454419?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "A cross-platform native terminal app optimized for agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,366",
-      "forks": "129",
+      "stars": "1,368",
+      "forks": "130",
       "addStars": "17",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "The largest open-source B2B cold outreach and email warmup service.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "858",
+      "stars": "874",
       "forks": "159",
       "addStars": "244",
       "contributors": [
@@ -185,9 +185,9 @@
       "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,943",
+      "stars": "5,946",
       "forks": "741",
-      "addStars": "23",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2211648?s=40&v=4",
@@ -222,8 +222,8 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "185,680",
-      "forks": "18,870",
+      "stars": "185,710",
+      "forks": "18,877",
       "addStars": "143",
       "contributors": [
         {
@@ -259,9 +259,9 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "128,836",
-      "forks": "45,747",
-      "addStars": "170",
+      "stars": "128,614",
+      "forks": "45,758",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
@@ -296,8 +296,8 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,365",
-      "forks": "6,255",
+      "stars": "18,369",
+      "forks": "6,257",
       "addStars": "15",
       "contributors": [
         {
@@ -328,7 +328,7 @@
       "description": "将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "676",
+      "stars": "677",
       "forks": "152",
       "addStars": "35",
       "contributors": [
@@ -365,8 +365,8 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "60,728",
-      "forks": "5,639",
+      "stars": "60,744",
+      "forks": "5,642",
       "addStars": "30",
       "contributors": [
         {
@@ -402,7 +402,7 @@
       "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,903",
+      "stars": "9,910",
       "forks": "348",
       "addStars": "57",
       "contributors": [
@@ -430,7 +430,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "1,478",
-      "forks": "414",
+      "forks": "415",
       "addStars": "4",
       "contributors": [
         {
@@ -461,14 +461,51 @@
       ]
     },
     {
+      "title": "rorkai/App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "8,212",
+      "forks": "716",
+      "addStars": "27",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30552772?s=40&v=4",
+          "name": "rudrankriyam",
+          "url": "https://github.com/rudrankriyam"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35962266?s=40&v=4",
+          "name": "mithileshchellappan",
+          "url": "https://github.com/mithileshchellappan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/80545944?s=40&v=4",
+          "name": "Abdo-codes",
+          "url": "https://github.com/Abdo-codes"
+        }
+      ]
+    },
+    {
       "title": "0xJacky/nginx-ui",
       "url": "https://github.com/0xJacky/nginx-ui",
       "description": "Yet another WebUI for Nginx",
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "11,727",
-      "forks": "912",
-      "addStars": "32",
+      "forks": "913",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13096985?s=40&v=4",
@@ -498,9 +535,9 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,562",
-      "forks": "1,818",
-      "addStars": "124",
+      "stars": "30,571",
+      "forks": "1,819",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7747744?s=40&v=4",
@@ -535,8 +572,8 @@
       "description": "MCP for xiaohongshu.com",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,751",
-      "forks": "2,460",
+      "stars": "16,762",
+      "forks": "2,461",
       "addStars": "37",
       "contributors": [
         {
@@ -567,7 +604,7 @@
       "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,967",
+      "stars": "8,975",
       "forks": "1,321",
       "addStars": "58",
       "contributors": [

@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Mon, 02 Nov 2026 16:54:46 GMT",
+  "pubDate": "Mon, 02 Nov 2026 22:09:57 GMT",
   "items": [
     {
       "title": "patchy631/ai-engineering-hub",
@@ -10,8 +10,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "40,901",
-      "forks": "6,537",
+      "stars": "40,937",
+      "forks": "6,541",
       "addStars": "1,095",
       "contributors": [
         {
@@ -47,9 +47,9 @@
       "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "18,612",
-      "forks": "2,958",
-      "addStars": "180",
+      "stars": "18,618",
+      "forks": "2,962",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "25,226",
-      "forks": "3,674",
-      "addStars": "57",
+      "stars": "25,234",
+      "forks": "3,675",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
@@ -86,45 +86,13 @@
       ]
     },
     {
-      "title": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": "122,842",
-      "forks": "65,729",
-      "addStars": "118",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
-          "name": "skytin1004",
-          "url": "https://github.com/skytin1004"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7462909?s=40&v=4",
-          "name": "koreyspace",
-          "url": "https://github.com/koreyspace"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2511341?s=40&v=4",
-          "name": "leestott",
-          "url": "https://github.com/leestott"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/64026625?s=40&v=4",
-          "name": "john0isaac",
-          "url": "https://github.com/john0isaac"
-        }
-      ]
-    },
-    {
       "title": "microsoft/Data-Science-For-Beginners",
       "url": "https://github.com/microsoft/Data-Science-For-Beginners",
       "description": "10 Weeks, 20 Lessons, Data Science for All!",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "37,896",
-      "forks": "7,626",
+      "stars": "37,904",
+      "forks": "7,627",
       "addStars": "28",
       "contributors": [
         {
@@ -155,8 +123,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "54,100",
-      "forks": "6,532",
+      "stars": "54,115",
+      "forks": "6,535",
       "addStars": "63",
       "contributors": [
         {
@@ -192,9 +160,9 @@
       "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "78,699",
-      "forks": "25,772",
-      "addStars": "140",
+      "stars": "78,714",
+      "forks": "25,776",
+      "addStars": "107",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/99078115?s=40&v=4",
@@ -224,9 +192,9 @@
       "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "19,339",
-      "forks": "5,235",
-      "addStars": "14",
+      "stars": "19,343",
+      "forks": "5,236",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16750345?s=40&v=4",
@@ -298,9 +266,9 @@
       "description": "Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "967",
+      "stars": "969",
       "forks": "139",
-      "addStars": "81",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/157355312?s=40&v=4",
@@ -335,9 +303,9 @@
       "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "49,904",
+      "stars": "49,903",
       "forks": "7,814",
-      "addStars": "25",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8000987?s=40&v=4",
@@ -357,8 +325,8 @@
       "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "6,534",
-      "forks": "5,646",
+      "stars": "6,535",
+      "forks": "5,647",
       "addStars": "9",
       "contributors": [
         {
@@ -396,7 +364,7 @@
       "languageColor": "#DA5B0B",
       "stars": "14,423",
       "forks": "5,387",
-      "addStars": "6",
+      "addStars": "3",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76661?s=40&v=4",
@@ -431,8 +399,8 @@
       "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "30,001",
-      "forks": "6,809",
+      "stars": "30,012",
+      "forks": "6,813",
       "addStars": "22",
       "contributors": [
         {
@@ -470,7 +438,7 @@
       "languageColor": "#DA5B0B",
       "stars": "7,482",
       "forks": "4,243",
-      "addStars": "29",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16750345?s=40&v=4",
@@ -506,7 +474,7 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": "7,861",
-      "forks": "7,597",
+      "forks": "7,600",
       "addStars": "9",
       "contributors": [
         {
@@ -537,8 +505,8 @@
       "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "50,329",
-      "forks": "19,155",
+      "stars": "50,333",
+      "forks": "19,157",
       "addStars": "46",
       "contributors": [
         {
@@ -611,9 +579,9 @@
       "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "14,920",
+      "stars": "14,921",
       "forks": "2,086",
-      "addStars": "26",
+      "addStars": "11",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20336225?s=40&v=4",
@@ -648,8 +616,8 @@
       "description": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": "29,994",
-      "forks": "5,438",
+      "stars": "29,995",
+      "forks": "5,439",
       "addStars": "13",
       "contributors": [
         {
