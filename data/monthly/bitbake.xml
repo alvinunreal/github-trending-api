@@ -3,7 +3,7 @@
     <title>GitHub Bitbake Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Bitbake Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 07:31:45 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 14:55:10 GMT</pubDate>
     <item>
       <title>openbmc/openbmc</title>
       <link>https://github.com/openbmc/openbmc</link>
@@ -43,13 +43,51 @@
       </contributors>
     </item>
     <item>
+      <title>qualcomm-linux/meta-qcom</title>
+      <link>https://github.com/qualcomm-linux/meta-qcom</link>
+      <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
+      <guid>https://github.com/qualcomm-linux/meta-qcom</guid>
+      <language>BitBake</language>
+      <languageColor>#00bce4</languageColor>
+      <stars>173</stars>
+      <forks>390</forks>
+      <addStars>6</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/44008055?s=40&amp;v=4</avatar>
+          <name>ricardosalveti</name>
+          <url>https://github.com/ricardosalveti</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20323?s=40&amp;v=4</avatar>
+          <name>lumag</name>
+          <url>https://github.com/lumag</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/94399?s=40&amp;v=4</avatar>
+          <name>ndechesne</name>
+          <url>https://github.com/ndechesne</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/146084264?s=40&amp;v=4</avatar>
+          <name>vkraleti</name>
+          <url>https://github.com/vkraleti</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4164703?s=40&amp;v=4</avatar>
+          <name>quaresmajose</name>
+          <url>https://github.com/quaresmajose</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>OpenCentauri/cosmos</title>
       <link>https://github.com/OpenCentauri/cosmos</link>
       <description>Yocto Linux project to build a complete mainline Linux-based firmware for the Centauri Carbon printer</description>
       <guid>https://github.com/OpenCentauri/cosmos</guid>
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
-      <stars>321</stars>
+      <stars>322</stars>
       <forks>53</forks>
       <addStars>57</addStars>
       <contributors>
@@ -81,44 +119,6 @@
       </contributors>
     </item>
     <item>
-      <title>qualcomm-linux/meta-qcom</title>
-      <link>https://github.com/qualcomm-linux/meta-qcom</link>
-      <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
-      <guid>https://github.com/qualcomm-linux/meta-qcom</guid>
-      <language>BitBake</language>
-      <languageColor>#00bce4</languageColor>
-      <stars>173</stars>
-      <forks>388</forks>
-      <addStars>6</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/44008055?s=40&amp;v=4</avatar>
-          <name>ricardosalveti</name>
-          <url>https://github.com/ricardosalveti</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20323?s=40&amp;v=4</avatar>
-          <name>lumag</name>
-          <url>https://github.com/lumag</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/94399?s=40&amp;v=4</avatar>
-          <name>ndechesne</name>
-          <url>https://github.com/ndechesne</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/146084264?s=40&amp;v=4</avatar>
-          <name>vkraleti</name>
-          <url>https://github.com/vkraleti</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4164703?s=40&amp;v=4</avatar>
-          <name>quaresmajose</name>
-          <url>https://github.com/quaresmajose</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>OE4T/meta-tegra</title>
       <link>https://github.com/OE4T/meta-tegra</link>
       <description>BSP layer for NVIDIA Jetson platforms, based on L4T</description>
@@ -126,7 +126,7 @@
       <language>BitBake</language>
       <languageColor>#00bce4</languageColor>
       <stars>583</stars>
-      <forks>322</forks>
+      <forks>323</forks>
       <addStars>3</addStars>
       <contributors>
         <contributor>

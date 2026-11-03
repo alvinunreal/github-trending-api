@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Monthly Trending",
   "description": "Monthly Trending of Shell Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 07:31:45 GMT",
+  "pubDate": "Tue, 03 Nov 2026 14:55:10 GMT",
   "items": [
     {
       "title": "Donchitos/Claude-Code-Game-Studios",
@@ -10,8 +10,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "33,932",
-      "forks": "4,546",
+      "stars": "34,325",
+      "forks": "4,575",
       "addStars": "7,575",
       "contributors": [
         {
@@ -32,7 +32,7 @@
       "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "1,876",
+      "stars": "1,882",
       "forks": "192",
       "addStars": "1,553",
       "contributors": [
@@ -64,8 +64,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "166,190",
-      "forks": "26,915",
+      "stars": "166,254",
+      "forks": "26,932",
       "addStars": "11,121",
       "contributors": [
         {
@@ -96,45 +96,13 @@
       ]
     },
     {
-      "title": "docker-mailserver/docker-mailserver",
-      "url": "https://github.com/docker-mailserver/docker-mailserver",
-      "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "19,717",
-      "forks": "2,133",
-      "addStars": "861",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/44545919?s=40&v=4",
-          "name": "georglauterbach",
-          "url": "https://github.com/georglauterbach"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5098581?s=40&v=4",
-          "name": "polarathene",
-          "url": "https://github.com/polarathene"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/303803?s=40&v=4",
-          "name": "tomav",
-          "url": "https://github.com/tomav"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/590174?s=40&v=4",
-          "name": "casperklein",
-          "url": "https://github.com/casperklein"
-        }
-      ]
-    },
-    {
       "title": "expo/skills",
       "url": "https://github.com/expo/skills",
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,033",
-      "forks": "258",
+      "stars": "4,034",
+      "forks": "259",
       "addStars": "1,398",
       "contributors": [
         {
@@ -165,12 +133,71 @@
       ]
     },
     {
+      "title": "docker-mailserver/docker-mailserver",
+      "url": "https://github.com/docker-mailserver/docker-mailserver",
+      "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "19,718",
+      "forks": "2,133",
+      "addStars": "861",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/44545919?s=40&v=4",
+          "name": "georglauterbach",
+          "url": "https://github.com/georglauterbach"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5098581?s=40&v=4",
+          "name": "polarathene",
+          "url": "https://github.com/polarathene"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/303803?s=40&v=4",
+          "name": "tomav",
+          "url": "https://github.com/tomav"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/590174?s=40&v=4",
+          "name": "casperklein",
+          "url": "https://github.com/casperklein"
+        }
+      ]
+    },
+    {
+      "title": "tw93/Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "73,720",
+      "forks": "2,615",
+      "addStars": "4,834",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8736212?s=40&v=4",
+          "name": "tw93",
+          "url": "https://github.com/tw93"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/269735352?s=40&v=4",
+          "name": "youxi798",
+          "url": "https://github.com/youxi798"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79744080?s=40&v=4",
+          "name": "M-Hassan-Raza",
+          "url": "https://github.com/M-Hassan-Raza"
+        }
+      ]
+    },
+    {
       "title": "edoardottt/awesome-hacker-search-engines",
       "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
       "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "11,458",
+      "stars": "11,459",
       "forks": "1,117",
       "addStars": "247",
       "contributors": [
@@ -207,8 +234,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "310,577",
-      "forks": "26,127",
+      "stars": "311,008",
+      "forks": "26,159",
       "addStars": "36,813",
       "contributors": [
         {
@@ -229,40 +256,13 @@
       ]
     },
     {
-      "title": "itsnotkubrick/3X-UI_KIT",
-      "url": "https://github.com/itsnotkubrick/3X-UI_KIT",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "592",
-      "forks": "49",
-      "addStars": "406",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/56165502?s=40&v=4",
-          "name": "itsnotkubrick",
-          "url": "https://github.com/itsnotkubrick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124461726?s=40&v=4",
-          "name": "xlok1e",
-          "url": "https://github.com/xlok1e"
-        }
-      ]
-    },
-    {
       "title": "pi-hole/pi-hole",
       "url": "https://github.com/pi-hole/pi-hole",
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "61,643",
-      "forks": "3,375",
+      "stars": "61,646",
+      "forks": "3,378",
       "addStars": "612",
       "contributors": [
         {
@@ -298,8 +298,8 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "311,409",
-      "forks": "27,711",
+      "stars": "311,649",
+      "forks": "27,728",
       "addStars": "18,372",
       "contributors": [
         {
@@ -335,8 +335,8 @@
       "description": "最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "5,237",
-      "forks": "1,850",
+      "stars": "5,245",
+      "forks": "1,852",
       "addStars": "474",
       "contributors": [
         {
@@ -367,13 +367,40 @@
       ]
     },
     {
+      "title": "itsnotkubrick/3X-UI_KIT",
+      "url": "https://github.com/itsnotkubrick/3X-UI_KIT",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "597",
+      "forks": "49",
+      "addStars": "406",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/56165502?s=40&v=4",
+          "name": "itsnotkubrick",
+          "url": "https://github.com/itsnotkubrick"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/124461726?s=40&v=4",
+          "name": "xlok1e",
+          "url": "https://github.com/xlok1e"
+        }
+      ]
+    },
+    {
       "title": "nvm-sh/nvm",
       "url": "https://github.com/nvm-sh/nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "95,739",
-      "forks": "10,739",
+      "stars": "95,745",
+      "forks": "10,744",
       "addStars": "679",
       "contributors": [
         {
@@ -441,13 +468,82 @@
       ]
     },
     {
+      "title": "RROrg/rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "8,747",
+      "forks": "1,394",
+      "addStars": "142",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5615843?s=40&v=4",
+          "name": "wjz304",
+          "url": "https://github.com/wjz304"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11461290?s=40&v=4",
+          "name": "fbelavenuto",
+          "url": "https://github.com/fbelavenuto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/115027125?s=40&v=4",
+          "name": "marchfun1",
+          "url": "https://github.com/marchfun1"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/110688601?s=40&v=4",
+          "name": "servnas",
+          "url": "https://github.com/servnas"
+        }
+      ]
+    },
+    {
+      "title": "nyldn/claude-octopus",
+      "url": "https://github.com/nyldn/claude-octopus",
+      "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "4,365",
+      "forks": "413",
+      "addStars": "244",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4805949?s=40&v=4",
+          "name": "nyldn",
+          "url": "https://github.com/nyldn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19389037?s=40&v=4",
+          "name": "Jhacarreiro",
+          "url": "https://github.com/Jhacarreiro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/230146538?s=40&v=4",
+          "name": "klass-723",
+          "url": "https://github.com/klass-723"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30536640?s=40&v=4",
+          "name": "pdrgds",
+          "url": "https://github.com/pdrgds"
+        }
+      ]
+    },
+    {
       "title": "cloudflare/skills",
       "url": "https://github.com/cloudflare/skills",
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "3,260",
-      "forks": "338",
+      "stars": "3,265",
+      "forks": "340",
       "addStars": "300",
       "contributors": [
         {
@@ -478,19 +574,24 @@
       ]
     },
     {
-      "title": "nyldn/claude-octopus",
-      "url": "https://github.com/nyldn/claude-octopus",
-      "description": "Run multiple AI models against the same research, design, or coding task. Surface disagreements before you ship.",
+      "title": "StressOzz/Zapret-Manager",
+      "url": "https://github.com/StressOzz/Zapret-Manager",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "4,362",
-      "forks": "414",
-      "addStars": "244",
+      "stars": "2,137",
+      "forks": "98",
+      "addStars": "251",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4805949?s=40&v=4",
-          "name": "nyldn",
-          "url": "https://github.com/nyldn"
+          "avatar": "https://avatars.githubusercontent.com/u/131419324?s=40&v=4",
+          "name": "StressOzz",
+          "url": "https://github.com/StressOzz"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/163691714?s=40&v=4",
+          "name": "xyzmean",
+          "url": "https://github.com/xyzmean"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -498,19 +599,46 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19389037?s=40&v=4",
-          "name": "Jhacarreiro",
-          "url": "https://github.com/Jhacarreiro"
+          "avatar": "https://avatars.githubusercontent.com/u/4965527?s=40&v=4",
+          "name": "voron00",
+          "url": "https://github.com/voron00"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/230146538?s=40&v=4",
-          "name": "klass-723",
-          "url": "https://github.com/klass-723"
+          "avatar": "https://avatars.githubusercontent.com/u/8990821?s=40&v=4",
+          "name": "khasanovbi",
+          "url": "https://github.com/khasanovbi"
+        }
+      ]
+    },
+    {
+      "title": "ohmyzsh/ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": "190,294",
+      "forks": "28,071",
+      "addStars": "893",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1441704?s=40&v=4",
+          "name": "mcornella",
+          "url": "https://github.com/mcornella"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30536640?s=40&v=4",
-          "name": "pdrgds",
-          "url": "https://github.com/pdrgds"
+          "avatar": "https://avatars.githubusercontent.com/u/257?s=40&v=4",
+          "name": "robbyrussell",
+          "url": "https://github.com/robbyrussell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/66907184?s=40&v=4",
+          "name": "carlosala",
+          "url": "https://github.com/carlosala"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2618447?s=40&v=4",
+          "name": "apjanke",
+          "url": "https://github.com/apjanke"
         }
       ]
     },
@@ -543,107 +671,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "ohmyzsh/ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "190,290",
-      "forks": "28,069",
-      "addStars": "893",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1441704?s=40&v=4",
-          "name": "mcornella",
-          "url": "https://github.com/mcornella"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/257?s=40&v=4",
-          "name": "robbyrussell",
-          "url": "https://github.com/robbyrussell"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66907184?s=40&v=4",
-          "name": "carlosala",
-          "url": "https://github.com/carlosala"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2618447?s=40&v=4",
-          "name": "apjanke",
-          "url": "https://github.com/apjanke"
-        }
-      ]
-    },
-    {
-      "title": "StressOzz/Zapret-Manager",
-      "url": "https://github.com/StressOzz/Zapret-Manager",
-      "description": "Универсальный менеджер для обхода блокировок на OpenWrt",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "2,136",
-      "forks": "98",
-      "addStars": "251",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/131419324?s=40&v=4",
-          "name": "StressOzz",
-          "url": "https://github.com/StressOzz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/163691714?s=40&v=4",
-          "name": "xyzmean",
-          "url": "https://github.com/xyzmean"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4965527?s=40&v=4",
-          "name": "voron00",
-          "url": "https://github.com/voron00"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8990821?s=40&v=4",
-          "name": "khasanovbi",
-          "url": "https://github.com/khasanovbi"
-        }
-      ]
-    },
-    {
-      "title": "RROrg/rr",
-      "url": "https://github.com/RROrg/rr",
-      "description": "Redpill Recovery (arpl-i18n)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": "8,746",
-      "forks": "1,395",
-      "addStars": "142",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5615843?s=40&v=4",
-          "name": "wjz304",
-          "url": "https://github.com/wjz304"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11461290?s=40&v=4",
-          "name": "fbelavenuto",
-          "url": "https://github.com/fbelavenuto"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/115027125?s=40&v=4",
-          "name": "marchfun1",
-          "url": "https://github.com/marchfun1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/110688601?s=40&v=4",
-          "name": "servnas",
-          "url": "https://github.com/servnas"
         }
       ]
     }

@@ -3,7 +3,45 @@
     <title>GitHub C Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 07:31:45 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 14:55:10 GMT</pubDate>
+    <item>
+      <title>EpicGames/raddebugger</title>
+      <link>https://github.com/EpicGames/raddebugger</link>
+      <description>A native, user-mode, multi-process, graphical debugger.</description>
+      <guid>https://github.com/EpicGames/raddebugger</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>8,752</stars>
+      <forks>449</forks>
+      <addStars>1,192</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12454169?s=40&amp;v=4</avatar>
+          <name>ryanfleury</name>
+          <url>https://github.com/ryanfleury</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4572155?s=40&amp;v=4</avatar>
+          <name>NikitaSmith057</name>
+          <url>https://github.com/NikitaSmith057</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1665010?s=40&amp;v=4</avatar>
+          <name>mmozeiko</name>
+          <url>https://github.com/mmozeiko</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/167924611?s=40&amp;v=4</avatar>
+          <name>NikitaAtEpic</name>
+          <url>https://github.com/NikitaAtEpic</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/58001412?s=40&amp;v=4</avatar>
+          <name>andreymlv</name>
+          <url>https://github.com/andreymlv</url>
+        </contributor>
+      </contributors>
+    </item>
     <item>
       <title>php/php-src</title>
       <link>https://github.com/php/php-src</link>
@@ -11,7 +49,7 @@
       <guid>https://github.com/php/php-src</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>41,758</stars>
+      <stars>41,755</stars>
       <forks>8,543</forks>
       <addStars>1,430</addStars>
       <contributors>
@@ -43,40 +81,40 @@
       </contributors>
     </item>
     <item>
-      <title>EpicGames/raddebugger</title>
-      <link>https://github.com/EpicGames/raddebugger</link>
-      <description>A native, user-mode, multi-process, graphical debugger.</description>
-      <guid>https://github.com/EpicGames/raddebugger</guid>
+      <title>obsproject/obs-studio</title>
+      <link>https://github.com/obsproject/obs-studio</link>
+      <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+      <guid>https://github.com/obsproject/obs-studio</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>8,749</stars>
-      <forks>448</forks>
-      <addStars>1,192</addStars>
+      <stars>78,884</stars>
+      <forks>11,048</forks>
+      <addStars>2,151</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12454169?s=40&amp;v=4</avatar>
-          <name>ryanfleury</name>
-          <url>https://github.com/ryanfleury</url>
+          <avatar>https://avatars.githubusercontent.com/u/2084112?s=40&amp;v=4</avatar>
+          <name>jp9000</name>
+          <url>https://github.com/jp9000</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4572155?s=40&amp;v=4</avatar>
-          <name>NikitaSmith057</name>
-          <url>https://github.com/NikitaSmith057</url>
+          <avatar>https://avatars.githubusercontent.com/u/10396506?s=40&amp;v=4</avatar>
+          <name>jpark37</name>
+          <url>https://github.com/jpark37</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1665010?s=40&amp;v=4</avatar>
-          <name>mmozeiko</name>
-          <url>https://github.com/mmozeiko</url>
+          <avatar>https://avatars.githubusercontent.com/u/9436503?s=40&amp;v=4</avatar>
+          <name>PatTheMav</name>
+          <url>https://github.com/PatTheMav</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/167924611?s=40&amp;v=4</avatar>
-          <name>NikitaAtEpic</name>
-          <url>https://github.com/NikitaAtEpic</url>
+          <avatar>https://avatars.githubusercontent.com/u/3123295?s=40&amp;v=4</avatar>
+          <name>derrod</name>
+          <url>https://github.com/derrod</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58001412?s=40&amp;v=4</avatar>
-          <name>andreymlv</name>
-          <url>https://github.com/andreymlv</url>
+          <avatar>https://avatars.githubusercontent.com/u/624931?s=40&amp;v=4</avatar>
+          <name>RytoEX</name>
+          <url>https://github.com/RytoEX</url>
         </contributor>
       </contributors>
     </item>
@@ -87,8 +125,8 @@
       <guid>https://github.com/Genymobile/scrcpy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>153,883</stars>
-      <forks>14,131</forks>
+      <stars>153,915</stars>
+      <forks>14,139</forks>
       <addStars>3,498</addStars>
       <contributors>
         <contributor>
@@ -125,8 +163,8 @@
       <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>4,702</stars>
-      <forks>1,258</forks>
+      <stars>4,706</stars>
+      <forks>1,259</forks>
       <addStars>408</addStars>
       <contributors>
         <contributor>
@@ -158,7 +196,7 @@
       <guid>https://github.com/rexglue/rexglue-sdk</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>1,238</stars>
+      <stars>1,240</stars>
       <forks>265</forks>
       <addStars>286</addStars>
       <contributors>
@@ -190,52 +228,14 @@
       </contributors>
     </item>
     <item>
-      <title>obsproject/obs-studio</title>
-      <link>https://github.com/obsproject/obs-studio</link>
-      <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-      <guid>https://github.com/obsproject/obs-studio</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>78,862</stars>
-      <forks>11,043</forks>
-      <addStars>2,151</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2084112?s=40&amp;v=4</avatar>
-          <name>jp9000</name>
-          <url>https://github.com/jp9000</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10396506?s=40&amp;v=4</avatar>
-          <name>jpark37</name>
-          <url>https://github.com/jpark37</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9436503?s=40&amp;v=4</avatar>
-          <name>PatTheMav</name>
-          <url>https://github.com/PatTheMav</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3123295?s=40&amp;v=4</avatar>
-          <name>derrod</name>
-          <url>https://github.com/derrod</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/624931?s=40&amp;v=4</avatar>
-          <name>RytoEX</name>
-          <url>https://github.com/RytoEX</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>xiaojieonly/Ehviewer_CN_SXJ</title>
       <link>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</link>
       <description>ehviewer，用爱发电，快乐前行</description>
       <guid>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>28,599</stars>
-      <forks>763</forks>
+      <stars>28,620</stars>
+      <forks>764</forks>
       <addStars>1,375</addStars>
       <contributors>
         <contributor>
@@ -266,90 +266,14 @@
       </contributors>
     </item>
     <item>
-      <title>systemd/systemd</title>
-      <link>https://github.com/systemd/systemd</link>
-      <description>The systemd System and Service Manager</description>
-      <guid>https://github.com/systemd/systemd</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>16,990</stars>
-      <forks>4,803</forks>
-      <addStars>255</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
-          <name>poettering</name>
-          <url>https://github.com/poettering</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
-          <name>yuwata</name>
-          <url>https://github.com/yuwata</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
-          <name>keszybz</name>
-          <url>https://github.com/keszybz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
-          <name>bluca</name>
-          <url>https://github.com/bluca</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
-          <name>daandemeyer</name>
-          <url>https://github.com/daandemeyer</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>redis/redis</title>
-      <link>https://github.com/redis/redis</link>
-      <description>For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</description>
-      <guid>https://github.com/redis/redis</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>77,159</stars>
-      <forks>25,036</forks>
-      <addStars>1,093</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65632?s=40&amp;v=4</avatar>
-          <name>antirez</name>
-          <url>https://github.com/antirez</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7045099?s=40&amp;v=4</avatar>
-          <name>oranagra</name>
-          <url>https://github.com/oranagra</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9845?s=40&amp;v=4</avatar>
-          <name>pietern</name>
-          <url>https://github.com/pietern</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/965798?s=40&amp;v=4</avatar>
-          <name>sundb</name>
-          <url>https://github.com/sundb</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/22811481?s=40&amp;v=4</avatar>
-          <name>enjoy-binbin</name>
-          <url>https://github.com/enjoy-binbin</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>microsoft/PowerToys</title>
       <link>https://github.com/microsoft/PowerToys</link>
       <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
       <guid>https://github.com/microsoft/PowerToys</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>140,463</stars>
-      <forks>8,695</forks>
+      <stars>140,485</stars>
+      <forks>8,698</forks>
       <addStars>1,825</addStars>
       <contributors>
         <contributor>
@@ -380,40 +304,40 @@
       </contributors>
     </item>
     <item>
-      <title>reactos/reactos</title>
-      <link>https://github.com/reactos/reactos</link>
-      <description>A free Windows-compatible Operating System</description>
-      <guid>https://github.com/reactos/reactos</guid>
+      <title>redis/redis</title>
+      <link>https://github.com/redis/redis</link>
+      <description>For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.</description>
+      <guid>https://github.com/redis/redis</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>18,426</stars>
-      <forks>2,329</forks>
-      <addStars>309</addStars>
+      <stars>77,165</stars>
+      <forks>25,037</forks>
+      <addStars>1,093</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/313067?s=40&amp;v=4</avatar>
-          <name>tkreuzer</name>
-          <url>https://github.com/tkreuzer</url>
+          <avatar>https://avatars.githubusercontent.com/u/65632?s=40&amp;v=4</avatar>
+          <name>antirez</name>
+          <url>https://github.com/antirez</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/352225?s=40&amp;v=4</avatar>
-          <name>AmineKhaldi</name>
-          <url>https://github.com/AmineKhaldi</url>
+          <avatar>https://avatars.githubusercontent.com/u/7045099?s=40&amp;v=4</avatar>
+          <name>oranagra</name>
+          <url>https://github.com/oranagra</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32571919?s=40&amp;v=4</avatar>
-          <name>EricKohl</name>
-          <url>https://github.com/EricKohl</url>
+          <avatar>https://avatars.githubusercontent.com/u/9845?s=40&amp;v=4</avatar>
+          <name>pietern</name>
+          <url>https://github.com/pietern</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1969829?s=40&amp;v=4</avatar>
-          <name>HBelusca</name>
-          <url>https://github.com/HBelusca</url>
+          <avatar>https://avatars.githubusercontent.com/u/965798?s=40&amp;v=4</avatar>
+          <name>sundb</name>
+          <url>https://github.com/sundb</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18138474?s=40&amp;v=4</avatar>
-          <name>ThFabba</name>
-          <url>https://github.com/ThFabba</url>
+          <avatar>https://avatars.githubusercontent.com/u/22811481?s=40&amp;v=4</avatar>
+          <name>enjoy-binbin</name>
+          <url>https://github.com/enjoy-binbin</url>
         </contributor>
       </contributors>
     </item>
@@ -424,8 +348,8 @@
       <guid>https://github.com/armel/uv-k1-k5v3-firmware-custom</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>825</stars>
-      <forks>227</forks>
+      <stars>826</stars>
+      <forks>229</forks>
       <addStars>115</addStars>
       <contributors>
         <contributor>
@@ -456,40 +380,116 @@
       </contributors>
     </item>
     <item>
-      <title>EchoStretch/kstuff-lite</title>
-      <link>https://github.com/EchoStretch/kstuff-lite</link>
-      <description/>
-      <guid>https://github.com/EchoStretch/kstuff-lite</guid>
+      <title>reactos/reactos</title>
+      <link>https://github.com/reactos/reactos</link>
+      <description>A free Windows-compatible Operating System</description>
+      <guid>https://github.com/reactos/reactos</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>878</stars>
-      <forks>67</forks>
-      <addStars>316</addStars>
+      <stars>18,425</stars>
+      <forks>2,330</forks>
+      <addStars>309</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1344732?s=40&amp;v=4</avatar>
-          <name>drakmor</name>
-          <url>https://github.com/drakmor</url>
+          <avatar>https://avatars.githubusercontent.com/u/313067?s=40&amp;v=4</avatar>
+          <name>tkreuzer</name>
+          <url>https://github.com/tkreuzer</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/98502641?s=40&amp;v=4</avatar>
-          <name>EchoStretch</name>
-          <url>https://github.com/EchoStretch</url>
+          <avatar>https://avatars.githubusercontent.com/u/352225?s=40&amp;v=4</avatar>
+          <name>AmineKhaldi</name>
+          <url>https://github.com/AmineKhaldi</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/649698?s=40&amp;v=4</avatar>
-          <name>sunnyqeen</name>
-          <url>https://github.com/sunnyqeen</url>
+          <avatar>https://avatars.githubusercontent.com/u/32571919?s=40&amp;v=4</avatar>
+          <name>EricKohl</name>
+          <url>https://github.com/EricKohl</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/148508202?s=40&amp;v=4</avatar>
-          <name>idlesauce</name>
-          <url>https://github.com/idlesauce</url>
+          <avatar>https://avatars.githubusercontent.com/u/1969829?s=40&amp;v=4</avatar>
+          <name>HBelusca</name>
+          <url>https://github.com/HBelusca</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/52703?s=40&amp;v=4</avatar>
-          <name>ItsAllAboutTheCode</name>
-          <url>https://github.com/ItsAllAboutTheCode</url>
+          <avatar>https://avatars.githubusercontent.com/u/18138474?s=40&amp;v=4</avatar>
+          <name>ThFabba</name>
+          <url>https://github.com/ThFabba</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>systemd/systemd</title>
+      <link>https://github.com/systemd/systemd</link>
+      <description>The systemd System and Service Manager</description>
+      <guid>https://github.com/systemd/systemd</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>16,992</stars>
+      <forks>4,804</forks>
+      <addStars>255</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
+          <name>poettering</name>
+          <url>https://github.com/poettering</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
+          <name>yuwata</name>
+          <url>https://github.com/yuwata</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
+          <name>keszybz</name>
+          <url>https://github.com/keszybz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
+          <name>bluca</name>
+          <url>https://github.com/bluca</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
+          <name>daandemeyer</name>
+          <url>https://github.com/daandemeyer</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>ventoy/Ventoy</title>
+      <link>https://github.com/ventoy/Ventoy</link>
+      <description>A new bootable USB solution.</description>
+      <guid>https://github.com/ventoy/Ventoy</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>80,563</stars>
+      <forks>5,037</forks>
+      <addStars>1,035</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/59477474?s=40&amp;v=4</avatar>
+          <name>ventoy</name>
+          <url>https://github.com/ventoy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/67432394?s=40&amp;v=4</avatar>
+          <name>wiz64</name>
+          <url>https://github.com/wiz64</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/53147200?s=40&amp;v=4</avatar>
+          <name>VenusGirl</name>
+          <url>https://github.com/VenusGirl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54566818?s=40&amp;v=4</avatar>
+          <name>crasadure</name>
+          <url>https://github.com/crasadure</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/31486344?s=40&amp;v=4</avatar>
+          <name>AnomSanjaya</name>
+          <url>https://github.com/AnomSanjaya</url>
         </contributor>
       </contributors>
     </item>
@@ -500,8 +500,8 @@
       <guid>https://github.com/willfaust/Madeira</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>3,040</stars>
-      <forks>390</forks>
+      <stars>3,046</stars>
+      <forks>392</forks>
       <addStars>1,524</addStars>
       <contributors>
         <contributor>
