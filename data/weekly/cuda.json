@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 19:58:10 GMT",
+  "pubDate": "Tue, 03 Nov 2026 23:54:34 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -11,7 +11,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "31,386",
-      "forks": "3,813",
+      "forks": "3,814",
       "addStars": "154",
       "contributors": [
         {
@@ -47,19 +47,19 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,848",
+      "stars": "6,847",
       "forks": "1,691",
       "addStars": "54",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/52445717?s=40&v=4",
           "name": "yyihuang",
           "url": "https://github.com/yyihuang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/219764253?s=40&v=4",
@@ -84,7 +84,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,406",
+      "stars": "10,407",
       "forks": "1,540",
       "addStars": "45",
       "contributors": [
@@ -195,7 +195,7 @@
       "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "2,594",
+      "stars": "2,596",
       "forks": "273",
       "addStars": "21",
       "contributors": [
@@ -306,8 +306,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,150",
-      "forks": "1,506",
+      "stars": "9,152",
+      "forks": "1,507",
       "addStars": "39",
       "contributors": [
         {
