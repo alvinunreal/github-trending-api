@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 03 Nov 2026 23:54:34 GMT",
+  "pubDate": "Wed, 04 Nov 2026 01:06:07 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,7 +10,7 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "101,519",
+      "stars": "101,563",
       "forks": "5,988",
       "addStars": "11,405",
       "contributors": [
@@ -42,8 +42,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,469",
-      "forks": "375",
+      "stars": "10,507",
+      "forks": "379",
       "addStars": "749",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "133,010",
-      "forks": "21,057",
+      "stars": "133,015",
+      "forks": "21,059",
       "addStars": "1,945",
       "contributors": [
         {
@@ -106,8 +106,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "47,878",
-      "forks": "3,838",
+      "stars": "47,886",
+      "forks": "3,843",
       "addStars": "1,719",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,356",
-      "forks": "3,520",
+      "stars": "37,365",
+      "forks": "3,522",
       "addStars": "2,471",
       "contributors": [
         {
@@ -176,7 +176,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "5,921",
-      "forks": "1,046",
+      "forks": "1,045",
       "addStars": "228",
       "contributors": [
         {
@@ -207,7 +207,7 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,121",
+      "stars": "6,123",
       "forks": "570",
       "addStars": "1,044",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,041",
-      "forks": "5,504",
+      "stars": "34,044",
+      "forks": "5,505",
       "addStars": "233",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,829",
-      "forks": "182",
+      "stars": "1,835",
+      "forks": "183",
       "addStars": "865",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "102,250",
-      "forks": "13,279",
+      "stars": "102,266",
+      "forks": "13,282",
       "addStars": "2,174",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,405",
-      "forks": "3,115",
+      "stars": "45,410",
+      "forks": "3,114",
       "addStars": "706",
       "contributors": [
         {
@@ -409,7 +409,7 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,208",
+      "stars": "3,209",
       "forks": "221",
       "addStars": "487",
       "contributors": [
@@ -483,7 +483,7 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,321",
+      "stars": "24,323",
       "forks": "2,241",
       "addStars": "426",
       "contributors": [
@@ -589,8 +589,8 @@
       "description": "A Tiny biped duck robot 🦆",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,394",
-      "forks": "1,680",
+      "stars": "13,396",
+      "forks": "1,681",
       "addStars": "700",
       "contributors": [
         {
@@ -626,7 +626,7 @@
       "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,972",
+      "stars": "3,973",
       "forks": "356",
       "addStars": "138",
       "contributors": [
@@ -663,8 +663,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,047",
-      "forks": "907",
+      "stars": "25,049",
+      "forks": "905",
       "addStars": "748",
       "contributors": [
         {
