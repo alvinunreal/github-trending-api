@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 13:08:03 GMT",
+  "pubDate": "Fri, 06 Nov 2026 19:08:37 GMT",
   "items": [
     {
       "title": "karpathy/llm.c",
@@ -10,7 +10,7 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,399",
+      "stars": "31,400",
       "forks": "3,813",
       "addStars": "118",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,865",
+      "stars": "6,866",
       "forks": "1,704",
       "addStars": "52",
       "contributors": [
@@ -122,7 +122,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "890",
-      "forks": "259",
+      "forks": "260",
       "addStars": "7",
       "contributors": [
         {
@@ -195,7 +195,7 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "10,415",
+      "stars": "10,414",
       "forks": "1,546",
       "addStars": "38",
       "contributors": [
@@ -232,7 +232,7 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,694",
+      "stars": "1,695",
       "forks": "415",
       "addStars": "12",
       "contributors": [
@@ -269,8 +269,8 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,163",
-      "forks": "1,512",
+      "stars": "9,164",
+      "forks": "1,513",
       "addStars": "40",
       "contributors": [
         {

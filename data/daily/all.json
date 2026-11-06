@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 13:08:03 GMT",
+  "pubDate": "Fri, 06 Nov 2026 19:08:37 GMT",
   "items": [
     {
       "title": "zed-industries/zed",
@@ -10,8 +10,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "93,036",
-      "forks": "11,459",
+      "stars": "93,377",
+      "forks": "11,482",
       "addStars": "292",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,372",
-      "forks": "675",
+      "stars": "8,751",
+      "forks": "705",
       "addStars": "2,005",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "58,897",
-      "forks": "23,822",
-      "addStars": "44",
+      "stars": "58,948",
+      "forks": "23,826",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/47848?s=40&v=4",
@@ -121,8 +121,8 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "37,765",
-      "forks": "3,628",
+      "stars": "37,831",
+      "forks": "3,630",
       "addStars": "36",
       "contributors": [
         {
@@ -158,8 +158,8 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "121,187",
-      "forks": "17,357",
+      "stars": "121,317",
+      "forks": "17,359",
       "addStars": "186",
       "contributors": [
         {
@@ -195,8 +195,8 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,058",
-      "forks": "51,789",
+      "stars": "252,154",
+      "forks": "51,801",
       "addStars": "244",
       "contributors": [
         {
@@ -232,8 +232,8 @@
       "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,153",
-      "forks": "28,906",
+      "stars": "101,239",
+      "forks": "28,908",
       "addStars": "128",
       "contributors": [
         {
@@ -269,8 +269,8 @@
       "description": "The Symfony PHP framework",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": "31,260",
-      "forks": "9,939",
+      "stars": "31,331",
+      "forks": "9,942",
       "addStars": "89",
       "contributors": [
         {
@@ -306,7 +306,7 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "66,997",
+      "stars": "67,081",
       "forks": "10,979",
       "addStars": "140",
       "contributors": [
@@ -338,8 +338,8 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,639",
-      "forks": "1,904",
+      "stars": "22,754",
+      "forks": "1,914",
       "addStars": "532",
       "contributors": [
         {
@@ -375,8 +375,8 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "194,809",
-      "forks": "44,404",
+      "stars": "194,918",
+      "forks": "44,413",
       "addStars": "295",
       "contributors": [
         {
@@ -412,8 +412,8 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "12,540",
-      "forks": "1,640",
+      "stars": "12,611",
+      "forks": "1,642",
       "addStars": "313",
       "contributors": [
         {
@@ -444,8 +444,8 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,808",
-      "forks": "2,331",
+      "stars": "40,879",
+      "forks": "2,336",
       "addStars": "88",
       "contributors": [
         {
@@ -476,8 +476,8 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,492",
-      "forks": "10,572",
+      "stars": "52,547",
+      "forks": "10,580",
       "addStars": "123",
       "contributors": [
         {
@@ -513,8 +513,8 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": "31,205",
-      "forks": "11,579",
+      "stars": "31,250",
+      "forks": "11,581",
       "addStars": "24",
       "contributors": [
         {
@@ -550,8 +550,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "316,171",
-      "forks": "26,449",
+      "stars": "316,486",
+      "forks": "26,474",
       "addStars": "2,058",
       "contributors": [
         {
@@ -577,8 +577,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "62,865",
-      "forks": "4,076",
+      "stars": "63,537",
+      "forks": "4,118",
       "addStars": "2,524",
       "contributors": [
         {
@@ -604,8 +604,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,498",
-      "forks": "2,597",
+      "stars": "50,575",
+      "forks": "2,600",
       "addStars": "107",
       "contributors": [
         {
