@@ -2,45 +2,8 @@
   "title": "GitHub Emacs-lisp Languages Monthly Trending",
   "description": "Monthly Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 07:09:54 GMT",
+  "pubDate": "Sat, 07 Nov 2026 13:06:35 GMT",
   "items": [
-    {
-      "title": "google-coral/coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": "2,677",
-      "forks": "371",
-      "addStars": "98",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/168087?s=40&v=4",
-          "name": "atvrager",
-          "url": "https://github.com/atvrager"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1381752?s=40&v=4",
-          "name": "davidgao",
-          "url": "https://github.com/davidgao"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/107084677?s=40&v=4",
-          "name": "derekjchow-google",
-          "url": "https://github.com/derekjchow-google"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/605639?s=40&v=4",
-          "name": "unrepentantgeek",
-          "url": "https://github.com/unrepentantgeek"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5769457?s=40&v=4",
-          "name": "mhoangy",
-          "url": "https://github.com/mhoangy"
-        }
-      ]
-    },
     {
       "title": "google/styleguide",
       "url": "https://github.com/google/styleguide",
@@ -70,6 +33,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/68491?s=40&v=4",
           "name": "gpshead",
           "url": "https://github.com/gpshead"
+        }
+      ]
+    },
+    {
+      "title": "google-coral/coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": "2,678",
+      "forks": "371",
+      "addStars": "98",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/168087?s=40&v=4",
+          "name": "atvrager",
+          "url": "https://github.com/atvrager"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1381752?s=40&v=4",
+          "name": "davidgao",
+          "url": "https://github.com/davidgao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/107084677?s=40&v=4",
+          "name": "derekjchow-google",
+          "url": "https://github.com/derekjchow-google"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/605639?s=40&v=4",
+          "name": "unrepentantgeek",
+          "url": "https://github.com/unrepentantgeek"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5769457?s=40&v=4",
+          "name": "mhoangy",
+          "url": "https://github.com/mhoangy"
         }
       ]
     },
@@ -154,7 +154,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": "5,134",
-      "forks": "984",
+      "forks": "983",
       "addStars": "14",
       "contributors": [
         {
@@ -190,7 +190,7 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "1,104",
+      "stars": "1,110",
       "forks": "76",
       "addStars": "125",
       "contributors": [
@@ -264,7 +264,7 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": "5,241",
+      "stars": "5,242",
       "forks": "1,422",
       "addStars": "40",
       "contributors": [
