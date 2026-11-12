@@ -2,7 +2,7 @@
   "title": "GitHub Qml Languages Weekly Trending",
   "description": "Weekly Trending of Qml Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 13:08:01 GMT",
+  "pubDate": "Thu, 12 Nov 2026 19:09:04 GMT",
   "items": [
     {
       "title": "end-4/dots-hyprland",
@@ -10,8 +10,8 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "16,607",
-      "forks": "1,438",
+      "stars": "16,611",
+      "forks": "1,440",
       "addStars": "86",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "A shell for wayland compositors",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "7,684",
+      "stars": "7,690",
       "forks": "358",
       "addStars": "85",
       "contributors": [
@@ -131,6 +131,11 @@
           "url": "https://github.com/andreumassanet"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/76874664?s=40&v=4",
+          "name": "oussama-mahdjour",
+          "url": "https://github.com/oussama-mahdjour"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/121257724?s=40&v=4",
           "name": "BaylieBuffel",
           "url": "https://github.com/BaylieBuffel"
@@ -139,6 +144,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/221158347?s=40&v=4",
           "name": "OfficialAbhinavSingh",
           "url": "https://github.com/OfficialAbhinavSingh"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/251450362?s=40&v=4",
+          "name": "Dikistutmaz-Sabri",
+          "url": "https://github.com/Dikistutmaz-Sabri"
         }
       ]
     },
@@ -185,7 +195,7 @@
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,804",
+      "stars": "3,806",
       "forks": "249",
       "addStars": "81",
       "contributors": [
@@ -222,7 +232,7 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "13,357",
+      "stars": "13,367",
       "forks": "1,004",
       "addStars": "129",
       "contributors": [
@@ -254,7 +264,7 @@
       "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "5,107",
+      "stars": "5,108",
       "forks": "386",
       "addStars": "16",
       "contributors": [
@@ -328,7 +338,7 @@
       "description": "// A Niri shell // with bloat and stuff!",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,950",
+      "stars": "1,951",
       "forks": "114",
       "addStars": "38",
       "contributors": [
@@ -365,7 +375,7 @@
       "description": "An Axtremely customizable shell.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "1,890",
+      "stars": "1,891",
       "forks": "127",
       "addStars": "14",
       "contributors": [
@@ -402,7 +412,7 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": "3,065",
+      "stars": "3,067",
       "forks": "126",
       "addStars": "40",
       "contributors": [
