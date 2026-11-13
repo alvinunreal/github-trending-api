@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Weekly Trending",
   "description": "Weekly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 13:07:44 GMT",
+  "pubDate": "Fri, 13 Nov 2026 19:09:34 GMT",
   "items": [
     {
       "title": "tidain/YunX-Desktop",
@@ -10,8 +10,8 @@
       "description": "YunX（云析）的官方 windows 桌面端",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "5,489",
-      "forks": "430",
+      "stars": "5,581",
+      "forks": "434",
       "addStars": "2,018",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,692",
-      "forks": "406",
+      "stars": "7,741",
+      "forks": "408",
       "addStars": "1,073",
       "contributors": [
         {
@@ -74,7 +74,7 @@
       "description": "A modern, cool, sleek music player. made with <3",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,596",
+      "stars": "1,620",
       "forks": "70",
       "addStars": "765",
       "contributors": [
@@ -106,50 +106,13 @@
       ]
     },
     {
-      "title": "gkd-kit/gkd",
-      "url": "https://github.com/gkd-kit/gkd",
-      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": "44,650",
-      "forks": "2,131",
-      "addStars": "570",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/38517192?s=40&v=4",
-          "name": "lisonge",
-          "url": "https://github.com/lisonge"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4233744?s=40&v=4",
-          "name": "tiann",
-          "url": "https://github.com/tiann"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/121001029?s=40&v=4",
-          "name": "cjy0812",
-          "url": "https://github.com/cjy0812"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17351112?s=40&v=4",
-          "name": "fansangg",
-          "url": "https://github.com/fansangg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85251920?s=40&v=4",
-          "name": "Lin-arm",
-          "url": "https://github.com/Lin-arm"
-        }
-      ]
-    },
-    {
       "title": "kushagrasinghx/BitChord",
       "url": "https://github.com/kushagrasinghx/BitChord",
       "description": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,556",
-      "forks": "694",
+      "stars": "6,578",
+      "forks": "701",
       "addStars": "681",
       "contributors": [
         {
@@ -180,8 +143,8 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "11,277",
-      "forks": "1,205",
+      "stars": "11,284",
+      "forks": "1,207",
       "addStars": "123",
       "contributors": [
         {
@@ -217,8 +180,8 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "33,586",
-      "forks": "3,647",
+      "stars": "33,607",
+      "forks": "3,649",
       "addStars": "701",
       "contributors": [
         {
@@ -291,8 +254,8 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,990",
-      "forks": "807",
+      "stars": "6,997",
+      "forks": "809",
       "addStars": "134",
       "contributors": [
         {
@@ -323,8 +286,8 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,288",
-      "forks": "762",
+      "stars": "13,303",
+      "forks": "763",
       "addStars": "467",
       "contributors": [
         {
@@ -360,7 +323,7 @@
       "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "30,626",
+      "stars": "30,637",
       "forks": "1,557",
       "addStars": "276",
       "contributors": [
@@ -397,8 +360,8 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "65,813",
-      "forks": "8,615",
+      "stars": "65,833",
+      "forks": "8,616",
       "addStars": "469",
       "contributors": [
         {
@@ -434,7 +397,7 @@
       "description": "A Download Manager that speeds up your downloads",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "19,255",
+      "stars": "19,262",
       "forks": "1,027",
       "addStars": "268",
       "contributors": [
@@ -471,8 +434,8 @@
       "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,233",
-      "forks": "557",
+      "stars": "2,234",
+      "forks": "559",
       "addStars": "50",
       "contributors": [
         {
@@ -508,7 +471,7 @@
       "description": "A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "944",
+      "stars": "949",
       "forks": "56",
       "addStars": "198",
       "contributors": [

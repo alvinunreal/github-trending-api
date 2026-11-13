@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Monthly Trending",
   "description": "Monthly Trending of Nix Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 13:07:44 GMT",
+  "pubDate": "Fri, 13 Nov 2026 19:09:34 GMT",
   "items": [
     {
       "title": "NixOS/nixpkgs",
@@ -10,8 +10,8 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "26,813",
-      "forks": "20,743",
+      "stars": "26,816",
+      "forks": "20,746",
       "addStars": "439",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": "1,806",
+      "stars": "1,807",
       "forks": "276",
       "addStars": "16",
       "contributors": [
