@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 07:09:55 GMT",
+  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
   "items": [
     {
       "title": "microsoft/vcpkg",
@@ -107,6 +107,11 @@
           "avatar": "https://avatars.githubusercontent.com/u/47395872?s=40&v=4",
           "name": "Poste2Travail",
           "url": "https://github.com/Poste2Travail"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71344841?s=40&v=4",
+          "name": "cappuchi",
+          "url": "https://github.com/cappuchi"
         }
       ]
     },
@@ -116,7 +121,7 @@
       "description": "VST 3 Plug-In SDK",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "2,396",
+      "stars": "2,395",
       "forks": "237",
       "addStars": "1",
       "contributors": [
@@ -143,7 +148,7 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": "1,887",
+      "stars": "1,888",
       "forks": "279",
       "addStars": "2",
       "contributors": [

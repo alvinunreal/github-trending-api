@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 07:09:55 GMT",
+  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
   "items": [
     {
       "title": "JuliusBrussee/caveman",
@@ -10,8 +10,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "120,187",
-      "forks": "7,006",
+      "stars": "120,332",
+      "forks": "7,016",
       "addStars": "1,902",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "51,576",
-      "forks": "3,983",
+      "stars": "51,725",
+      "forks": "4,027",
       "addStars": "1,672",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,310",
-      "forks": "1,649",
+      "stars": "17,320",
+      "forks": "1,650",
       "addStars": "814",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,348",
-      "forks": "2,747",
+      "stars": "29,356",
+      "forks": "2,752",
       "addStars": "392",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,022",
-      "forks": "9,308",
+      "stars": "47,024",
+      "forks": "9,319",
       "addStars": "144",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,227",
+      "stars": "1,229",
       "forks": "161",
       "addStars": "799",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "27,350",
-      "forks": "1,183",
+      "stars": "27,354",
+      "forks": "1,184",
       "addStars": "474",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,357",
-      "forks": "880",
+      "stars": "39,364",
+      "forks": "886",
       "addStars": "258",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "smart charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,615",
-      "forks": "1,661",
+      "stars": "7,617",
+      "forks": "1,656",
       "addStars": "86",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "9,868",
-      "forks": "458",
+      "stars": "9,892",
+      "forks": "460",
       "addStars": "1,007",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,589",
-      "forks": "8,990",
+      "stars": "58,618",
+      "forks": "8,991",
       "addStars": "739",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "56,139",
-      "forks": "7,416",
+      "stars": "56,170",
+      "forks": "7,420",
       "addStars": "951",
       "contributors": [
         {
@@ -434,8 +434,8 @@
       "description": "Information gathering framework for phone numbers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,566",
-      "forks": "6,334",
+      "stars": "18,572",
+      "forks": "6,336",
       "addStars": "147",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,329",
-      "forks": "915",
+      "stars": "4,348",
+      "forks": "917",
       "addStars": "124",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,086",
-      "forks": "1,282",
+      "stars": "8,095",
+      "forks": "1,284",
       "addStars": "618",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,678",
-      "forks": "750",
+      "stars": "6,738",
+      "forks": "754",
       "addStars": "446",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,040",
-      "forks": "2,378",
+      "stars": "31,046",
+      "forks": "2,381",
       "addStars": "271",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,617",
-      "forks": "11,022",
+      "stars": "67,620",
+      "forks": "11,025",
       "addStars": "399",
       "contributors": [
         {
@@ -641,8 +641,8 @@
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,133",
-      "forks": "264",
+      "stars": "3,140",
+      "forks": "299",
       "addStars": "175",
       "contributors": [
         {
@@ -673,8 +673,8 @@
       "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,314",
-      "forks": "606",
+      "stars": "6,321",
+      "forks": "607",
       "addStars": "237",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 07:09:55 GMT",
+  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
   "items": [
     {
       "title": "NVIDIA/cudnn-frontend",
@@ -47,8 +47,8 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "6,927",
-      "forks": "1,756",
+      "stars": "6,928",
+      "forks": "1,757",
       "addStars": "57",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,476",
-      "forks": "3,825",
+      "stars": "31,480",
+      "forks": "3,826",
       "addStars": "82",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,115",
-      "forks": "259",
+      "stars": "1,116",
+      "forks": "260",
       "addStars": "14",
       "contributors": [
         {
@@ -232,7 +232,7 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,195",
+      "stars": "9,196",
       "forks": "1,532",
       "addStars": "34",
       "contributors": [
