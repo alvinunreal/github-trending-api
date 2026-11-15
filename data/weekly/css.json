@@ -2,7 +2,7 @@
   "title": "GitHub Css Languages Weekly Trending",
   "description": "Weekly Trending of Css Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 19:07:58 GMT",
   "items": [
     {
       "title": "Nutlope/hallmark",
@@ -10,8 +10,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "55,251",
-      "forks": "2,963",
+      "stars": "55,383",
+      "forks": "2,973",
       "addStars": "4,868",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "A distraction-free and highly customizable theme for Obsidian.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,673",
+      "stars": "5,675",
       "forks": "308",
       "addStars": "179",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "A sample Spring-based application",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "9,656",
+      "stars": "9,657",
       "forks": "31,171",
       "addStars": "28",
       "contributors": [
@@ -158,7 +158,7 @@
       "description": "Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "5,619",
+      "stars": "5,621",
       "forks": "956",
       "addStars": "28",
       "contributors": [
@@ -195,8 +195,8 @@
       "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "83,010",
-      "forks": "15,889",
+      "stars": "83,011",
+      "forks": "15,904",
       "addStars": "60",
       "contributors": [
         {
@@ -227,7 +227,7 @@
       "description": "An inky color scheme for prose and code.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "3,840",
+      "stars": "3,843",
       "forks": "143",
       "addStars": "90",
       "contributors": [
@@ -255,43 +255,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/46987067?s=40&v=4",
           "name": "peterjbachman",
           "url": "https://github.com/peterjbachman"
-        }
-      ]
-    },
-    {
-      "title": "SillyTavern/SillyTavern-Docs",
-      "url": "https://github.com/SillyTavern/SillyTavern-Docs",
-      "description": "Documentation website for SillyTavern.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "188",
-      "forks": "405",
-      "addStars": "3",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/18619528?s=40&v=4",
-          "name": "Cohee1207",
-          "url": "https://github.com/Cohee1207"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/124905043?s=40&v=4",
-          "name": "RossAscends",
-          "url": "https://github.com/RossAscends"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9962104?s=40&v=4",
-          "name": "Wolfsblvt",
-          "url": "https://github.com/Wolfsblvt"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48798118?s=40&v=4",
-          "name": "Tony-sama",
-          "url": "https://github.com/Tony-sama"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136328295?s=40&v=4",
-          "name": "underscorex86",
-          "url": "https://github.com/underscorex86"
         }
       ]
     },
@@ -328,113 +291,39 @@
       ]
     },
     {
-      "title": "lestercorderomurillo/macos-tahoe-liquid-kde",
-      "url": "https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde",
-      "description": "MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+",
+      "title": "SillyTavern/SillyTavern-Docs",
+      "url": "https://github.com/SillyTavern/SillyTavern-Docs",
+      "description": "Documentation website for SillyTavern.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "284",
-      "forks": "37",
-      "addStars": "20",
+      "stars": "189",
+      "forks": "406",
+      "addStars": "3",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/24488981?s=40&v=4",
-          "name": "lestercorderomurillo",
-          "url": "https://github.com/lestercorderomurillo"
+          "avatar": "https://avatars.githubusercontent.com/u/18619528?s=40&v=4",
+          "name": "Cohee1207",
+          "url": "https://github.com/Cohee1207"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/124905043?s=40&v=4",
+          "name": "RossAscends",
+          "url": "https://github.com/RossAscends"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72387595?s=40&v=4",
-          "name": "RoxasYTB",
-          "url": "https://github.com/RoxasYTB"
+          "avatar": "https://avatars.githubusercontent.com/u/9962104?s=40&v=4",
+          "name": "Wolfsblvt",
+          "url": "https://github.com/Wolfsblvt"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/228758946?s=40&v=4",
-          "name": "yanhenrique-dev",
-          "url": "https://github.com/yanhenrique-dev"
+          "avatar": "https://avatars.githubusercontent.com/u/48798118?s=40&v=4",
+          "name": "Tony-sama",
+          "url": "https://github.com/Tony-sama"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/194412810?s=40&v=4",
-          "name": "naevui",
-          "url": "https://github.com/naevui"
-        }
-      ]
-    },
-    {
-      "title": "missing-semester/missing-semester",
-      "url": "https://github.com/missing-semester/missing-semester",
-      "description": "The Missing Semester of Your CS Education 📚",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "6,193",
-      "forks": "1,517",
-      "addStars": "32",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3526486?s=40&v=4",
-          "name": "anishathalye",
-          "url": "https://github.com/anishathalye"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/176295?s=40&v=4",
-          "name": "jonhoo",
-          "url": "https://github.com/jonhoo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3844846?s=40&v=4",
-          "name": "JJGO",
-          "url": "https://github.com/JJGO"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26491792?s=40&v=4",
-          "name": "josejg",
-          "url": "https://github.com/josejg"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8521043?s=40&v=4",
-          "name": "bewuethr",
-          "url": "https://github.com/bewuethr"
-        }
-      ]
-    },
-    {
-      "title": "IBM/plex",
-      "url": "https://github.com/IBM/plex",
-      "description": "The package of IBM’s typeface, IBM Plex.",
-      "language": "CSS",
-      "languageColor": "#663399",
-      "stars": "11,775",
-      "forks": "625",
-      "addStars": "18",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7519029?s=40&v=4",
-          "name": "seejamescode",
-          "url": "https://github.com/seejamescode"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4078018?s=40&v=4",
-          "name": "vpicone",
-          "url": "https://github.com/vpicone"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2753488?s=40&v=4",
-          "name": "alisonjoseph",
-          "url": "https://github.com/alisonjoseph"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3360588?s=40&v=4",
-          "name": "tay1orjones",
-          "url": "https://github.com/tay1orjones"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3901764?s=40&v=4",
-          "name": "joshblack",
-          "url": "https://github.com/joshblack"
+          "avatar": "https://avatars.githubusercontent.com/u/136328295?s=40&v=4",
+          "name": "underscorex86",
+          "url": "https://github.com/underscorex86"
         }
       ]
     },
@@ -472,6 +361,107 @@
           "avatar": "https://avatars.githubusercontent.com/u/79467907?s=40&v=4",
           "name": "astrum-nova",
           "url": "https://github.com/astrum-nova"
+        }
+      ]
+    },
+    {
+      "title": "hkhcoder/vprofile-project",
+      "url": "https://github.com/hkhcoder/vprofile-project",
+      "description": "",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "1,493",
+      "forks": "8,069",
+      "addStars": "12",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/137309866?s=40&v=4",
+          "name": "hkhcoder",
+          "url": "https://github.com/hkhcoder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46835275?s=40&v=4",
+          "name": "devopshydclub",
+          "url": "https://github.com/devopshydclub"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/147797447?s=40&v=4",
+          "name": "devops4sure",
+          "url": "https://github.com/devops4sure"
+        }
+      ]
+    },
+    {
+      "title": "missing-semester/missing-semester",
+      "url": "https://github.com/missing-semester/missing-semester",
+      "description": "The Missing Semester of Your CS Education 📚",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "6,194",
+      "forks": "1,517",
+      "addStars": "32",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3526486?s=40&v=4",
+          "name": "anishathalye",
+          "url": "https://github.com/anishathalye"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/176295?s=40&v=4",
+          "name": "jonhoo",
+          "url": "https://github.com/jonhoo"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3844846?s=40&v=4",
+          "name": "JJGO",
+          "url": "https://github.com/JJGO"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/26491792?s=40&v=4",
+          "name": "josejg",
+          "url": "https://github.com/josejg"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8521043?s=40&v=4",
+          "name": "bewuethr",
+          "url": "https://github.com/bewuethr"
+        }
+      ]
+    },
+    {
+      "title": "vinceliuice/WhiteSur-gtk-theme",
+      "url": "https://github.com/vinceliuice/WhiteSur-gtk-theme",
+      "description": "MacOS like theme for all gtk based desktops",
+      "language": "CSS",
+      "languageColor": "#663399",
+      "stars": "9,444",
+      "forks": "735",
+      "addStars": "31",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7604295?s=40&v=4",
+          "name": "vinceliuice",
+          "url": "https://github.com/vinceliuice"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6300910?s=40&v=4",
+          "name": "stormbeforesunsetbee",
+          "url": "https://github.com/stormbeforesunsetbee"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/108715053?s=40&v=4",
+          "name": "zzxxchen",
+          "url": "https://github.com/zzxxchen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71726270?s=40&v=4",
+          "name": "afpfernandes",
+          "url": "https://github.com/afpfernandes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6800453?s=40&v=4",
+          "name": "AdamXweb",
+          "url": "https://github.com/AdamXweb"
         }
       ]
     }

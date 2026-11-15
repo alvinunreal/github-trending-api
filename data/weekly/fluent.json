@@ -2,7 +2,7 @@
   "title": "GitHub Fluent Languages Weekly Trending",
   "description": "Weekly Trending of Fluent Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 19:07:58 GMT",
   "items": [
     {
       "title": "qarmin/czkawka",
@@ -10,7 +10,7 @@
       "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "35,212",
+      "stars": "35,221",
       "forks": "1,265",
       "addStars": "271",
       "contributors": [
@@ -42,12 +42,49 @@
       ]
     },
     {
+      "title": "SlimeVR/SlimeVR-Server",
+      "url": "https://github.com/SlimeVR/SlimeVR-Server",
+      "description": "Server app for SlimeVR ecosystem",
+      "language": "Fluent",
+      "languageColor": "#ffcc33",
+      "stars": "1,051",
+      "forks": "260",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3698237?s=40&v=4",
+          "name": "ImUrX",
+          "url": "https://github.com/ImUrX"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3948904?s=40&v=4",
+          "name": "loucass003",
+          "url": "https://github.com/loucass003"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1257939?s=40&v=4",
+          "name": "Eirenliel",
+          "url": "https://github.com/Eirenliel"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5095026?s=40&v=4",
+          "name": "ButterscotchV",
+          "url": "https://github.com/ButterscotchV"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20461725?s=40&v=4",
+          "name": "Erimelowo",
+          "url": "https://github.com/Erimelowo"
+        }
+      ]
+    },
+    {
       "title": "janeczku/calibre-web",
       "url": "https://github.com/janeczku/calibre-web",
       "description": "📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",
       "language": "Fluent",
       "languageColor": "#ffcc33",
-      "stars": "18,566",
+      "stars": "18,567",
       "forks": "1,910",
       "addStars": "30",
       "contributors": [
@@ -75,43 +112,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/999845?s=40&v=4",
           "name": "jkrehm",
           "url": "https://github.com/jkrehm"
-        }
-      ]
-    },
-    {
-      "title": "SlimeVR/SlimeVR-Server",
-      "url": "https://github.com/SlimeVR/SlimeVR-Server",
-      "description": "Server app for SlimeVR ecosystem",
-      "language": "Fluent",
-      "languageColor": "#ffcc33",
-      "stars": "1,052",
-      "forks": "261",
-      "addStars": "2",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3698237?s=40&v=4",
-          "name": "ImUrX",
-          "url": "https://github.com/ImUrX"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3948904?s=40&v=4",
-          "name": "loucass003",
-          "url": "https://github.com/loucass003"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1257939?s=40&v=4",
-          "name": "Eirenliel",
-          "url": "https://github.com/Eirenliel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5095026?s=40&v=4",
-          "name": "ButterscotchV",
-          "url": "https://github.com/ButterscotchV"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/20461725?s=40&v=4",
-          "name": "Erimelowo",
-          "url": "https://github.com/Erimelowo"
         }
       ]
     }

@@ -3,7 +3,7 @@
     <title>GitHub C Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 13:07:07 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 19:07:58 GMT</pubDate>
     <item>
       <title>php/php-src</title>
       <link>https://github.com/php/php-src</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/php/php-src</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>41,787</stars>
-      <forks>8,530</forks>
+      <stars>41,788</stars>
+      <forks>8,531</forks>
       <addStars>1,447</addStars>
       <contributors>
         <contributor>
@@ -43,52 +43,14 @@
       </contributors>
     </item>
     <item>
-      <title>FareedKhan-dev/kimi-k3-in-c</title>
-      <link>https://github.com/FareedKhan-dev/kimi-k3-in-c</link>
-      <description>A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.</description>
-      <guid>https://github.com/FareedKhan-dev/kimi-k3-in-c</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>12,109</stars>
-      <forks>1,871</forks>
-      <addStars>3,078</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/63067900?s=40&amp;v=4</avatar>
-          <name>FareedKhan-dev</name>
-          <url>https://github.com/FareedKhan-dev</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12515041?s=40&amp;v=4</avatar>
-          <name>douglasmun</name>
-          <url>https://github.com/douglasmun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/67913962?s=40&amp;v=4</avatar>
-          <name>Barba2k2</name>
-          <url>https://github.com/Barba2k2</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/251295277?s=40&amp;v=4</avatar>
-          <name>cwwjacobs</name>
-          <url>https://github.com/cwwjacobs</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>openssl/openssl</title>
       <link>https://github.com/openssl/openssl</link>
       <description>General purpose TLS and crypto library</description>
       <guid>https://github.com/openssl/openssl</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>31,451</stars>
-      <forks>11,617</forks>
+      <stars>31,452</stars>
+      <forks>11,618</forks>
       <addStars>610</addStars>
       <contributors>
         <contributor>
@@ -125,7 +87,7 @@
       <guid>https://github.com/obsproject/obs-studio</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>79,602</stars>
+      <stars>79,589</stars>
       <forks>11,264</forks>
       <addStars>2,232</addStars>
       <contributors>
@@ -163,8 +125,8 @@
       <guid>https://github.com/iqui27/nuvio-native-legacy</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>473</stars>
-      <forks>63</forks>
+      <stars>474</stars>
+      <forks>64</forks>
       <addStars>258</addStars>
       <contributors>
         <contributor>
@@ -195,40 +157,40 @@
       </contributors>
     </item>
     <item>
-      <title>sp00nznet/ps3recomp</title>
-      <link>https://github.com/sp00nznet/ps3recomp</link>
-      <description>Static recompilation runtime libraries for PlayStation 3 titles.</description>
-      <guid>https://github.com/sp00nznet/ps3recomp</guid>
+      <title>mpv-player/mpv</title>
+      <link>https://github.com/mpv-player/mpv</link>
+      <description>🎥 Command line media player</description>
+      <guid>https://github.com/mpv-player/mpv</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>700</stars>
-      <forks>111</forks>
-      <addStars>286</addStars>
+      <stars>38,134</stars>
+      <forks>3,659</forks>
+      <addStars>823</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/1126053?s=40&amp;v=4</avatar>
+          <name>kasper93</name>
+          <url>https://github.com/kasper93</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4937302?s=40&amp;v=4</avatar>
-          <name>sp00nznet</name>
-          <url>https://github.com/sp00nznet</url>
+          <avatar>https://avatars.githubusercontent.com/u/5105515?s=40&amp;v=4</avatar>
+          <name>Dudemanguy</name>
+          <url>https://github.com/Dudemanguy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/146774802?s=40&amp;v=4</avatar>
-          <name>sagemono</name>
-          <url>https://github.com/sagemono</url>
+          <avatar>https://avatars.githubusercontent.com/u/11783568?s=40&amp;v=4</avatar>
+          <name>guidocella</name>
+          <url>https://github.com/guidocella</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46506773?s=40&amp;v=4</avatar>
-          <name>canersaka</name>
-          <url>https://github.com/canersaka</url>
+          <avatar>https://avatars.githubusercontent.com/u/1149047?s=40&amp;v=4</avatar>
+          <name>haasn</name>
+          <url>https://github.com/haasn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3731082?s=40&amp;v=4</avatar>
-          <name>tekulvw</name>
-          <url>https://github.com/tekulvw</url>
+          <avatar>https://avatars.githubusercontent.com/u/24681?s=40&amp;v=4</avatar>
+          <name>pigoz</name>
+          <url>https://github.com/pigoz</url>
         </contributor>
       </contributors>
     </item>
@@ -239,8 +201,8 @@
       <guid>https://github.com/microsoft/PowerToys</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>141,001</stars>
-      <forks>8,745</forks>
+      <stars>141,007</stars>
+      <forks>8,746</forks>
       <addStars>2,086</addStars>
       <contributors>
         <contributor>
@@ -277,8 +239,8 @@
       <guid>https://github.com/redis/redis</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>77,522</stars>
-      <forks>25,060</forks>
+      <stars>77,508</stars>
+      <forks>25,054</forks>
       <addStars>1,081</addStars>
       <contributors>
         <contributor>
@@ -309,78 +271,40 @@
       </contributors>
     </item>
     <item>
-      <title>mpv-player/mpv</title>
-      <link>https://github.com/mpv-player/mpv</link>
-      <description>🎥 Command line media player</description>
-      <guid>https://github.com/mpv-player/mpv</guid>
+      <title>sp00nznet/ps3recomp</title>
+      <link>https://github.com/sp00nznet/ps3recomp</link>
+      <description>Static recompilation runtime libraries for PlayStation 3 titles.</description>
+      <guid>https://github.com/sp00nznet/ps3recomp</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>38,134</stars>
-      <forks>3,658</forks>
-      <addStars>823</addStars>
+      <stars>702</stars>
+      <forks>111</forks>
+      <addStars>286</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1126053?s=40&amp;v=4</avatar>
-          <name>kasper93</name>
-          <url>https://github.com/kasper93</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5105515?s=40&amp;v=4</avatar>
-          <name>Dudemanguy</name>
-          <url>https://github.com/Dudemanguy</url>
+          <avatar>https://avatars.githubusercontent.com/u/4937302?s=40&amp;v=4</avatar>
+          <name>sp00nznet</name>
+          <url>https://github.com/sp00nznet</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/11783568?s=40&amp;v=4</avatar>
-          <name>guidocella</name>
-          <url>https://github.com/guidocella</url>
+          <avatar>https://avatars.githubusercontent.com/u/146774802?s=40&amp;v=4</avatar>
+          <name>sagemono</name>
+          <url>https://github.com/sagemono</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1149047?s=40&amp;v=4</avatar>
-          <name>haasn</name>
-          <url>https://github.com/haasn</url>
+          <avatar>https://avatars.githubusercontent.com/u/46506773?s=40&amp;v=4</avatar>
+          <name>canersaka</name>
+          <url>https://github.com/canersaka</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/24681?s=40&amp;v=4</avatar>
-          <name>pigoz</name>
-          <url>https://github.com/pigoz</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>KernelSU-Next/KernelSU-Next</title>
-      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
-      <description>An advanced Kernel based root solution for Android</description>
-      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>4,853</stars>
-      <forks>1,280</forks>
-      <addStars>437</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
-          <name>tiann</name>
-          <url>https://github.com/tiann</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
-          <name>rifsxd</name>
-          <url>https://github.com/rifsxd</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
-          <name>Ylarod</name>
-          <url>https://github.com/Ylarod</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
-          <name>5ec1cff</name>
-          <url>https://github.com/5ec1cff</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/271129047?s=40&amp;v=4</avatar>
-          <name>inforcqb-self</name>
-          <url>https://github.com/inforcqb-self</url>
+          <avatar>https://avatars.githubusercontent.com/u/3731082?s=40&amp;v=4</avatar>
+          <name>tekulvw</name>
+          <url>https://github.com/tekulvw</url>
         </contributor>
       </contributors>
     </item>
@@ -391,8 +315,8 @@
       <guid>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>29,130</stars>
-      <forks>782</forks>
+      <stars>29,149</stars>
+      <forks>783</forks>
       <addStars>1,456</addStars>
       <contributors>
         <contributor>
@@ -423,90 +347,14 @@
       </contributors>
     </item>
     <item>
-      <title>systemd/systemd</title>
-      <link>https://github.com/systemd/systemd</link>
-      <description>The systemd System and Service Manager</description>
-      <guid>https://github.com/systemd/systemd</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>17,035</stars>
-      <forks>4,826</forks>
-      <addStars>252</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
-          <name>poettering</name>
-          <url>https://github.com/poettering</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
-          <name>yuwata</name>
-          <url>https://github.com/yuwata</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
-          <name>keszybz</name>
-          <url>https://github.com/keszybz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
-          <name>daandemeyer</name>
-          <url>https://github.com/daandemeyer</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
-          <name>bluca</name>
-          <url>https://github.com/bluca</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>zephyrproject-rtos/zephyr</title>
-      <link>https://github.com/zephyrproject-rtos/zephyr</link>
-      <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-      <guid>https://github.com/zephyrproject-rtos/zephyr</guid>
-      <language>C</language>
-      <languageColor>#555555</languageColor>
-      <stars>17,091</stars>
-      <forks>10,437</forks>
-      <addStars>331</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/180017?s=40&amp;v=4</avatar>
-          <name>nashif</name>
-          <url>https://github.com/nashif</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1098415?s=40&amp;v=4</avatar>
-          <name>jukkar</name>
-          <url>https://github.com/jukkar</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/128251?s=40&amp;v=4</avatar>
-          <name>kartben</name>
-          <url>https://github.com/kartben</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/16417047?s=40&amp;v=4</avatar>
-          <name>galak</name>
-          <url>https://github.com/galak</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25011557?s=40&amp;v=4</avatar>
-          <name>gmarull</name>
-          <url>https://github.com/gmarull</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>HarbourMasters/Shipwright</title>
       <link>https://github.com/HarbourMasters/Shipwright</link>
       <description/>
       <guid>https://github.com/HarbourMasters/Shipwright</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>6,058</stars>
-      <forks>1,011</forks>
+      <stars>6,063</stars>
+      <forks>1,012</forks>
       <addStars>481</addStars>
       <contributors>
         <contributor>
@@ -537,14 +385,128 @@
       </contributors>
     </item>
     <item>
+      <title>KernelSU-Next/KernelSU-Next</title>
+      <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
+      <description>An advanced Kernel based root solution for Android</description>
+      <guid>https://github.com/KernelSU-Next/KernelSU-Next</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>4,857</stars>
+      <forks>1,281</forks>
+      <addStars>437</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4233744?s=40&amp;v=4</avatar>
+          <name>tiann</name>
+          <url>https://github.com/tiann</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33044977?s=40&amp;v=4</avatar>
+          <name>rifsxd</name>
+          <url>https://github.com/rifsxd</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30978685?s=40&amp;v=4</avatar>
+          <name>Ylarod</name>
+          <url>https://github.com/Ylarod</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56485584?s=40&amp;v=4</avatar>
+          <name>5ec1cff</name>
+          <url>https://github.com/5ec1cff</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/271129047?s=40&amp;v=4</avatar>
+          <name>inforcqb-self</name>
+          <url>https://github.com/inforcqb-self</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>zephyrproject-rtos/zephyr</title>
+      <link>https://github.com/zephyrproject-rtos/zephyr</link>
+      <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
+      <guid>https://github.com/zephyrproject-rtos/zephyr</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>17,091</stars>
+      <forks>10,439</forks>
+      <addStars>331</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/180017?s=40&amp;v=4</avatar>
+          <name>nashif</name>
+          <url>https://github.com/nashif</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1098415?s=40&amp;v=4</avatar>
+          <name>jukkar</name>
+          <url>https://github.com/jukkar</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/128251?s=40&amp;v=4</avatar>
+          <name>kartben</name>
+          <url>https://github.com/kartben</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/16417047?s=40&amp;v=4</avatar>
+          <name>galak</name>
+          <url>https://github.com/galak</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25011557?s=40&amp;v=4</avatar>
+          <name>gmarull</name>
+          <url>https://github.com/gmarull</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>systemd/systemd</title>
+      <link>https://github.com/systemd/systemd</link>
+      <description>The systemd System and Service Manager</description>
+      <guid>https://github.com/systemd/systemd</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>17,035</stars>
+      <forks>4,828</forks>
+      <addStars>252</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2130732?s=40&amp;v=4</avatar>
+          <name>poettering</name>
+          <url>https://github.com/poettering</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14157143?s=40&amp;v=4</avatar>
+          <name>yuwata</name>
+          <url>https://github.com/yuwata</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/349618?s=40&amp;v=4</avatar>
+          <name>keszybz</name>
+          <url>https://github.com/keszybz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9395011?s=40&amp;v=4</avatar>
+          <name>daandemeyer</name>
+          <url>https://github.com/daandemeyer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/782193?s=40&amp;v=4</avatar>
+          <name>bluca</name>
+          <url>https://github.com/bluca</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>JustVugg/colibri</title>
       <link>https://github.com/JustVugg/colibri</link>
       <description>A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.</description>
       <guid>https://github.com/JustVugg/colibri</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>51,241</stars>
-      <forks>6,188</forks>
+      <stars>51,313</stars>
+      <forks>6,198</forks>
       <addStars>9,388</addStars>
       <contributors>
         <contributor>
@@ -575,13 +537,51 @@
       </contributors>
     </item>
     <item>
+      <title>espressif/esp-idf</title>
+      <link>https://github.com/espressif/esp-idf</link>
+      <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+      <guid>https://github.com/espressif/esp-idf</guid>
+      <language>C</language>
+      <languageColor>#555555</languageColor>
+      <stars>19,513</stars>
+      <forks>8,600</forks>
+      <addStars>292</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4349050?s=40&amp;v=4</avatar>
+          <name>igrr</name>
+          <url>https://github.com/igrr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/205573?s=40&amp;v=4</avatar>
+          <name>projectgus</name>
+          <url>https://github.com/projectgus</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8869469?s=40&amp;v=4</avatar>
+          <name>suda-morris</name>
+          <url>https://github.com/suda-morris</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21117421?s=40&amp;v=4</avatar>
+          <name>jack0c</name>
+          <url>https://github.com/jack0c</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/902446?s=40&amp;v=4</avatar>
+          <name>mahavirj</name>
+          <url>https://github.com/mahavirj</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>snesrev/zelda3</title>
       <link>https://github.com/snesrev/zelda3</link>
       <description/>
       <guid>https://github.com/snesrev/zelda3</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>5,014</stars>
+      <stars>5,016</stars>
       <forks>478</forks>
       <addStars>170</addStars>
       <contributors>

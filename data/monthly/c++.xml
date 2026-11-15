@@ -3,45 +3,7 @@
     <title>GitHub C++ Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of C++ Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 13:07:07 GMT</pubDate>
-    <item>
-      <title>78/xiaozhi-esp32</title>
-      <link>https://github.com/78/xiaozhi-esp32</link>
-      <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
-      <guid>https://github.com/78/xiaozhi-esp32</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>33,255</stars>
-      <forks>7,906</forks>
-      <addStars>2,243</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4488133?s=40&amp;v=4</avatar>
-          <name>78</name>
-          <url>https://github.com/78</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/21034251?s=40&amp;v=4</avatar>
-          <name>goodtft</name>
-          <url>https://github.com/goodtft</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66012385?s=40&amp;v=4</avatar>
-          <name>Y1hsiaochunnn</name>
-          <url>https://github.com/Y1hsiaochunnn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/198868291?s=40&amp;v=4</avatar>
-          <name>laride</name>
-          <url>https://github.com/laride</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
+    <pubDate>Sun, 15 Nov 2026 19:07:58 GMT</pubDate>
     <item>
       <title>hyprwm/Hyprland</title>
       <link>https://github.com/hyprwm/Hyprland</link>
@@ -49,7 +11,7 @@
       <guid>https://github.com/hyprwm/Hyprland</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>40,658</stars>
+      <stars>40,662</stars>
       <forks>2,187</forks>
       <addStars>1,957</addStars>
       <contributors>
@@ -81,40 +43,106 @@
       </contributors>
     </item>
     <item>
-      <title>aardappel/goose</title>
-      <link>https://github.com/aardappel/goose</link>
-      <description>The Goose Programming Language</description>
-      <guid>https://github.com/aardappel/goose</guid>
+      <title>78/xiaozhi-esp32</title>
+      <link>https://github.com/78/xiaozhi-esp32</link>
+      <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
+      <guid>https://github.com/78/xiaozhi-esp32</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,551</stars>
-      <forks>168</forks>
-      <addStars>2,941</addStars>
+      <stars>33,261</stars>
+      <forks>7,911</forks>
+      <addStars>2,243</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4663648?s=40&amp;v=4</avatar>
-          <name>aardappel</name>
-          <url>https://github.com/aardappel</url>
+          <avatar>https://avatars.githubusercontent.com/u/4488133?s=40&amp;v=4</avatar>
+          <name>78</name>
+          <url>https://github.com/78</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/21034251?s=40&amp;v=4</avatar>
+          <name>goodtft</name>
+          <url>https://github.com/goodtft</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/66012385?s=40&amp;v=4</avatar>
+          <name>Y1hsiaochunnn</name>
+          <url>https://github.com/Y1hsiaochunnn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/198868291?s=40&amp;v=4</avatar>
+          <name>laride</name>
+          <url>https://github.com/laride</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
         </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>orailnoor/cross-platform-llm-client</title>
+      <link>https://github.com/orailnoor/cross-platform-llm-client</link>
+      <description>A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.</description>
+      <guid>https://github.com/orailnoor/cross-platform-llm-client</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>2,338</stars>
+      <forks>467</forks>
+      <addStars>1,220</addStars>
+      <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1245315?s=40&amp;v=4</avatar>
-          <name>binji</name>
-          <url>https://github.com/binji</url>
+          <avatar>https://avatars.githubusercontent.com/u/54399984?s=40&amp;v=4</avatar>
+          <name>techjarves</name>
+          <url>https://github.com/techjarves</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/50984334?s=40&amp;v=4</avatar>
-          <name>francescoalemanno</name>
-          <url>https://github.com/francescoalemanno</url>
+          <avatar>https://avatars.githubusercontent.com/u/34442749?s=40&amp;v=4</avatar>
+          <name>orailnoor</name>
+          <url>https://github.com/orailnoor</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2362136?s=40&amp;v=4</avatar>
-          <name>bbodi</name>
-          <url>https://github.com/bbodi</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>godotengine/godot</title>
+      <link>https://github.com/godotengine/godot</link>
+      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
+      <guid>https://github.com/godotengine/godot</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>120,221</stars>
+      <forks>27,523</forks>
+      <addStars>2,059</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4701338?s=40&amp;v=4</avatar>
+          <name>akien-mga</name>
+          <url>https://github.com/akien-mga</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/17489292?s=40&amp;v=4</avatar>
+          <name>Repiteo</name>
+          <url>https://github.com/Repiteo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6265307?s=40&amp;v=4</avatar>
+          <name>reduz</name>
+          <url>https://github.com/reduz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/180032?s=40&amp;v=4</avatar>
+          <name>Calinou</name>
+          <url>https://github.com/Calinou</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/7645683?s=40&amp;v=4</avatar>
+          <name>bruvzg</name>
+          <url>https://github.com/bruvzg</url>
         </contributor>
       </contributors>
     </item>
@@ -125,8 +153,8 @@
       <guid>https://github.com/electron/electron</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>123,908</stars>
-      <forks>17,943</forks>
+      <stars>123,912</stars>
+      <forks>17,945</forks>
       <addStars>777</addStars>
       <contributors>
         <contributor>
@@ -157,13 +185,84 @@
       </contributors>
     </item>
     <item>
+      <title>google-deepmind/mujoco</title>
+      <link>https://github.com/google-deepmind/mujoco</link>
+      <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+      <guid>https://github.com/google-deepmind/mujoco</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>18,058</stars>
+      <forks>2,212</forks>
+      <addStars>2,310</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4</avatar>
+          <name>yuvaltassa</name>
+          <url>https://github.com/yuvaltassa</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/102665781?s=40&amp;v=4</avatar>
+          <name>quagla</name>
+          <url>https://github.com/quagla</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/29288912?s=40&amp;v=4</avatar>
+          <name>haroonq</name>
+          <url>https://github.com/haroonq</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/42924292?s=40&amp;v=4</avatar>
+          <name>kbayes</name>
+          <url>https://github.com/kbayes</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/12521315?s=40&amp;v=4</avatar>
+          <name>thowell</name>
+          <url>https://github.com/thowell</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Likely7/Veyra-NRVideo</title>
+      <link>https://github.com/Likely7/Veyra-NRVideo</link>
+      <description>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.</description>
+      <guid>https://github.com/Likely7/Veyra-NRVideo</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>2,732</stars>
+      <forks>215</forks>
+      <addStars>1,226</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/243683505?s=40&amp;v=4</avatar>
+          <name>Likely7</name>
+          <url>https://github.com/Likely7</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/314820892?s=40&amp;v=4</avatar>
+          <name>georgeg911</name>
+          <url>https://github.com/georgeg911</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48664596?s=40&amp;v=4</avatar>
+          <name>GeT-LeFt</name>
+          <url>https://github.com/GeT-LeFt</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>geode-sdk/geode</title>
       <link>https://github.com/geode-sdk/geode</link>
       <description>The ultimate Geometry Dash modding framework</description>
       <guid>https://github.com/geode-sdk/geode</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>3,301</stars>
+      <stars>3,302</stars>
       <forks>648</forks>
       <addStars>391</addStars>
       <contributors>
@@ -195,89 +294,13 @@
       </contributors>
     </item>
     <item>
-      <title>google-deepmind/mujoco</title>
-      <link>https://github.com/google-deepmind/mujoco</link>
-      <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
-      <guid>https://github.com/google-deepmind/mujoco</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>18,033</stars>
-      <forks>2,208</forks>
-      <addStars>2,310</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4</avatar>
-          <name>yuvaltassa</name>
-          <url>https://github.com/yuvaltassa</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102665781?s=40&amp;v=4</avatar>
-          <name>quagla</name>
-          <url>https://github.com/quagla</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29288912?s=40&amp;v=4</avatar>
-          <name>haroonq</name>
-          <url>https://github.com/haroonq</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42924292?s=40&amp;v=4</avatar>
-          <name>kbayes</name>
-          <url>https://github.com/kbayes</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12521315?s=40&amp;v=4</avatar>
-          <name>thowell</name>
-          <url>https://github.com/thowell</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>godotengine/godot</title>
-      <link>https://github.com/godotengine/godot</link>
-      <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-      <guid>https://github.com/godotengine/godot</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>120,201</stars>
-      <forks>27,524</forks>
-      <addStars>2,059</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4701338?s=40&amp;v=4</avatar>
-          <name>akien-mga</name>
-          <url>https://github.com/akien-mga</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17489292?s=40&amp;v=4</avatar>
-          <name>Repiteo</name>
-          <url>https://github.com/Repiteo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6265307?s=40&amp;v=4</avatar>
-          <name>reduz</name>
-          <url>https://github.com/reduz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/180032?s=40&amp;v=4</avatar>
-          <name>Calinou</name>
-          <url>https://github.com/Calinou</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7645683?s=40&amp;v=4</avatar>
-          <name>bruvzg</name>
-          <url>https://github.com/bruvzg</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>dashdogy/MFG-Unlocker</title>
       <link>https://github.com/dashdogy/MFG-Unlocker</link>
       <description>DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs</description>
       <guid>https://github.com/dashdogy/MFG-Unlocker</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>2,632</stars>
+      <stars>2,653</stars>
       <forks>83</forks>
       <addStars>1,359</addStars>
       <contributors>
@@ -300,7 +323,7 @@
       <guid>https://github.com/mg-chao/snow-shot</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>7,079</stars>
+      <stars>7,096</stars>
       <forks>460</forks>
       <addStars>1,263</addStars>
       <contributors>
@@ -332,52 +355,14 @@
       </contributors>
     </item>
     <item>
-      <title>WerWolv/ImHex</title>
-      <link>https://github.com/WerWolv/ImHex</link>
-      <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
-      <guid>https://github.com/WerWolv/ImHex</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>55,869</stars>
-      <forks>2,630</forks>
-      <addStars>772</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10835354?s=40&amp;v=4</avatar>
-          <name>WerWolv</name>
-          <url>https://github.com/WerWolv</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/42669835?s=40&amp;v=4</avatar>
-          <name>iTrooz</name>
-          <url>https://github.com/iTrooz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53811119?s=40&amp;v=4</avatar>
-          <name>paxcut</name>
-          <url>https://github.com/paxcut</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/124004309?s=40&amp;v=4</avatar>
-          <name>WerWolvTranslationBot</name>
-          <url>https://github.com/WerWolvTranslationBot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1760003?s=40&amp;v=4</avatar>
-          <name>marysaka</name>
-          <url>https://github.com/marysaka</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>FreeCAD/FreeCAD</title>
       <link>https://github.com/FreeCAD/FreeCAD</link>
       <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
       <guid>https://github.com/FreeCAD/FreeCAD</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>35,463</stars>
-      <forks>6,409</forks>
+      <stars>35,476</stars>
+      <forks>6,412</forks>
       <addStars>1,237</addStars>
       <contributors>
         <contributor>
@@ -414,8 +399,8 @@
       <guid>https://github.com/opentoonz/opentoonz</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>8,247</stars>
-      <forks>950</forks>
+      <stars>8,252</stars>
+      <forks>951</forks>
       <addStars>415</addStars>
       <contributors>
         <contributor>
@@ -442,6 +427,44 @@
           <avatar>https://avatars.githubusercontent.com/u/11843239?s=40&amp;v=4</avatar>
           <name>andeon</name>
           <url>https://github.com/andeon</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>keepassxreboot/keepassxc</title>
+      <link>https://github.com/keepassxreboot/keepassxc</link>
+      <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
+      <guid>https://github.com/keepassxreboot/keepassxc</guid>
+      <language>C++</language>
+      <languageColor>#f34b7d</languageColor>
+      <stars>30,002</stars>
+      <forks>2,041</forks>
+      <addStars>852</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2809491?s=40&amp;v=4</avatar>
+          <name>droidmonkey</name>
+          <url>https://github.com/droidmonkey</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/293265?s=40&amp;v=4</avatar>
+          <name>debfx</name>
+          <url>https://github.com/debfx</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/911270?s=40&amp;v=4</avatar>
+          <name>phoerious</name>
+          <url>https://github.com/phoerious</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/193820?s=40&amp;v=4</avatar>
+          <name>BlueIce</name>
+          <url>https://github.com/BlueIce</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/686894?s=40&amp;v=4</avatar>
+          <name>TheZ3ro</name>
+          <url>https://github.com/TheZ3ro</url>
         </contributor>
       </contributors>
     </item>
@@ -484,111 +507,35 @@
       </contributors>
     </item>
     <item>
-      <title>keepassxreboot/keepassxc</title>
-      <link>https://github.com/keepassxreboot/keepassxc</link>
-      <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
-      <guid>https://github.com/keepassxreboot/keepassxc</guid>
+      <title>facebookresearch/faiss</title>
+      <link>https://github.com/facebookresearch/faiss</link>
+      <description>A library for efficient similarity search and clustering of dense vectors.</description>
+      <guid>https://github.com/facebookresearch/faiss</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>29,996</stars>
-      <forks>2,040</forks>
-      <addStars>852</addStars>
+      <stars>41,703</stars>
+      <forks>4,642</forks>
+      <addStars>581</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2809491?s=40&amp;v=4</avatar>
-          <name>droidmonkey</name>
-          <url>https://github.com/droidmonkey</url>
+          <avatar>https://avatars.githubusercontent.com/u/6422482?s=40&amp;v=4</avatar>
+          <name>facebook-github-bot</name>
+          <url>https://github.com/facebook-github-bot</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/293265?s=40&amp;v=4</avatar>
-          <name>debfx</name>
-          <url>https://github.com/debfx</url>
+          <avatar>https://avatars.githubusercontent.com/u/25364969?s=40&amp;v=4</avatar>
+          <name>mdouze</name>
+          <url>https://github.com/mdouze</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/911270?s=40&amp;v=4</avatar>
-          <name>phoerious</name>
-          <url>https://github.com/phoerious</url>
+          <avatar>https://avatars.githubusercontent.com/u/20392406?s=40&amp;v=4</avatar>
+          <name>alibeklfc</name>
+          <url>https://github.com/alibeklfc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/193820?s=40&amp;v=4</avatar>
-          <name>BlueIce</name>
-          <url>https://github.com/BlueIce</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/686894?s=40&amp;v=4</avatar>
-          <name>TheZ3ro</name>
-          <url>https://github.com/TheZ3ro</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>Likely7/Veyra-NRVideo</title>
-      <link>https://github.com/Likely7/Veyra-NRVideo</link>
-      <description>Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.</description>
-      <guid>https://github.com/Likely7/Veyra-NRVideo</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>2,626</stars>
-      <forks>210</forks>
-      <addStars>1,226</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/243683505?s=40&amp;v=4</avatar>
-          <name>Likely7</name>
-          <url>https://github.com/Likely7</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/314820892?s=40&amp;v=4</avatar>
-          <name>georgeg911</name>
-          <url>https://github.com/georgeg911</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48664596?s=40&amp;v=4</avatar>
-          <name>GeT-LeFt</name>
-          <url>https://github.com/GeT-LeFt</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>OrcaSlicer/OrcaSlicer</title>
-      <link>https://github.com/OrcaSlicer/OrcaSlicer</link>
-      <description>G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</description>
-      <guid>https://github.com/OrcaSlicer/OrcaSlicer</guid>
-      <language>C++</language>
-      <languageColor>#f34b7d</languageColor>
-      <stars>16,483</stars>
-      <forks>3,484</forks>
-      <addStars>547</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/103989404?s=40&amp;v=4</avatar>
-          <name>SoftFever</name>
-          <url>https://github.com/SoftFever</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1537155?s=40&amp;v=4</avatar>
-          <name>Noisyfox</name>
-          <url>https://github.com/Noisyfox</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/12130714?s=40&amp;v=4</avatar>
-          <name>ianalexis</name>
-          <url>https://github.com/ianalexis</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/163908227?s=40&amp;v=4</avatar>
-          <name>tommasobbianchi</name>
-          <url>https://github.com/tommasobbianchi</url>
+          <avatar>https://avatars.githubusercontent.com/u/1299134?s=40&amp;v=4</avatar>
+          <name>algoriddle</name>
+          <url>https://github.com/algoriddle</url>
         </contributor>
       </contributors>
     </item>

@@ -3,42 +3,42 @@
     <title>GitHub Cuda Languages Weekly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Weekly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 13:07:07 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 19:07:58 GMT</pubDate>
     <item>
-      <title>NVIDIA/cudnn-frontend</title>
-      <link>https://github.com/NVIDIA/cudnn-frontend</link>
-      <description>cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.</description>
-      <guid>https://github.com/NVIDIA/cudnn-frontend</guid>
+      <title>karpathy/llm.c</title>
+      <link>https://github.com/karpathy/llm.c</link>
+      <description>LLM training in simple, raw C/CUDA</description>
+      <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>1,000</stars>
-      <forks>337</forks>
-      <addStars>10</addStars>
+      <stars>31,481</stars>
+      <forks>3,826</forks>
+      <addStars>82</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
+          <name>karpathy</name>
+          <url>https://github.com/karpathy</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38851819?s=40&amp;v=4</avatar>
-          <name>YangXu1990uiuc</name>
-          <url>https://github.com/YangXu1990uiuc</url>
+          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
+          <name>ngc92</name>
+          <url>https://github.com/ngc92</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/916946?s=40&amp;v=4</avatar>
-          <name>Anerudhan</name>
-          <url>https://github.com/Anerudhan</url>
+          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
+          <name>gordicaleksa</name>
+          <url>https://github.com/gordicaleksa</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/288483202?s=40&amp;v=4</avatar>
-          <name>RomanAnders90</name>
-          <url>https://github.com/RomanAnders90</url>
+          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
+          <name>ademeure</name>
+          <url>https://github.com/ademeure</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/192209249?s=40&amp;v=4</avatar>
-          <name>0z5a</name>
-          <url>https://github.com/0z5a</url>
+          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
+          <name>rosslwheeler</name>
+          <url>https://github.com/rosslwheeler</url>
         </contributor>
       </contributors>
     </item>
@@ -81,40 +81,40 @@
       </contributors>
     </item>
     <item>
-      <title>karpathy/llm.c</title>
-      <link>https://github.com/karpathy/llm.c</link>
-      <description>LLM training in simple, raw C/CUDA</description>
-      <guid>https://github.com/karpathy/llm.c</guid>
+      <title>NVIDIA/cudnn-frontend</title>
+      <link>https://github.com/NVIDIA/cudnn-frontend</link>
+      <description>cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.</description>
+      <guid>https://github.com/NVIDIA/cudnn-frontend</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>31,480</stars>
-      <forks>3,826</forks>
-      <addStars>82</addStars>
+      <stars>1,000</stars>
+      <forks>338</forks>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/241138?s=40&amp;v=4</avatar>
-          <name>karpathy</name>
-          <url>https://github.com/karpathy</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7938269?s=40&amp;v=4</avatar>
-          <name>ngc92</name>
-          <url>https://github.com/ngc92</url>
+          <avatar>https://avatars.githubusercontent.com/u/38851819?s=40&amp;v=4</avatar>
+          <name>YangXu1990uiuc</name>
+          <url>https://github.com/YangXu1990uiuc</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/29271842?s=40&amp;v=4</avatar>
-          <name>gordicaleksa</name>
-          <url>https://github.com/gordicaleksa</url>
+          <avatar>https://avatars.githubusercontent.com/u/916946?s=40&amp;v=4</avatar>
+          <name>Anerudhan</name>
+          <url>https://github.com/Anerudhan</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/7082233?s=40&amp;v=4</avatar>
-          <name>ademeure</name>
-          <url>https://github.com/ademeure</url>
+          <avatar>https://avatars.githubusercontent.com/u/288483202?s=40&amp;v=4</avatar>
+          <name>RomanAnders90</name>
+          <url>https://github.com/RomanAnders90</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/55313766?s=40&amp;v=4</avatar>
-          <name>rosslwheeler</name>
-          <url>https://github.com/rosslwheeler</url>
+          <avatar>https://avatars.githubusercontent.com/u/192209249?s=40&amp;v=4</avatar>
+          <name>0z5a</name>
+          <url>https://github.com/0z5a</url>
         </contributor>
       </contributors>
     </item>
@@ -126,7 +126,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>1,116</stars>
-      <forks>260</forks>
+      <forks>261</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>
@@ -164,7 +164,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>1,702</stars>
-      <forks>415</forks>
+      <forks>417</forks>
       <addStars>5</addStars>
       <contributors>
         <contributor>
@@ -202,7 +202,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>897</stars>
-      <forks>265</forks>
+      <forks>266</forks>
       <addStars>6</addStars>
       <contributors>
         <contributor>
@@ -233,13 +233,51 @@
       </contributors>
     </item>
     <item>
+      <title>deepseek-ai/DeepEP</title>
+      <link>https://github.com/deepseek-ai/DeepEP</link>
+      <description>DeepEP: an efficient expert-parallel communication library</description>
+      <guid>https://github.com/deepseek-ai/DeepEP</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>10,447</stars>
+      <forks>1,563</forks>
+      <addStars>30</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35299455?s=40&amp;v=4</avatar>
+          <name>LyricZhao</name>
+          <url>https://github.com/LyricZhao</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/9213347?s=40&amp;v=4</avatar>
+          <name>sphish</name>
+          <url>https://github.com/sphish</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5236035?s=40&amp;v=4</avatar>
+          <name>fzyzcjy</name>
+          <url>https://github.com/fzyzcjy</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/166747556?s=40&amp;v=4</avatar>
+          <name>seth-howell</name>
+          <url>https://github.com/seth-howell</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8215757?s=40&amp;v=4</avatar>
+          <name>wangfakang</name>
+          <url>https://github.com/wangfakang</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>deepseek-ai/DeepGEMM</title>
       <link>https://github.com/deepseek-ai/DeepGEMM</link>
       <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
       <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>9,196</stars>
+      <stars>9,197</stars>
       <forks>1,532</forks>
       <addStars>34</addStars>
       <contributors>

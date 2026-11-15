@@ -3,7 +3,7 @@
     <title>GitHub Cuda Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Cuda Languages in GitHub</description>
-    <pubDate>Sun, 15 Nov 2026 13:07:07 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 19:07:58 GMT</pubDate>
     <item>
       <title>flashinfer-ai/flashinfer</title>
       <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -49,7 +49,7 @@
       <guid>https://github.com/karpathy/llm.c</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>31,480</stars>
+      <stars>31,481</stars>
       <forks>3,826</forks>
       <addStars>362</addStars>
       <contributors>
@@ -87,8 +87,8 @@
       <guid>https://github.com/deepseek-ai/DeepEP</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>10,446</stars>
-      <forks>1,561</forks>
+      <stars>10,447</stars>
+      <forks>1,563</forks>
       <addStars>187</addStars>
       <contributors>
         <contributor>
@@ -119,44 +119,6 @@
       </contributors>
     </item>
     <item>
-      <title>NVIDIA/cudnn-frontend</title>
-      <link>https://github.com/NVIDIA/cudnn-frontend</link>
-      <description>cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.</description>
-      <guid>https://github.com/NVIDIA/cudnn-frontend</guid>
-      <language>Cuda</language>
-      <languageColor>#3A4E3A</languageColor>
-      <stars>1,000</stars>
-      <forks>337</forks>
-      <addStars>36</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/38851819?s=40&amp;v=4</avatar>
-          <name>YangXu1990uiuc</name>
-          <url>https://github.com/YangXu1990uiuc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/916946?s=40&amp;v=4</avatar>
-          <name>Anerudhan</name>
-          <url>https://github.com/Anerudhan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/288483202?s=40&amp;v=4</avatar>
-          <name>RomanAnders90</name>
-          <url>https://github.com/RomanAnders90</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/192209249?s=40&amp;v=4</avatar>
-          <name>0z5a</name>
-          <url>https://github.com/0z5a</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>NVIDIA/cuopt</title>
       <link>https://github.com/NVIDIA/cuopt</link>
       <description>GPU accelerated decision optimization</description>
@@ -164,7 +126,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>1,116</stars>
-      <forks>260</forks>
+      <forks>261</forks>
       <addStars>58</addStars>
       <contributors>
         <contributor>
@@ -201,7 +163,7 @@
       <guid>https://github.com/deepseek-ai/DeepGEMM</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>9,196</stars>
+      <stars>9,197</stars>
       <forks>1,532</forks>
       <addStars>264</addStars>
       <contributors>
@@ -240,7 +202,7 @@
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
       <stars>897</stars>
-      <forks>265</forks>
+      <forks>266</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -294,13 +256,51 @@
       </contributors>
     </item>
     <item>
+      <title>NVIDIA/cudnn-frontend</title>
+      <link>https://github.com/NVIDIA/cudnn-frontend</link>
+      <description>cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.</description>
+      <guid>https://github.com/NVIDIA/cudnn-frontend</guid>
+      <language>Cuda</language>
+      <languageColor>#3A4E3A</languageColor>
+      <stars>1,000</stars>
+      <forks>338</forks>
+      <addStars>36</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/38851819?s=40&amp;v=4</avatar>
+          <name>YangXu1990uiuc</name>
+          <url>https://github.com/YangXu1990uiuc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/916946?s=40&amp;v=4</avatar>
+          <name>Anerudhan</name>
+          <url>https://github.com/Anerudhan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/288483202?s=40&amp;v=4</avatar>
+          <name>RomanAnders90</name>
+          <url>https://github.com/RomanAnders90</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/192209249?s=40&amp;v=4</avatar>
+          <name>0z5a</name>
+          <url>https://github.com/0z5a</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>thu-ml/SageAttention</title>
       <link>https://github.com/thu-ml/SageAttention</link>
       <description>[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.</description>
       <guid>https://github.com/thu-ml/SageAttention</guid>
       <language>Cuda</language>
       <languageColor>#3A4E3A</languageColor>
-      <stars>4,010</stars>
+      <stars>4,011</stars>
       <forks>556</forks>
       <addStars>48</addStars>
       <contributors>

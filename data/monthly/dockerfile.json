@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Monthly Trending",
   "description": "Monthly Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 19:07:58 GMT",
   "items": [
     {
       "title": "mikeroyal/Self-Hosting-Guide",
@@ -10,7 +10,7 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "23,561",
+      "stars": "23,563",
       "forks": "1,168",
       "addStars": "548",
       "contributors": [
@@ -84,7 +84,7 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "105,745",
+      "stars": "105,746",
       "forks": "10,738",
       "addStars": "240",
       "contributors": [
@@ -207,6 +207,33 @@
       ]
     },
     {
+      "title": "autowarefoundation/autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "12,251",
+      "forks": "3,752",
+      "addStars": "110",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
+          "name": "youtalk",
+          "url": "https://github.com/youtalk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10751153?s=40&v=4",
+          "name": "xmfcx",
+          "url": "https://github.com/xmfcx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
+          "name": "kenji-miyake",
+          "url": "https://github.com/kenji-miyake"
+        }
+      ]
+    },
+    {
       "title": "aws-amplify/amplify-hosting",
       "url": "https://github.com/aws-amplify/amplify-hosting",
       "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
@@ -266,40 +293,13 @@
       ]
     },
     {
-      "title": "autowarefoundation/autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": "12,251",
-      "forks": "3,752",
-      "addStars": "110",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/579333?s=40&v=4",
-          "name": "youtalk",
-          "url": "https://github.com/youtalk"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10751153?s=40&v=4",
-          "name": "xmfcx",
-          "url": "https://github.com/xmfcx"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/31987104?s=40&v=4",
-          "name": "kenji-miyake",
-          "url": "https://github.com/kenji-miyake"
-        }
-      ]
-    },
-    {
       "title": "TristanCage/CypherX",
       "url": "https://github.com/TristanCage/CypherX",
       "description": "CypherX Repository",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": "280",
-      "forks": "767",
+      "forks": "768",
       "addStars": "20",
       "contributors": [
         {
@@ -352,39 +352,24 @@
       ]
     },
     {
-      "title": "MicrosoftDocs/windows-powershell-docs",
-      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
-      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
+      "title": "freeCodeCamp/rdb-alpha",
+      "url": "https://github.com/freeCodeCamp/rdb-alpha",
+      "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "511",
-      "forks": "642",
-      "addStars": "5",
+      "stars": "177",
+      "forks": "1,332",
+      "addStars": "4",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/54688693?s=40&v=4",
-          "name": "tiburd",
-          "url": "https://github.com/tiburd"
+          "avatar": "https://avatars.githubusercontent.com/u/2051070?s=40&v=4",
+          "name": "scissorsneedfoodtoo",
+          "url": "https://github.com/scissorsneedfoodtoo"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/16143421?s=40&v=4",
-          "name": "brianlic-msft",
-          "url": "https://github.com/brianlic-msft"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/45987684?s=40&v=4",
-          "name": "msbemba",
-          "url": "https://github.com/msbemba"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10958657?s=40&v=4",
-          "name": "velkovb",
-          "url": "https://github.com/velkovb"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19415881?s=40&v=4",
-          "name": "sdwheeler",
-          "url": "https://github.com/sdwheeler"
+          "avatar": "https://avatars.githubusercontent.com/u/20648924?s=40&v=4",
+          "name": "moT01",
+          "url": "https://github.com/moT01"
         }
       ]
     },
@@ -426,24 +411,39 @@
       ]
     },
     {
-      "title": "freeCodeCamp/rdb-alpha",
-      "url": "https://github.com/freeCodeCamp/rdb-alpha",
-      "description": "",
+      "title": "MicrosoftDocs/windows-powershell-docs",
+      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
+      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": "177",
-      "forks": "1,330",
-      "addStars": "4",
+      "stars": "511",
+      "forks": "642",
+      "addStars": "5",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2051070?s=40&v=4",
-          "name": "scissorsneedfoodtoo",
-          "url": "https://github.com/scissorsneedfoodtoo"
+          "avatar": "https://avatars.githubusercontent.com/u/54688693?s=40&v=4",
+          "name": "tiburd",
+          "url": "https://github.com/tiburd"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/20648924?s=40&v=4",
-          "name": "moT01",
-          "url": "https://github.com/moT01"
+          "avatar": "https://avatars.githubusercontent.com/u/16143421?s=40&v=4",
+          "name": "brianlic-msft",
+          "url": "https://github.com/brianlic-msft"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/45987684?s=40&v=4",
+          "name": "msbemba",
+          "url": "https://github.com/msbemba"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10958657?s=40&v=4",
+          "name": "velkovb",
+          "url": "https://github.com/velkovb"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19415881?s=40&v=4",
+          "name": "sdwheeler",
+          "url": "https://github.com/sdwheeler"
         }
       ]
     },
@@ -550,6 +550,38 @@
           "avatar": "https://avatars.githubusercontent.com/u/17576476?s=40&v=4",
           "name": "jfrancin",
           "url": "https://github.com/jfrancin"
+        }
+      ]
+    },
+    {
+      "title": "kubernetes-sigs/contributor-playground",
+      "url": "https://github.com/kubernetes-sigs/contributor-playground",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": "295",
+      "forks": "2,171",
+      "addStars": "4",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20407524?s=40&v=4",
+          "name": "k8s-ci-robot",
+          "url": "https://github.com/k8s-ci-robot"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/748740?s=40&v=4",
+          "name": "atoato88",
+          "url": "https://github.com/atoato88"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/12838129?s=40&v=4",
+          "name": "shu-mutou",
+          "url": "https://github.com/shu-mutou"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/86868255?s=40&v=4",
+          "name": "Okabe-Junya",
+          "url": "https://github.com/Okabe-Junya"
         }
       ]
     }

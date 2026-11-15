@@ -2,42 +2,42 @@
   "title": "GitHub Cuda Languages Weekly Trending",
   "description": "Weekly Trending of Cuda Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 13:07:07 GMT",
+  "pubDate": "Sun, 15 Nov 2026 19:07:58 GMT",
   "items": [
     {
-      "title": "NVIDIA/cudnn-frontend",
-      "url": "https://github.com/NVIDIA/cudnn-frontend",
-      "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "1,000",
-      "forks": "337",
-      "addStars": "10",
+      "stars": "31,481",
+      "forks": "3,826",
+      "addStars": "82",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
+          "name": "karpathy",
+          "url": "https://github.com/karpathy"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/38851819?s=40&v=4",
-          "name": "YangXu1990uiuc",
-          "url": "https://github.com/YangXu1990uiuc"
+          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
+          "name": "ngc92",
+          "url": "https://github.com/ngc92"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/916946?s=40&v=4",
-          "name": "Anerudhan",
-          "url": "https://github.com/Anerudhan"
+          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
+          "name": "gordicaleksa",
+          "url": "https://github.com/gordicaleksa"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/288483202?s=40&v=4",
-          "name": "RomanAnders90",
-          "url": "https://github.com/RomanAnders90"
+          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
+          "name": "ademeure",
+          "url": "https://github.com/ademeure"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/192209249?s=40&v=4",
-          "name": "0z5a",
-          "url": "https://github.com/0z5a"
+          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
+          "name": "rosslwheeler",
+          "url": "https://github.com/rosslwheeler"
         }
       ]
     },
@@ -79,39 +79,39 @@
       ]
     },
     {
-      "title": "karpathy/llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "NVIDIA/cudnn-frontend",
+      "url": "https://github.com/NVIDIA/cudnn-frontend",
+      "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "31,480",
-      "forks": "3,826",
-      "addStars": "82",
+      "stars": "1,000",
+      "forks": "338",
+      "addStars": "10",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/241138?s=40&v=4",
-          "name": "karpathy",
-          "url": "https://github.com/karpathy"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7938269?s=40&v=4",
-          "name": "ngc92",
-          "url": "https://github.com/ngc92"
+          "avatar": "https://avatars.githubusercontent.com/u/38851819?s=40&v=4",
+          "name": "YangXu1990uiuc",
+          "url": "https://github.com/YangXu1990uiuc"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/29271842?s=40&v=4",
-          "name": "gordicaleksa",
-          "url": "https://github.com/gordicaleksa"
+          "avatar": "https://avatars.githubusercontent.com/u/916946?s=40&v=4",
+          "name": "Anerudhan",
+          "url": "https://github.com/Anerudhan"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7082233?s=40&v=4",
-          "name": "ademeure",
-          "url": "https://github.com/ademeure"
+          "avatar": "https://avatars.githubusercontent.com/u/288483202?s=40&v=4",
+          "name": "RomanAnders90",
+          "url": "https://github.com/RomanAnders90"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/55313766?s=40&v=4",
-          "name": "rosslwheeler",
-          "url": "https://github.com/rosslwheeler"
+          "avatar": "https://avatars.githubusercontent.com/u/192209249?s=40&v=4",
+          "name": "0z5a",
+          "url": "https://github.com/0z5a"
         }
       ]
     },
@@ -122,7 +122,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "1,116",
-      "forks": "260",
+      "forks": "261",
       "addStars": "14",
       "contributors": [
         {
@@ -159,7 +159,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "1,702",
-      "forks": "415",
+      "forks": "417",
       "addStars": "5",
       "contributors": [
         {
@@ -196,7 +196,7 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": "897",
-      "forks": "265",
+      "forks": "266",
       "addStars": "6",
       "contributors": [
         {
@@ -227,12 +227,49 @@
       ]
     },
     {
+      "title": "deepseek-ai/DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": "10,447",
+      "forks": "1,563",
+      "addStars": "30",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/35299455?s=40&v=4",
+          "name": "LyricZhao",
+          "url": "https://github.com/LyricZhao"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9213347?s=40&v=4",
+          "name": "sphish",
+          "url": "https://github.com/sphish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5236035?s=40&v=4",
+          "name": "fzyzcjy",
+          "url": "https://github.com/fzyzcjy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166747556?s=40&v=4",
+          "name": "seth-howell",
+          "url": "https://github.com/seth-howell"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8215757?s=40&v=4",
+          "name": "wangfakang",
+          "url": "https://github.com/wangfakang"
+        }
+      ]
+    },
+    {
       "title": "deepseek-ai/DeepGEMM",
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": "9,196",
+      "stars": "9,197",
       "forks": "1,532",
       "addStars": "34",
       "contributors": [
