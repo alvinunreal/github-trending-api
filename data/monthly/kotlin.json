@@ -2,7 +2,7 @@
   "title": "GitHub Kotlin Languages Monthly Trending",
   "description": "Monthly Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 13:08:21 GMT",
+  "pubDate": "Tue, 17 Nov 2026 19:09:33 GMT",
   "items": [
     {
       "title": "android/skills",
@@ -10,7 +10,7 @@
       "description": "",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "10,620",
+      "stars": "10,628",
       "forks": "696",
       "addStars": "2,697",
       "contributors": [
@@ -47,8 +47,8 @@
       "description": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,830",
-      "forks": "735",
+      "stars": "6,859",
+      "forks": "741",
       "addStars": "3,498",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "A Kernel based root solution for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "20,668",
-      "forks": "5,125",
+      "stars": "20,686",
+      "forks": "5,130",
       "addStars": "1,492",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "YunX云析 ✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "8,270",
-      "forks": "433",
+      "stars": "8,300",
+      "forks": "436",
       "addStars": "3,693",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "A cross-platform music app using YouTube Music for backend",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "13,518",
-      "forks": "792",
+      "stars": "13,531",
+      "forks": "793",
       "addStars": "1,488",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "44,926",
-      "forks": "2,141",
+      "stars": "44,939",
+      "forks": "2,140",
       "addStars": "2,146",
       "contributors": [
         {
@@ -227,8 +227,8 @@
       "description": "Kernel-based Android Root Solution & KPM",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,164",
-      "forks": "1,424",
+      "stars": "7,183",
+      "forks": "1,427",
       "addStars": "658",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "33,923",
-      "forks": "3,692",
+      "stars": "33,947",
+      "forks": "3,699",
       "addStars": "2,422",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "An OSS Android TV client for Jellyfin",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,352",
+      "stars": "3,355",
       "forks": "247",
       "addStars": "297",
       "contributors": [
@@ -328,7 +328,7 @@
       "description": "StreamVault is a TV-first free IPTV player for Android TV built with Kotlin, Jetpack Compose, Room, Hilt, and Media3.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "1,060",
+      "stars": "1,061",
       "forks": "179",
       "addStars": "255",
       "contributors": [
@@ -365,8 +365,8 @@
       "description": "YunX（云析）的官方 windows 桌面端",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "6,549",
-      "forks": "511",
+      "stars": "6,596",
+      "forks": "516",
       "addStars": "5,750",
       "contributors": [
         {
@@ -397,12 +397,49 @@
       ]
     },
     {
+      "title": "kuafuai/andee",
+      "url": "https://github.com/kuafuai/andee",
+      "description": "Andee lives on your phone or Mac and uses any app like you do—no integrations, no root, any model; memory and passwords never leave your device | Andee 住进你的手机或 Mac，像你一样操作任何 App——无需集成、无需 Root、支持任意模型，记忆和密码绝不离开设备。",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": "6,150",
+      "forks": "293",
+      "addStars": "6,329",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9410078?s=40&v=4",
+          "name": "suibber",
+          "url": "https://github.com/suibber"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139328168?s=40&v=4",
+          "name": "booboosui",
+          "url": "https://github.com/booboosui"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/297099045?s=40&v=4",
+          "name": "lirongkuafuai",
+          "url": "https://github.com/lirongkuafuai"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/232490542?s=40&v=4",
+          "name": "harry03612",
+          "url": "https://github.com/harry03612"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
       "title": "pass-with-high-score/blockads-android",
       "url": "https://github.com/pass-with-high-score/blockads-android",
       "description": "Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "2,746",
+      "stars": "2,751",
       "forks": "172",
       "addStars": "572",
       "contributors": [
@@ -429,7 +466,7 @@
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "3,403",
+      "stars": "3,410",
       "forks": "337",
       "addStars": "565",
       "contributors": [
@@ -461,8 +498,8 @@
       "description": "使用 Material Design 3 全新设计的阅读 3.0",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": "7,060",
-      "forks": "824",
+      "stars": "7,066",
+      "forks": "825",
       "addStars": "604",
       "contributors": [
         {
