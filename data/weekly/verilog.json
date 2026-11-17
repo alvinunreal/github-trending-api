@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Weekly Trending",
   "description": "Weekly Trending of Verilog Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 07:11:54 GMT",
+  "pubDate": "Tue, 17 Nov 2026 13:08:21 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project/OpenROAD",
@@ -10,8 +10,8 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "3,296",
-      "forks": "1,092",
+      "stars": "3,297",
+      "forks": "1,093",
       "addStars": "20",
       "contributors": [
         {
@@ -47,7 +47,7 @@
       "description": "",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": "2,409",
+      "stars": "2,410",
       "forks": "582",
       "addStars": "18",
       "contributors": [
@@ -75,6 +75,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/33282538?s=40&v=4",
           "name": "EricSongXinLe",
           "url": "https://github.com/EricSongXinLe"
+        }
+      ]
+    },
+    {
+      "title": "The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "811",
+      "forks": "559",
+      "addStars": "11",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/761514?s=40&v=4",
+          "name": "maliberty",
+          "url": "https://github.com/maliberty"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/9001905?s=40&v=4",
+          "name": "vvbandeira",
+          "url": "https://github.com/vvbandeira"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2798822?s=40&v=4",
+          "name": "oharboe",
+          "url": "https://github.com/oharboe"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/43450810?s=40&v=4",
+          "name": "eder-matheus",
+          "url": "https://github.com/eder-matheus"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/71403620?s=40&v=4",
+          "name": "ravi-varadarajan",
+          "url": "https://github.com/ravi-varadarajan"
         }
       ]
     },
@@ -112,6 +149,43 @@
           "avatar": "https://avatars.githubusercontent.com/u/2194902?s=40&v=4",
           "name": "olofk",
           "url": "https://github.com/olofk"
+        }
+      ]
+    },
+    {
+      "title": "TinyTapeout/ttsky-verilog-template",
+      "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
+      "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": "69",
+      "forks": "538",
+      "addStars": "2",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/892318?s=40&v=4",
+          "name": "urish",
+          "url": "https://github.com/urish"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/634220?s=40&v=4",
+          "name": "mattvenn",
+          "url": "https://github.com/mattvenn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5834?s=40&v=4",
+          "name": "stevej",
+          "url": "https://github.com/stevej"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/862616?s=40&v=4",
+          "name": "tommythorn",
+          "url": "https://github.com/tommythorn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10163935?s=40&v=4",
+          "name": "rishabhrkaushik",
+          "url": "https://github.com/rishabhrkaushik"
         }
       ]
     }
