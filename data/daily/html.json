@@ -2,75 +2,16 @@
   "title": "GitHub Html Languages Daily Trending",
   "description": "Daily Trending of Html Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 07:13:06 GMT",
+  "pubDate": "Wed, 18 Nov 2026 13:07:42 GMT",
   "items": [
-    {
-      "title": "AhmadIbrahiim/Website-downloader",
-      "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "6,189",
-      "forks": "1,423",
-      "addStars": "11",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17949497?s=40&v=4",
-          "name": "AhmadIbrahiim",
-          "url": "https://github.com/AhmadIbrahiim"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/89873236?s=40&v=4",
-          "name": "squishy9876",
-          "url": "https://github.com/squishy9876"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86272315?s=40&v=4",
-          "name": "Gabriel-Dalton",
-          "url": "https://github.com/Gabriel-Dalton"
-        }
-      ]
-    },
-    {
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "68,016",
-      "forks": "4,564",
-      "addStars": "252",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
-          "name": "cathrynlavery",
-          "url": "https://github.com/cathrynlavery"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
-          "name": "rudycelekli",
-          "url": "https://github.com/rudycelekli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
-          "name": "mvanhorn",
-          "url": "https://github.com/mvanhorn"
-        }
-      ]
-    },
     {
       "title": "op7418/guizang-ppt-skill",
       "url": "https://github.com/op7418/guizang-ppt-skill",
       "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "30,017",
-      "forks": "2,067",
+      "stars": "30,040",
+      "forks": "2,068",
       "addStars": "92",
       "contributors": [
         {
@@ -101,24 +42,39 @@
       ]
     },
     {
-      "title": "MengTo/Skills",
-      "url": "https://github.com/MengTo/Skills",
-      "description": "Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents",
+      "title": "Guyungy/damaihelper",
+      "url": "https://github.com/Guyungy/damaihelper",
+      "description": "支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "7,691",
-      "forks": "884",
-      "addStars": "24",
+      "stars": "4,552",
+      "forks": "715",
+      "addStars": "49",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/1065452?s=40&v=4",
-          "name": "MengTo",
-          "url": "https://github.com/MengTo"
+          "avatar": "https://avatars.githubusercontent.com/u/28805930?s=40&v=4",
+          "name": "Guyungy",
+          "url": "https://github.com/Guyungy"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6783443?s=40&v=4",
+          "name": "zhuangyvbin",
+          "url": "https://github.com/zhuangyvbin"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
+          "name": "Dessalines39394",
+          "url": "https://github.com/Dessalines39394"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/252842230?s=40&v=4",
+          "name": "lyt72440-collab",
+          "url": "https://github.com/lyt72440-collab"
         }
       ]
     },
@@ -128,7 +84,7 @@
       "description": "Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "4,243",
+      "stars": "4,248",
       "forks": "295",
       "addStars": "41",
       "contributors": [
@@ -160,40 +116,13 @@
       ]
     },
     {
-      "title": "aoaostar/legado",
-      "url": "https://github.com/aoaostar/legado",
-      "description": "阅读APP书源",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "7,468",
-      "forks": "325",
-      "addStars": "34",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/86001674?s=40&v=4",
-          "name": "aoaostar",
-          "url": "https://github.com/aoaostar"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6436073?s=40&v=4",
-          "name": "j4Uq",
-          "url": "https://github.com/j4Uq"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/74645100?s=40&v=4",
-          "name": "Crazyokd",
-          "url": "https://github.com/Crazyokd"
-        }
-      ]
-    },
-    {
       "title": "ossu/computer-science",
       "url": "https://github.com/ossu/computer-science",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "211,252",
-      "forks": "26,158",
+      "stars": "211,265",
+      "forks": "26,159",
       "addStars": "69",
       "contributors": [
         {
@@ -224,56 +153,24 @@
       ]
     },
     {
-      "title": "PKUFlyingPig/cs-self-learning",
-      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
-      "description": "计算机自学指南",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "76,781",
-      "forks": "8,038",
-      "addStars": "24",
+      "stars": "68,109",
+      "forks": "4,572",
+      "addStars": "252",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/60659728?s=40&v=4",
-          "name": "PKUFlyingPig",
-          "url": "https://github.com/PKUFlyingPig"
+          "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
+          "name": "cathrynlavery",
+          "url": "https://github.com/cathrynlavery"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/15178800?s=40&v=4",
-          "name": "smxm",
-          "url": "https://github.com/smxm"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/40034814?s=40&v=4",
-          "name": "BarbarossaWang",
-          "url": "https://github.com/BarbarossaWang"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/50735120?s=40&v=4",
-          "name": "liudeyuan2021",
-          "url": "https://github.com/liudeyuan2021"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/53425593?s=40&v=4",
-          "name": "taylover2016",
-          "url": "https://github.com/taylover2016"
-        }
-      ]
-    },
-    {
-      "title": "Guyungy/damaihelper",
-      "url": "https://github.com/Guyungy/damaihelper",
-      "description": "支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": "4,550",
-      "forks": "713",
-      "addStars": "49",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/28805930?s=40&v=4",
-          "name": "Guyungy",
-          "url": "https://github.com/Guyungy"
+          "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
+          "name": "rudycelekli",
+          "url": "https://github.com/rudycelekli"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -281,19 +178,78 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6783443?s=40&v=4",
-          "name": "zhuangyvbin",
-          "url": "https://github.com/zhuangyvbin"
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
+        }
+      ]
+    },
+    {
+      "title": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "41,246",
+      "forks": "5,515",
+      "addStars": "10",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/57667706?s=40&v=4",
+          "name": "johnsoncherian",
+          "url": "https://github.com/johnsoncherian"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/245616256?s=40&v=4",
-          "name": "Dessalines39394",
-          "url": "https://github.com/Dessalines39394"
+          "avatar": "https://avatars.githubusercontent.com/u/44204658?s=40&v=4",
+          "name": "adishM98",
+          "url": "https://github.com/adishM98"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/252842230?s=40&v=4",
-          "name": "lyt72440-collab",
-          "url": "https://github.com/lyt72440-collab"
+          "avatar": "https://avatars.githubusercontent.com/u/7828962?s=40&v=4",
+          "name": "Navaneeth-pk",
+          "url": "https://github.com/Navaneeth-pk"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/3417097?s=40&v=4",
+          "name": "gsmithun4",
+          "url": "https://github.com/gsmithun4"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11629675?s=40&v=4",
+          "name": "akshaysasidrn",
+          "url": "https://github.com/akshaysasidrn"
+        }
+      ]
+    },
+    {
+      "title": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": "69,196",
+      "forks": "6,881",
+      "addStars": "55",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11731897?s=40&v=4",
+          "name": "shanraisshan",
+          "url": "https://github.com/shanraisshan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/1303131?s=40&v=4",
+          "name": "neutmute",
+          "url": "https://github.com/neutmute"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/192189596?s=40&v=4",
+          "name": "shayangd",
+          "url": "https://github.com/shayangd"
         }
       ]
     },
@@ -303,8 +259,8 @@
       "description": "AI Agent 学习路线与资料库收集",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "9,456",
-      "forks": "946",
+      "stars": "9,464",
+      "forks": "947",
       "addStars": "18",
       "contributors": [
         {
