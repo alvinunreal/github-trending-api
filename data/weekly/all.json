@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 01:06:54 GMT",
+  "pubDate": "Wed, 18 Nov 2026 07:13:06 GMT",
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
@@ -10,8 +10,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,455",
-      "forks": "725",
+      "stars": "8,558",
+      "forks": "731",
       "addStars": "7,015",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,069",
-      "forks": "1,313",
+      "stars": "13,180",
+      "forks": "1,320",
       "addStars": "2,926",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,158",
-      "forks": "2,354",
+      "stars": "30,300",
+      "forks": "2,366",
       "addStars": "8,700",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,272",
-      "forks": "1,416",
+      "stars": "16,326",
+      "forks": "1,423",
       "addStars": "4,786",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,084",
-      "forks": "57,781",
+      "stars": "73,176",
+      "forks": "57,823",
       "addStars": "3,653",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "196,737",
-      "forks": "23,063",
+      "stars": "196,890",
+      "forks": "23,074",
       "addStars": "4,847",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,309",
-      "forks": "1,358",
+      "stars": "9,886",
+      "forks": "1,399",
       "addStars": "2,508",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,732",
-      "forks": "4,430",
+      "stars": "53,951",
+      "forks": "4,449",
       "addStars": "3,675",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,376",
-      "forks": "3,663",
+      "stars": "52,461",
+      "forks": "3,669",
       "addStars": "3,429",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,035",
-      "forks": "4,869",
+      "stars": "58,111",
+      "forks": "4,874",
       "addStars": "2,948",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,865",
-      "forks": "1,409",
+      "stars": "6,937",
+      "forks": "1,415",
       "addStars": "2,985",
       "contributors": [
         {
@@ -382,8 +382,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,108",
-      "forks": "1,328",
+      "stars": "10,209",
+      "forks": "1,335",
       "addStars": "1,197",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,959",
-      "forks": "1,094",
+      "stars": "14,012",
+      "forks": "1,095",
       "addStars": "2,531",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "118,664",
-      "forks": "12,377",
+      "stars": "118,734",
+      "forks": "12,378",
       "addStars": "3,884",
       "contributors": [
         {
