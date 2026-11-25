@@ -3,7 +3,7 @@
     <title>GitHub Hcl Languages Monthly Trending</title>
     <link>https://github.com/isboyjc/github-trending-api</link>
     <description>Monthly Trending of Hcl Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 13:08:10 GMT</pubDate>
+    <pubDate>Wed, 25 Nov 2026 19:08:37 GMT</pubDate>
     <item>
       <title>terraform-aws-modules/terraform-aws-eks</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
@@ -12,7 +12,7 @@
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
       <stars>5,015</stars>
-      <forks>4,412</forks>
+      <forks>4,413</forks>
       <addStars>7</addStars>
       <contributors>
         <contributor>
@@ -49,7 +49,7 @@
       <guid>https://github.com/semgrep/semgrep-rules</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>1,308</stars>
+      <stars>1,309</stars>
       <forks>633</forks>
       <addStars>30</addStars>
       <contributors>
@@ -190,44 +190,6 @@
       </contributors>
     </item>
     <item>
-      <title>terraform-aws-modules/terraform-aws-lambda</title>
-      <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-      <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-      <guid>https://github.com/terraform-aws-modules/terraform-aws-lambda</guid>
-      <language>HCL</language>
-      <languageColor>#844FBA</languageColor>
-      <stars>1,044</stars>
-      <forks>784</forks>
-      <addStars>4</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/393243?s=40&amp;v=4</avatar>
-          <name>antonbabenko</name>
-          <url>https://github.com/antonbabenko</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/32174276?s=40&amp;v=4</avatar>
-          <name>semantic-release-bot</name>
-          <url>https://github.com/semantic-release-bot</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14666676?s=40&amp;v=4</avatar>
-          <name>ahlinc</name>
-          <url>https://github.com/ahlinc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10913471?s=40&amp;v=4</avatar>
-          <name>bryantbiggs</name>
-          <url>https://github.com/bryantbiggs</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/318490?s=40&amp;v=4</avatar>
-          <name>pdecat</name>
-          <url>https://github.com/pdecat</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>terraform-aws-modules/terraform-aws-eks-pod-identity</title>
       <link>https://github.com/terraform-aws-modules/terraform-aws-eks-pod-identity</link>
       <description>Terraform module to create AWS EKS Pod Identity resources 🇺🇦</description>
@@ -272,7 +234,7 @@
       <guid>https://github.com/hashicorp/agent-skills</guid>
       <language>HCL</language>
       <languageColor>#844FBA</languageColor>
-      <stars>940</stars>
+      <stars>941</stars>
       <forks>137</forks>
       <addStars>34</addStars>
       <contributors>
